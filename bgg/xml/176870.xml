@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="176870">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nZJZNk-cJRkKWNT8wIzsjMmh7_0=/fit-in/200x150/pic3269336.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/d3aFXGtcPre1wGZFzcpPiHGws7I=/0x0/pic3269336.jpg</image>
+    <name type="primary" sortindex="1" value="Iron Guards: Battle of Shanghai"/>
+    <name type="alternate" sortindex="1" value="鐵衛禁軍：抗戰之淞滬會戰"/>
+    <description>&amp;#233;&amp;#144;&amp;#181;&amp;#232;&amp;#161;&amp;#155;&amp;#231;&amp;#166;&amp;#129;&amp;#232;&amp;#187;&amp;#141;&amp;#239;&amp;#188;&amp;#154;&amp;#230;&amp;#138;&amp;#151;&amp;#230;&amp;#136;&amp;#176;&amp;#228;&amp;#185;&amp;#139;&amp;#230;&amp;#183;&amp;#158;&amp;#230;&amp;#187;&amp;#172;&amp;#230;&amp;#156;&amp;#131;&amp;#230;&amp;#136;&amp;#176; (&amp;quot;Iron Guards: Battle of Shanghai&amp;quot;)is a two-player board wargame that simulates the battle of Shanghai and defense of Nanking, Aug. 13 to Dec. 13, 1937.&amp;#10;&amp;#10;Each turn represents 1 week and each hex is about 10-12 km across. One player commands the Imperial Japanese Army &amp;#239;&amp;#188;&amp;#136;&amp;#229;&amp;#164;&amp;#167;&amp;#230;&amp;#151;&amp;#165;&amp;#230;&amp;#156;&amp;#172;&amp;#229;&amp;#184;&amp;#157;&amp;#229;&amp;#156;&amp;#139;&amp;#233;&amp;#153;&amp;#184;&amp;#232;&amp;#187;&amp;#141;&amp;#239;&amp;#188;&amp;#137; and the other player commands the National Revolutionary Army &amp;#239;&amp;#188;&amp;#136;&amp;#229;&amp;#156;&amp;#139;&amp;#230;&amp;#176;&amp;#145;&amp;#233;&amp;#157;&amp;#169;&amp;#229;&amp;#145;&amp;#189;&amp;#232;&amp;#187;&amp;#141;&amp;#239;&amp;#188;&amp;#137;.&amp;#10;&amp;#10;In Iron Guards, each player uses operation points to activate Army HQ to lead combat units to move, barrage, combat. In each turn, each player draws tactic markers respectively and roll for initiative. The units include infantry, artillery, cavalry, and tank, etc. The NRA side needs to defense Shanghai and Nanking in different scenarios to win the game.&amp;#10;&amp;#10;The components includes one 22*34 inches map and 240 5/9 inch die-cut counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="480"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="480"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5780" value="Magazine: Board wargame"/>
+    <link type="boardgameexpansion" id="182300" value="Operation Iron Fist"/>
+    <link type="boardgamedesigner" id="22269" value="Wei-Cheng Cheng"/>
+    <link type="boardgamedesigner" id="82060" value="Dan-Yi Xiang"/>
+    <link type="boardgameartist" id="22269" value="Wei-Cheng Cheng"/>
+    <link type="boardgamepublisher" id="10325" value="Formosa Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="7.36364"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29844"/>
+        <median value="0"/>
+        <owned value="42"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="8"/>
+        <numcomments value="4"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

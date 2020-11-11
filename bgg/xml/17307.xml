@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17307">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/EN_bwQUWMAOE2rz6bg9Mufh9AEY=/fit-in/200x150/pic74133.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/maetWbPuT_xZjx1CUV8Gkg6i1qg=/0x0/pic74133.jpg</image>
+    <name type="primary" sortindex="1" value="Combined Fleet"/>
+    <name type="alternate" sortindex="1" value="連合艦隊"/>
+    <description>This is the first game of Bandai if Series.&amp;#10;&amp;#10;It is rumored that this is the best selling &amp;quot;wargame&amp;quot; in Japan ever!&amp;#10;In fact, this is a family game with wargame design technique.&amp;#10;You have ZOC with battleship counter and retreat into EZOC means ELIMINATION!&amp;#10;Combat is resolved by playing cards.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1981"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="24940" value="Bandai if Series"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="934" value="Bandai"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="5.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.24722"/>
+        <median value="0"/>
+        <owned value="7"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="2"/>
+        <numcomments value="1"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

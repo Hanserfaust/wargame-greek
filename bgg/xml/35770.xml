@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="35770">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZL1LBHTOXhI5iibKfLIc9P3McJ8=/fit-in/200x150/pic324646.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/e0BMVd1Gzerel60a7-0FuZhJFvc=/0x0/pic324646.jpg</image>
+    <name type="primary" sortindex="1" value="Red Christmas: Moscow Counteroffensive"/>
+    <description>Red Christmas-the CSIR and the Moscow Counteroffensive, December 22-30, 1941, brings the ASL enthusiast directly into the path of a combined-arms Red Army assault.  Mixed German and Italian forces try and stave off disaster on the Eastern Front in a series of pitched battles depicted in the module's scenarios.&amp;#10;&amp;#10;Historical battlefield maps are what CH is all about and Red Christmas continues that tradition with two new historical maps depicting the villages of Orlovo Ivanovka and Novo Orlovka, situated directly in the path of Stalin's Moscow counteroffensive.&amp;#10;&amp;#10;This is not a complete game! Ownership of Beyond Valor is required to use this product.  Ownership of Hollow Legions is NOT required.  Variant 'Berlin Style' MMC, SMC, SW, and needed Guns are provided for Italian combatants.&amp;#10;&amp;#10;Contents: 6 scenarios, 2 historical maps, variant special rules, and die cut color counters.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Advanced Squad Leader&amp;#10;    Beyond Valor: ASL Module 1&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgamefamily" id="18618" value="Cities: Moscow"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="5287" value="Beyond Valor: ASL Module 1" inbound="true"/>
+    <link type="boardgamedesigner" id="7951" value="Andrea Garello"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.63936"/>
+        <median value="0"/>
+        <owned value="54"/>
+        <trading value="1"/>
+        <wanting value="3"/>
+        <wishing value="8"/>
+        <numcomments value="10"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

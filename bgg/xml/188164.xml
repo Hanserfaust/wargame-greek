@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="188164">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/gIsQDqRWFZMWj7RFBHBxBiJBzvs=/fit-in/200x150/pic4683595.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gbyf_mxhZS7AOUEeh4eNzSDCCik=/0x0/pic4683595.png</image>
+    <name type="primary" sortindex="1" value="B-17 Flying Fortress Leader"/>
+    <description>B-17 Flying Fortress Leader is a WWII strategic bombing solitaire game that takes place in the European Theater of Operations (ETO).&amp;#10;&amp;#10;In B-17 Leader, you are in command of the Eighth Air Force stationed in England, charged with reducing Germany's ability to wage war.  Your primary mission is to destroy the Luftwaffe to ensure a successful D-Day landing, but multiple secondary missions are also required to help advance the fronts in multiple theaters.&amp;#10;&amp;#10;You will have multiple historic Bomber Groups composed of B-17 Flying Fortresses, B-24 Liberators, and B-26 Marauders.  Optional B-29 Superfortress and B-25 Mitchell Bomber Groups are included.  Your Bomber Groups will be protected on their journey in Luftwaffe controlled airspace by Fighter Groups composed of MK VII Spitfires, P-47 Thunderbolts, P-38 Lightnings, and P-51 Mustangs.   Your groups can progress in experience levels from Newbie to Ace, but may be Reassigned as they gain experience.  Optional Renown Commanders provide groups with special skills and tactics, but could be killed during the Campaign.&amp;#10;&amp;#10;The campaigns included in B-17 Leader include:&amp;#10;  &amp;bull; The Air War Begins (Aug 1942 &amp;ndash; Dec 1942)&amp;#10;  &amp;bull; Operation Pointblank (June 1943 &amp;ndash; May 1944)&amp;#10;  &amp;bull; Combined Bomber Operations (June 1943 &amp;ndash; Sept 1943)&amp;#10;  &amp;bull; Allied Invasion (June 1944 &amp;ndash; May 1945)&amp;#10;  &amp;bull; Oil Campaign (Aug 1944 &amp;ndash; Nov 1944)&amp;#10;  &amp;bull; Operation Argument &amp;ndash; Big Week (Feb 20 &amp;ndash; 25 1944)&amp;#10;  &amp;bull; Operation Crossbow (Mar 1943 &amp;ndash; May 1943)&amp;#10;  &amp;bull; Transportation (Apr 1944 &amp;ndash; Aug 1944)&amp;#10;  &amp;bull; Strategic Targets (Jun 1943 - Aug 1943)&amp;#10;  &amp;bull; U-Boat Focus (Aug 1942)&amp;#10;  &amp;bull; Aircraft Industry Focus (Aug 1943)&amp;#10;&amp;#10;You will be targeting many different types of targets, including Airfields, Aircraft Factories, U-Boat Pens, Ball Bearing Factories, Oil Refineries, and V-Weapon sites.  Recon Aircraft can be sent to improve your aim point and allow you to pick the optimal path to reduce Flak damage.&amp;#10;&amp;#10;Opposing you will be Luftwaffe Squadrons, generated from multiple Aircraft Factories, that will intercept your Escorts and Bombers to and from the targets.  Luftwaffe Squadron Bandits can be BF-109s, FW-190s, BF-110s, and/or ME-410s.  Targeting their Aircraft Factories will reduce the number of new Luftwaffe Squadrons deployed each month, but destroyed factories are quickly rebuilt, and new Aircraft Factories are periodically being added.  Attacking and destroying Airfields helps reduce the number of deployed Luftwaffe Squadrons.  Victory Points are earned for each destroyed Target.&amp;#10;&amp;#10;Various German Defense Commanders will try different tactics and technologies in an effort to stop your campaign.  Each German commander will also have a varying range of Luftwaffe responses to your attack, from Poor to All Out.&amp;#10;&amp;#10;To help mitigate the Luftwaffe threat, you can accomplish Secondary Mission objectives that can advance the Mediterranean and Russian fronts to force Germany to send more Luftwaffe Squadrons into those theaters.  You can also purchase various technologies to increase the odds of a successful mission, like Drop Tanks, Jammers, and H2X Radar sets.  An option to invest and field the P-80 Shooting Star jet fighter is included.    Once the Allied Invasion has begun, many Secondary Missions will help advance the Allies to Berlin to end the war.&amp;#10;&amp;#10;Your Bombers will take damage and be destroyed, but monthly Replenishment units will help bring your groups up in strength.&amp;#10;&amp;#10;If you have played other Leader Games, many aspects of B-17 Leader will be familiar.  But due to the Strategic nature of your bombing campaign, new gameplay aspects are introduced.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+      <results numplayers="1">
+        <result value="Best" numvotes="10"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="10"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="3268" value="Leader Series"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="86987" value="Dean Brown"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="230"/>
+        <average value="8.09478"/>
+        <bayesaverage value="5.82718"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3146" bayesaverage="5.82718"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="276" bayesaverage="6.70784"/>
+        </ranks>
+        <stddev value="1.37375"/>
+        <median value="0"/>
+        <owned value="815"/>
+        <trading value="16"/>
+        <wanting value="76"/>
+        <wishing value="272"/>
+        <numcomments value="96"/>
+        <numweights value="14"/>
+        <averageweight value="3.2143"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10162">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZlWbWzKpPjpU5TMJBB9obTDwv-w=/fit-in/200x150/pic1515923.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fnC29dCZsAlWkv4_jKfklgPoXOE=/0x0/pic1515923.jpg</image>
+    <name type="primary" sortindex="1" value="Operation Iraqi Freedom"/>
+    <description>A game associated with the March 2004 issue of &amp;quot;Armchair General.&amp;quot;  A small game, with an 8 1/2 x 11 inch map and 110 counters.  Features random event chits.  Rules for solitaire and two-player play; in the solitaire game the player represents the Coalition forces.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10627" value="Country: Iraq"/>
+    <link type="boardgamedesigner" id="2343" value="Mark H. Walker"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="2247" value="Armchair General magazine"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="21"/>
+        <average value="5.99048"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.44483"/>
+        <median value="0"/>
+        <owned value="84"/>
+        <trading value="1"/>
+        <wanting value="4"/>
+        <wishing value="14"/>
+        <numcomments value="25"/>
+        <numweights value="4"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

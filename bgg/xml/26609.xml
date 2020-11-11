@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="26609">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sZOqDlFKjDJd2XOEwvDVK1stYN8=/fit-in/200x150/pic162502.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BodZ82A9JBzGTSFWvbXdDc5dmzU=/0x0/pic162502.jpg</image>
+    <name type="primary" sortindex="1" value="Fear God and Dread Nought Player's Handbook"/>
+    <description>This is the player's handbook for the Clash of Arms Game Fear God and Dread Nought&amp;#10;It covers in an extensive way all the tables and diagrams used for the game. A must have for umpires and players, as allows to speed the game.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Fear God and Dread Nought&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="9044" value="The First World War at Sea"/>
+    <link type="boardgameexpansion" id="6540" value="Fear God and Dread Nought" inbound="true"/>
+    <link type="boardgamedesigner" id="2185" value="Larry Bond"/>
+    <link type="boardgamedesigner" id="3667" value="Chris Carlson"/>
+    <link type="boardgamedesigner" id="3133" value="Ed Kettler"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="7.8"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.748331"/>
+        <median value="0"/>
+        <owned value="47"/>
+        <trading value="4"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="4"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="7167">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/e59ImP8BSBIQpf641wnWCEoY-Tc=/fit-in/200x150/pic2077511.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ytDhlP_YV5x4oJdggs-QVF9fs1w=/0x0/pic2077511.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Grenadier: Edelweiss"/>
+    <description>From the Avalanche Press website:&amp;#10; German mountain troops fought on every front except North Africa, compiling an impressive war record (and a few war crimes as well). These elite &amp;ldquo;mountaineers of the plains&amp;rdquo; saw action in all sorts of terrain and in all weather.&amp;#10;&amp;#10;Edelweiss is a 64-page book supplement for the Panzer Grenadier series, based on the battles fought by German regular army and Waffen SS mountain troops. It is not a complete game: playing pieces and maps are drawn from the following Panzer Grenadier games and supplements: Elsenborn Ridge, 1940 - The Fall of France, Arctic Front, Road to Berlin, Battle of the Bulge, Sinister Forces, Eastern Front, Afrika Korps and Desert Rats. There are 41 (forty-one!) scenarios, each based on an actual battle or situation, plus historical background on the German mountain divisions and their exploits.&amp;#10;&amp;#10;Edelweiss includes 161 laser-cut and mounted playing pieces: 157 of them the standard 2/3-inch square pieces of the Panzer Grenadier series, and four of them double-sized monsters. Two are Soviet river monitors, and there are two versions of the giant motorized mortar &amp;quot;Karl.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="123" value="Panzer Grenadier"/>
+    <link type="boardgameexpansion" id="37383" value="Panzer Grenadier: 1940 – The Fall of France" inbound="true"/>
+    <link type="boardgameexpansion" id="7089" value="Panzer Grenadier: Afrika Korps" inbound="true"/>
+    <link type="boardgameexpansion" id="24321" value="Panzer Grenadier: Airborne (Introductory Edition)" inbound="true"/>
+    <link type="boardgameexpansion" id="35609" value="Panzer Grenadier: Arctic Front Deluxe Edition" inbound="true"/>
+    <link type="boardgameexpansion" id="7176" value="Panzer Grenadier: Battle of the Bulge" inbound="true"/>
+    <link type="boardgameexpansion" id="10668" value="Panzer Grenadier: Desert Rats" inbound="true"/>
+    <link type="boardgameexpansion" id="16804" value="Panzer Grenadier: Eastern Front" inbound="true"/>
+    <link type="boardgameexpansion" id="33785" value="Panzer Grenadier: Elsenborn Ridge" inbound="true"/>
+    <link type="boardgameexpansion" id="16805" value="Panzer Grenadier: Road to Berlin" inbound="true"/>
+    <link type="boardgameexpansion" id="21626" value="Panzer Grenadier: Sinister Forces" inbound="true"/>
+    <link type="boardgameexpansion" id="2881" value="Panzer Grenadier: The East Front" inbound="true"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="53"/>
+        <average value="6.70792"/>
+        <bayesaverage value="5.54709"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54709"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.80546"/>
+        </ranks>
+        <stddev value="1.7923"/>
+        <median value="0"/>
+        <owned value="245"/>
+        <trading value="8"/>
+        <wanting value="5"/>
+        <wishing value="10"/>
+        <numcomments value="28"/>
+        <numweights value="16"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

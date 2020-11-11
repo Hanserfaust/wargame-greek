@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="19907">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/8VNzk8rm2wNYI9n12UVghkMgGQ4=/fit-in/200x150/pic1514254.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3dMexrzS1T2LIxIWnpPVHTAeUUE=/0x0/pic1514254.jpg</image>
+    <name type="primary" sortindex="1" value="Nuclear Destruction"/>
+    <name type="alternate" sortindex="1" value="Negotiate or Die!: The Home Game of Nuclear Destruction"/>
+    <description>A number of major (player) countries and minor (non-player) countries fight it out to the death. In order to win, a player must destroy all opposing populations while retaining at least 1 million in population.&amp;#10;&amp;#10;Originally designed as a play-by-mail game, this version came packed with turn build sheets, missile and factory counters, and money.&amp;#10;&amp;#10;Also sold at some point as Negotiate or Die!&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="3"/>
+    <maxplayers value="9"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="9">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="9+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="756" value="Rick Loomis"/>
+    <link type="boardgamepublisher" id="191" value="Flying Buffalo, Inc. (FBI)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.16025"/>
+        <median value="0"/>
+        <owned value="30"/>
+        <trading value="4"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="9"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

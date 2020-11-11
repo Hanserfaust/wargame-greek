@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="4350">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/GZE3JeSjG6ixxa_3fGIZhHNxKzY=/fit-in/200x150/pic4741836.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hiOrzJWZj8Bg_2zdB8luWRPZ1N8=/0x0/pic4741836.jpg</image>
+    <name type="primary" sortindex="1" value="Battlemist: The Sails of War"/>
+    <description>The first expansion for Battlemist includes a large sea map, numerous ship counters, and new record/reference sheets. In addition to the sea area, it adds seafaring, trade, and initiative elements; new twists for the Hero and Quest parts of the game; and a new victory condition (finding and controlling the &amp;quot;Mystical Lands&amp;quot;).&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Battlemist&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1020" value="Exploration"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="12210" value="4X games"/>
+    <link type="boardgamefamily" id="5137" value="The Realms of Terrinoth"/>
+    <link type="boardgameexpansion" id="25" value="Battlemist" inbound="true"/>
+    <link type="boardgamedesigner" id="21" value="Christian T. Petersen"/>
+    <link type="boardgamepublisher" id="17" value="Fantasy Flight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="108"/>
+        <average value="6.4"/>
+        <bayesaverage value="5.56389"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56389"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.82357"/>
+        </ranks>
+        <stddev value="1.54967"/>
+        <median value="0"/>
+        <owned value="273"/>
+        <trading value="28"/>
+        <wanting value="7"/>
+        <wishing value="21"/>
+        <numcomments value="47"/>
+        <numweights value="5"/>
+        <averageweight value="2.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

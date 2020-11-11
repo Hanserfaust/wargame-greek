@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="65370">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7ySvRNTShudRDzQQ616hgu-A1b4=/fit-in/200x150/pic648488.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/QVIV_TJqTXadmogoCg78Y2hmn-I=/0x0/pic648488.jpg</image>
+    <name type="primary" sortindex="1" value="Get off the Beach"/>
+    <name type="alternate" sortindex="1" value="World War II -D-Day (1944)"/>
+    <description>A miniatures wargame intended for classroom use with two teams of students (grades 6-8). The game is designed to be played with 1/72 scale miniature figures or paper figures. Free print-and-play paper miniatures are provided for use with the rules.&amp;#10;&amp;#10;&amp;quot;On June 6, 1944, the liberation of France began. Americans, and their allies, launched a massive amphibious assault on the beaches of Normandy. The attack took the Germans by surprise. In some places the Allies faced light resistance. But on Omaha Beach the Americans faced a fearsome German defense consisting of concrete bunkers, mine, barbed wire, machine guns, and artillery.&amp;quot;&amp;#10;&amp;#10;The game is scalable for various sized playing groups. The Germans receive one bunker and the Americans receive three squads for each lengthwise foot of mapsheet depicting the beach. There are no German soldier figures - just American landing craft and soldiers versus German bunkers, artillery, and obstacles.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="11181" value="Matt Fritz"/>
+    <link type="boardgamepublisher" id="8783" value="Junior General"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="3.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.25"/>
+        <median value="0"/>
+        <owned value="2"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

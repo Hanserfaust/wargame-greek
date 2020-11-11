@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7131">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/B-mtuu9v5it2cwFRopdxhfWSnLM=/fit-in/200x150/pic29218.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2TLrq3a_TUNrRN1bMlfRp-jIkHs=/0x0/pic29218.jpg</image>
+    <name type="primary" sortindex="1" value="Napoleon's First Battles"/>
+    <description>Napoleon's First Battles simulates four early battles from the French Republican era, namely, &amp;quot;Montenotte&amp;quot;, &amp;quot;Arcola&amp;quot;, &amp;quot;The Pyramids&amp;quot; and &amp;quot;Marengo&amp;quot;.&amp;#10;&amp;#10;There are a basic and an advanced game. The wargame utilises the standard CRT (Assault Combat Result Table) which includes disruption. An elan rating is included to show the capability of a unit to close with the enemy in battle.&amp;#10;&amp;#10;A separate artillery bombardment table is utilized to show the effects of artillery.&amp;#10;&amp;#10;Contents:&amp;#10;1 standard rules booklet&amp;#10;400 double sided die counters&amp;#10;2 17&amp;quot;x22&amp;quot; maps&amp;#10;1 six sided die&amp;#10;&amp;#10;Playing Time = 1 to 2 hours&amp;#10;Complexity = Low&amp;#10;Solitaire Suitability = High&amp;#10;&amp;#10;</description>
+    <yearpublished value="1993"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="13526" value="Doug Chaffee"/>
+    <link type="boardgameartist" id="27107" value="Joy Cohn"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="60"/>
+        <average value="5.7825"/>
+        <bayesaverage value="5.50885"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13455" bayesaverage="5.50885"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2599" bayesaverage="5.55528"/>
+        </ranks>
+        <stddev value="1.46739"/>
+        <median value="0"/>
+        <owned value="255"/>
+        <trading value="20"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="47"/>
+        <numweights value="11"/>
+        <averageweight value="2.2727"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

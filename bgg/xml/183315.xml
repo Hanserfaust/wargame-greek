@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="183315">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/QRphH-r4nPLHbZHWaC1YHXMIslY=/fit-in/200x150/pic2775408.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/N5IkaN6Aa59E-lKgSKd_Gqtpk1M=/0x0/pic2775408.jpg</image>
+    <name type="primary" sortindex="1" value="Tetrarchia"/>
+    <description>By the end of the III century the Roman Empire is doomed. Enemies surround the borders, instability spreads over the provinces, and whenever a Roman Emperor has the courage and ability to fight a threat, usurpers take his place in Rome and increase the chaos. The Emperor Diocletian only sees one, revolutionary way out: share the power with some trusted colleagues. In a few years he creates an Imperial College together with Maximian, Constantius and Galerius, forming the first 'Tetrarchy'. Now their enemies are doomed...&amp;#10;&amp;#10;TETRARCHIA (Latin of Tetrarchy, &amp;quot;leadership of four&amp;quot;) is a cooperative game in which 1 to 4 players take the role of the 4 Emperors, fighting the revolts within the Empire and the Barbarian armies that try to bring it down. With simple rules, the core engine leads to very different games and many interesting choices:&amp;#10;&amp;#10;- Up to 81 difficulty challenges.&amp;#10;- That you can combine with up to 5 variants (including special powers and a competitive mode).&amp;#10;- That you can combine with up to 3 expansion modules (from Tetrarchia: Dux).&amp;#10;- Plus 4 historical scenarios since July 2017 (for earlier copies you can download them here).&amp;#10;&amp;#10;The flow of each Emperor's turn is very simple: spend up to 6 'Imperivm Points' (IP), and then propagate threats with the roll of two dice. The Emperors can spend their IP in: Move to a linked province, order a Roman fleet to Sail to an adjacent sea zone, Secure the province by placing one of their tokens, Subdue the province by removing the Unrest/Revolt token, or Attack a Barbarian army in a linked province. The players win if they secure the borders of the Empire before the majority of provinces revolt or Rome falls.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="40"/>
+    <minplaytime value="20"/>
+    <maxplaytime value="40"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="2"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="10" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="18647" value="Cities: Milan"/>
+    <link type="boardgamefamily" id="27436" value="Cities: Trier"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgameexpansion" id="208704" value="Tetrarchia: Dux"/>
+    <link type="boardgamedesigner" id="51899" value="Miguel Marqués"/>
+    <link type="boardgameartist" id="51899" value="Miguel Marqués"/>
+    <link type="boardgamepublisher" id="10094" value="nestorgames"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="75"/>
+        <average value="7.45062"/>
+        <bayesaverage value="5.60265"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6414" bayesaverage="5.60265"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1581" bayesaverage="5.84949"/>
+        </ranks>
+        <stddev value="0.961206"/>
+        <median value="0"/>
+        <owned value="116"/>
+        <trading value="0"/>
+        <wanting value="70"/>
+        <wishing value="206"/>
+        <numcomments value="38"/>
+        <numweights value="5"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

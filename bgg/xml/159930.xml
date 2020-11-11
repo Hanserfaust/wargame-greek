@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="159930">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/2z00f9nHibn4HbC9ZzVEHC2qnp0=/fit-in/200x150/pic2032105.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lnybox31oOYDemRvKzEQM6hhrX8=/0x0/pic2032105.jpg</image>
+    <name type="primary" sortindex="1" value="Primosole Bridge: 14-17th July 1943"/>
+    <name type="alternate" sortindex="1" value="Most Primosole: 14 – 17 lipca 1943"/>
+    <description>Great Battles of Small Units&amp;#10;&amp;#10;The system is representing military actions of small units, like a regiment or a brigade. Very frequently such  actions  in which relatively small  units  fought  on  both sides were important because of operational or moral context. Thanks to versatile rules it is possible to depict any military action from XX century.&amp;#10;&amp;#10;Primosole Bridge is a wargame that uses the Great Battles of Small Units ruleset. Battle for Primosole Bridge was divided into two scenarios. In first, British paratroopers have to defend the bridge from the counterattacking German units. At the very beginning, staying true to problems that landing Allied units faced, players have to resolve what forces are available to Aliied side. In game there are units, that historically didn`t reach the battlefield. It is possible therefore to examine the possible outcome if air drop would have been more successful. In second scenario the British are a stronger side. Yet it doesn`t mean easy victory for them. First, they have not only to occupy the bridge but also the road leading to Catania. Germans occupy favorable terrain and their defense line is well prepared. Germans can also attempt to destroy the bridge and stop the attackers.&amp;#10;&amp;#10;Game has tried-and-true hex and counter mechanic but with an added twist: random element is handled in this game by a deck of regular cards (which players have to supply themselves) - like combat and random events.&amp;#10;&amp;#10;Game also has also ruleset that is relatively easy to grasp. It can therefore serve as an introduction to the board wargaming hobby&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="44392" value="Strategemata Great battles of the small units series"/>
+    <link type="boardgamedesigner" id="35698" value="Adam Niechwiej"/>
+    <link type="boardgamepublisher" id="11687" value="Strategemata"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.64286"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.94044"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="0"/>
+        <wanting value="4"/>
+        <wishing value="6"/>
+        <numcomments value="2"/>
+        <numweights value="3"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

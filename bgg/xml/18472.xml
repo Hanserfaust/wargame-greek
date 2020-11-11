@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18472">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Sm8CzV7yfUfP7ar0UhjTrFYvc5A=/fit-in/200x150/pic82112.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/TlSa7tdLBw4PfbEf0luWdYK7PQo=/0x0/pic82112.jpg</image>
+    <name type="primary" sortindex="5" value="The Complete Wargames Handbook"/>
+    <name type="alternate" sortindex="5" value="The Complete Wargames Handbook"/>
+    <name type="alternate" sortindex="5" value="The Complete Wargames Handbook, Revised Edition"/>
+    <name type="alternate" sortindex="1" value="Wargames Handbook, Third Edition"/>
+    <description>From the introduction:&amp;#10;&amp;#10;&amp;quot;Wargaming has had a remarkable four decades. Commercial wargames first appeared in the late 1950s, although commercial miniatures and naval gaming date back to the end of the 19th century. Board wargaming had something of a golden age in the 1970s, before being replaced by fantasy role playing games (RPGs) and computer games in the 1980s. In the 1990s computer wargames were covered in glitz, simplified and made into a mass market product. Many of the 70s era grognards don't recognize these games as wargames, but they are. And simple, glitzy wargames are the future. Not entirely, of course, there is also developing a via web based market for lower budget, but more accurate and detailed historical wargames. We'll never get back to the 70s, but with wargames established as a permanent part of the commercial gaming landscape, we can expect an unending stream of new and innovative ideas.&amp;quot;&amp;#10;&amp;#10;The first edition was published in 1980 by William Morrow.  The second edition was published in 1992, also by William Morrow (under various imprints, it appears).  &amp;#10;The third edition (titled just &amp;quot;Wargames Handbook&amp;quot;) was published in 2000 by iUniverse.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgamepublisher" id="4182" value="iUniverse"/>
+    <link type="boardgamepublisher" id="2328" value="William Morrow &amp; Co."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="39"/>
+        <average value="7.16667"/>
+        <bayesaverage value="5.54437"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9586" bayesaverage="5.54437"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1741" bayesaverage="5.80355"/>
+        </ranks>
+        <stddev value="1.72215"/>
+        <median value="0"/>
+        <owned value="96"/>
+        <trading value="4"/>
+        <wanting value="7"/>
+        <wishing value="18"/>
+        <numcomments value="24"/>
+        <numweights value="4"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

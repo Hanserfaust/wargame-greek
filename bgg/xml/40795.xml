@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="40795">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/foOW6xyL5PxsBk8gW4aqb4NEqCs=/fit-in/200x150/pic444098.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D0AMCXX10N_7wlWIXkohLLFv3A4=/0x0/pic444098.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Grenadier: Romanian Soil"/>
+    <name type="alternate" sortindex="1" value="Romanian Soil: Battles for Targu Frumos, 1944"/>
+    <description>Romanian Soil: Battles for Targu Frumos 1944 is a supplement for the Panzer Grenadier series. There are ten scenarios, or separate game situations, based on the battles of April 1944 between the Soviet 2nd Tank and 27th Armies and the German 8th and Romanian 4th Armies. This module is not playable by itself, but requires ownership of our Eastern Front, Road to Berlin, Battle of the Bulge and Elsenborn Ridge games and our Red Warriors supplement.&amp;#10;&amp;#10;Romanian Soil is sold Both via .pdf download and as a printed booklet.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10637" value="Country: Romania"/>
+    <link type="boardgamefamily" id="123" value="Panzer Grenadier"/>
+    <link type="boardgameexpansion" id="7176" value="Panzer Grenadier: Battle of the Bulge" inbound="true"/>
+    <link type="boardgameexpansion" id="16804" value="Panzer Grenadier: Eastern Front" inbound="true"/>
+    <link type="boardgameexpansion" id="33785" value="Panzer Grenadier: Elsenborn Ridge" inbound="true"/>
+    <link type="boardgameexpansion" id="25796" value="Panzer Grenadier: Red Warriors" inbound="true"/>
+    <link type="boardgameexpansion" id="16805" value="Panzer Grenadier: Road to Berlin" inbound="true"/>
+    <link type="boardgamedesigner" id="10048" value="Doug McNair"/>
+    <link type="boardgamedesigner" id="7217" value="Mike Perryman"/>
+    <link type="boardgameartist" id="14649" value="Shane Ivey"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="14"/>
+        <average value="7.39286"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.0889"/>
+        <median value="0"/>
+        <owned value="71"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="6"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="25417">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/A71jnw5YmbZ4cq6QYAtkyEXjBRE=/fit-in/200x150/pic145116.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/GQJXhnT23dO0GC6zDWhY-mMlKao=/0x0/pic145116.jpg</image>
+    <name type="primary" sortindex="1" value="BattleLore"/>
+    <name type="alternate" sortindex="1" value="戰爭之道"/>
+    <description>This game is based upon Richard Borg's Command and Colors system. The world of BattleLore meshes history and fantasy together - putting players in command of an array of miniature troops on the battlefields of a Medieval Europe Uchronia at the outset of the Hundred Years War.&amp;#10;&amp;#10;Drawing on the strengths of Memoir '44, this Days of Wonder game takes the time-tested Command and Colors system to a new level and offers gamers of many backgrounds a chance to fight medieval battles with a dose of epic fantasy.&amp;#10;&amp;#10;In this fantastical re-imagining of the Hundred Years War, French and English armies are supplemented with Goblins and Dwarves mercenaries and even some creatures like the Giant Spider and the Earth Elemental! Just as important as the armies you have, though, are the Lore Masters you choose to aid you: Wizards, Clerics, Warriors and Rogues can all aid you with unique powers and spells in ways role-playing gamers will find familiar.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="149">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="87"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="134"/>
+        <result value="Recommended" numvotes="12"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="21"/>
+        <result value="Not Recommended" numvotes="65"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="64">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="16"/>
+        <result value="10" numvotes="31"/>
+        <result value="12" numvotes="13"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="61">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="48"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="10"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2676" value="Grid Movement"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="9768" value="BattleLore"/>
+    <link type="boardgamefamily" id="28952" value="BattleLore (First edition)"/>
+    <link type="boardgamefamily" id="50" value="Commands &amp; Colors"/>
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures"/>
+    <link type="boardgameexpansion" id="81904" value="BattleLore: Bearded Brave"/>
+    <link type="boardgameexpansion" id="28250" value="BattleLore: Call to Arms"/>
+    <link type="boardgameexpansion" id="85720" value="BattleLore: Code of Chivalry"/>
+    <link type="boardgameexpansion" id="54943" value="BattleLore: Creatures"/>
+    <link type="boardgameexpansion" id="54944" value="BattleLore: Dragons"/>
+    <link type="boardgameexpansion" id="29095" value="BattleLore: Dwarven Battalion Specialist Pack"/>
+    <link type="boardgameexpansion" id="32021" value="BattleLore: Earth Elemental"/>
+    <link type="boardgameexpansion" id="28260" value="BattleLore: Epic BattleLore"/>
+    <link type="boardgameexpansion" id="37926" value="BattleLore: For Troll and Country"/>
+    <link type="boardgameexpansion" id="30231" value="BattleLore: Goblin Marauders Specialist Pack"/>
+    <link type="boardgameexpansion" id="29423" value="BattleLore: Goblin Skirmishers Specialist Pack"/>
+    <link type="boardgameexpansion" id="45543" value="BattleLore: Heroes Expansion"/>
+    <link type="boardgameexpansion" id="32022" value="BattleLore: Hill Giant"/>
+    <link type="boardgameexpansion" id="68923" value="BattleLore: Horrific Horde"/>
+    <link type="boardgameexpansion" id="32391" value="BattleLore: Scottish Wars"/>
+    <link type="boardgameexpansion" id="30232" value="BattleLore: The Hundred Years' War – Crossbows &amp; Polearms"/>
+    <link type="boardgameimplementation" id="146439" value="BattleLore (Second Edition)"/>
+    <link type="boardgameimplementation" id="67492" value="Battles of Westeros"/>
+    <link type="boardgamedesigner" id="25" value="Richard Borg"/>
+    <link type="boardgameartist" id="12016" value="Miguel Coimbra"/>
+    <link type="boardgameartist" id="12519" value="Cyrille Daujean"/>
+    <link type="boardgameartist" id="11886" value="Julien Delval"/>
+    <link type="boardgameartist" id="12935" value="Nicolas Fructus"/>
+    <link type="boardgameartist" id="12028" value="Christophe Madura"/>
+    <link type="boardgamepublisher" id="1027" value="Days of Wonder"/>
+    <link type="boardgamepublisher" id="17" value="Fantasy Flight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8941"/>
+        <average value="7.3718"/>
+        <bayesaverage value="7.07839"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="291" bayesaverage="7.07839"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="91" bayesaverage="7.16828"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="84" bayesaverage="7.11565"/>
+        </ranks>
+        <stddev value="1.4285"/>
+        <median value="0"/>
+        <owned value="10548"/>
+        <trading value="637"/>
+        <wanting value="313"/>
+        <wishing value="1625"/>
+        <numcomments value="2788"/>
+        <numweights value="1287"/>
+        <averageweight value="2.7646"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

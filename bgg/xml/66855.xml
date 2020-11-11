@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="66855">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fq3hEHj0BLcMx-8x2EexjIxP6Zs=/fit-in/200x150/pic1850516.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/CXBwxJaLnJSz-utxY-jEOkyUSzE=/0x0/pic1850516.jpg</image>
+    <name type="primary" sortindex="5" value="The Dark Valley"/>
+    <name type="alternate" sortindex="5" value="The Dark Valley Deluxe Edition"/>
+    <description>(from GMT website:)&amp;#10;&amp;#10;The Dark Valley is a new game from award-winning designer Ted Raicer, focusing on the entire East Front campaign in World War II. The game components feature a beautiful map from Mark Mahaffey, stretching from Leningrad in the north to the Caucasus Mountains in the south, and around 600 counters representing every major unit that appeared during the course of the conflict. Initially most Soviet infantry are divisions, but as the game progresses these are replaced by armies and corps, so that players are not overwhelmed by the increasing Soviet Order of Battle.  All German mechanized divisions are present in the game, while their infantry is a mix of division and corps.&amp;#10;&amp;#10;Although the game is a semi-monster, and covers the entirety of the conflict from the launch of Barbarossa to the end of the war, the game system emphasizes playability rather than rules overhead, allowing the players to concentrate on strategy choices rather than rules minutiae.&amp;#10;&amp;#10;The core of the game system is a &amp;ldquo;chit-pull&amp;rdquo; activation system. Each turn a variety of action chits are drawn, in a random order, from the Action Chit Pool, and it is this that determines the exact flow of operations on that turn. [...]&amp;#10;&amp;#10;This chit-pull system imposes constant uncertainty upon the player and introduces considerable tension into the game. [...]&amp;#10;&amp;#10;The Axis supply network, which imposed crucial restraints upon the effectiveness of the offensive, is represented using supply depot units.[...]&amp;#10;&amp;#10;Besides the full campaign game, TDV features scenarios for Barbarossa, Case Blue, Kursk, and the Destruction of Army Group Center. Scenario start dates can also be used to explore shorter versions of the campaign.&amp;#10;&amp;#10;The Dark Valley is designed to be playable and exciting, modeling the tension of the campaign elegantly and simply. The game also plays very well in solitaire mode due to the underlying chit-pull system. From the German blitzkrieg in 1941 to the blazing ruins of Berlin, The Dark Valley provides a truly new look at this much-gamed theater.&amp;#10;&amp;#10;TIME SCALE: 1 or 2 months per turn&amp;#10;MAP SCALE: 20 miles per hex&amp;#10;UNIT SCALE: Divisions/Corps/Armies&amp;#10;&amp;#10;COMPONENTS:&amp;#10;&amp;#10;    Two 22x34&amp;quot; maps&amp;#10;    Three sheets of 1/2 &amp;quot; counters&amp;#10;    Four Player Aid Cards&amp;#10;    Two 6-sided dice&amp;#10;    Rules Booklet&amp;#10;    Players Booklet &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;DESIGNER: Ted S. Raicer&amp;#10;DEVELOPER: Paul Marjoram&amp;#10;MAP ART: Mark Mahaffey&amp;#10;COUNTER ART: Charles Kibler&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="10"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="500"/>
+    <minplaytime value="500"/>
+    <maxplaytime value="500"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="5"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="47666" value="Dark chit-pull system"/>
+    <link type="boardgamedesigner" id="484" value="Ted Raicer"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="11856" value="Mark Mahaffey"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="277"/>
+        <average value="7.86412"/>
+        <bayesaverage value="5.87255"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2855" bayesaverage="5.87255"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="202" bayesaverage="6.85895"/>
+        </ranks>
+        <stddev value="1.62337"/>
+        <median value="0"/>
+        <owned value="1167"/>
+        <trading value="31"/>
+        <wanting value="47"/>
+        <wishing value="214"/>
+        <numcomments value="173"/>
+        <numweights value="33"/>
+        <averageweight value="3.2727"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

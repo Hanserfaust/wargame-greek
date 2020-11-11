@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9150">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/jSNlQyY1fp5konHF6IZzFztZaWw=/fit-in/200x150/pic624742.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/dEeBDIPi0Dpnr7IXG0IDkBhwIy4=/0x0/pic624742.jpg</image>
+    <name type="primary" sortindex="1" value="Dark December"/>
+    <description>From the rules booklet&amp;#10;&amp;#10;Dark December is an operational / grand tactical level simulation of the operations known to the Americans as The Battle of the Bulge.  The situation is explored in a campaign game, three scenarios, and an extended game which covers the Allied offensive to reduce the Bulge.&amp;#10;&amp;#10;Components - One 22&amp;quot; x 34&amp;quot; map.  24 page Rules Folder.  28 page Study Folder.  Two sheets of counters (400 total).  Special Map Supplement.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="1"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="12226" value="Country: Belgium"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgameimplementation" id="30165" value="The Last Gamble"/>
+    <link type="boardgamedesigner" id="2518" value="Danny S. Parker"/>
+    <link type="boardgameartist" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgamepublisher" id="170" value="OSG (Operational Studies Group)"/>
+    <link type="boardgamepublisher" id="3406" value="Six Angles"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="60"/>
+        <average value="7.29333"/>
+        <bayesaverage value="5.56067"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8350" bayesaverage="5.56067"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1479" bayesaverage="5.874"/>
+        </ranks>
+        <stddev value="1.28477"/>
+        <median value="0"/>
+        <owned value="187"/>
+        <trading value="6"/>
+        <wanting value="9"/>
+        <wishing value="15"/>
+        <numcomments value="38"/>
+        <numweights value="14"/>
+        <averageweight value="3.2143"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

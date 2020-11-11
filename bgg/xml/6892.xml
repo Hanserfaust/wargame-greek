@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6892">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rJwaEZ5dxmJqcGznQgXtm6mG3tw=/fit-in/200x150/pic43541.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/uSDA23xVVSZMmjwWjlX6xbjL5yw=/0x0/pic43541.jpg</image>
+    <name type="primary" sortindex="1" value="Tarawa: Bloody Betio"/>
+    <description>Tarawa: Bloody Betio is a war game that attempts to simulate the World War 2 battle over the titular island between Japan and the United States of America.  In the historical battle, the US Second Marine Division had 3 days to clear the island of Japanese soldiers.  The bloody battle inflicted nearly 3,000 casualties on the Marines; only 17 of 4,700 Japanese soldiers survived.  The solitaire game places the player in command of the US forces to determine how he or she performs compared to the historical outcome.&amp;#10;&amp;#10;A map overlaid with a hexagonal grid forms the game's playing field.  In the middle lies the isle of Tarawa, surrounded by water.  The terrain and Japanese defenses are also printed out, as well as the US-designated landing beaches.  Each turn, the player receives an amount of forces to deploy onto the beaches.  He or she handles attacks between the two armies, rolling dice and checking tables to resolve their effects.  When the Marines has defeated the Japanese in a hex, a cleared marker is placed on it (and removed if the US forces retreat from the hex due to a counterattack).  If the Japanese attack is particularly effective, the Marines suffers casualties, which is reflected by moving a marker on the Casualty Track.  The player also has to concern him- or herself with booby traps, snipers, air raids, morale, and supply.&amp;#10;&amp;#10;The game ends at the end of the third turn.  The player wins if all hexes of the island are cleared and the Casualty Track reflects less than 5,000 casualties.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="595" value="Mark Seaman"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="31"/>
+        <average value="5.35484"/>
+        <bayesaverage value="5.4921"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15098" bayesaverage="5.4921"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2834" bayesaverage="5.44386"/>
+        </ranks>
+        <stddev value="1.89734"/>
+        <median value="0"/>
+        <owned value="144"/>
+        <trading value="8"/>
+        <wanting value="6"/>
+        <wishing value="12"/>
+        <numcomments value="19"/>
+        <numweights value="7"/>
+        <averageweight value="2.5714"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

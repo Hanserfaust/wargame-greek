@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="23742">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/zHlMORY2Imi5I3KApCTACGTbXkM=/fit-in/200x150/pic201803.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/zt03_0cUrJqChmzjWZQtrlze8As=/0x0/pic201803.jpg</image>
+    <name type="primary" sortindex="1" value="Ironclads: Hearts of Iron"/>
+    <description>From the Publisher's website:&amp;#10;&amp;#10;&amp;quot;Behind wooden walls beat hearts of iron...&amp;quot;&amp;#10;&amp;#10;&amp;mdash; Austrian Admiral Wilhelm von Tegetthoff,&amp;#10;private letter to his mistress, June 1866&amp;#10;&amp;#10;In the summer of 1866, the Austrian fleet fought the Italians in the first open-sea battle between ironclad fleets, at Lissa in the Adriatic. An Austrian victory, it prevented Italian seizure of the strategic island of Lissa.&amp;#10;&amp;#10;Hearts of Iron is loosely based on the Great War at Sea series of games.  The operational part of the game is very similar; there is an operational map of the Adriatic and central Mediterranean, on which fleets move and attempt to make contact.  The tactical part of the game is more detailed, with armor (or lack of it), rifled and smooth-bore ordinance, ship maneuvering and leadership playing much more prominent roles.&amp;#10;&amp;#10;In addition to the Austrian and Italian fleets, there is the American Mediterranean Squadron that the Austrians believed would fight alongside the Italians, and the Turkish European Fleet that entered the Adriatic to support Austria. Plus the British Mediterranean Fleet and a large French contingent, along with the Greeks, Egyptians and several other smaller navies.  There are a wide variety of both operational and battle scenarios, based on extensive archival research into the original reports and dispatches of the Austro-Italian conflict along with many hypothetical engagements.&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgamedesigner" id="48290" value="James Stear"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4.5"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="10"/>
+        <wishing value="23"/>
+        <numcomments value="6"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

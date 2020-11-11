@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="55154">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/LsJbXYhpjG2g0YJnCnc0pqYjksE=/fit-in/200x150/pic547495.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3nqcs1vnCiRhhpAl7lrwfnIYIPc=/0x0/pic547495.jpg</image>
+    <name type="primary" sortindex="1" value="Bastogne or Bust (first edition)"/>
+    <description>I designed BOB to be the last word on low to medium complexity Bulge games. I enjoy playing Bulge games but I never found one that satisfied me. So I decided to make my own.&amp;#10;&amp;#10;BASTOGNE OR BUST is a single-map, regimental treatment of the Battle of the Bulge. This is a PLAYER'S game! Designed on purpose to be more of a warGAME than a simulation. It addresses a number of pet peeves of mine in regard to Bulge games I'd played over the years. Some of these issues include:&amp;#10;&amp;#10;OFF BOARD MOVEMENT CHART [what happens to all those pieces that 'exit the map?']&amp;#10;STACKING POINTS [one of the greatest mechanics of all time - why don't designers use it more often?]&amp;#10;COMMAND &amp;amp; CONTROL [divisional bonuses for unit cohesiveness]&amp;#10;SUPPLY DIFFERENCES [different effects on ALLIES vs GERMANS]&amp;#10;INITIATIVE [essentially, the 5-1 column on the CRT is gone]&amp;#10;NO OVERRUN [squads held crossroads against regiments]&amp;#10;NO WEATHER RULES [weather is reflected in air support]&amp;#10;VON DER HYDTE [ALWAYS gets on the board]&amp;#10;STREAMLINED PLAY [I don't need water allocation points]&amp;#10;&amp;#10;Referred to affectionately by wargamers as BOB, I like to refer to it as The World's Finest Bulge Game. All of the artwork was done by myself - including the counters which were hand drawn!&amp;#10;&amp;#10;22&amp;quot; x 34&amp;quot; map [printed on four 11&amp;quot; x 17&amp;quot; cardstock sheets]&amp;#10;600 counters [printed on 2 sheets of 8.5&amp;quot; x 11&amp;quot; label paper]&amp;#10;2 OOB/OOA set-up sheets&amp;#10;1 OFF-BOARD MOVEMENT CHART&amp;#10;2 Player Aid Cards&amp;#10;1 example sheet&amp;#10;&amp;#10;This is the original TERRAN GAMES dtp publication of BOB showcased at ORIGINS '94 in San Jose, not the TERRAN GAMES, INC. version published a year later with all new [gorgeous] graphics by Mark Simonitch.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1994"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="600"/>
+    <minplaytime value="600"/>
+    <maxplaytime value="600"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgameimplementation" id="11050" value="Bastogne or Bust (second edition)"/>
+    <link type="boardgamedesigner" id="3222" value="Chester Hendrix"/>
+    <link type="boardgameartist" id="3222" value="Chester Hendrix"/>
+    <link type="boardgamepublisher" id="17033" value="Terran Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="4.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.5"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

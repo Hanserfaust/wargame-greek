@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1666">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/F-DBCGkKm0oooBMTfK8HNvNh9gY=/fit-in/200x150/pic56290.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/vjVFxpNvWN5vPATlJxgaZrP3-k8=/0x0/pic56290.jpg</image>
+    <name type="primary" sortindex="1" value="Battle Hymn"/>
+    <description>Battle Hymn is a solitaire game of combat, adventure, and heroism in the Pacific during World War II. Using the revolutionary programmed paragraph approach pioneered in the Ambush! game system, Battle Hymn gives you a squad of American Marines and challenges you to fight your way through a variety of Missions against a deceptive and ever-changing Japanese foe. Unexpected events and innumerable tactical options offer virtually endless solitaire enjoyment, and the easily learned rules start even relatively inexperienced players on their first Mission quickly. Select you squad, arm them, and choose their Mission. Move your men out, advancing them as you wish, until something triggers an Event - until a peaceful walk in the steaming jungle turns out to be a fight for your life!&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+      <results numplayers="1">
+        <result value="Best" numvotes="10"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="0"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="3"/>
+        <result level="15" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2636" value="Ambush! solitaire wargame system"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="1667" value="Battle Hymn: Leatherneck"/>
+    <link type="boardgameimplementation" id="1608" value="Ambush!" inbound="true"/>
+    <link type="boardgamedesigner" id="680" value="Joseph Reiser"/>
+    <link type="boardgamedesigner" id="681" value="Eric Lee Smith"/>
+    <link type="boardgameartist" id="15063" value="Ted Koller"/>
+    <link type="boardgameartist" id="13649" value="James Talbot"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="123" value="Victory Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="383"/>
+        <average value="7.49692"/>
+        <bayesaverage value="5.91791"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2610" bayesaverage="5.91791"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="218" bayesaverage="6.82052"/>
+        </ranks>
+        <stddev value="1.53626"/>
+        <median value="0"/>
+        <owned value="1130"/>
+        <trading value="47"/>
+        <wanting value="130"/>
+        <wishing value="218"/>
+        <numcomments value="199"/>
+        <numweights value="52"/>
+        <averageweight value="3.2692"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

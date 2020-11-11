@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="130043">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HKxQP-KkuBE0KR9HA8eaaOeVyr4=/fit-in/200x150/pic1412293.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/E5EXTCtI3NwJjFu2U4ytjngl8yk=/0x0/pic1412293.jpg</image>
+    <name type="primary" sortindex="1" value="Fail Safe"/>
+    <description>Fail Safe is a wargame of a hypothetical strategic nuclear air war sometime in the late 1950s, before the age of the ballistic missile. There are two players, the East Bloc and the Free World. Each player has units representing formations of aircraft, weapons systems, and air defense forces. Players move their units, conduct air-to-air battles, and bomb ground targets. The objective of the game is to drop sufficient nuclear weapons upon the other side in order to prevent them from dominating the world.&amp;#10; The game map encompasses much of the northern hemisphere, centered on the North Pole. Each game turn represents an hour or more of flight time, and each unit represents a wing of specific aircraft, by type.&amp;#10;&amp;#10;Components: One 22&amp;quot; x 34&amp;quot; map &amp;amp; 228 counters&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="39"/>
+        <average value="7.0641"/>
+        <bayesaverage value="5.54666"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9393" bayesaverage="5.54666"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1692" bayesaverage="5.81627"/>
+        </ranks>
+        <stddev value="1.05113"/>
+        <median value="0"/>
+        <owned value="241"/>
+        <trading value="2"/>
+        <wanting value="18"/>
+        <wishing value="37"/>
+        <numcomments value="46"/>
+        <numweights value="6"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

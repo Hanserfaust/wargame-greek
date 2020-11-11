@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="1605">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/muU2NN_DaINURCq9ApCKMdd_Y9w=/fit-in/200x150/pic964796.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/aPiUWkWVVXLmKc3DfHd7HIWfk9w=/0x0/pic964796.jpg</image>
+    <name type="primary" sortindex="1" value="Ambush! Purple Heart"/>
+    <description>Purple Heart is the second expansion for Ambush!  It adds six new scenarios along with new weapons, vehicles, enemies and maps. The scenarios are designed to be challenging for experienced characters. Instead of being limited to France in 1944 like the base game, Purple Heart also takes you to:&amp;#10;- The Ardennes, December 1944&amp;#10;- South of Caen, July 1944&amp;#10;- The Rhone Valley, 1944&amp;#10;- Western Germany, Spring 1945&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1020" value="Exploration"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamefamily" id="2636" value="Ambush! solitaire wargame system"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="102983" value="Follow Me!: Mission #3 – Toll Bridge"/>
+    <link type="boardgameexpansion" id="1608" value="Ambush!" inbound="true"/>
+    <link type="boardgamedesigner" id="680" value="Joseph Reiser"/>
+    <link type="boardgameartist" id="13577" value="Rosaria Baldari"/>
+    <link type="boardgameartist" id="15063" value="Ted Koller"/>
+    <link type="boardgameartist" id="13649" value="James Talbot"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="123" value="Victory Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="399"/>
+        <average value="7.65144"/>
+        <bayesaverage value="5.98481"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.98481"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.97674"/>
+        </ranks>
+        <stddev value="1.33513"/>
+        <median value="0"/>
+        <owned value="1331"/>
+        <trading value="32"/>
+        <wanting value="126"/>
+        <wishing value="125"/>
+        <numcomments value="169"/>
+        <numweights value="43"/>
+        <averageweight value="3.186"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

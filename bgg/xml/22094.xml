@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="22094">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/3YRlstOhwZZiBhSC-zR1CecBJVA=/fit-in/200x150/pic151195.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8AhmS3B_TfPmNQsBTMa6p0BUvpY=/0x0/pic151195.jpg</image>
+    <name type="primary" sortindex="3" value="A Book of Sandhurst Wargames"/>
+    <description>An large format book, measuring '9-3/4'-inches by '13-1/2'-inches with a slick-coated front &amp;amp; back cover. It has a general background article regarding gaming going on at the time of its publication (1982). There are extensive background materials related to the enclosed games. 64 pages, including rules for the various games contained within:&amp;#10;&amp;#10;&amp;#10;     Aquitane - the Black Prince (a.k.a. Edward) goes on a war ride through France circa 1355~1356.&amp;#10;     Craonne - a Napoleonic game of a Battle against the Russians in 1814.&amp;#10;     Fjord - a Campaign level game of Arctic Convoys during WW-2.&amp;#10;     Men Against Fire - a role-playing sort of game set in the WW-2 Pacific Theatre.&amp;#10;&amp;#10;&amp;#10;The game pack contains: 4 game boards and 4 printed sheets of playing aids (32 battle features; 476 die-cut counters; 16 playing cards; 3 personal aiming sheets)&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamecompilation" id="2861" value="Aquitaine" inbound="true"/>
+    <link type="boardgamecompilation" id="2966" value="Craonne" inbound="true"/>
+    <link type="boardgamecompilation" id="2939" value="Fjord" inbound="true"/>
+    <link type="boardgamecompilation" id="2976" value="Men Against Fire" inbound="true"/>
+    <link type="boardgamedesigner" id="1161" value="Paddy Griffith"/>
+    <link type="boardgamepublisher" id="5128" value="Bellew &amp; Higton Publishers Ltd. UK"/>
+    <link type="boardgamepublisher" id="5129" value="Coward, McCann, &amp; Geoghegan USA"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="6"/>
+        <bayesaverage value="5.51299"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51299"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.57138"/>
+        </ranks>
+        <stddev value="1.45521"/>
+        <median value="0"/>
+        <owned value="176"/>
+        <trading value="9"/>
+        <wanting value="2"/>
+        <wishing value="6"/>
+        <numcomments value="24"/>
+        <numweights value="6"/>
+        <averageweight value="2.1667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

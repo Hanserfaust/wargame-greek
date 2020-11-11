@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="21338">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/IZ0LLDlqG32XkGDivnAoXbiV54U=/fit-in/200x150/pic106249.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/70DsdCuSISzF1WZ0kwbb7DBYsf4=/0x0/pic106249.jpg</image>
+    <name type="primary" sortindex="1" value="Elves Under Hoof"/>
+    <description>From the DVG web site:&amp;#10;&amp;#10;Overview:&amp;#10;Elves Under Hoof is a light-hearted game of combat at the North Pole. It seems the elves have opened up a crate of ultra-violent video games and played them all night. By morning they had been turned into mindless zombie elves bent on destruction.&amp;#10;&amp;#10;Now, it is up to your team of heroic reindeer to gather weapons and battle the crazed elves to save the day!&amp;#10;&amp;#10;Key Points:&amp;#10;- Very easy to play.&amp;#10;- Fun for all ages.&amp;#10;- Armed reindeer take on the evil elves.&amp;#10;- Just in time for the holidays!&amp;#10;    (if it is around holiday time when you are reading this)&amp;#10;- Just the thing to remind you of Christmas!&amp;#10;    (if it is not holiday time when you are reading this)&amp;#10;- 4 Scenarios: An Igloo Too Far, Saving Private Reindeer, E-Day, and The Big Red One&amp;#10;&amp;#10;Component List:&amp;#10;- Expensive Player Help Sheet&amp;#10;- One Sheet of Full Color counters&amp;#10;- Very cute full-color Map&amp;#10;- Humor-filled rulebook&amp;#10;&amp;#10;Target Audience:&amp;#10;This is a great game for both wargamers and non-gamers alike. The game is fast and easy to understand and who doesn&amp;rsquo;t like throwing hand grenades at elves?&amp;#10;&amp;#10;Game Formats:&amp;#10;PDF Download&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1079" value="Humor"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="19299" value="Fairies, Elves and Pixies"/>
+    <link type="boardgamefamily" id="6364" value="Holidays: Christmas"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="428" value="Dan Verssen"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="20"/>
+        <average value="6.475"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.50395"/>
+        <median value="0"/>
+        <owned value="60"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="20"/>
+        <numcomments value="28"/>
+        <numweights value="3"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

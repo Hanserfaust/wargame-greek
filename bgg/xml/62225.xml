@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="62225">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mZCBa0uj3lKjaH4JOAK_NxkTMkA=/fit-in/200x150/pic994399.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/o_xoyGxAoabBDjV26yaPx2VRy4k=/0x0/pic994399.jpg</image>
+    <name type="primary" sortindex="1" value="Infidel"/>
+    <description>(from GMT website:)&amp;#10;&amp;#10;Infidel focuses on the major battles of the early Crusades era between the Christians and the Muslims. This is a period that saw cavalry reign supreme, and pitted the European heavy cavalry &amp;ndash; armored &amp;ldquo;knights&amp;rdquo; - system against the Eastern/Turkish light cavalry tactics.&amp;#10;&amp;#10;Infidel is designed for quick learning and easy play. Game rules are short, there are no &amp;ldquo;turns&amp;rdquo; - play is Continual, with ample opportunities to steal play from your opponent - and combat resolution is a single dieroll.Playing time is about 1-2 hours, per battle.&amp;#10;&amp;#10;Infidel is also GMT&amp;rsquo;s gift to the gamer who enjoys playing solitaire. The system is designed for both individual and face-to-face play without any loss in insight or Fun. Each game is a &amp;quot;paper time machine&amp;quot; that allows players to see what happened in these famous battles and why.&amp;#10;&amp;#10;The battles include:&amp;#10;&amp;#10;&amp;#10;     Dorylaeum (1097): The Crusader line of march, including the people&amp;rsquo;s Crusade and Peter the hermit, as well as all the great 1st Crusade Leaders, are &amp;ldquo;ambushed&amp;rdquo; by Kilij Arslan and his crack Seljuk cavalry.&amp;#10;     Antioch (1098): The exhausted, starving and depleted Crusaders &amp;ndash; they had few horses left &amp;ndash; have just taken Antioch and are now faced with a large Turkish army, under Kerbogha, sent to retake the city.&amp;#10;     Ascalon (1099): The Crusaders, having seized Jerusalem, turn south to fend off the suddenly active large army of The Fatimids, with their crack Mamluk heavy cavalry.&amp;#10;     Harran (1104): Baldwin II of Edessa seeks to maintain control of his little kingdom in northern Syria, something Soqman, atabeg of Damascus, is not happy to allow. One of the first major Crusader defeats.&amp;#10;     Montgisard (1177): Saladin attempts to destroy a small army from the Kingdom of Jerusalem with an army more than five times its size. Though there are only 400 knights, the Crusaders are led by the remarkable Baldwin IV, The Leper King. The outcome - one of the greatest Crusader victories. See if you can carry off this stunning upset!&amp;#10;     Arsuf (1191): The classic battle between Richard I Lionheart and the Ayyubid Army of Saladin highlighting the major facets of each army in an unusual moving battle.&amp;#10;&amp;#10;&amp;#10;Each game includes:&amp;#10;&amp;#10;     Two 22&amp;rdquo; x 32&amp;rdquo;game-maps, backprinted&amp;#10;     2 countersheets&amp;#10;     Rules Booklet&amp;#10;     Battle Book&amp;#10;     Charts and Play Aids&amp;#10;     2 ten-sided dice&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;DESIGNER Richard H. Berg&amp;#10;DEVELOPER Ralph Shelton&amp;#10;ART DIRECTOR Rodger B. MacGowan&amp;#10;MAP ART Charles Kibler&amp;#10;COUNTER ART Mike Lemick, Charles Kibler, &amp;amp; Rodger B. MacGowan&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="4576" value="Men of Iron Series"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgameartist" id="54131" value="J. J. Dassy"/>
+    <link type="boardgameartist" id="6548" value="Mike Lemick"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="262"/>
+        <average value="7.51221"/>
+        <bayesaverage value="5.82172"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3179" bayesaverage="5.82172"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="286" bayesaverage="6.69114"/>
+        </ranks>
+        <stddev value="1.24459"/>
+        <median value="0"/>
+        <owned value="847"/>
+        <trading value="17"/>
+        <wanting value="78"/>
+        <wishing value="207"/>
+        <numcomments value="103"/>
+        <numweights value="48"/>
+        <averageweight value="2.8958"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

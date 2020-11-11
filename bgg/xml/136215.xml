@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="136215">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bxglNN0OdhDuTlOtYPuUjHfUvQw=/fit-in/200x150/pic4285189.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/II3Qgb00f8MSCBaQlc9Vj7GhlG0=/0x0/pic4285189.jpg</image>
+    <name type="primary" sortindex="1" value="Red Menace"/>
+    <description>Note: the 2nd Edition is now available as Print-On-Demand on TheGameCrafter.com site.&amp;#10;&amp;#10;Number of Players: One&amp;#10;Playing Time: 60-90 minutes&amp;#10;Age: 12+&amp;#10;Complexity: 5 (out of 10)&amp;#10;Solitaire Suitability: High&amp;#10;Unit Scale: Groups, with some Squadrons; Soviet Air Divisions.&amp;#10;Time Scale: 1 to 1.5 hours per game turn&amp;#10;Map Scale: 500 miles per hex&amp;#10;Designer: R. Brent Ward&amp;#10;Developer: Barry Kendall&amp;#10;&amp;#10;Red Menace is a solitaire wargame pitting the strategic nuclear and defensive forces of the United States, Canada, and the United Kingdom against those of the Soviet Union and its client state, Cuba, in 1959. The game focuses primarily on the role of strategic bombers, but other types of supporting aircraft such as Interceptors, Airborne Early Warning aircraft, and Aerial Refueling Tankers are also represented.&amp;#10;&amp;#10;The term &amp;quot;Red Menace&amp;quot; was used during the Cold War by the U.S. because it was believed that thousands of Soviet bombers could be unleashed at a moment's notice. This turned out not to be true as the Soviets had several hundred bombers at best, and many had significant range limitations. The game is not meant to be an accurate simulation of the actual capabilities of the strategic forces involved, but rather reflects what the governments and citizens of the U.S., Canada, and the UK believed could happen.&amp;#10;&amp;#10;Each turn consists of fifteen phases played in order from drawing random events, deploying and moving Soviet flights, intercepting flights, submarine operations and more. Reference sheets are included to make tracking the game progress easier. Decisions for the Soviet units are made by the game system using random events and dice. The player simply moves the Soviet bombers towards their assigned targets. Scenarios are included with various starting positions, targets, and actions for Soviet, United States, and United Kingdom bombers.&amp;#10;&amp;#10;The game complexity is easy, but optional rules are included to make it more challenging. The winner of a scenario is determined by the points scored from attacking the opponent's cities. Points are awarded by a random chit draw after each successful attack. A typical scenario requires fifty points to win.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="23590" value="White Dog Games Solitaire Series"/>
+    <link type="boardgamedesigner" id="66141" value="R. Brent Ward"/>
+    <link type="boardgamepublisher" id="39156" value="Battlespace Games"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="6.23077"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.22845"/>
+        <median value="0"/>
+        <owned value="118"/>
+        <trading value="0"/>
+        <wanting value="13"/>
+        <wishing value="52"/>
+        <numcomments value="26"/>
+        <numweights value="9"/>
+        <averageweight value="1.5556"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

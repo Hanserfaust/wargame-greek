@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5199">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tpnrTSlr7a6SARBbkhUG4Xsbjqo=/fit-in/200x150/pic175092.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UumItEEPOr5lk3VUCT0QdEuKYKA=/0x0/pic175092.jpg</image>
+    <name type="primary" sortindex="5" value="The Lords of Underearth"/>
+    <description>Microgame #18 in the Metagaming Microgames series.&amp;#10;&amp;#10;From the box:&amp;#10;&amp;#10;Underearth is the ancient stronghold of the Dwarven Lords.  This game covers the earthy realms' full history: from the height of Dwarven power to its decline in the days of dragonfire and destruction.  Here, you will lead bands of Humans, Dwarves, Orcs and monsters on raids, wars and treasure hunts.&amp;#10;&amp;#10;'The Lords of Undereath is a two player game of fantasy tactical combat in an underground labyrinth.  The rules cover solitaire play, surprise attack, pursuit, morale, locked doors, sentries, flight, treasure, mercenaries and even uncontrolled movement.  This game is a complete simulation of fantasy combat at the group (skirmish) level.&amp;#10;&amp;#10;Lords of Underearth definitely pays off on its promises and then some.  It's easy to learn.  It plays fast.  The board is geomorphic which helps replayability.  Solitaire play actually works.  Four clever scenarios are presented, all of them are fun, like the one that sure reminds us of Smaug and the Lonely Mountain or another that is suspiciously similar to the battle at the Bridge at Khazad-d&amp;ucirc;m. It's also compatible with Wizard &amp;amp; Melee and The Fantasy Trip, although you'd never want to play it that way.&amp;#10;&amp;#10;This game republished in supplement of Japanese TACTICS magazine #54.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1981"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="5204" value="The Fantasy Trip"/>
+    <link type="boardgamefamily" id="6256" value="Metagaming Microgames series"/>
+    <link type="boardgamedesigner" id="1312" value="Keith Gross"/>
+    <link type="boardgameartist" id="19885" value="Trace Hallowell"/>
+    <link type="boardgameartist" id="19809" value="Pat Hidy"/>
+    <link type="boardgameartist" id="13114" value="Denis Loubet"/>
+    <link type="boardgameartist" id="19796" value="Norman Royal"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="356" value="Metagaming"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="66"/>
+        <average value="6.09697"/>
+        <bayesaverage value="5.52186"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11965" bayesaverage="5.52186"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2464" bayesaverage="5.59848"/>
+        </ranks>
+        <stddev value="1.54439"/>
+        <median value="0"/>
+        <owned value="265"/>
+        <trading value="5"/>
+        <wanting value="27"/>
+        <wishing value="53"/>
+        <numcomments value="44"/>
+        <numweights value="8"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

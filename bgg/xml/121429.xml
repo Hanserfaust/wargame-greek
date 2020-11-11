@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="121429">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/5R9XU39vq1IGoguWKlq09EEL0nI=/fit-in/200x150/pic1251044.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/YXqMWrkKna5V12UdTxAqFFmmzUI=/0x0/pic1251044.jpg</image>
+    <name type="primary" sortindex="1" value="Ascari"/>
+    <description>Ascari is a company-level game based on the stories of loyal solders who fought for Italy in Eritrea, the first Italian colony. The game depicts four battles in which the Italians were the protagonists: the two battles of Agordat against the Dervishes, Amba Alagi, and Coatit against the Ethiopians. A bonus scenario depicting the battle of Metemma between the Dervishes and the Ethiopian Emperor Johannes IV is also included.&amp;#10;&amp;#10;Here are the description of the Scenarios:&amp;#10;S1 First Agordat:&amp;#10;A raiding party of Dervishes are caught by the Ascari troops commanded by Captain Gustavo Fara in the plain of Agordat.&amp;#10;&amp;#10;S2 Agordat:&amp;#10;2200 native Askari and some Italian national soldiers, led by Lt. Colonel Arimondi, encounters in the plain of Agordat around 12,000 Mahdists, led by the Amir of Ghedaref, attempting to invade the Italian Colony of Eritrea. An astonishing Italian victory and the very first one of the young nation.&amp;#10;&amp;#10;S3 Coatit:&amp;#10;The Italian Army in Eritrea, led by General Baratieri, wins its last victory before Adowa, attacking the overhelming Ras Mangasha&amp;rsquo;s Army at Coatit, fighting two days and performing a perfect redeployment under enemy fire. Tactically a draw, but stra-tegically a victory.&amp;#10;&amp;#10;S4 Amba Alagi&amp;#10;The political quarrel between Gen. Arimondi and Eritrea Governor Baratieri led the IV Native Bat-talion to be put in the advanced position of Amba Alagi, just in front of the full Negus Menelik Ethiopian Army. Arimondi wanted to repeat Agordat, when with few troops managed to win the day, and therefore, despite Baratieri&amp;rsquo;s order to withdraw the Battalion, he didn&amp;rsquo;t forward it to Lt. Toselli, condemning hime and his men to sure death&amp;hellip; it will be the prelude to Adowa!&amp;#10;&amp;#10;S5 Metemma&amp;#10;After the sack of the historic capital city of Gondar in 1888, Negus Neghesti Johannes IV gathered an army to repel the Mahdists from the city of Metemma. While on the way to victory, the Ethiopians melt away demoralized by the killing of their Emperor during the final assault.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="12051" value="Country: Ethiopia"/>
+    <link type="boardgamefamily" id="27179" value="Italian Colonial Battles"/>
+    <link type="boardgameimplementation" id="167177" value="Adowa"/>
+    <link type="boardgamedesigner" id="38051" value="Marco Campari"/>
+    <link type="boardgameartist" id="10254" value="Enrico Acerbi"/>
+    <link type="boardgamepublisher" id="11378" value="Acies"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="53"/>
+        <average value="7.41509"/>
+        <bayesaverage value="5.57191"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7671" bayesaverage="5.57191"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1194" bayesaverage="5.9647"/>
+        </ranks>
+        <stddev value="1.01747"/>
+        <median value="0"/>
+        <owned value="122"/>
+        <trading value="1"/>
+        <wanting value="7"/>
+        <wishing value="24"/>
+        <numcomments value="28"/>
+        <numweights value="7"/>
+        <averageweight value="2.2857"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

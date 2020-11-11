@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4280">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/cPrKZxP1l7duj0-Jkv0XlOGiQxk=/fit-in/200x150/pic13568.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iwnu6ZGxdxn9Aii3YwZLTDrJit0=/0x0/pic13568.jpg</image>
+    <name type="primary" sortindex="1" value="Starleader: Assault!"/>
+    <description>Microgame #21 in the Metagaming Microgames series is a wargame module meant to be the character-combat engine for a &amp;quot;Starleader&amp;quot; RPG that was never produced.  It concerns combat in the &amp;quot;30th century of the Space Era (SE)&amp;quot; between defenders and attackers aboard a &amp;quot;Kyrathan 'Royal' class warp yacht&amp;quot; named (conveniently enough) the &amp;quot;Trek Heaven.&amp;quot; It's a hex-and-counter game, but has character sheets; players can allocate resources to create characters as they would in an RPG.&amp;#10;&amp;#10;The official rules offer four scenarios, designed to ease the players into increasing complexity and role-playing elements: &amp;quot;The Rescue of Princess Rulian&amp;quot; (one rescuer trying to save the kidnapped princess vs. one terrorist), &amp;quot;Krotic's Treasure&amp;quot; (one rich guy and three thugs vs. four pirates), &amp;quot;Random Piracy&amp;quot; (three crew and one die worth of passengers vs. eight or fewer pirates), and &amp;quot;Random Raids&amp;quot; (all conditions GM- or player-designed).&amp;#10;&amp;#10;Approximate playing time is very fuzzy -- obviously the &amp;quot;Rescue&amp;quot; scenario will play much more quickly than a complex user-designed &amp;quot;Random Raid&amp;quot; with lots of role-playing. The maximum number of players isn't necessarily 2, but all of the official scenarios assume only 2 sides or factions. To support more players, teams or special user-designed scenarios would be called for.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamefamily" id="6256" value="Metagaming Microgames series"/>
+    <link type="boardgamedesigner" id="725" value="Howard Thompson"/>
+    <link type="boardgameartist" id="13589" value="David R. Deitrick"/>
+    <link type="boardgameartist" id="22801" value="Jeff Hayes"/>
+    <link type="boardgameartist" id="19796" value="Norman Royal"/>
+    <link type="boardgamepublisher" id="994" value="Games Research Group, Inc."/>
+    <link type="boardgamepublisher" id="356" value="Metagaming"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="4.89706"/>
+        <bayesaverage value="5.4807"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15855" bayesaverage="5.4807"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2888" bayesaverage="5.38195"/>
+        </ranks>
+        <stddev value="1.60779"/>
+        <median value="0"/>
+        <owned value="153"/>
+        <trading value="5"/>
+        <wanting value="10"/>
+        <wishing value="14"/>
+        <numcomments value="23"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

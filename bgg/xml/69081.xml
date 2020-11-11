@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="69081">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/o8BTQkFQorjPYiZ5I2xD8JayMVo=/fit-in/200x150/pic1174554.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/6BVN1Bk6TWru7QfZH45KvyD15Oc=/0x0/pic1174554.jpg</image>
+    <name type="primary" sortindex="1" value="March Madness 2010 Irregular Forces Pack"/>
+    <description>An expansion/scenario pack for Advanced Squad Leader. Like the previous scenario sets produced by the Kansas City Irregular ASL Club for their annual March Madness tournament in Kansas City, Kansas, this set is limited to 75 numbered copies.&amp;#10;&amp;#10;This module focuses in on 6 WWII-era battles and, uniquely, one Cold War action. Scenarios cover:&amp;#10;&amp;#10;&amp;bull;Usi-Usa, Siberia 1942 (gulag escapees take up arms against Soviets)&amp;#10;&amp;bull;Ivaskovic, Ukraine 1942 (anti-partisan actions by Slovak troops)&amp;#10;&amp;bull;Warsaw, Poland 1943 (Jewish uprising in Warsaw Ghetto)&amp;#10;&amp;bull;Paris 1944 (French underground fighters occupy Grand Palais)&amp;#10;&amp;bull;Rembertow, Poland 1945 (Polish partisans assault NKVD holding camp)&amp;#10;&amp;bull;Shaba, Zaire 1978 (French paratroopers respond to Angolan aggression)&amp;#10;&amp;#10;Contents:&amp;#10;&amp;bull;7 scenarios&amp;#10;&amp;bull;2 overlays&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamecompilation" id="218505" value="The Very Best of March Madness (Vol. 1)"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamedesigner" id="12649" value="Dan Best"/>
+    <link type="boardgamepublisher" id="9416" value="Kansas City Irregular ASL Club"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="10"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

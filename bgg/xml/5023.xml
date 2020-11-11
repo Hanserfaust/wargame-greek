@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5023">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nSZr_bo0MHk3T_KZCVCqGNTiwwk=/fit-in/200x150/pic126883.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/koNp2sOfFyXZAHmV-L38AdKzaHE=/0x0/pic126883.jpg</image>
+    <name type="primary" sortindex="5" value="The Conquerors"/>
+    <name type="alternate" sortindex="5" value="The Conquerors: The Romans and The Macedonians"/>
+    <description>The Conquerors: The Romans and The Macedonians is a strategic and tactical simulation of the eastward expansion of the Roman Republic after the Second Punic War, which ended in 200 B.C. Two specific periods are covered: the Second Macedonian War (against Philip V), in which Rome laid its claim for control of Greece (albeit in somewhat defensive posture), and the Syrian War (against Antiochus, the Selecuid king), wherein Rome made its first incursions into the Asian continent. The latter Scenario uses both maps in The Conquerors game (that of The Romans along with that of The Macedonians).&amp;#10;&amp;#10;The Macedonians covers the conquests of Alexander the Great.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1977"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="10641" value="Country: Macedonia"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="2055" value="Excalibre Games, Inc."/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="80"/>
+        <average value="6.79"/>
+        <bayesaverage value="5.57097"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7723" bayesaverage="5.57097"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1353" bayesaverage="5.90732"/>
+        </ranks>
+        <stddev value="1.57469"/>
+        <median value="0"/>
+        <owned value="260"/>
+        <trading value="14"/>
+        <wanting value="16"/>
+        <wishing value="35"/>
+        <numcomments value="56"/>
+        <numweights value="12"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

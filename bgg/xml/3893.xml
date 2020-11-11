@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3893">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bk9kZzjnYHK_tMdGwA9WmfUgjN8=/fit-in/200x150/pic11172.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jgPDf_6vIJuAAvs2QgQWgtaJBiE=/0x0/pic11172.jpg</image>
+    <name type="primary" sortindex="1" value="Full Thrust"/>
+    <description>From the Second Edition back cover:&amp;#10;THE Tactical Starship Combat Rules!&amp;#10;Simple, fast-play rules that can be used with any size of starfleet! Basic rules of play can be learned in just a few minutes! No referring to charts or tables required during play!&amp;#10;&amp;#10;This new edition gives you all the fun of the original plus much more:&amp;#10;&amp;#10;    Many new optional rules&amp;#10;    Complete ship contsruction and costing rules&amp;#10;    Campaign rules and battle scenarios&amp;#10;    Fully photo-illustrated&amp;#10;    Background detail and expanded ship statistics&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Recommended Additions:&amp;#10;&amp;#10;    More Thrust: The Full Thrust Supplement &amp;ndash; very useful supplement for the game&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Related to:&amp;#10;&amp;#10;    Dirtside II &amp;ndash; sci-fi ground vehicle combat&amp;#10;    Stargrunt II &amp;ndash; sci-fi ground infantry combat&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="2"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgameexpansion" id="12105" value="Full Thrust Fleet Book: Volume 1 (Warships of the Major Powers – 2183)"/>
+    <link type="boardgameexpansion" id="18595" value="Full Thrust Fleet Book: Volume 2 (The Xeno Files)"/>
+    <link type="boardgameexpansion" id="12107" value="More Thrust: The Full Thrust Supplement"/>
+    <link type="boardgamedesigner" id="1566" value="Jon M. Tuffley"/>
+    <link type="boardgameartist" id="61776" value="Paul Copeland"/>
+    <link type="boardgameartist" id="4054" value="Dave Garnham"/>
+    <link type="boardgameartist" id="59346" value="Barrie Quin"/>
+    <link type="boardgamepublisher" id="905" value="Ground Zero Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="423"/>
+        <average value="7.22803"/>
+        <bayesaverage value="5.91807"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2609" bayesaverage="5.91807"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="311" bayesaverage="6.65722"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="445" bayesaverage="6.12561"/>
+        </ranks>
+        <stddev value="1.41911"/>
+        <median value="0"/>
+        <owned value="704"/>
+        <trading value="6"/>
+        <wanting value="16"/>
+        <wishing value="96"/>
+        <numcomments value="143"/>
+        <numweights value="63"/>
+        <averageweight value="2.619"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

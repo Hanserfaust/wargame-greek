@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="20802">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Lw7burzV_w6hwvCufN5K0CLSYi4=/fit-in/200x150/pic1897429.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8x8TVUfMwm0I7SpMFmPyZvQGbEI=/0x0/pic1897429.jpg</image>
+    <name type="primary" sortindex="1" value="Conquest Europa"/>
+    <description>Conquest Europa is a derivative of Britannia, which deals with the full scope of European history from AD400 (The Fall of the Roman Empire) to AD1480 (The Fall of Constantinople).&amp;#10;&amp;#10;As with Britannia players control various historical factions (Romans, Huns, Mongols, Persians, Poles, Ottomans etc) and gain victory points from pre-defined activities (occupying areas, destroying enemy units etc).&amp;#10;&amp;#10;The game was manufactured as a pre-production evaluation/test version and was never mass produced by a games company. Approximately 20 copies were hand-manufactured between 1989 and 1992.&amp;#10;&amp;#10;25 years on from the first version ... a 2014 Edition is available on BoardGameGeek as PDF download (see below) comprising updated components and some minor rule/scoring changes.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="6"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="600"/>
+    <minplaytime value="600"/>
+    <maxplaytime value="600"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1015" value="Civilization"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="18284" value="Britannia game-system"/>
+    <link type="boardgamedesigner" id="88" value="Roger Heyworth"/>
+    <link type="boardgameartist" id="72988" value="Wallace Nicoll"/>
+    <link type="boardgamepublisher" id="772" value="(Unpublished)"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.34477"/>
+        <median value="0"/>
+        <owned value="14"/>
+        <trading value="1"/>
+        <wanting value="5"/>
+        <wishing value="13"/>
+        <numcomments value="7"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="32546">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kcojEGyD6M1ssM5Zh73tW5zLqTg=/fit-in/200x150/pic262994.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xd49L1U1nNCjvjWI-bKFcwC6sFA=/0x0/pic262994.jpg</image>
+    <name type="primary" sortindex="1" value="Dunbar"/>
+    <description>Fourth wargaming entry in a series of games about the English Civil War, by the same designer/company, it depicts one of the more important victories obtained by Cromwell, this time against the Scots in the so called Third Civil War.&amp;#10;&amp;#10;Using a simple but neat variation on SPI Thirty Years War system (adding a chit drawning activation mechanism for the leader, so making the classic Igo-Ygo system more re-playable and extremely fun even for solitaire play), Dunbar is an easy to learn (4 pages of rules) introductive or lunch-hour challenge boardgame, coming with a 2 A4 full color map and 93 full color counters, with silhouettes of the leaders and the armies that fought this battle.&amp;#10;If the basic system takes in account a no ZOCs movement, combat and morale (victory is based on routing the enemy army), optional rules add facing, command radius and cavalry charges, making the challenge tactically more complex (but still very easy even for a novice to the wargaming world)&amp;#10;&amp;#10;Game is avalaible for print &amp;amp; play through wargamedownloads.com and as a laser-printed DTP through Noble Knight Games, Boulder Games, and directly through the designer.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="2725" value="Pike and Shot"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="33896" value="English Civil War"/>
+    <link type="boardgamefamily" id="4086" value="TCS ECW Series"/>
+    <link type="boardgamedesigner" id="8869" value="Roberto Chiavini"/>
+    <link type="boardgamepublisher" id="6597" value="TCS Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="6.43333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.083"/>
+        <median value="0"/>
+        <owned value="22"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="7"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

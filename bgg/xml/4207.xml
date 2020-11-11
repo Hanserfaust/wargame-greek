@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4207">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_AEb0_PYeYy7yZloDeEPjqOZT2A=/fit-in/200x150/pic2738166.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/cC3U4Jk8jSgZbiwa4hZW5VHE1mA=/0x0/pic2738166.jpg</image>
+    <name type="primary" sortindex="1" value="Kharkov"/>
+    <description>Kharkov: The Soviet Spring Offensive 12 May to 21 May 1942, is a brigade/Division level simulation of the Spring 1942 Soviet strategic offensive.&amp;#10;&amp;#10;Uses the Panzergruppe Guderian system. Situation on the Soviet counter-offensive in Summer 1942. Makes use of untried Soviet units - neither player knows their strength until they enter combat for the first time. Unlike PGG, there are no '0' strength units.&amp;#10;&amp;#10;Typical Eastern Front game with panzers and lots of soviet units.&amp;#10;&amp;#10;Originally published in Strategy &amp;amp; Tactics magazine #68.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: 1 day&amp;#10;Hex: 4.2 miles / 6.9 Kilometers&amp;#10;Units: Regiment to Division&amp;#10;&amp;#10;Game Inventory:&amp;#10;One 22 x 32&amp;quot; four color mapsheet&amp;#10;One dual-side printed countersheet (200 1/2&amp;quot; counters)&amp;#10;One 8-page rulebook&amp;#10;One 6-sided dice&amp;#10;&amp;#10;Solitaire Playability: Medium&amp;#10;Complexity Level: Medium&amp;#10;Players: 2 or more&amp;#10;Playing Time: 4-15&amp;#10;&amp;#10;</description>
+    <yearpublished value="1978"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="18685" value="Cities: Kharkov"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamefamily" id="23116" value="Panzergruppe Guderian System"/>
+    <link type="boardgamedesigner" id="2970" value="Stephen B. Patrick"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="205"/>
+        <average value="6.6"/>
+        <bayesaverage value="5.63503"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5539" bayesaverage="5.63503"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="981" bayesaverage="6.06411"/>
+        </ranks>
+        <stddev value="1.24645"/>
+        <median value="0"/>
+        <owned value="743"/>
+        <trading value="38"/>
+        <wanting value="9"/>
+        <wishing value="19"/>
+        <numcomments value="137"/>
+        <numweights value="33"/>
+        <averageweight value="2.5758"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

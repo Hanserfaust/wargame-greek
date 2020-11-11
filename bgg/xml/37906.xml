@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="37906">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HniMEaquK4R46Zp9ICWVuHE4S7w=/fit-in/200x150/pic2258249.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/es6NlpvQKuJ-KKzrXjgmZYHixC4=/0x0/pic2258249.jpg</image>
+    <name type="primary" sortindex="1" value="Firestorm Armada"/>
+    <description>This is an action packed game of starship combat set within the boundaries of the Firestorm Universe. War has erupted in the space surrounding the Terran Worlds and nothing looks set to stop the Invaders. Race after race has been plunged into the abyss of the conflict and no one race has so far been able to stop the invaders. Now the Terran Alliance has been forced to react with the full capability of its military machine.&amp;#10;&amp;#10;You control powerful fleets of frigates, cruisers, battleships and transport ships as you fight as a Terran commander, an Invading fleet commander or one of the outlying star systems that has allied itself with the Terrans to combat the threat.&amp;#10;&amp;#10;Models are primarily resin with some white metal components. A full color rule book supports the models, along with decks of game cards, templates, tokens, historical background documents and much, much more.&amp;#10;&amp;#10;Who will you be? A defender or an invader...&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="3"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="131" value="No necessary in-game text" numvotes="0"/>
+        <result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="135" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="19340" value="Firestorm Galaxy"/>
+    <link type="boardgameexpansion" id="174038" value="Firestorm Armada: Stormzone – Return of the Overseers"/>
+    <link type="boardgameexpansion" id="132255" value="Marauders of the Rift"/>
+    <link type="boardgameintegration" id="174038" value="Firestorm Armada: Stormzone – Return of the Overseers"/>
+    <link type="boardgameintegration" id="192392" value="Firestorm Taskforce Starter Set: Aquan Prime vs. The Directorate"/>
+    <link type="boardgameintegration" id="192393" value="Firestorm Taskforce Starter Set: Sorylian Collective vs. The Relthoza"/>
+    <link type="boardgameintegration" id="192394" value="Firestorm Taskforce Starter Set: Terran Alliance vs. Dindrenzi Federation"/>
+    <link type="boardgamedesigner" id="10837" value="Neil Fawcett"/>
+    <link type="boardgamedesigner" id="85629" value="Michael Hetherington"/>
+    <link type="boardgamedesigner" id="43978" value="Alain Padfield"/>
+    <link type="boardgamedesigner" id="85628" value="Franco Sammarco"/>
+    <link type="boardgamedesigner" id="85601" value="Derek Sinclair"/>
+    <link type="boardgamedesigner" id="85631" value="Christopher Worth"/>
+    <link type="boardgameartist" id="43979" value="Chris Drew"/>
+    <link type="boardgameartist" id="10837" value="Neil Fawcett"/>
+    <link type="boardgameartist" id="53075" value="Josh Finney"/>
+    <link type="boardgameartist" id="90934" value="David Kidd"/>
+    <link type="boardgameartist" id="75756" value="Jonathan La Trobe-Lewis"/>
+    <link type="boardgameartist" id="75758" value="Christopher Peacey"/>
+    <link type="boardgameartist" id="75759" value="Sally Taylor"/>
+    <link type="boardgameartist" id="29106" value="Adrian Walters"/>
+    <link type="boardgamepublisher" id="8531" value="Spartan Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="166"/>
+        <average value="7.24789"/>
+        <bayesaverage value="5.67872"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4678" bayesaverage="5.67872"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="713" bayesaverage="6.23125"/>
+        </ranks>
+        <stddev value="1.44439"/>
+        <median value="0"/>
+        <owned value="380"/>
+        <trading value="17"/>
+        <wanting value="10"/>
+        <wishing value="56"/>
+        <numcomments value="56"/>
+        <numweights value="28"/>
+        <averageweight value="3.0357"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

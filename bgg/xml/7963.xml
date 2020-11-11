@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7963">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/F--EXNQ_34cTLV7HWPCtQkbbIYU=/fit-in/200x150/pic33530.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/70U0qtS_sd5c0OE99yeplp-HfHc=/0x0/pic33530.jpg</image>
+    <name type="primary" sortindex="1" value="Clash of Steel"/>
+    <description>A double-blind wargame published in The Wargamer Magazine #31. This corps level game of the Russian Front in World War II uses the same map as 3W's earlier Sturm Nach Osten (also designed by Coatney).&amp;#10;&amp;#10;The double-blind system uses two maps so neither player can see the units of his opponent. Movement is handled by calling out hex numbers when a unit enters into &amp;quot;enemy territory&amp;quot;. Players use markers to show the location of enemy units.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="56938" value="Hidden Movement"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="1570" value="Lou Coatney"/>
+    <link type="boardgamedesigner" id="20072" value="Larry Hoffman"/>
+    <link type="boardgamedesigner" id="621" value="Keith Poulter"/>
+    <link type="boardgameartist" id="49873" value="Margaret Bond"/>
+    <link type="boardgameartist" id="49977" value="Howard Bond"/>
+    <link type="boardgameartist" id="28547" value="Jan French Johns"/>
+    <link type="boardgameartist" id="49874" value="Rob Sexton"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="56"/>
+        <average value="5.7125"/>
+        <bayesaverage value="5.50225"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14180" bayesaverage="5.50225"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2721" bayesaverage="5.51421"/>
+        </ranks>
+        <stddev value="1.70378"/>
+        <median value="0"/>
+        <owned value="268"/>
+        <trading value="27"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="47"/>
+        <numweights value="13"/>
+        <averageweight value="3.2308"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

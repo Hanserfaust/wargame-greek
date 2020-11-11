@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="26306">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZOTcDaFwedliZHppsW4chidu300=/fit-in/200x150/pic158603.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WRzSLcpLSfop1K3HvdHZESZBlbw=/0x0/pic158603.jpg</image>
+    <name type="primary" sortindex="1" value="Vietnam Solitaire"/>
+    <description>Vietnam Solitaire puts the player in the shoes of the South Vietnamese army as they fight off the communists in the 60s and 70s. The player will control units representing ARVN, US Regulars, US Air-Cav, Napalm, B52s and Special Forces fighting against a simulated North Vietnamese &amp;amp; Viet Cong enemy.&amp;#10;&amp;#10;The game is designed to be fast-play (approx. 60-90 minutes per game). The components consist of rules, 56 counters and a map of South Vietnam.&amp;#10;&amp;#10;The game has been extensively play-tested and offers a good challenge to experienced and novice players alike&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10618" value="Country: Vietnam"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="148471" value="Vietnam Solitaire Special Edition"/>
+    <link type="boardgamedesigner" id="5043" value="David Kershaw"/>
+    <link type="boardgamepublisher" id="10470" value="DK Simulations"/>
+    <link type="boardgamepublisher" id="5516" value="wargamedownloads.com"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="6.83947"/>
+        <bayesaverage value="5.53099"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10921" bayesaverage="5.53099"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2053" bayesaverage="5.71398"/>
+        </ranks>
+        <stddev value="1.21861"/>
+        <median value="0"/>
+        <owned value="100"/>
+        <trading value="2"/>
+        <wanting value="6"/>
+        <wishing value="35"/>
+        <numcomments value="26"/>
+        <numweights value="10"/>
+        <averageweight value="2.3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="28695">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/n1bKohLBCceFP76bbw_ETmaPfK0=/fit-in/200x150/pic195554.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4KV68UwIjSk6sMTeeKtpfH7zS2o=/0x0/pic195554.jpg</image>
+    <name type="primary" sortindex="1" value="When Hell Froze Over (Stalingrad, 1942)"/>
+    <description>When Hell Froze Over is an operational level simulation of the Soviet counter-offensive around the city of Stalingrad in November 1942. Codenamed Operation Uranus, this offensive saw massive thrusts both to the North and South the city itself. Utilizing vast reserves of men and armor that the Germans where unaware of, these two thrusts penetrated deep behind Axis lines causing the German 6th Army to become pinched off, encircled and ultimately doomed. This simulation offers players two scenarios; Firstly the initial stages of Operation Uranus demonstrating the first chaotic days of the Soviet assault, Secondly there is a scenario simulating the ensuing efforts of the Germans to relieve the pocket whilst the Soviets strive to collapse it.&amp;#10;&amp;#10;Game Components:&amp;#10;&amp;#10;- Map board &amp;#10;- Sheet of Counters &amp;#10;- Game Markers&amp;#10;- Rules Booklet&amp;#10;- Scenario Leaflet&amp;#10;- Player Aid Sheet&amp;#10;- One 6 sided die&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="18581" value="Country: Soviet Union"/>
+    <link type="boardgamedesigner" id="8527" value="David Hiley"/>
+    <link type="boardgamepublisher" id="6691" value="King’s College"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="8.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.5"/>
+        <median value="0"/>
+        <owned value="13"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="1"/>
+        <numweights value="2"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

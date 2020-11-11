@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9907">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/vsKb02L60BlX6IQi3Y7CC9Xmy6s=/fit-in/200x150/pic47655.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sfBlBIZMJ8Gpp1vOUqpsF6UIcMs=/0x0/pic47655.jpg</image>
+    <name type="primary" sortindex="1" value="Kharkov 1943"/>
+    <description>Vae Victis issue 25.  This game covers the operations &amp;quot;Star&amp;quot; and &amp;quot;Gallop&amp;quot; around Kharkov in February-March 1943.  The game uses a variation of the system used in issue 13 for Arnhem.  The focus of the game system is on initiative and command, with alternating formation activations (i.e., the German player activates one General's command, then the Soviet player activates one General's command, and repeat until all the units are activated).  This is one of Vae Victis's larger games in terms of counters and markers, but still fits on the standard VV map (which is far smaller than the typical ca. 2' x 3' American wargame map).&amp;#10;&amp;#10;This issue also includes counters for a scenario for &amp;quot;Caesar: Conquest of Gaul,&amp;quot; the batte of Sos.&amp;#10;&amp;#10;As with all Vae Victis games, the counters need to be cut out and mounted.  The rules are entirely in French, although translations are available online.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9825" value="Magazine: Vae Victis"/>
+    <link type="boardgamefamily" id="17599" value="VaeVictis WWII Operational series"/>
+    <link type="boardgamedesigner" id="1010" value="Nicolas Stratigos"/>
+    <link type="boardgameartist" id="42958" value="Didier Bourgeois"/>
+    <link type="boardgameartist" id="42946" value="Christophe Camilotte"/>
+    <link type="boardgameartist" id="8456" value="Morgan Gillard"/>
+    <link type="boardgamepublisher" id="540" value="Vae Victis"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="6.65385"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.09868"/>
+        <median value="0"/>
+        <owned value="200"/>
+        <trading value="6"/>
+        <wanting value="2"/>
+        <wishing value="1"/>
+        <numcomments value="20"/>
+        <numweights value="6"/>
+        <averageweight value="3.1667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

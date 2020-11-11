@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8708">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/YKirhLZcs8JctKxzby-z55crZ-w=/fit-in/200x150/pic52904.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-nKvM0ZUmYQJ-mpCbryTw_OGK0A=/0x0/pic52904.jpg</image>
+    <name type="primary" sortindex="1" value="1944"/>
+    <description>&amp;quot;1944 is an historical simulation game of the World War II D-Day landings and the events which followed it. It place you in command of the armies and offers you the chance to duplicate or even change history. Actually, 1944 is three different game in one: the Historical Game (the actual 1944 invasion), the Bolero &amp;quot;Mini-Game&amp;quot; (a hypothetical 1942 landing in France) and the &amp;quot;Overlord '43 Mini-Game&amp;quot; (a proposed invasion for 1943).&amp;quot;&amp;#10;&amp;#10;Full-size hex-map of France, white with blue, green, black and gray coloring. 92 avocado-green Allied counters, and 90 'Luftwaffe-blue' German counters. Rules seem to be on the low complexity side about like the early AH and SPI-Quad games.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1972"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="2458" value="Laurence J. Rusiecki"/>
+    <link type="boardgamepublisher" id="4172" value="Histo Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="5.86111"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.01077"/>
+        <median value="0"/>
+        <owned value="30"/>
+        <trading value="0"/>
+        <wanting value="4"/>
+        <wishing value="2"/>
+        <numcomments value="6"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

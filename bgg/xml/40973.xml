@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="40973">
+    <name type="primary" sortindex="1" value="Basic Baroque"/>
+    <description>Basic Baroque is a miniature wargame. It uses the same simple but effective engine as Basic Impetus and expands it for the late Renaissance, eg. the period from about 1600 to 1700. So it can be used for the English Civil War and the Thirty Years War.&amp;#10;&amp;#10;Armies are of very small size (about 8 to 12 bases, each of about 4 to 20 figures). It uses a &amp;quot;big bases&amp;quot; approach to give the players the option of making diorama style playing pieces.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1070" value="Renaissance"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgameexpansion" id="229712" value="Baroque"/>
+    <link type="boardgameexpansion" id="36604" value="Basic Impetus" inbound="true"/>
+    <link type="boardgamedesigner" id="10633" value="Lorenzo Sartori"/>
+    <link type="boardgamepublisher" id="8363" value="Dadi &amp; Piombo"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="4"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

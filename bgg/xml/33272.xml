@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="33272">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bWa2DspCV_V44iBQcKUfmospKtE=/fit-in/200x150/pic274863.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qceEb5K2iPHCSU9gDwmXIZnWRi0=/0x0/pic274863.jpg</image>
+    <name type="primary" sortindex="1" value="Rommel: The Campaign for North Africa"/>
+    <description>Rommel: The Campaign for North Africa by Loren F. Sperry, self published.&amp;#10;&amp;#10;1 22&amp;quot; x 34&amp;quot; map of the campaign area from El Agheila to just east of El Alamein. Turn scale is 3 turns to the month from Sept 1940 to Dec 1942. 252 1/2 counters (very thin perforated cardboard) represent the divisions, regiments, brigades and strength breakdown counters.&amp;#10;&amp;#10;Game play is a simple move then fight. Supply is a bit tougher in that all units must be with 5 hexes of a supply unit, which are expended for combat.&amp;#10;&amp;#10;There are some chrome rules, minefields, fortifications, recon units.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="9760" value="Loren F. Sperry"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="6.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.5"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="4"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

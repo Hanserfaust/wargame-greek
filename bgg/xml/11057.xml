@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11057">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/zKgqK2lC59v9Cmvsi9_El7y6o_g=/fit-in/200x150/pic45327.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/uHeSCMrrAMU48rsAm9zMk7_7MeI=/0x0/pic45327.jpg</image>
+    <name type="primary" sortindex="5" value="The Great Battles of Alexander: Deluxe Edition"/>
+    <description>The Great Battles of Alexander: Deluxe Edition, the updated, expanded, full-color-enhanced version of the best-selling, multi-award-winning game system that started the Great Battles of History series, includes new game counters, maps, packaging, battles, and scenarios that cover all the major battles from the original game and the Juggernaut module, plus five additional battles ... ten in all. The Great Battles of Alexander: Deluxe Edition is virtually the complete history of Alexander the Great and the Macedonian art of war.&amp;#10;&amp;#10;Game features:&amp;#10;&amp;#10;     Third Edition rules, with many changes and additions &amp;#10;     New maps for The Granicus and Chaeronea, plus an expanded Gaugamela map &amp;#10;     Armies for the Danubian tribes, Illyrians, Greeks, Persians, Scythians, and Indians &amp;#10;     Eighteen new Macedonian Commanders &amp;#10;     New Restricted Line Command system for Persians, Indians and Greeks &amp;#10;     Wing Commanders and Macedonian Contingent Commanders &amp;#10;     Cavalry Shock Formations: The Companion Wedge and the Thessalian Diamond &amp;#10;     The Persian Immortals and Kinsmen, Macedonian artillery, cataphracted cavalry ... and cataphracted elephants!&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;     720 full-color two-sided counters (43 full-color two-sided double-size counters)&amp;#10;     Three full-color double-sided 22x34&amp;quot; map sheets&amp;#10;     One 10-sided die &amp;#10;     32-page Rule Book &amp;#10;     24-page Scenario Book &amp;#10;     Player Aid Cards: Two 8.5x11&amp;quot; cards showing game charts &amp;amp; tables&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;TIME SCALE: 20 minutes per turn &amp;#10;MAP SCALE: 70 yards per hex &amp;#10;UNIT SCALE: 100 men per strength point &amp;#10;NUMBER OF PLAYERS: One to four&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="9"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="13"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="10641" value="Country: Macedonia"/>
+    <link type="boardgamefamily" id="3253" value="GBOH: Great Battles of Alexander"/>
+    <link type="boardgamefamily" id="120" value="Great Battles of History"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="113603" value="Alexander the Great in Italy"/>
+    <link type="boardgameexpansion" id="132202" value="The Battle of Marathon, 490 B.C."/>
+    <link type="boardgameexpansion" id="7504" value="Diadochoi: Great Battles of Alexander Module"/>
+    <link type="boardgameexpansion" id="42190" value="The Great Battles of Epaminondas"/>
+    <link type="boardgameexpansion" id="42197" value="Great Battles of the Achaemenidae"/>
+    <link type="boardgameexpansion" id="7505" value="Phalanx: Great Battles of Alexander Module"/>
+    <link type="boardgameexpansion" id="113600" value="Philip the Great"/>
+    <link type="boardgameexpansion" id="1347" value="Simple GBoH"/>
+    <link type="boardgameexpansion" id="8485" value="Tyrant: Battles of Carthage versus Syracuse"/>
+    <link type="boardgameimplementation" id="176596" value="The Great Battles of Alexander: Macedonian Art of War"/>
+    <link type="boardgameimplementation" id="21551" value="SPQR (Deluxe Edition)"/>
+    <link type="boardgameimplementation" id="5233" value="The Great Battles of Alexander" inbound="true"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgamedesigner" id="152" value="Mark Herman"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="652"/>
+        <average value="7.7276"/>
+        <bayesaverage value="6.21679"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1521" bayesaverage="6.21679"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="79" bayesaverage="7.23036"/>
+        </ranks>
+        <stddev value="1.44806"/>
+        <median value="0"/>
+        <owned value="1792"/>
+        <trading value="51"/>
+        <wanting value="60"/>
+        <wishing value="239"/>
+        <numcomments value="294"/>
+        <numweights value="115"/>
+        <averageweight value="3.6087"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

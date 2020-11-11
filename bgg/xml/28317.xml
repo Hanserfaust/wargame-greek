@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="28317">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Syr3HICk64t3wBPzsZlSe4svpKI=/fit-in/200x150/pic189869.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8rf4udAAi_VwKf6zrR_JHV2HBPA=/0x0/pic189869.jpg</image>
+    <name type="primary" sortindex="4" value="De Bellis Fantasticus: Here There Be Dragons"/>
+    <name type="alternate" sortindex="1" value="DBF"/>
+    <description>This is a supplement for the De Bellis Multitudinis miniature wargame rules. It adds rules and army lists to add fantasy elements similar to how Hordes of the Things (HOTT) added these to De Bellis Antiquitatis (DBA). The three categories of army lists are Popular (Warhammer), Mythology, and Traditional (Tolkien).&amp;#10;&amp;#10;Expands&amp;#10;&amp;#10;    De Bellis Multitudinis&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1082" value="Mythology"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="7005" value="Animals: Dragons"/>
+    <link type="boardgamefamily" id="6324" value="DBx"/>
+    <link type="boardgameexpansion" id="8495" value="De Bellis Multitudinis" inbound="true"/>
+    <link type="boardgamedesigner" id="8429" value="Peter Denham"/>
+    <link type="boardgamedesigner" id="8428" value="Madan M. Mitra"/>
+    <link type="boardgamepublisher" id="6624" value="Keep Wargaming"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="6.7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.13542"/>
+        <median value="0"/>
+        <owned value="30"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

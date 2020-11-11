@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="40929">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/jHDWaZBdm11x9Q_jnW8C-Cz95zE=/fit-in/200x150/pic446072.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/K2LhHCIP9MxWUovUknqLenMc8hg=/0x0/pic446072.jpg</image>
+    <name type="primary" sortindex="4" value="El juego de la guerra de los golpistas"/>
+    <description>The Spanish transition lived through three attempts at a Coup D'Etat. The game focuses on the last  attempt at a Coup D'Etat that occurred on the 27th of October, 1982 during which the Coup participants were arrested and judged. &amp;#10;At the 14 of April of 1984 sentencing, seized documents from the Coup participants showed a detailed plan to isolate Madrid and to occupy the key points of the city. These documents were submitted as evidence. The defense claimed that they were based on theoretical exercises of wargames that were standard practice at the military academy.&amp;#10; The game designed by Rafael Diez and published by the magazine Tiempo the 7/5/1984 is based on these documents.&amp;#10;&amp;#10;&amp;#10;La transici&amp;oacute;n espa&amp;ntilde;ola vivi&amp;oacute; tres intentos de golpe de estado, el juego se centra en el &amp;uacute;ltimo intento de golpe de estado que se ten&amp;iacute;a que realizar el 27 de octubre de 1982, los golpistas fueron detenidos y juzgados.&amp;#10;El 14 de Abril de 1984 se dicto sentencia, entre los documentos incautados a los golpistas exist&amp;iacute;a un plan detallado para aislar Madrid y ocupar los puntos clave de la ciudad. Estos documentos fueron presentados como pruebas y la defensa alego que eran ejercicios te&amp;oacute;ricos basados en los wargames que son de pr&amp;aacute;ctica habitual en la academia militar.&amp;#10;El juego dise&amp;ntilde;ado por Rafael Diez y publicado por la revista Tiempo el 7/5/1984 se basa en estos documentos.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="4309" value="Rafael  Diez"/>
+    <link type="boardgamepublisher" id="9259" value="Tiempo"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="1"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

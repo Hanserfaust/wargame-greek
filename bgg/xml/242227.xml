@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="242227">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dTWGSBEPi18658TZ0ymUMwuWJz8=/fit-in/200x150/pic4018177.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SoDPRJQ6X6fHunEuJ8I8YERaakM=/0x0/pic4018177.png</image>
+    <name type="primary" sortindex="1" value="Nightfighter Ace: Air Defense Over Germany, 1943-44"/>
+    <description>Nightfighter Ace, Air Defense Over Germany, 1943-44 is a solitaire, tactical level game which places you in command of a German Nightfighter during World War II. Each turn consists of several days, during which a combat mission will be flown from one of many bases in Europe, attempting to intercept incoming British Bombers. Nightfighter Ace is based on the popular, action-packed Hunters game system by Gregory M. Smith with a strong narrative around the pilot as you look to increase your prestige, earn skills, and rise in rank through promotion and receive awards.&amp;#10;&amp;#10;The objective of the game is to conduct numerous sorties in the role of a German Nightfighter pilot and rack up kills. Pilots may use the experience gained to improve their odds of success by purchasing skills. As their prestige increases, they may request a transfer to other nightfighter bases in an attempt to get &amp;quot;closer to the action&amp;quot; or request a newer type of nightfighter. Awards and ace status help to narrate the player's eventual goal &amp;ndash; to become the top nightfighter ace of the war.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="4"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="269456" value="Interceptor Ace: Daylight Air Defense Over Germany, 1943-44"/>
+    <link type="boardgamedesigner" id="55910" value="Gregory M. Smith"/>
+    <link type="boardgamedesigner" id="107446" value="Joe Gandara"/>
+    <link type="boardgameartist" id="11322" value="Knut Grünitz"/>
+    <link type="boardgameartist" id="23441" value="Terry Leeds"/>
+    <link type="boardgamepublisher" id="3929" value="Compass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="104"/>
+        <average value="8.28558"/>
+        <bayesaverage value="5.65065"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5189" bayesaverage="5.65065"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="660" bayesaverage="6.26825"/>
+        </ranks>
+        <stddev value="1.40558"/>
+        <median value="0"/>
+        <owned value="313"/>
+        <trading value="4"/>
+        <wanting value="35"/>
+        <wishing value="135"/>
+        <numcomments value="48"/>
+        <numweights value="9"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

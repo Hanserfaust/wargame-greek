@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17644">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/NvaNkOOOlc_yYHu8ybJsatTMZBY=/fit-in/200x150/pic450703.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7BHdP3lfpO7F9_w4NHhHcSNBqlc=/0x0/pic450703.jpg</image>
+    <name type="primary" sortindex="1" value="Rebels &amp; Redcoats: Volume II"/>
+    <name type="alternate" sortindex="1" value="Rebels &amp; Redcoats: Complete Collection (Volumes I-III)"/>
+    <description>Volume II in the Rebels &amp;amp; Recoats series.  The Game covers the Saratoga Campaign and the Souther Campaign of the American Revolution and includes twelve different battles.  The battle scenarios are:&amp;#10;&amp;#10;Saratoga Campaign&amp;#10;&amp;#10;    Bennington&amp;#10;    Freeman's Farm&amp;#10;    Bemis Heights&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Southern Campaign&amp;#10;&amp;#10;    Camden&amp;#10;    Cowpens&amp;#10;    Guilford Court House&amp;#10;    Hobkirk's Hill&amp;#10;    Eutaw Springs&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Game includes: 360 counters, 2 22&amp;quot; x 34&amp;quot; mapsheets, 16-page rules booklet, 2 player aid cards, and 1 d-10.  Game relies on a fairly simple sequence of play to recreate 18th Century linear warfare:&amp;#10;&amp;#10;&amp;#10;     Command Segment&amp;#10;     Bombardment Segment&amp;#10;     Reinforcement Segment&amp;#10;     Movement Segment&amp;#10;     Assault Segment&amp;#10;     Rally Segment&amp;#10;&amp;#10;&amp;#10;Also includes separate rules for light infantry and dragoons as well as scenario specific rules.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1075" value="American Revolutionary War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3248" value="Rebels &amp; Redcoats"/>
+    <link type="boardgamedesigner" id="1744" value="Christopher Cummins"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="20455" value="Dale Gallon"/>
+    <link type="boardgameartist" id="20435" value="Christine Lockwood"/>
+    <link type="boardgameartist" id="1256" value="David McElhannon"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <link type="boardgamepublisher" id="1063" value="Overlord Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="6.58421"/>
+        <bayesaverage value="5.52765"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11317" bayesaverage="5.52765"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2145" bayesaverage="5.68912"/>
+        </ranks>
+        <stddev value="1.28504"/>
+        <median value="0"/>
+        <owned value="184"/>
+        <trading value="7"/>
+        <wanting value="4"/>
+        <wishing value="13"/>
+        <numcomments value="21"/>
+        <numweights value="7"/>
+        <averageweight value="2.7143"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

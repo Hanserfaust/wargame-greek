@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12775">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4RvJWBXb6y035fuJIHUZQD90aa8=/fit-in/200x150/pic52618.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RysO3VTuG-6lQpH6L6x_dN2AiXs=/0x0/pic52618.jpg</image>
+    <name type="primary" sortindex="1" value="Zulu: Naka"/>
+    <description>Zulu battle of Naka is one of the series of games put out in the late seventies by Bearhug Publications...&amp;#10;It is a small map small counter game that can be played in less than an hour.&amp;#10;It has a nicely old style brown coloration style map but is fairly bare in regards to terrain..the counters represent the Army of Shaka Zulu and the opposing tribes that the emerging Zulu army machine fought and defeated on the war to the short lived Zulu empire.  The counters are on solid cardstock and show shields as the main figure.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="1"/>
+    <minplaytime value="1"/>
+    <maxplaytime value="1"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11066" value="Zulu Games by Bearhug Publications"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1625" value="Bearhug Publications"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="5.16667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.687184"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="1"/>
+        <wanting value="3"/>
+        <wishing value="3"/>
+        <numcomments value="6"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

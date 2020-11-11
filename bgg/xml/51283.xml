@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="51283">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/j52DeaehPgDuYa2u1s0hZ59kISU=/fit-in/200x150/pic1482090.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lSQ9gaNM78duT3hBYDsiuzNq6BA=/0x0/pic1482090.jpg</image>
+    <name type="primary" sortindex="1" value="Remagen Bridgehead: Americans over the Rhine 1945"/>
+    <name type="alternate" sortindex="1" value="Remagen Bridgehead: Americans Cross the Rhine, March 1945"/>
+    <description>Solitaire game based on the American seizure of the intact bridge over the Rhine, and its aftermath.  Each turn of the game represents two days of real time, beginning on March 7 1945 as elements of the US 9th Armored Division forced its way across a damaged, but still standing, Ludendorff Bridge spanning the Rhine.&amp;#10;&amp;#10;The game comes with a small map, 63 counters, and rules.  Although the rules do not explicitly say so, it appears the game requires two six-sided dice.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="27468" value="Cities: Remagen"/>
+    <link type="boardgamefamily" id="12671" value="Magazine: Panzer Digest"/>
+    <link type="boardgamedesigner" id="40875" value="Simon Boyd-Taylor"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="6.1125"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.49371"/>
+        <median value="0"/>
+        <owned value="51"/>
+        <trading value="3"/>
+        <wanting value="2"/>
+        <wishing value="6"/>
+        <numcomments value="7"/>
+        <numweights value="2"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

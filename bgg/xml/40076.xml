@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="40076">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-rHnIf2cVyZBGsHONLamzv0BZig=/fit-in/200x150/pic587959.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1o6VXBovClcKYf8HL2cedgO97NQ=/0x0/pic587959.jpg</image>
+    <name type="primary" sortindex="1" value="Ponyri"/>
+    <description>From the publisher's website:&amp;#10;&amp;#10;Ponyri is a Blood &amp;amp; Steel system game designed by Paul Rohrbaugh and is an extension of the highly successful Blood &amp; Steel folio game on the battle of Kursk.&amp;#10;&amp;#10;Ponyri Station is a simulation of the armored clashes between XLI Panzer Corps and the defending Soviet forces near the small town of Ponyri, reflecting the high water mark of the German Kursk campaign.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Blood &amp; Steel&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="12902" value="Blood and Steel series"/>
+    <link type="boardgameexpansion" id="11292" value="Blood &amp; Steel" inbound="true"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="3095" value="Art Lupinacci"/>
+    <link type="boardgamepublisher" id="2069" value="L2 Design Group"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="6.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.661438"/>
+        <median value="0"/>
+        <owned value="68"/>
+        <trading value="4"/>
+        <wanting value="3"/>
+        <wishing value="3"/>
+        <numcomments value="11"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

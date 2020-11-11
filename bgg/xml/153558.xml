@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="153558">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0D7MfTeRRR9u2YIRSdOBbwiFymk=/fit-in/200x150/pic2547237.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2Vu9Gl_PhQeBlM-2ZKfLghzI--4=/0x0/pic2547237.jpg</image>
+    <name type="primary" sortindex="1" value="Band of Brothers: Texas Arrows"/>
+    <description>Band of Brothers: Texas Arrows is the third game in the Band of Brothers series of WW2 tactical games.  It follows the US 36th Infantry Division through Italy, France, and Germany during WW2.  First line and elite US Infantry squads are introduced.  In twelve scenarios, they face a mixture of opposition forces including second line Germans, first line Germans, and Panzergrenadiers.  New vehicles make an appearance as well.&amp;#10;&amp;#10;Texas Arrows uses the same streamlined proficiency system introduced in Band of Brothers: Ghost Panzer.  Ownership of both Screaming Eagles and Ghost Panzer is required to play. (E.g. every scenario require some maps or counters from GP.)&amp;#10;&amp;#10;The initial print run also includes 2 sheets of counters that update all the 1st edition Screaming Eagles unit counters to the 2nd edition updated proficiency system introduced in Ghost Panzer.&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;- 2 Sheets of 7/8&amp;quot; counters to update Screaming Eagles &amp;#10;- 1 Sheet of 7/8&amp;quot; counters introducing new units&amp;#10;- 2 Maps&amp;#10;- Scenario book with 12 scenarios&amp;#10;- 1 page of additional rules&amp;#10;- 1 Player Aid Card&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="0"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="10" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="22797" value="Band of Brothers"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="43676" value="States: Texas"/>
+    <link type="boardgameexpansion" id="207318" value="Band of Brothers: Battle Manual"/>
+    <link type="boardgameexpansion" id="129122" value="Band of Brothers: Ghost Panzer" inbound="true"/>
+    <link type="boardgameexpansion" id="41429" value="Band of Brothers: Screaming Eagles" inbound="true"/>
+    <link type="boardgamedesigner" id="73049" value="Beresford Dickens"/>
+    <link type="boardgamedesigner" id="9719" value="Jim Krohn"/>
+    <link type="boardgameartist" id="94412" value="Michael Evans (II)"/>
+    <link type="boardgameartist" id="94395" value="Christopher Ono"/>
+    <link type="boardgamepublisher" id="26659" value="Worthington Publishing, LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="85"/>
+        <average value="8.34649"/>
+        <bayesaverage value="5.66761"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.66761"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.41591"/>
+        </ranks>
+        <stddev value="1.30276"/>
+        <median value="0"/>
+        <owned value="612"/>
+        <trading value="28"/>
+        <wanting value="16"/>
+        <wishing value="66"/>
+        <numcomments value="47"/>
+        <numweights value="4"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

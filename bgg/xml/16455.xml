@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16455">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mHbjjR50mx3a8Lag7NXoinw2MM0=/fit-in/200x150/pic98275.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SccVqnqv_8xJ-l4s_Q3vUhhv6rw=/0x0/pic98275.jpg</image>
+    <name type="primary" sortindex="1" value="Montebello 1800"/>
+    <description>On June 9th 1800 Ott, with 17 000 men et 35 guns, met Lannes in front of Casteggio. The French, outnumbered 3 to 1, fell back, but Victr's division of 6000 men arrived just in time to check the Austrians assault.Lannes swung over the attack and in a sharp fight, routed Ott, who suffered 4000 casualties. French losses totaled 500. Lannes later became the Duc de Montebello.&amp;#10;&amp;#10;Montebello 1800 is the sixth battle of the &amp;quot;Jours de Gloire&amp;quot; series, which is dedicated to the celebration of Napol&amp;eacute;on's victories 200th anniversary .&amp;#10;&amp;#10;Contents:&amp;#10;1 rules and scenario booklet with historical notes&amp;#10;1 A3x2 map -180 counters (counters need to be cut out and mounted)&amp;#10;1 color Player Aid Card&amp;#10;&amp;#10;Available in French, English and Italian.&amp;#10;&amp;#10;As with all Vae Victis games, the counters need to be cut out and mounted. The rules are entirely in French, although translations are available online.&amp;#10;&amp;#10;SYSTEM: Jours de Gloire Series (JDG) &amp;#10;- scale = 297 m/hex; &amp;#10;- time = 75 min/GT; &amp;#10;- strength = 200 men/SP.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="4272" value="Jours de Gloire Series"/>
+    <link type="boardgameimplementation" id="223669" value="Early Glories"/>
+    <link type="boardgamedesigner" id="1358" value="Frédéric Bey"/>
+    <link type="boardgameartist" id="3290" value="Pascal da Silva"/>
+    <link type="boardgamepublisher" id="3163" value="Canons en Carton"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="7.59559"/>
+        <bayesaverage value="5.54754"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9323" bayesaverage="5.54754"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1627" bayesaverage="5.83448"/>
+        </ranks>
+        <stddev value="1.15684"/>
+        <median value="0"/>
+        <owned value="88"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="8"/>
+        <numcomments value="17"/>
+        <numweights value="9"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

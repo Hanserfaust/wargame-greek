@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="144472">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qP46yEku85on1ET6mUHL4KkqFFM=/fit-in/200x150/pic1703608.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iaiGDCJ3qdez82hc6XXeuUTLjQI=/0x0/pic1703608.jpg</image>
+    <name type="primary" sortindex="5" value="The Battle of Midway 1942 AD"/>
+    <description>From the publisher's website:&amp;#10;&amp;#10;The selections of some of the &amp;ldquo;decisive battles&amp;rdquo; have sparked conversations over the years. Vicksburg over Gettysburg? The Metarus over Zama? Syracuse?&amp;#10;&amp;#10;No one has ever questioned the selection of Midway as the decisive battle of the Pacific War. All agree that this one changed everything, as the Japanese plan to &amp;ldquo;lure&amp;rdquo; the remaining US fleet to its destruction led to a strategic defeat, due to code breaking, heroism, and remarkable timing.&amp;#10;&amp;#10;Now you can play out this exciting battle and see if you can do better. The Battle of Midway, June 3-6, 1942 gives you all the parts you need to gain insight into the questions facing both sides. Paul Rohrbaugh&amp;rsquo;s design blends clean simplicity with a fine level of detail (even accounting for the Japanese planes intended to be assembled and used on the captured island!). It includes an overview map-board of the area, an off-map battle board, and a variant map with Midway in detail, where, for the first time, you can pursue the actual Japanese invasion of the island and see what might have been.&amp;#10;&amp;#10;Rules cover battles in the air, planes versus ships and versus land, surface to surface, submarines, seaplanes, and more, all in rules designed to be fast, combined with challenges that encourage replay.&amp;#10;&amp;#10;You know the history.&amp;#10;&amp;#10;Now, see if you can change it.&amp;#10;Part of the TPS &amp;quot;Decisive Battles&amp;quot; series&amp;#10;&amp;#10;That means straightforward rules, key insights into the history behind the game, and designs aimed at one-session conclusions and high replay value.&amp;quot;&amp;#10;&amp;#10;The Battle of Midway 1942 AD includes:&amp;#10;&amp;bull; One 11&amp;rdquo; by 17&amp;rdquo; map (containing the Game Map and Battle Board)&amp;#10;&amp;bull; Two Naval/Air Unit Deployment Charts ( Japanese and US)&amp;#10;&amp;bull; 176 counters&amp;#10;&amp;bull; This set of rules&amp;#10;&amp;bull; Four six-sided (D6) dice&amp;#10;&amp;bull; Two 8.5&amp;rdquo; by 11&amp;rdquo; inserts (map and rules for the optional variant game)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="0"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgameexpansion" id="221025" value="The Battle of Midway 1942 AD: Independence Day"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="23441" value="Terry Leeds"/>
+    <link type="boardgameartist" id="11856" value="Mark Mahaffey"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <link type="boardgamepublisher" id="11440" value="Turning Point Simulations"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="18"/>
+        <average value="5.19444"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.80385"/>
+        <median value="0"/>
+        <owned value="113"/>
+        <trading value="6"/>
+        <wanting value="0"/>
+        <wishing value="5"/>
+        <numcomments value="15"/>
+        <numweights value="3"/>
+        <averageweight value="1.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

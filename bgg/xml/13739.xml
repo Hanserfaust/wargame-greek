@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="13739">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mcdGx8-NTeiIbShTKzm2pgN1iDI=/fit-in/200x150/pic4636407.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/PJs2syAQY9vsSqrFhsGHb7Zu6hc=/0x0/pic4636407.jpg</image>
+    <name type="primary" sortindex="1" value="Gela Beachhead"/>
+    <description>Gela Beachhead is a tactical/operational level simulation of the fierce fighting at the town of Gela in Sicily, July 11, 1943.  Game features American units fighting against Italian and German units.  Germans and Italians are on the counter-attack against the U.S. beachhead.  Game map sheet is multi-colored featuring hexagons superimposed over the terrain.&amp;#10;&amp;#10;Components: one 17&amp;quot; x 22&amp;quot; map sheet, 100 multi-colored (two sided) die cut counters, eight page rule book, errata and black mini-die. Special rules cover naval gunfire support, artillery and strategic restrictions for both sides.  Good historical notes are in the back of the rules.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="2970" value="Stephen B. Patrick"/>
+    <link type="boardgamedesigner" id="3455" value="Milton Rosenberg"/>
+    <link type="boardgamepublisher" id="2348" value="Centurion Games"/>
+    <link type="boardgamepublisher" id="1587" value="Jersey Devil Game Company, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="6.66667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.14735"/>
+        <median value="0"/>
+        <owned value="51"/>
+        <trading value="4"/>
+        <wanting value="3"/>
+        <wishing value="3"/>
+        <numcomments value="8"/>
+        <numweights value="2"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

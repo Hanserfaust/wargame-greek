@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="200247">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/P4PIz8PRfm2JQWbfDskAcZMvD-U=/fit-in/200x150/pic3229889.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WQo0Zts13vp2bD8rqQfloWnUYsA=/0x0/pic3229889.jpg</image>
+    <name type="primary" sortindex="1" value="Austerlitz 1805: Rising Eagles"/>
+    <name type="alternate" sortindex="1" value="奥斯特里茨1805:雄鹰崛起"/>
+    <description>Rising Eagles is to be the the second volume of the &amp;laquo; Eagles &amp;raquo; series. Following on from Fallen Eagles (The Battle of Waterloo), Rising Eagles covers another of history&amp;rsquo;s most famous battles - Austerlitz.&amp;#10;&amp;#10;Game scale is regiment level for units, 250m per hex and one hour of real time per turn. The map has been produced by the combined efforts of Rick Barber (topography) and Sebastien Brunel (graphics, as in Fallen Eagles). &amp;#10;The game will include at least three short scenarios, together with a full battle scenario, offering alternative options to simulate the &amp;lsquo;fog of war&amp;rsquo; and battle plans.&amp;#10;&amp;#10;The order rules In Rising Eagles will have an even greater impact than those in Fallen Eagles. The ability to change orders will be reduced and it will be more difficult to &amp;ldquo;recall&amp;rdquo; formations, once launched. Initial planning will be an important feature, as befits a Napoleonic battle of such a scale.&amp;#10;&amp;#10;In addition, &amp;lsquo;fog of war&amp;rsquo; has been further developed and will be part of the main rules. Players will share some of the uncertainty experienced by the actual commanders, as to what precisely they are facing.&amp;#10;&amp;#10;Initial play tests have shown that Rising Eagles continues to provide a tense and exciting game play, with strategic battle planning assuming a greater significance than the &amp;lsquo;slogging match&amp;rsquo; of Waterloo.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="600"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="600"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="46096" value="Eagles of France series"/>
+    <link type="boardgamedesigner" id="3931" value="Walter Vejdovsky"/>
+    <link type="boardgameartist" id="3439" value="Rick Barber"/>
+    <link type="boardgameartist" id="70880" value="Sébastien Brunel"/>
+    <link type="boardgameartist" id="3367" value="Christophe Gentil-Perret"/>
+    <link type="boardgamepublisher" id="35928" value="Banana Games"/>
+    <link type="boardgamepublisher" id="6508" value="Hexasim"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="133"/>
+        <average value="8.4812"/>
+        <bayesaverage value="5.73289"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3979" bayesaverage="5.73289"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="325" bayesaverage="6.64255"/>
+        </ranks>
+        <stddev value="1.34249"/>
+        <median value="0"/>
+        <owned value="471"/>
+        <trading value="5"/>
+        <wanting value="39"/>
+        <wishing value="110"/>
+        <numcomments value="69"/>
+        <numweights value="11"/>
+        <averageweight value="3.1818"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

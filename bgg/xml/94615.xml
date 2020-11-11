@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="94615">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/2C5NA213gbwHiNNlriiiSW6Vq-4=/fit-in/200x150/pic1739566.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7wRB72vbSnGB9Usy4HQAQK2gHL4=/0x0/pic1739566.jpg</image>
+    <name type="primary" sortindex="5" value="The Last King of Scotland"/>
+    <description>Designed by Dennis L. Bishop, The Last King of Scotland is a hex and counter wargame that simulates the Tanzania-Uganda War of 1979 that ousted Uganda's President for Life Idi Amin Dada. One player takes control of the Ugandan forces while the other player commands the forces of Tanzania. &amp;#10;With a seeming fascination for all things Scottish, Idi Amin referred to himself as the &amp;quot;uncrowned king of Scotland&amp;quot;. When Amin fled Uganda in a sense he truly became &amp;quot;The Last King of Scotland.&amp;quot; Each game turn is a month of real time. Each hex covers 30 miles, and units range from platoons to battalions.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="106" value="No necessary in-game text" numvotes="0"/>
+        <result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="110" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="27383" value="Continent: Africa"/>
+    <link type="boardgamedesigner" id="1262" value="Dennis Bishop"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="33438" value="Tom Cundiff"/>
+    <link type="boardgameartist" id="3134" value="Richard A. Dengel"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="74"/>
+        <average value="6.68378"/>
+        <bayesaverage value="5.56314"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8183" bayesaverage="5.56314"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1492" bayesaverage="5.8718"/>
+        </ranks>
+        <stddev value="1.27629"/>
+        <median value="0"/>
+        <owned value="199"/>
+        <trading value="9"/>
+        <wanting value="14"/>
+        <wishing value="44"/>
+        <numcomments value="42"/>
+        <numweights value="11"/>
+        <averageweight value="2.1818"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

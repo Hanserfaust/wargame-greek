@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5205">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Vdy3dRjxtVg1PxG2bZJxHBDUwjs=/fit-in/200x150/pic69390.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XOIwgiP9ax4gDzB6wppFIwG9ngc=/0x0/pic69390.jpg</image>
+    <name type="primary" sortindex="1" value="G.E.V."/>
+    <name type="alternate" sortindex="1" value="GEV"/>
+    <description>Microgame #8 in the Metagaming Microgames series, the original release of G.E.V.  A follow-up to Ogre.  Units from Ogre are carried over, with expanded rules for terrain.  A larger map and more ambitious game.&amp;#10;&amp;#10;Second base game of the Ogre/GEV Family.&amp;#10;&amp;#10;Note: Ogre and G.E.V. were later reissued separately and then repackaged together as Ogre / G.E.V. by Steve Jackson Games. The Steve Jackson GEV edition has a different countermix to the original editions.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1978"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="75"/>
+    <minplaytime value="75"/>
+    <maxplaytime value="75"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6256" value="Metagaming Microgames series"/>
+    <link type="boardgamefamily" id="157" value="Ogre/GEV Family"/>
+    <link type="boardgamefamily" id="41798" value="Steve Jackson Games Pocket Box"/>
+    <link type="boardgameexpansion" id="12482" value="Ogre Battlefields"/>
+    <link type="boardgameexpansion" id="21691" value="The Ogre Book"/>
+    <link type="boardgameexpansion" id="7531" value="Ogre Reinforcement Pack"/>
+    <link type="boardgameexpansion" id="12537" value="Ogre: Scenario Book 1"/>
+    <link type="boardgameexpansion" id="7513" value="Shockwave"/>
+    <link type="boardgamecompilation" id="173270" value="Ogre / G.E.V."/>
+    <link type="boardgameimplementation" id="29026" value="Ogre Miniatures"/>
+    <link type="boardgamedesigner" id="22" value="Steve Jackson (I)"/>
+    <link type="boardgameartist" id="20471" value="Winchell Chung"/>
+    <link type="boardgameartist" id="13589" value="David R. Deitrick"/>
+    <link type="boardgameartist" id="13114" value="Denis Loubet"/>
+    <link type="boardgameartist" id="15323" value="Dave Martin"/>
+    <link type="boardgameartist" id="844" value="Philip Reed"/>
+    <link type="boardgameartist" id="32038" value="Brian Wilson"/>
+    <link type="boardgamepublisher" id="356" value="Metagaming"/>
+    <link type="boardgamepublisher" id="19" value="Steve Jackson Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="811"/>
+        <average value="6.95334"/>
+        <bayesaverage value="6.03054"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2111" bayesaverage="6.03054"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="332" bayesaverage="6.62637"/>
+        </ranks>
+        <stddev value="1.49526"/>
+        <median value="0"/>
+        <owned value="1596"/>
+        <trading value="42"/>
+        <wanting value="27"/>
+        <wishing value="84"/>
+        <numcomments value="322"/>
+        <numweights value="99"/>
+        <averageweight value="2.2929"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

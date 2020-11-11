@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11700">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/TG9axYotUbUE6OCGMP9IbIpXloU=/fit-in/200x150/pic324262.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Hj6we2zBt2Czdh9UDGwS77FMMwA=/0x0/pic324262.jpg</image>
+    <name type="primary" sortindex="1" value="Cufra: Defiance in the Desert"/>
+    <name type="alternate" sortindex="1" value="Defiance: The Battle for Cufra, 1931"/>
+    <description>Simulation of the Battle of Cufra in 1931 between Italy and Libyan &amp;quot;freedom fighters&amp;quot;.&amp;#10;&amp;#10;Contains: &amp;#10; ten pages of rules and charts&amp;#10; one 11&amp;quot;x17&amp;quot; full color map&amp;#10; forty counters representing everything from Senussi Cavalry to Italian Biplanes.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="44377" value="Interwar"/>
+    <link type="boardgamedesigner" id="1262" value="Dennis Bishop"/>
+    <link type="boardgameartist" id="63728" value="Jesus Serrano Mateo"/>
+    <link type="boardgamepublisher" id="2031" value="Khyber Pass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="20"/>
+        <average value="6.65"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.21552"/>
+        <median value="0"/>
+        <owned value="78"/>
+        <trading value="0"/>
+        <wanting value="5"/>
+        <wishing value="8"/>
+        <numcomments value="15"/>
+        <numweights value="4"/>
+        <averageweight value="1.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

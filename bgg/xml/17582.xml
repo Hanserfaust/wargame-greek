@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17582">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/2RWCdbiVwkxnN983MTKrYGeZU6c=/fit-in/200x150/pic76301.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NsgRoi9ER-5OLk4g8P2vIdQh0ic=/0x0/pic76301.jpg</image>
+    <name type="primary" sortindex="1" value="Mein Panzer"/>
+    <description>Mein Panzer is a core rule system for miniatures. The game is suitable for use with 1:285th, 1:300, 10mm (1:144), 12mm, to 15mm. This aim of the design is ease of play while preserving a historical feel. Periods from WWI, WWII, Cold War, up to contemporary are covered. Each tank model represents one single tank. Each Infantry stand represents a fire teams of 3 to 6, centered around the primary weapon (such as an LMG or AT rocket) or the overall weapon type (such as automatic rifles or SMGs).&amp;#10;&amp;#10;With a module system (aka 'Drop-ins'), the rules allow players to decide how simple or how sophisticated they want the game to be. Some of the modules are Infantry, Artillery, Air Power, and other special equipments or terrain rules.&amp;#10;&amp;#10;The core rules contain only 'elementary' equipments for each of the periods. For example, only Germany, the USSR, and the US are represented in the WWII section. And only stats for 18 pieces of German equipment are covered, and the only tanks found (for the German) are Panther and Tiger. Players must be prepared to purchase additional data books or create their own stats.&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamedesigner" id="5243" value="Jonathan W. Coulter"/>
+    <link type="boardgamepublisher" id="3944" value="Old Dominion GameWorks"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="28"/>
+        <average value="7.51071"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.77771"/>
+        <median value="0"/>
+        <owned value="48"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="7"/>
+        <numcomments value="13"/>
+        <numweights value="4"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

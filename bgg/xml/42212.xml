@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="42212">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HgzVffqfKfH1Db86FsH8J8cI8tA=/fit-in/200x150/pic859738.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/5FmVxswCa0-rcEj8ZbzLObWozQ8=/0x0/pic859738.jpg</image>
+    <name type="primary" sortindex="5" value="The Raven: Rome's Secret Weapon"/>
+    <description>An expansion module for War Galley, this expansion module came in RBM/GMT's C3i Magazine, issue #11.  These battles show the introduction of the Raven or Corvus, a movable boarding ramp, that changed the balance of power in the Mediterranean.&amp;#10;&amp;#10;Mylae, 260 B.C.&amp;#10;Tyndaris, 257 B.C.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgameexpansion" id="1894" value="War Galley" inbound="true"/>
+    <link type="boardgamedesigner" id="7975" value="Dan Fournie"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="9367" value="RBM Studio"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="6.6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.489898"/>
+        <median value="0"/>
+        <owned value="53"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="2"/>
+        <numcomments value="5"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

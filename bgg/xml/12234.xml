@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12234">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZBJyPN9lKUYJX7ZgjaTFpEgOk7k=/fit-in/200x150/pic120631.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nzwyV4bbm0coCM_Ft1Ri7XIo6u4=/0x0/pic120631.jpg</image>
+    <name type="primary" sortindex="1" value="DAK2"/>
+    <name type="alternate" sortindex="1" value="DAK II: The Campaign In North Africa, 1940-1942"/>
+    <description>DAK II: The Campaign In North Africa, 1940-1942, is the 5th entry in The Gamer's/Multi-Man Publishing popular Operational Combat Series (OCS) and covers the entire campaign in the Western Desert theater in World War II at the regimental level, from Compass to El Alamein and beyond in 17 scenarios.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: Half Week&amp;#10;Hex: 5 miles / 8 Km&amp;#10;Units: Company to Division&amp;#10;&amp;#10;Game Inventory:&amp;#10;Five 22 x 34&amp;quot; maps&amp;#10;Six dual-side printed countersheets (1,540 1/2&amp;quot; counters)&amp;#10;One 52-page OCS rules booklet&amp;#10;One 64-page DAK II Vol. 1 game rules &amp;amp; scenario booklet&amp;#10;One 40-page DAK II Vol. II game rules &amp;amp; scenario booklet&amp;#10;Two 8-page DAK II Vol. III game rules &amp;amp; charts/tables booklets&amp;#10;One Map E Abstract player aid card (1-sided) &amp;#10;Two 6-sided dice&amp;#10;&amp;#10;Complexity: High &amp;#10;Solitaire Suitability: Medium&amp;#10;Playing Time: 3 to Hundreds of hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="80" value="Operational Combat Series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="5452" value="DAK" inbound="true"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgameartist" id="406" value="Dean Essig"/>
+    <link type="boardgameartist" id="28351" value="David Pentland"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="270"/>
+        <average value="8.24235"/>
+        <bayesaverage value="5.90349"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2688" bayesaverage="5.90349"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="116" bayesaverage="7.09803"/>
+        </ranks>
+        <stddev value="1.89326"/>
+        <median value="0"/>
+        <owned value="718"/>
+        <trading value="8"/>
+        <wanting value="100"/>
+        <wishing value="270"/>
+        <numcomments value="124"/>
+        <numweights value="61"/>
+        <averageweight value="4.377"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

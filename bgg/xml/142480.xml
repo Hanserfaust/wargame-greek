@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="142480">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/O9Z9rekGInNLBPnKhCDObajw7XE=/fit-in/200x150/pic1730120.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_13sUk-b2RDqmHaOKYqFxE0jJ6M=/0x0/pic1730120.jpg</image>
+    <name type="primary" sortindex="1" value="First Strike '62"/>
+    <description>The Cuban missile crisis spins out of control in this new version of Bruce's acclaimed nuclear war fighting game system.&amp;#10; Using historically accurate strategic (ie Nuclear) force structures the players will be responsible for fighting the war on a global scale when the diplomats fail.&amp;#10;&amp;#10;Rather than concern themselves with the operations of Army Corps and Naval Task Forces, players will be directing the B-52 bomber wings of SAC or the Strategic Rocket Forces new SS-7 &amp;ldquo;Saddler&amp;rdquo; ICBM&amp;rsquo;s.&amp;#10;&amp;#10;Of course the new Soviet missile complexes on Cuba still retain their importance as a dagger aimed at the heart of the USA and will have to be factored into both sides plans. The surprise potential of these weapons are accounted for in the radar rules.&amp;#10;&amp;#10;First Strike '62 is a hex-and-counter wargame. Units have movement points and move across a global map. Players select Operating Programs/Warplans to determine targets for their bomber, submarine and missile assets. Then they attempt to have those units reach their targets while avoiding opposing interceptors, ASW and anti-missiles. The &amp;quot;winner&amp;quot; is the player who scores the most victory points, based on strategic targets hit, surviving assets, and collateral damage received.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="2405" value="Bruce Costello"/>
+    <link type="boardgameartist" id="811" value="Peter Schutze"/>
+    <link type="boardgamepublisher" id="424" value="Schutze Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="7.375"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.47373"/>
+        <median value="0"/>
+        <owned value="49"/>
+        <trading value="1"/>
+        <wanting value="10"/>
+        <wishing value="21"/>
+        <numcomments value="11"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

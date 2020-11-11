@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11855">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ggq4lfW6I77cgfMufZZa2VqEchk=/fit-in/200x150/pic74696.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/s_FLpybRVHo7osRQ3a9HCr2JJ4M=/0x0/pic74696.jpg</image>
+    <name type="primary" sortindex="1" value="Tamburlaine the Great"/>
+    <description>Tamburlaine the Great is a simulation of the Battle of Angorra on 21 June 1402, which was the climax of the Tartar invasion of Asia Minor. Sultan Bayazid I and his Ottoman Turks, fresh from their victory against the Christians at the Battle of Nicopolis, met Tamburlaine's Tartar and Mongol hordes northeast of modern day Ankara.&amp;#10;&amp;#10;Unit types included in the game are: infantry, short bow archers, crossbowmen, cavalry, elephants, and wagons. The map scale is 50 yards from hex side to hex side, and each game-turn represents 20 minutes.&amp;#10;&amp;#10;In addition to being published as a separate game, Tamburlaine the Great was also published as part of SPI's Great Medieval Battles Quadrigame.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3267" value="Great Medieval Battles System"/>
+    <link type="boardgamecompilation" id="3694" value="Great Medieval Battles"/>
+    <link type="boardgamedesigner" id="1579" value="David Werden"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="35"/>
+        <average value="6.51429"/>
+        <bayesaverage value="5.52244"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11902" bayesaverage="5.52244"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2264" bayesaverage="5.65563"/>
+        </ranks>
+        <stddev value="1.46134"/>
+        <median value="0"/>
+        <owned value="104"/>
+        <trading value="4"/>
+        <wanting value="5"/>
+        <wishing value="9"/>
+        <numcomments value="21"/>
+        <numweights value="7"/>
+        <averageweight value="2.5714"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

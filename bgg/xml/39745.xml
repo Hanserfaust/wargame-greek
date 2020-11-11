@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="39745">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/v2hUNYKWsFRqwA3fsyWDtl1rptY=/fit-in/200x150/pic1028572.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lf10eSYMnufh6f7zZmhqO9bhbL4=/0x0/pic1028572.png</image>
+    <name type="primary" sortindex="1" value="Thiet Giap, the struggle for An Loc (2008)"/>
+    <name type="alternate" sortindex="1" value="An Loc"/>
+    <name type="alternate" sortindex="1" value="Thiet Giap, the struggle for An Loc (1972)"/>
+    <description>An LPS bonus mini-game.&amp;#10;&amp;#10;April 1972; a Young US Army captain watched a stream of ARVN fugitives screaming &amp;quot;Thiet Giap!&amp;quot; ; &amp;quot;Tank!&amp;quot; in Vietnamese. He climbs on a roof top to see what is happening and spots a column of dark green T54 tanks advancing. The Battle of An Loc had just began.&amp;#10;&amp;#10;The Peoples Army of (North) Vietnam had launched its biggest offensive of the war. Hundred of tanks, artillery pieces and ten of thousands of trained and confident infantrymen launched a 4 prong attack on the Republic of Vietnam. From Cambodia 3 Divisions descend along the Ropute Nationale 13 toward Saigon. At the small town of An Loc a ragtag band of dispirited ARVN infantrymen, elite rangers and paratroopers stood fast. What was supposed to be a victorious blitzkrieg toward Saigon evolved in a protracted slugfest with B52, American airpower, airmobile assaults and tank charges. In the end the shattered remains of the 3 PAVN divisions run back toward Cambodia  leaving only a shattered mass of ruins, but a defiant and victorious garrison.&amp;#10;&amp;#10;Using regiment and battalion sized units, airpower, artillery, tanks and an operation system that reward increasing the tempo of battle Thiet Giap simulates the battle for the Town of An Loc and the relief effort made by ARVN troops to break the siege. T54 tanks, B52, Paratroopers and sappers are included.&amp;#10;&amp;#10;One 11x17&amp;quot; map and &amp;lt;100 counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="134" value="Magazine: Against The Odds"/>
+    <link type="boardgamedesigner" id="11516" value="Arrigo Velicogna"/>
+    <link type="boardgameartist" id="11882" value="Craig Grando"/>
+    <link type="boardgamepublisher" id="1244" value="Against the Odds"/>
+    <link type="boardgamepublisher" id="6691" value="King’s College"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="21"/>
+        <average value="6.35714"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.79379"/>
+        <median value="0"/>
+        <owned value="98"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="4"/>
+        <numcomments value="15"/>
+        <numweights value="5"/>
+        <averageweight value="2.2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

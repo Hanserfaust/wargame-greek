@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="226997">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/H30j7NxcaOsRDOH4st_pVLlSlVI=/fit-in/200x150/pic3548424.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BjetzG-WqIEK3jC3TB9SFCMUg2c=/0x0/pic3548424.jpg</image>
+    <name type="primary" sortindex="1" value="South China Sea"/>
+    <description>South China Sea (SCS) provides an integrated political-military simulation of near future contention and conflict around the South China Sea.  Players take on the roles of China, the United States, Malaysia, the Philippines, and Vietnam.  They simulate current political tensions through card play and structured negotiation keyed to real world events in an effort to &amp;quot;move the needle&amp;quot; to their side.  Unfortunately, the cards with the greatest chance of moving that needle, such as Chinese Coast Guard and U.S. Freedom of Navigation Exercise, are also most likely to trigger armed conflict.  If and when that happens, play transitions to traditional hex-and-counter format on a map scaled at 45 nautical miles (nmi) per hex and turns of 3-7 hours.&amp;#10;&amp;#10;SCS is derived from Breaking the Chains (BtC), but is definitely a different game.  How do the two differ?  SCS begins with political turns that can lead to victory without armed conflict.  For armed conflict, SCS focuses more closely on the South China Sea (45 nmi per hex) rather than the larger southeast Asian region of BtC (70 nmi per hex) and uses smaller units such as air squadrons, ship pairs, and land battalions.  Therefore, the SCS map shows more detail, but less territory.  SCS employs streamlined versions of BtC's turn structure and strike mechanisms that expedite play by dispensing with numerous cycles and strike paths.  SCS nodded to ergonomics by putting all scores on one side of each counter &amp;ndash; less flipping.  Most important, SCS allows naval units to move more than one hex in a single turn, but includes a mechanism, based on stealth, that enables the other side to &amp;quot;check&amp;quot; multi-hex moves to create a more dynamic, variable, and volatile environment.  This last adjustment allows quick moves at a distance, but prevents close-in ships from &amp;quot;jumping&amp;quot; through the beaten zone of modern anti-ship cruise missiles (ASCM), 290 nmi in some cases.  And, every turn has the option for a negotiations phase with some structure to enhance political play if desired.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="240"/>
+    <minage value="11"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameimplementation" id="137498" value="Breaking the Chains: War in the South China Sea" inbound="true"/>
+    <link type="boardgamedesigner" id="11876" value="John Gorkowski"/>
+    <link type="boardgameartist" id="5249" value="Christopher Moeller"/>
+    <link type="boardgamepublisher" id="3929" value="Compass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="50"/>
+        <average value="7.2502"/>
+        <bayesaverage value="5.54695"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9372" bayesaverage="5.54695"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1642" bayesaverage="5.83056"/>
+        </ranks>
+        <stddev value="1.47391"/>
+        <median value="0"/>
+        <owned value="257"/>
+        <trading value="3"/>
+        <wanting value="22"/>
+        <wishing value="61"/>
+        <numcomments value="26"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="20079">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RKCfWQPRB4wMVa7QTjFOrVUR4dc=/fit-in/200x150/pic292995.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gRfgU-gziT7a-vUDBKWS9_fJyGM=/0x0/pic292995.jpg</image>
+    <name type="primary" sortindex="1" value="Pacific Typhoon"/>
+    <name type="alternate" sortindex="1" value="パシフィック・タイフーン"/>
+    <name type="alternate" sortindex="1" value="太平洋颶風"/>
+    <description>Pacific Typhoon is a strategy card game for 3-7 players, ages 10 to adult. The game uses the same system that first appeared in the popular 1998 Avalon Hill card game Atlantic Storm.&amp;#10;&amp;#10;The game setting is the naval and air war in the Pacific theatre during World War II. Pacific Typhoon depicts the history of the air-naval battles of the Pacific War with 40 battle cards, each of which represents an historical naval or air battle such as Pearl Harbor, Midway, Surigao Strait, etc. Players compete by fighting a non-sequential series of twenty of these battles. A battle lasts for one round of play, so each player gets to play once per battle. The round-leader starts by picking one of two battle cards (he discards the unpicked one). The chosen battle card determines the year of battle. The battle card is also worth a certain number of victory points and resources to whoever wins it. The round-leader alternates after each battle, and the game ends after 20 battles (when the Battle Card deck is exhausted).&amp;#10;&amp;#10;Players are not assigned to sides. Instead, each player has a hand of force cards that typically includes both Allied and Japanese cards. The force cards represent warships, submarines, aircraft, special weapons, and events. Non-event cards have three separate combat values: Air, Surface, and Sub. For example, the battlecruiser Kirishima has combat values of 1 air, 4 surface and 0 sub; the submarine Flasher has combat values of 0 air, 1 surface and 3 sub; the Zero fighter (Sakai) has combat values of 3 air, 0 surface and 0 sub. Force cards are also worth victory points because they can be destroyed in battle.&amp;#10;&amp;#10;After the round-leader selects the battle card, he announces the &amp;quot;suit&amp;quot; of battle: Air, Surface, Sub or Combined. Only the combat values in the announced suit will affect the outcome of the battle. In a Combined battle, the combat values of all three suits are added together. The round-leader also announces the time of battle: Day or Night. Some force cards are only playable in a day battle (for example, the aircraft carrier Lexington), a few are only playable in a night battle, but most are playable in day or night battles. The round-leader then gets to play from his hand. He may play on one side or the other (but not both sides together). Each player after him in turn may then play on one side or the other.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="3"/>
+    <maxplayers value="7"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="11"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="12"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="12"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="14"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="18"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="12"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="7+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="8"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="201" value="No necessary in-game text" numvotes="0"/>
+        <result level="202" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="203" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="204" value="Extensive use of text - massive conversion needed to be playable" numvotes="2"/>
+        <result level="205" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamemechanic" id="2009" value="Trick-taking"/>
+    <link type="boardgameimplementation" id="200888" value="Med Sirocco"/>
+    <link type="boardgameimplementation" id="259" value="Atlantic Storm" inbound="true"/>
+    <link type="boardgamedesigner" id="6075" value="John Coussis"/>
+    <link type="boardgamedesigner" id="181" value="Ben Knight"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="27022" value="Chrononauts Games"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="760"/>
+        <average value="6.63289"/>
+        <bayesaverage value="5.9193"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2601" bayesaverage="5.9193"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="498" bayesaverage="6.42071"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="470" bayesaverage="6.06248"/>
+        </ranks>
+        <stddev value="1.51064"/>
+        <median value="0"/>
+        <owned value="1198"/>
+        <trading value="62"/>
+        <wanting value="43"/>
+        <wishing value="120"/>
+        <numcomments value="298"/>
+        <numweights value="118"/>
+        <averageweight value="2.0169"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

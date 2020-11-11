@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="127823">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/QmrHvHB-kWwjDCmakJ73b2mlqvo=/fit-in/200x150/pic1922836.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/L0M7-0W2m48atVlxxNMYJ1VyefE=/0x0/pic1922836.jpg</image>
+    <name type="primary" sortindex="1" value="Terrible Swift Swordfish"/>
+    <description>An LPS bonus mini-game, Terrible Swift Swordfish is a solitaire simulation of the Royal Navy's bold and devastating attack on the ships of the Regia Marina in the port of Taranto during the night of November 11-12, 1940.&amp;#10;&amp;#10;In two waves, the player send his Swordfish carrier-based biplanes laden with either torpedos or bombs to attack Italian ships or bomb port facilities respectively. Damage inflicted is determined by chit-pull (or dice rolling in the case of flak).&amp;#10;&amp;#10;As additional Swordfish enter the map on their pre-designated bombing runs, Italian flak and anti-torpedo defenses grow more coordinated and deadly.&amp;#10;&amp;#10;The player attempts to maximize his Victory Points by sinking ships and bombing facilities, all while trying to avoid the loss of his Swordfish Biplanes.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="134" value="Magazine: Against The Odds"/>
+    <link type="boardgamedesigner" id="8869" value="Roberto Chiavini"/>
+    <link type="boardgameartist" id="11856" value="Mark Mahaffey"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="6.24667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.944363"/>
+        <median value="0"/>
+        <owned value="102"/>
+        <trading value="2"/>
+        <wanting value="6"/>
+        <wishing value="6"/>
+        <numcomments value="9"/>
+        <numweights value="6"/>
+        <averageweight value="1.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

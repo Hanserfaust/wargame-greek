@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2891">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/P7s51SBO06uGef24Y7D57Lf2Qdk=/fit-in/200x150/pic68986.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/o_1--S_-jsdMyBu__eVFqbwd2ZA=/0x0/pic68986.jpg</image>
+    <name type="primary" sortindex="1" value="Starfire"/>
+    <description>The Starfire series is a wargame which simulates combat in space at sub-light speed.   Ships are made up of various combat and non-combat systems each represented by a letter (or combination of letters).  A &amp;quot;word&amp;quot; makes up a ship. As damage is done between ships, letters are crossed off from left to right within the &amp;quot;word&amp;quot; until the ship is destroyed.  Movement is on an &amp;quot;endless&amp;quot; hex map, and occurs in 6 impulses.  Galactic travel is accomplished through &amp;quot;Warp Points&amp;quot; which connect star systems in a random manner.  The game includes scenarios for a fictional future (&amp;quot;Future History&amp;quot;) of the conflicts between the Terrans of Earth and the other races of the galaxy.  Also included are ship construction rules for designing custom ships for open fleet battles.&amp;#10;&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;     Starfire (3rd Edition)&amp;#10;     Galactic Starfire&amp;#10;     Solar Starfire&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="0"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1113" value="Space Exploration"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="22" value="Starfire"/>
+    <link type="boardgamefamily" id="21630" value="Task Force Games: Pocket Games series"/>
+    <link type="boardgameexpansion" id="2888" value="Starfire II"/>
+    <link type="boardgameexpansion" id="2892" value="Starfire III, Empires"/>
+    <link type="boardgameexpansion" id="2894" value="Starfire New Empires"/>
+    <link type="boardgameexpansion" id="34509" value="Starfire, The Gorm-Khanate War"/>
+    <link type="boardgameimplementation" id="114062" value="Starfire" inbound="true"/>
+    <link type="boardgamedesigner" id="675" value="Stephen V. Cole"/>
+    <link type="boardgameartist" id="13288" value="Alvin Belflower"/>
+    <link type="boardgameartist" id="13589" value="David R. Deitrick"/>
+    <link type="boardgamepublisher" id="352" value="Task Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="274"/>
+        <average value="6.84453"/>
+        <bayesaverage value="5.70211"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4356" bayesaverage="5.70211"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="761" bayesaverage="6.19431"/>
+        </ranks>
+        <stddev value="1.44835"/>
+        <median value="0"/>
+        <owned value="624"/>
+        <trading value="24"/>
+        <wanting value="25"/>
+        <wishing value="43"/>
+        <numcomments value="128"/>
+        <numweights value="31"/>
+        <averageweight value="2.6129"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

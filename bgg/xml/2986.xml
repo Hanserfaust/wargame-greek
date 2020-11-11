@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2986">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/yKepGqD1Tl72ea3sWG7wXCVCkB4=/fit-in/200x150/pic976898.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LqtIGNooFCIxlTfY0tHfgrCy6s4=/0x0/pic976898.jpg</image>
+    <name type="primary" sortindex="1" value="Web and Starship"/>
+    <description>Web and Starship is a strategic space game, in which Earth is caught between two races. The Gwynhyfarr, who roam the galaxy in faster-than-light starships, and the Pereen, who link their planets together in a trans-dimensional &amp;quot;web&amp;quot; which permits instantaneous movement from one system to another. Earth is weak and lies directly between its two opponents, but its society is vigorous and expanding. They can use technologies of both other races.&amp;#10;&amp;#10;The game is unique as it is practically the only balanced three player wargame in existence. Other three player games usually quickly degenerate into two players ganging up on the third.&amp;#10;&amp;#10;It is also one of the precious few interstellar wargames that use a reasonably accurate three-dimensional star map.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="41" value="No necessary in-game text" numvotes="0"/>
+        <result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="45" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2081" value="Route/Network Building"/>
+    <link type="boardgamefamily" id="5679" value="Aliens"/>
+    <link type="boardgamedesigner" id="498" value="Greg Costikyan"/>
+    <link type="boardgamedesigner" id="47" value="Doug Kaufman"/>
+    <link type="boardgameartist" id="16468" value="Larry Catalano"/>
+    <link type="boardgameartist" id="36234" value="Carolyn Edelstein"/>
+    <link type="boardgameartist" id="36235" value="Melaine Gottlieb"/>
+    <link type="boardgameartist" id="11998" value="James Holloway"/>
+    <link type="boardgameartist" id="36236" value="Belinda Spence"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="40" value="West End Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="106"/>
+        <average value="6.22519"/>
+        <bayesaverage value="5.5515"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8997" bayesaverage="5.5515"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1796" bayesaverage="5.78661"/>
+        </ranks>
+        <stddev value="1.68017"/>
+        <median value="0"/>
+        <owned value="332"/>
+        <trading value="18"/>
+        <wanting value="33"/>
+        <wishing value="80"/>
+        <numcomments value="66"/>
+        <numweights value="14"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

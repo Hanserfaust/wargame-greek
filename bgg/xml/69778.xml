@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="69778">
+    <name type="primary" sortindex="5" value="The Shooting Lodge"/>
+    <description>An Advanced Squad Leader Scenario designed by Eric &amp;amp; Michel Bongiovanni. This expansion of the Advanced Squad Leader Rule Book recreates a battle of The Continuation War between Finnish and Russian elements on the Karelia Isthmus, 16th April 1942.&amp;#10;&amp;#10;Finnish elements of the 12th Brigade have installed an observation post in a hunting lodge on a hill. From there, they direct harassing fire on Russian positions. Soldiers of the Russian 46th Infantry Division supported by T-50 tanks of the 306rd tank Brigade receive orders to take the hill.&amp;#10;&amp;#10;Victory Conditions: &amp;#10;The Russians win at game end ifthey have more Good Order Squad equivalent than the Finns in hexes 50X5/X6/Y6/Y7.&amp;#10;&amp;#10;Requires:&amp;#10;&amp;#10;Advanced Squad Leader Rule Book (Multi Man Publishing)&amp;#10;&amp;#10;Board 5 and Russian Order of Battle from Beyond Valor ASL Module 1 (Multi Man Publishing)&amp;#10;&amp;#10;Board 50 and Axis Minor Order of Battle from Armies of Oblivion ASL Module 12 (Multi Man Publishing)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="210"/>
+    <minplaytime value="210"/>
+    <maxplaytime value="210"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="11040" value="Armies of Oblivion: ASL Module 12" inbound="true"/>
+    <link type="boardgameexpansion" id="5287" value="Beyond Valor: ASL Module 1" inbound="true"/>
+    <link type="boardgamedesigner" id="38200" value="Michel Bongiovanni"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <link type="boardgamepublisher" id="12042" value="ASL Open Source"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

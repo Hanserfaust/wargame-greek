@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="129433">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nwFztT5ZgtNHp7rgcv98q9uyoV4=/fit-in/200x150/pic1545131.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WZa7ZhLxCHcDUTyPEUzMcVZkrII=/0x0/pic1545131.png</image>
+    <name type="primary" sortindex="1" value="Star Wars: X-Wing Miniatures Game – Slave I Expansion Pack"/>
+    <name type="alternate" sortindex="1" value="Star Wars X-Wing: El juego de miniaturas – Esclavo I – Pack de Expansión"/>
+    <name type="alternate" sortindex="1" value="Star Wars X-Wing: Le jeu de figurines – Slave 1 – Paquet d'extension"/>
+    <name type="alternate" sortindex="1" value="Star Wars: X-Wing Gioco di Miniature – Slave 1 Pack di Espansione"/>
+    <name type="alternate" sortindex="1" value="Star Wars: X-Wing Gra Figurkowa – Zestaw dodatkowy Slave I"/>
+    <name type="alternate" sortindex="1" value="Star Wars: X-Wing Jogo de Miniaturas – Slave 1 Pacote de Expansão"/>
+    <name type="alternate" sortindex="1" value="Star Wars: X-Wing Miniaturen-Spiel – Sklave I Erweiterungs-Pack"/>
+    <name type="alternate" sortindex="1" value="Star Wars: X-Wing Игра с миниатюрами – Расширение &quot;Раб I&quot;"/>
+    <description>Game description from the publisher:&amp;#10;&amp;#10;Originally intended as a prisoner transport, the Firespray-31 gained notoriety through association with some of the galaxy's most fearsome pirates and bounty hunters, including the infamous Boba Fett. The Star Wars: X-Wing Miniatures Game - Slave I Expansion Pack allows players to take advantage of the Firespray's versatile armament and heavy armor plating, as well as a host of deadly new upgrades. Slave I comes with a detailed miniature, four pilot cards, thirteen upgrades, and all requisite tokens. New rules and a new mission further expand your games of X-Wing!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="0"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="10" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2043" value="Area Enclosure"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="22972" value="FlightPath"/>
+    <link type="boardgamefamily" id="5602" value="Star Wars"/>
+    <link type="boardgamefamily" id="18113" value="Star Wars: X-Wing Miniatures Game"/>
+    <link type="boardgameexpansion" id="103885" value="Star Wars: X-Wing Miniatures Game" inbound="true"/>
+    <link type="boardgameexpansion" id="183562" value="Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set" inbound="true"/>
+    <link type="boardgameimplementation" id="258738" value="Star Wars: X-Wing (Second Edition) – Slave I Expansion Pack"/>
+    <link type="boardgamedesigner" id="64445" value="James Kniffen"/>
+    <link type="boardgamedesigner" id="6651" value="Corey Konieczka"/>
+    <link type="boardgamedesigner" id="4786" value="Jason Little"/>
+    <link type="boardgameartist" id="12438" value="Ryan Barger"/>
+    <link type="boardgameartist" id="21426" value="Matt Bradbury"/>
+    <link type="boardgameartist" id="19411" value="Christopher Burdett"/>
+    <link type="boardgameartist" id="13485" value="Dave Dorman"/>
+    <link type="boardgameartist" id="18700" value="Mariusz Gandzel"/>
+    <link type="boardgameartist" id="12402" value="Stéphane Gantiez"/>
+    <link type="boardgameartist" id="19549" value="Mike Nash"/>
+    <link type="boardgameartist" id="41678" value="Matthew Starbuck"/>
+    <link type="boardgameartist" id="41679" value="Nicholas Stohlman"/>
+    <link type="boardgameartist" id="49280" value="Ben Zweifel"/>
+    <link type="boardgamepublisher" id="2973" value="Edge Entertainment"/>
+    <link type="boardgamepublisher" id="17" value="Fantasy Flight Games"/>
+    <link type="boardgamepublisher" id="4617" value="Galakta"/>
+    <link type="boardgamepublisher" id="15605" value="Galápagos Jogos"/>
+    <link type="boardgamepublisher" id="5530" value="Giochi Uniti"/>
+    <link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag"/>
+    <link type="boardgamepublisher" id="18852" value="Hobby World"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1599"/>
+        <average value="8.00664"/>
+        <bayesaverage value="6.82751"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.82751"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="7.47333"/>
+          <rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="Not Ranked" bayesaverage="7.65173"/>
+        </ranks>
+        <stddev value="1.22944"/>
+        <median value="0"/>
+        <owned value="8027"/>
+        <trading value="113"/>
+        <wanting value="102"/>
+        <wishing value="242"/>
+        <numcomments value="397"/>
+        <numweights value="55"/>
+        <averageweight value="2.4182"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

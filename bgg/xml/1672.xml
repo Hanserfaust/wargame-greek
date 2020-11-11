@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1672">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rzGj56IlONo4B-9hzI44yBiRx2k=/fit-in/200x150/pic1205434.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sMp2UkBjinNF9sh03hqBOHmEQ_Q=/0x0/pic1205434.jpg</image>
+    <name type="primary" sortindex="1" value="Open Fire"/>
+    <description>Open Fire is the solitaire game of combat, adventure, and heroism for everyone who ever wondered what World War II armored combat must have been like. Inspired by the award-winning Ambush! solitaire game system, Open Fire provides the player with a platoon of American armor, faced with a variety of missions against an ever-changing German foe. The variable events, innumerable tactical options, and wealth of unexpected occurrences make Open Fire a game unlike any tactical armor game you have ever played before. The easily learned rules are designed to get the player into action quickly, selecting his platoon and vehicles and providing each unit with command and initiative ratings, perception, weapon skill, driving skill, and movement capability. After selecting one of the six missions provided, you will send your platoon into operations, where your vehicle will move as you wish... until the sequenced action rounds are triggered by the shriek of an incoming 88mm anti-tank shell, and then the fun begins.&amp;#10;&amp;#10;Contents:&amp;#10;210 Counters (1 Large Sheet)&amp;#10;1 22&amp;quot; x 32 &amp;quot; Map&amp;#10;1 Rules Booklet&amp;#10;1 Paragraph Booklet&amp;#10;79 Unit Characteristics Cards&amp;#10;1 Mission Cartridge&amp;#10;1 Cartridge View Sleeve&amp;#10;1 Platoon Record Sheet Pad&amp;#10;1 8&amp;quot; x 22&amp;quot; Display Sheet&amp;#10;2 Decimal Dice&amp;#10;1 Counter Storage Tray&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2636" value="Ambush! solitaire wargame system"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="710" value="Gerard Christopher Klug"/>
+    <link type="boardgamepublisher" id="123" value="Victory Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="119"/>
+        <average value="5.47395"/>
+        <bayesaverage value="5.48621"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15508" bayesaverage="5.48621"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2857" bayesaverage="5.42465"/>
+        </ranks>
+        <stddev value="1.65851"/>
+        <median value="0"/>
+        <owned value="601"/>
+        <trading value="46"/>
+        <wanting value="29"/>
+        <wishing value="62"/>
+        <numcomments value="83"/>
+        <numweights value="21"/>
+        <averageweight value="2.7619"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8521">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PeRHyupROM6nEPXHU0geXd_mkV0=/fit-in/200x150/pic43777.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/O7C48heFFKiydEWQWGQRwPuMlNU=/0x0/pic43777.jpg</image>
+    <name type="primary" sortindex="1" value="Whistling Death"/>
+    <description>Whistling Death is the third game in J D Webster's WWII Fighting Wings series, developing the earlier Over the Reich and Achtung Spitfire games. Containing 110 scenarios ranging from flight training (3), introductory air combat (5), air-to air combat (58), air-to-ground (4), air-naval (32), and mission level (8). &amp;#10;It features 40 distinctive aircraft and numerous ship types. The only facet of the war in the Pacific missing from this game is ground support.&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;     420 aircraft counters (1/2 inch square)&amp;#10;     140 ship counters (1/2 x 1 inch)&amp;#10;     60 ship counters (3/4 x 2 inch) which must be cut-out by the player&amp;#10;     1 map&amp;#10;     Rule book&amp;#10;     Scenario book&amp;#10;     Aircraft/ship data cards&amp;#10;     Player aids&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="71" value="No necessary in-game text" numvotes="0"/>
+        <result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="75" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="4505" value="Fighting Wings"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="142521" value="Whistling Death: Spitfires Over Darwin"/>
+    <link type="boardgamedesigner" id="1465" value="J. D. Webster"/>
+    <link type="boardgameartist" id="23441" value="Terry Leeds"/>
+    <link type="boardgameartist" id="35000" value="Steve Pancrazio"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="245"/>
+        <average value="8.19037"/>
+        <bayesaverage value="5.8004"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3355" bayesaverage="5.8004"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="231" bayesaverage="6.79449"/>
+        </ranks>
+        <stddev value="1.75677"/>
+        <median value="0"/>
+        <owned value="585"/>
+        <trading value="18"/>
+        <wanting value="49"/>
+        <wishing value="152"/>
+        <numcomments value="120"/>
+        <numweights value="64"/>
+        <averageweight value="4.3125"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

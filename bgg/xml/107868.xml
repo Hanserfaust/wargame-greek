@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="107868">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZVBaZgYr8WbeM-JcpFFz7z55eBE=/fit-in/200x150/pic1899876.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/dBK5r0epQ6bZfcdO_lYNM6Bf_88=/0x0/pic1899876.jpg</image>
+    <name type="primary" sortindex="1" value="Bloody Hell: Operations Goodwood and Spring"/>
+    <description>When I came to the northern edge of the village (Cagny), I saw to my dismay about 25 or 30 British tanks which had already passed southward over the main road to Caen which ran from east to west.  The whole area was dotted with British tanks which were slowly rolling south against no opposition. How could I plug the gap?&amp;#10;&amp;#10;--Colonel Hans von Luck, 21st Panzer Division on July 18th when Operation Goodwood began.&amp;#10;&amp;#10;INTRODUCTION&amp;#10;&amp;#10;Historians have described the British attack near Caen and the Canadian assault against Verrieres Ridge as disasters.  Indeed, following these operations the Germans were able to transfer to the western sector of Normandy much of their surviving armor to deal with the American offensive. Nonetheless, recently discovered material and some oral histories have shown the Allied offensives came close to success. Can you do as well, or better?&amp;#10;&amp;#10;Bloody Hell is designed as a &amp;quot;two-games-in-one&amp;quot; package allowing the players to play either of General Montgomery's operations (securing Caen and then breaking out to support Patton's Operation Cobra). Players can also combine both games into a grand-tactical simulation pitting Montgomery against General Sepp Dietrich and the 1st SS Panzer Corps.&amp;#10;&amp;#10;Game Components&amp;#10;&amp;#10;Each copy of Bloody Hell is composed of the following:&amp;#10;&amp;#10;&amp;#10;     Four &amp;ldquo;11&amp;rdquo; by &amp;ldquo;17&amp;rdquo; map sections&amp;#10;     300 double-sided, unmounted counters&amp;#10;     Two sheets of game tables and charts&amp;#10;     One set of rules&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="14"/>
+        <average value="6.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.00669"/>
+        <median value="0"/>
+        <owned value="56"/>
+        <trading value="3"/>
+        <wanting value="8"/>
+        <wishing value="7"/>
+        <numcomments value="11"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="37630">
+    <thumbnail/>
+    <image/>
+    <name type="primary" sortindex="1" value="Sieg in Afrika"/>
+    <description>Sieg in Afrika is an operational game of the campaign in North Africa from the first Italian advances in 1940 through the final battles in 1943. The players are placed in the positions of the overall theater commanders for North Africa. Each must direct the available forces of the in armored thrusts and parries across across the sands, escarpments, and mountains of Egypt, Libya, &amp;amp; Tunesia. Two situation maps and two sets of markers for plotting intelligence results and operation reports are provided. Two may play, or the computer will act as an opponent, capable of playing either side.&amp;#10;Design &amp;amp; art by J.Kula.&amp;#10;&amp;#10;A type of game which was shortly popular with the upcoming of the home computer in the early 80's. Designers were still exploring the possibilities of uses for a home computer, and a few games have been published in that era where your computer was used as an Aide de Camp for boardgames. Avalon Hill's Tanktics is probably the best known.&amp;#10;&amp;#10;Sieg in Afrika is particularly outstanding in the fact that fog of war is simulated by 2 identical maps and counter sets. Against a human player, the moves and actions are typed in the computer for resolvement purposes only. In 1 player mode, the computer also gives output on where the computer counters are placed. The software can be run on an Apple ][ or a Commodore 64.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="4361" value="John Kula"/>
+    <link type="boardgameartist" id="4361" value="John Kula"/>
+    <link type="boardgamepublisher" id="988" value="Simulations Canada"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

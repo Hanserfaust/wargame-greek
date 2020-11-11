@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="43124">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/vByLOtrcfQ3xhAkHNRKg545e80U=/fit-in/200x150/pic1017110.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ANgrUteDzuiU72VFJBkgrcLbgVI=/0x0/pic1017110.jpg</image>
+    <name type="primary" sortindex="1" value="From the Cellar: Pack 4"/>
+    <description>&amp;quot;Rising Star, Falling Cross: The Russian Civil War in Manchuria, Siberia, and Outer Mongolia.&amp;quot;  Twenty Advanced Squad Leader scenarios (FT116 to FT135), some short new rules, and a small set of counters to allow the ASL fanatic refight the battles of the Russian Revolution writ large in North and East Asia, from April 1908 to July 1921.  Includes White Russian, Red Russian, Imperial Chinese, Chinese warlord, Mongolian, Japanese, American, and Hungarian troops.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="12859" value="Robert Hammond"/>
+    <link type="boardgamedesigner" id="10320" value="Xavier Vitry"/>
+    <link type="boardgameartist" id="12860" value="Emmanuel Batisse"/>
+    <link type="boardgameartist" id="10320" value="Xavier Vitry"/>
+    <link type="boardgamepublisher" id="8153" value="Le Franc-Tireur"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="8.09091"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.50289"/>
+        <median value="0"/>
+        <owned value="86"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="7"/>
+        <numcomments value="5"/>
+        <numweights value="2"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

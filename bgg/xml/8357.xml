@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8357">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/baJNUaAxf5g15JkzrCHWgCCRIqY=/fit-in/200x150/pic964490.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/rKA9fdPq1c_uRNqp4qu4TvJzFAg=/0x0/pic964490.jpg</image>
+    <name type="primary" sortindex="1" value="Spires of the Kremlin"/>
+    <name type="alternate" sortindex="1" value="East Front Battles II: Spires of the Kremlin"/>
+    <description>Spires of the Kremlin: The game covers &amp;quot;Operation Typhoon,&amp;quot; the Axis attack toward Moscow during October, November and December 1941, together with the Soviet counter offensive through 15 January 1942.&amp;#10;&amp;#10;With the appearance of this second game in the series, the opportunity has been taken to add to and improve the basic system, while retaining its playability. The new Combat Results Table better reflects the attritional aspects of combat on the Eastern Front, while certain anomalies arising out of the sequence of play have been eliminated. The opportunity has also been taken to introduce more elegant air and supply systems, which will be functional for the series as a whole. Unit types include bridging, motorcycle infantry, combat engineers, rocket artillery, anti-aircraft units, etc., &amp;mdash; as well as the more standard armor, mechanized and infantry units. Supply, weather and terrain all play their part, as do fortifications, strong points (these can be built each turn), air power, artillery, reinforcements and replacements, HQ units and reserves.&amp;#10;&amp;#10;Game Scale:&amp;#10;Turn: 2 days&amp;#10;Hex: 5 miles / 8 km&amp;#10;Unit: Company to Division&amp;#10;&amp;#10;Game Inventory:&amp;#10;Three 22 x 34&amp;quot; full-color mapsheets&amp;#10;Seven dual-side printed countersheets (1,040 1/2&amp;quot; counters)&amp;#10;One 48-page East Front Battles Series rulebook &amp;#10;One 32-page Spires of the Kremlin rulebook &amp;#10;Four Player Aid cards &amp;#10;1 10-sided die&amp;#10;&amp;#10;Player: 2 or more&amp;#10;Complexity: Medium-High&amp;#10;Solitaire Suitability: Medium-High&amp;#10;Playing Time: 2 to 10 hours, depending upon scenario; up to 40 hours for the Campaign Game&amp;#10;&amp;#10;</description>
+    <yearpublished value="1994"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="31"/>
+        <average value="5.43548"/>
+        <bayesaverage value="5.5004"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14361" bayesaverage="5.5004"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2749" bayesaverage="5.50281"/>
+        </ranks>
+        <stddev value="1.74477"/>
+        <median value="0"/>
+        <owned value="150"/>
+        <trading value="5"/>
+        <wanting value="2"/>
+        <wishing value="5"/>
+        <numcomments value="24"/>
+        <numweights value="4"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

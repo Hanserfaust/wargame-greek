@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29079">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/q9p03oYOEb6bNHLSTjIHx8rxgEs=/fit-in/200x150/pic296173.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/eKO6DqWZ3k5tKTV6rKlr3oNy6TU=/0x0/pic296173.jpg</image>
+    <name type="primary" sortindex="1" value="Lion Squad"/>
+    <description>A two page wargame designed for a now dead contest.  Lion squad is about a battle that took place on Mars in 2200 between the future king and rebels.  Soldiers from the Kings army (Lion and Hearts) had to defend the outskirts of the city from the invading rebels, who were using a quickly built but unrefined tank.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="10"/>
+    <minplaytime value="10"/>
+    <maxplaytime value="10"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="5750" value="Alex Kremer"/>
+    <link type="boardgameartist" id="5750" value="Alex Kremer"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="4.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.5"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

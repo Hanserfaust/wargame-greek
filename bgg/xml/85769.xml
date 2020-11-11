@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="85769">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/UW97bYFLbeFGqWT09YXkNzTLAv4=/fit-in/200x150/pic1387455.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BxLnD46ba37ne1EwKmrnbJRXJgo=/0x0/pic1387455.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer (second edition)"/>
+    <description>(from GMT website:)&amp;#10;&amp;#10;Game system designed for small unit actions from platoon to battalion-sized formations:&amp;#10;&amp;#10;&amp;#10;    Each 7/8&amp;rdquo; double-sided counter represents a single vehicle, towed gun or aircraft.&amp;#10;    The 5/8&amp;quot; double-sided leg unit counters represent squads, half-squads and sections, including their attached weapons &amp;#10;    Basic set includes a 22&amp;quot; x 34&amp;quot; mapboard &amp;#10;    Full color illustrated manual with various player aids and reference cards &amp;#10;    Modular rules system with Basic, Advanced and Optional rules section. Players may keep it simple or make it as complex as desired.&amp;#10;&amp;#10;&amp;#10;&amp;#10;Includes rules for: &amp;#10;&amp;#10;    Vehicle include 11 unique hit locations, armor angles and penetration charts for level, rising and falling fire &amp;#10;    Various ammunition type, e.g., AP, HVAP, APCR, HEAT, HE &amp;#10;    Sighting effects &amp;#10;    Overwatch fire &amp;#10;    Rate-of-fire &amp;#10;    Indirect fire, both on gameboard and off gameboard &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;All of the unit data is included on the full-color data cards. &amp;#10;The streamlined chit-based command system moves the action along at a brisk pace.&amp;#10;Scenario and TO&amp;amp;E Reference Book&amp;#10;&amp;#10;TIME SCALE: 15 second to 15 minutes per turn &amp;#10;MAP SCALE: 100 meters per hex&amp;#10;UNIT SCALE: Individual tanks, vehicles, towed guns and aircraft; infantry squads, half-squads, and sections&amp;#10;&amp;#10;DESIGNER &amp;amp; DEVELOPER: James M. Day&amp;#10;ART DIRECTOR/PACKAGING: Rodger B. MacGowan&amp;#10;MAP ART: Charles Kibler&amp;#10;COUNTER ART: James M. Day, Pascal Da Silva, and Mark Simonitch&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="13"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="300"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="61" value="No necessary in-game text" numvotes="0"/>
+        <result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5"/>
+        <result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="65" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2630" value="Panzer game system"/>
+    <link type="boardgameexpansion" id="251288" value="Panzer (second edition): C3i #27 Scenarios"/>
+    <link type="boardgameexpansion" id="241856" value="Panzer (second edition): C3i #28 Scenarios"/>
+    <link type="boardgameexpansion" id="85770" value="Panzer: Game Expansion Set, Nr 1 – The Shape of Battle on the Eastern Front 1943-45"/>
+    <link type="boardgameexpansion" id="85772" value="Panzer: Game Expansion Set, Nr 2 – The Final Forces on the Eastern Front 1941-44"/>
+    <link type="boardgameexpansion" id="214827" value="Panzer: Game Expansion Set, Nr 4 – France 1940"/>
+    <link type="boardgameexpansion" id="130959" value="Panzer: Game Expansion Set, Nr3 – Drive to the Rhine: The Second Front 1944-45"/>
+    <link type="boardgameimplementation" id="4288" value="Panzer (first edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="1922" value="James M. Day"/>
+    <link type="boardgameartist" id="3290" value="Pascal da Silva"/>
+    <link type="boardgameartist" id="1922" value="James M. Day"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="357"/>
+        <average value="7.80709"/>
+        <bayesaverage value="5.95303"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2439" bayesaverage="5.95303"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="163" bayesaverage="6.96683"/>
+        </ranks>
+        <stddev value="1.62807"/>
+        <median value="0"/>
+        <owned value="1319"/>
+        <trading value="34"/>
+        <wanting value="83"/>
+        <wishing value="235"/>
+        <numcomments value="147"/>
+        <numweights value="59"/>
+        <averageweight value="3.7119"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

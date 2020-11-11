@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4348">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nIzeiZHTyxtE05BJSHn3oKRCTZw=/fit-in/200x150/pic43932.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/y44_FzxtVTJ29CJx_DOz8zvY3Ws=/0x0/pic43932.jpg</image>
+    <name type="primary" sortindex="1" value="HoverTank 3"/>
+    <description>This near-future two-player wargame with very minor SF elements has an American company discovering oil on the frontier between two small unfriendly nations in the Caucasus (portrayed on a color-coded hex map). On June 3, 2022, the two nations go to war over the oil, fielding modest armies (tan and brown plastic miniatures) that include assault hovercraft and hovertanks. The larger, faster armies of their stronger allies (gray and green miniatures) soon become involved.&amp;#10;&amp;#10;There are three ways to win: an oil victory (one player occupies all three wellheads at the end of a round), a political victory (one player occupies two of his opponent's six urban areas at the end of any movement segment), or a military victory (one color is completely eliminated at the end of any combat phase).&amp;#10;&amp;#10;As its name indicates, this is the third installment in Winsome's HoverTank series.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="8353" value="HoverTank"/>
+    <link type="boardgamedesigner" id="366" value="John Bohrer"/>
+    <link type="boardgamepublisher" id="65" value="Winsome Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="5.84444"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.0721"/>
+        <median value="0"/>
+        <owned value="26"/>
+        <trading value="1"/>
+        <wanting value="10"/>
+        <wishing value="7"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

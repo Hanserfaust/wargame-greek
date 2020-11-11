@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="33522">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/DJ9o8uTSJgOyzb5LT5iRgrKDgaw=/fit-in/200x150/pic280129.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Plillm_TAoNTNuvmyWjOO8pSwHE=/0x0/pic280129.jpg</image>
+    <name type="primary" sortindex="1" value="Warzone: Dark Eden"/>
+    <description>The first book in the &amp;quot;Worlds at War&amp;quot; series, which was never expanded upon further in this edition of the game. This book takes the conflict from the other planets in the solar system back down to a post-apocalyptic Earth, with detailed entries for all four of the Tribes of Earth (the Sons of Rasputin, the Templars, the Lutheran Triad, and Crescentia). It also gives entries for the troops from the Megacorporations (Capitol, Bauhaus, Imperial, Mishima, and Cybertronic), the Brotherhood, and the Dark Legion that are to be found on Dark Eden. Also included are rules for taking Tribes of Earth units in corporate armies, and bringing corporate armies down to Earth.&amp;#10;&amp;#10;Really, this book is meant to be used on its own, with the rules (but not the army lists) from the original Warzone rulebook. However rules for including the full factions found in the Warzone rulebook were included in Dark Eden.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="5089" value="Mutant Chronicles"/>
+    <link type="boardgamefamily" id="28417" value="Warzone"/>
+    <link type="boardgameexpansion" id="9296" value="Warzone (first edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="4233" value="Chris Bledsoe"/>
+    <link type="boardgamedesigner" id="2756" value="Dave Jones"/>
+    <link type="boardgamedesigner" id="1604" value="Stefan Ljunqvist"/>
+    <link type="boardgameartist" id="12500" value="Peter Bergting"/>
+    <link type="boardgameartist" id="12497" value="Paul Bonner"/>
+    <link type="boardgameartist" id="37137" value="Jonas Mases"/>
+    <link type="boardgameartist" id="12502" value="John Matson"/>
+    <link type="boardgameartist" id="12501" value="Jeff Miracola"/>
+    <link type="boardgameartist" id="12492" value="Jamie Sims"/>
+    <link type="boardgameartist" id="18572" value="Alvaro Tapia"/>
+    <link type="boardgameartist" id="12450" value="Marcus Thorell"/>
+    <link type="boardgamepublisher" id="1845" value="Heartbreaker"/>
+    <link type="boardgamepublisher" id="112" value="Target Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="7.35294"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.36946"/>
+        <median value="0"/>
+        <owned value="49"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="2"/>
+        <numcomments value="2"/>
+        <numweights value="2"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4360">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Fi_HxgQ_VCFosT3WuwE9oNhvF4g=/fit-in/200x150/pic2085953.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/CPkZ_qOEequS1dncg5C4eCy2VH0=/0x0/pic2085953.png</image>
+    <name type="primary" sortindex="1" value="Attack in the Ardennes: The Battle of the Bulge"/>
+    <description>From the back cover:&amp;#10;Attack in the Ardennes is a game for two players covering Germany&amp;rsquo;s last offense in the west. One player controls the German forces attempting to break through the Allied lines; the other player commands the American, British and French Forces trying to stem the onslaught. Movement of units is point-to-point along roads, emphasizing the key role played by the transportation lines in the rugged and densely wooded Ardennes. Each turn covers eight hours of the actual battle; each unit represents a regiment-sized unit involved in the battle. Armor, infantry, artillery and rocket launchers have key roles in battle, each having its own strengths and weaknesses. &amp;#10;(text from the Box)&amp;#10;&amp;#10;The game comes with two 17x22 maps, 320 counters, rulebook, and two dice. Game Mechanics are similar to A HOUSE DIVIDED from the same author.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="300"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="51" value="No necessary in-game text" numvotes="0"/>
+        <result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="55" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgamedesigner" id="373" value="John Astell"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgamedesigner" id="657" value="John Harshman"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="61"/>
+        <average value="5.6418"/>
+        <bayesaverage value="5.50746"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13600" bayesaverage="5.50746"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2627" bayesaverage="5.54659"/>
+        </ranks>
+        <stddev value="1.42343"/>
+        <median value="0"/>
+        <owned value="193"/>
+        <trading value="14"/>
+        <wanting value="4"/>
+        <wishing value="5"/>
+        <numcomments value="49"/>
+        <numweights value="12"/>
+        <averageweight value="2.5833"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

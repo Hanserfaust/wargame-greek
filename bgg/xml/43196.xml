@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="43196">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/I_WYUH1b7xCZddcOcZSt0fMoX0w=/fit-in/200x150/pic546711.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1x78nhaCZjUkfD_mRWBGddRXjNk=/0x0/pic546711.jpg</image>
+    <name type="primary" sortindex="1" value="Yalu: The Chinese Counteroffensive in Korea: November 1950-May 1951 (second edition)"/>
+    <description>In November of 1950, the United Nations counteroffensive against the North Koreans seemed to be in the final stages of a mop-up. Everywhere the Inmun Gun (the North Korean Army) was in full retreat toward the Chinese border, closely pursued by the victorious Allies.&amp;#10;&amp;#10;Chinese intervention in the war had been considered and dismissed as a bluff by the UN Command. Thus, the UN forces were badly overextended when the bluff materialized as a force of thirty divisions, having infiltrated into the Korean mountains.&amp;#10;&amp;#10;UN forces were sent reeling back to the 38th Parallel in confusion, attempting to reestablish a front line. The Communists followed relentlessly, infiltrating deep into UN positions. They attacked without caution, accepting high casualties in order to sustain momentum.&amp;#10;&amp;#10;Units in Yalu are mostly divisions, with some regiments and battalions. Ground scale is 10 miles per hex and turns are weekly. Weather plays a predominant role, influencing movement and combat options for both sides. Yalu, like no other game, effectively shows the differences in the opposing sides' Rules of Engagement - the two sides simply feel and play differently.&amp;#10;&amp;#10;This is the second edition of Yalu; the first was published in GDW's Conflict Games line in 1977. The 2009, Second Edition of Yalu will be a fully updated version of the game with all new graphics, all known errata included and some additional rule updates.&amp;#10;&amp;#10;Both &amp;quot;New-Look&amp;quot; and &amp;quot;Retro-Look&amp;quot; components. Second Edition Yalu has both &amp;quot;New-Look&amp;quot; and &amp;quot;Retro-Look&amp;quot; map and counters to provide some replay variability. The 1977 rules and the new rules will also be featured.&amp;#10;&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;     Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="600"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="600"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="86" value="No necessary in-game text" numvotes="0"/>
+        <result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="90" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1091" value="Korean War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10633" value="Country: Korea"/>
+    <link type="boardgameimplementation" id="6476" value="Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951" inbound="true"/>
+    <link type="boardgamedesigner" id="986" value="John Hill (I)"/>
+    <link type="boardgameartist" id="11909" value="Todd Davis"/>
+    <link type="boardgamepublisher" id="3929" value="Compass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="81"/>
+        <average value="7.25911"/>
+        <bayesaverage value="5.59441"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6705" bayesaverage="5.59441"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1013" bayesaverage="6.0483"/>
+        </ranks>
+        <stddev value="1.36284"/>
+        <median value="0"/>
+        <owned value="360"/>
+        <trading value="4"/>
+        <wanting value="16"/>
+        <wishing value="55"/>
+        <numcomments value="51"/>
+        <numweights value="19"/>
+        <averageweight value="2.9474"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

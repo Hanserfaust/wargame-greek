@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="38498">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/IeU-A2Uy8DPHUhYgh7JKkwT_QXc=/fit-in/200x150/pic1087238.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/x1C2vmeEKMGTFEx4c1Xkk5YLD5w=/0x0/pic1087238.jpg</image>
+    <name type="primary" sortindex="1" value="Hell Over Korea"/>
+    <description>&amp;quot;HELL OVER KOREA&amp;quot; is an expansion module for &amp;quot;B-29 SUPERFORTRESS&amp;quot;  and covers B-29 missions in the Korean War from November 1950 through April 1951, covering a standard six-month bomber crew tour of duty in Korea.  NOTE THAT YOU MUST OWN A COPY OF &amp;quot;B-29 SUPERFORTRESS&amp;quot; TO PLAY &amp;quot;HELL OVER KOREA.&amp;quot;&amp;#10;&amp;#10;The time period covered in the Variant was chosen because it was the most dynamic period of the war for the B-29. Early missions (i.e., before November 1950) for the bomber met with little enemy opposition, with (relatively ineffective) raids against tactical targets.  North Korea&amp;rsquo;s few strategic targets and industries were also quickly disposed of.  In November 1950, however, the Chinese Communists were in the war, and the B-29 began facing its first serious opposition with the introduction of large numbers of Soviet MiG-15 jet fighters.  It was now a real contest.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="51" value="No necessary in-game text" numvotes="0"/>
+        <result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="55" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1091" value="Korean War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10633" value="Country: Korea"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="28907" value="B-29 Superfortress" inbound="true"/>
+    <link type="boardgamedesigner" id="8592" value="Steve Dixon"/>
+    <link type="boardgamedesigner" id="8593" value="Shawn Rife"/>
+    <link type="boardgameartist" id="36911" value="Randy Lein"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="9512" value="Legion Wargames LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="7.69118"/>
+        <bayesaverage value="5.5509"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.5509"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.81718"/>
+        </ranks>
+        <stddev value="1.13769"/>
+        <median value="0"/>
+        <owned value="310"/>
+        <trading value="9"/>
+        <wanting value="20"/>
+        <wishing value="42"/>
+        <numcomments value="26"/>
+        <numweights value="5"/>
+        <averageweight value="2.4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

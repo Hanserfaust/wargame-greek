@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="144135">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/c_8Dd6SXJPHGZRCuMrqEZWlwAOY=/fit-in/200x150/pic1974251.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FQ7Awsts4YZr4s2n_4o3uV6Z2y0=/0x0/pic1974251.jpg</image>
+    <name type="primary" sortindex="1" value="Sparta versus Athens"/>
+    <description>Sparta versus Athens is a strategic level game of the Peloponnesian War in it's entirety, spanning twenty-eight years, from 431 B.C. to 404 B.C. The map is a point-to-point map, using city-states and the common land and navigable sea routes as the conduits that defined the Grecian Mediterranean. The game is designed for simple movement and combat mechanics to resolve battles and sieges, all centered upon the predominance of famous and historic leaders (e.g., Alcibiades). The game is richly historic, and keeps players within historic parameters in such a way that alliances and politics can shift, depending on how the war is going, but only within the limits of historic possibilities. Some city-states of the Delos Confederation may ally with Athens, while others may ally with Sparta, for example. Athens vs Sparta includes four scenarios: The Archidamian War (431 - 422), The Peace of Nicias and the Sicilian Expedition (421 &amp;ndash; 413), The Ionian War (412 &amp;ndash; 404), and the campaign scenario covering the entire war.&amp;#10;&amp;#10;The game includes one 22x34&amp;quot; map of the Grecian Mediterranean, including Sicily and southern Italy, and as far east as the Persian empire, 280 counters of all participants in the Peloponnesian War. Each game turn is played as four seasons of one year. Each inch equals ~18 miles. One naval strength point represents 5 galleys of the era (Triremes), and one land strength point represents 350 to 450 heavy infantry (Hoplites) or 500 to 600 light infantry or 200 to 300 cavalry.&amp;#10;&amp;#10;Components: One 22&amp;quot; x 34&amp;quot; map &amp;amp; 280 counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="18614" value="Cities: Athens"/>
+    <link type="boardgamefamily" id="24921" value="Cities: Sparta (Greece)"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="74163" value="Ted Garland"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="25"/>
+        <average value="5.292"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.00757"/>
+        <median value="0"/>
+        <owned value="168"/>
+        <trading value="6"/>
+        <wanting value="7"/>
+        <wishing value="16"/>
+        <numcomments value="31"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

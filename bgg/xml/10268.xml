@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10268">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sqQUHkpRrQmqPAXiv9oIS8PPXn0=/fit-in/200x150/pic42668.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tBLV6U29zj3TvqS81YvMC6uaIKI=/0x0/pic42668.jpg</image>
+    <name type="primary" sortindex="1" value="Soldier's Companion"/>
+    <description>Soldier's Companion is a good, solid set of 19th-century colonial miniatures rules. The basic system mechanics are are an elaboration of those used in Sky Galleons of Mars, giving a solid basis for land, aerial, and aquatic combats. While allowing for the addition of land juggernauts, combat tripods, and aerial fliers, the rules work just as well for a rag-tag British column fighting its way through the passes of the Northwest Frontier. Soldier's Companion combines the excitement of the 19th-century  colonial wars with the adventure of Space:1889.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1989"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgameexpansion" id="30792" value="Space 1889 Adversaries"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <link type="boardgamepublisher" id="3861" value="Heliograph Incorporated"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="7.05263"/>
+        <bayesaverage value="5.5432"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9699" bayesaverage="5.5432"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1817" bayesaverage="5.78122"/>
+        </ranks>
+        <stddev value="0.908943"/>
+        <median value="0"/>
+        <owned value="100"/>
+        <trading value="3"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="18"/>
+        <numweights value="2"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

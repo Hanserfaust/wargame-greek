@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6470">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Gd5MqUpXa37tU6NrsMDqGs5mc-o=/fit-in/200x150/pic694475.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xzWNQu2LB09xDxR9Ikps6pgVYaY=/0x0/pic694475.jpg</image>
+    <name type="primary" sortindex="1" value="Hetzer Sniper!: Sniper Companion Game #1"/>
+    <description>From the back of the box:&amp;#10;&amp;#10;&amp;quot;You send a squad to draw fire, and if they draw fire and come back, then you know where the Germans are.&amp;quot; - anonymous soldier in Normandy, 1944&amp;#10;&amp;#10;Hetzer: the Bushwacker.  Not just a tank, but a strategy.  In the hedges of Normandy, the mountain villages of Italy, and the forests of Belgium, Allied and German soldiers fought a tense, cat-and-mouse war.  Sudden death hid inside every hedgerow and farm.  It's not just a tank...&amp;#10;&amp;#10;HETZER SNIPER! GAME OF MAN-TO-MAN COMBAT IN EUROPE, 1940-45&amp;#10;&amp;#10;HETZER expands the popular Sniper! (second edition) game system with an in-depth examination of man-to-man combat on the Western Front in World War II.  Scenarios cover the German blitz of 1940, the Allied crawl up the Italian peninsula, and the furious fighting in the dense hedgerow country in northern France.  Fighting vehicles are covered in great detail, with game statistics on over 40 tanks, trucks, halftracks, and armored cars.  Players can select squads from seven nations, plus paratroopers, S.S., and volksgrenadiers.  Campaign rules allow individual squads to fight their way through an endless series of battles, losing casualties and gaining experience along the way.&amp;#10;&amp;#10;HETZER is a complete game; the SNIPER! game is not required to play HETZER.&amp;#10;&amp;#10;DESIGNER: Steve Winter&amp;#10;COMPLEXITY LEVEL: Medium&amp;#10;PLAYING TIME: 1 to 4 hours&amp;#10;NO. OF PLAYERS: 2&amp;#10;SOLITAIRE SUITABILITY: Medium&amp;#10;&amp;#10;COMPONENTS&amp;#10;(2) 22&amp;quot; x 34&amp;quot; maps&amp;#10;(1) 24 p. Rules book&amp;#10;(1) 16 p. Rules book&amp;#10;(1) 8 p. Scenarios book&amp;#10;(3) sheets of vehicles&amp;#10;(2) six-sided dice&amp;#10;(1) counter tray&amp;#10;400 die-cut counters&amp;#10;&amp;#10;(c) 1987 TSR Inc.&amp;#10;Stock No. 3022&amp;#10;$15.00 U.S.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1987"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3258" value="The Sniper Series"/>
+    <link type="boardgameintegration" id="39007" value="Sniper! (second edition)"/>
+    <link type="boardgamedesigner" id="562" value="Steve Winter"/>
+    <link type="boardgameartist" id="13816" value="Dennis Kauth"/>
+    <link type="boardgameartist" id="3034" value="Dave LaForce"/>
+    <link type="boardgameartist" id="7271" value="David C. Sutherland, III"/>
+    <link type="boardgamepublisher" id="16" value="TSR"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="58"/>
+        <average value="6.79155"/>
+        <bayesaverage value="5.55328"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8894" bayesaverage="5.55328"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1700" bayesaverage="5.814"/>
+        </ranks>
+        <stddev value="1.38291"/>
+        <median value="0"/>
+        <owned value="263"/>
+        <trading value="10"/>
+        <wanting value="11"/>
+        <wishing value="17"/>
+        <numcomments value="36"/>
+        <numweights value="9"/>
+        <averageweight value="3.5556"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="42651">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PC9MGudCJTfHHnT3shKFhHJQrUI=/fit-in/200x150/pic537084.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/C_peMv1PGSLCjNF_qa6jS4CdJKE=/0x0/pic537084.jpg</image>
+    <name type="primary" sortindex="1" value="Airborne in my Pocket"/>
+    <description>The night before June 6th, 1944, during Operation Neptune, thousands of Allied troops were parachuted into enemy territory to prepare the Normandy landings. During that crucial night, amid the flashes of German anti-aircraft fire, many paratroopers were scattered a long way from their drop zones as their planes were either destroyed or unable to reach their drop points.&amp;#10;&amp;#10;You are among those troopers. But as luck turns out, the winds have blown you directly where you are needed the most! As you were descending, you discovered a terrible sight: the Germans have installed two 24.0 cm Guns in a hidden bunker. Those cannons are set to fire at the beaches of Normandy. You alone can stop them from killing the Allied troops!&amp;#10;&amp;#10;During your jump, you lost your equipment bag which contained all your necessary gear. The only thing you have left is your trusted Colt .45 and your ingenuity. As you fold your parachute, you look at your watch: it&amp;rsquo;s 0700, the landings are starting. Will you have time to sabotage the German battery before they decimate your comrades? All you need are some explosives...&amp;#10;&amp;#10;This game started out as a variant of Zombie in my Pocket, but now has become its own game, with Event cards, inside and outside tiles, scenario cards, item tiles and character cards.&amp;#10;&amp;#10;Airborne In Your Pocket: Free Trial Version can be simple (Basic Game) or more involving (Scenarios &amp;amp; Campaigns), as the player wishes. Advanced Game and Scenarios allow you to play as American, British, Canadian, French and even German soldiers.  And the expansions bring even more variety with alternate cards and locations.&amp;#10;&amp;#10;So join the airborne! Fight the enemy! Win the war!&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Airborne In Your Pocket&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="15"/>
+    <minplaytime value="15"/>
+    <maxplaytime value="15"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="7">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1020" value="Exploration"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+    <link type="boardgamefamily" id="3838" value="...in my Pocket"/>
+    <link type="boardgamefamily" id="4705" value="Games by the Game Artisans of Canada"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="127721" value="Airborne In Your Pocket"/>
+    <link type="boardgamedesigner" id="12685" value="Emmanuel Aquin"/>
+    <link type="boardgameartist" id="12685" value="Emmanuel Aquin"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="14966" value="Print &amp; Play Productions"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="190"/>
+        <average value="7.02447"/>
+        <bayesaverage value="5.6796"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4662" bayesaverage="5.6796"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="923" bayesaverage="6.09461"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="691" bayesaverage="5.76429"/>
+        </ranks>
+        <stddev value="1.40274"/>
+        <median value="0"/>
+        <owned value="375"/>
+        <trading value="13"/>
+        <wanting value="11"/>
+        <wishing value="158"/>
+        <numcomments value="129"/>
+        <numweights value="35"/>
+        <averageweight value="1.6571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11289">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-vX7NTXp1x43QP4sE4b3E9lAPdQ=/fit-in/200x150/pic2721367.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fJX7njVYmhL7ZrhvAl8NlnkQ92Y=/0x0/pic2721367.jpg</image>
+    <name type="primary" sortindex="1" value="Operation Whirlwind"/>
+    <description>October-November 1956: The Communist government of Hungary has fallen. The newly inaugurated president Imre Nagy declares an end to the one-party system and threatens to declare neutrality and pull out of the Warsaw Pact. The Soviet Union cannot tolerate this defection and launches Operation Whirlwind - military intervention in Hungary to restore order, culminating in a desperate battle in the streets of Budapest.&amp;#10;&amp;#10;The game scale uses 8 hours per turn and units are roughly platoon to regiment scale. The 11 x 17&amp;quot; map features an area movement map of downtown Budapest, at a scale of 300 yards to the inch. Besides Hungarian insurgents and Soviet Army troops, optional forces include Soviet paratroops, US Special Forces teams and the 101st Airborne Division.&amp;#10;&amp;#10;The original 2002 Microgame Design Group edition had 280 unmounted counters, which had to be mounted to make 140 double-sided ones. The 2007 Fiery Dragon reissue has 192 single-sided die-cut counters. The 2015 One Small Step Games edition has a 17x22&amp;quot; map and 140 die-cut, double-sided counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="18617" value="Cities: Budapest"/>
+    <link type="boardgamefamily" id="10636" value="Country: Hungary"/>
+    <link type="boardgamefamily" id="28241" value="One Small Step Folio Series"/>
+    <link type="boardgamedesigner" id="1678" value="Brian Train"/>
+    <link type="boardgameartist" id="81197" value="Ania B. Ziolkowska"/>
+    <link type="boardgamepublisher" id="2537" value="Fiery Dragon Productions"/>
+    <link type="boardgamepublisher" id="931" value="Microgame Design Group"/>
+    <link type="boardgamepublisher" id="992" value="One Small Step"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="29"/>
+        <average value="6.47241"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.04581"/>
+        <median value="0"/>
+        <owned value="140"/>
+        <trading value="8"/>
+        <wanting value="8"/>
+        <wishing value="21"/>
+        <numcomments value="33"/>
+        <numweights value="6"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

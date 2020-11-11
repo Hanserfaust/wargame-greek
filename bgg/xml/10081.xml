@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10081">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/YmMJvyCOZloGpViG7qdr5t9abHA=/fit-in/200x150/pic42992.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/q5kaAzP253uSwATYL1-p6qc-gOM=/0x0/pic42992.jpg</image>
+    <name type="primary" sortindex="1" value="Axis &amp; Allies: D-Day"/>
+    <name type="alternate" sortindex="1" value="Axis and Allies: D-Day"/>
+    <description>From the Avalon Hill web site:&amp;#10;&amp;#10;It&amp;rsquo;s the morning of June 6, 1944. As Allied forces prepare to storm Normandy&amp;rsquo;s beaches, the fate of Europe is in your hands! In honor of next year&amp;rsquo;s 60th anniversary of D-Day, Avalon Hill will release Axis &amp;amp; Allies D-Day, a new, stand-alone extension of the classic strategy game Axis &amp;amp; Allies. Axis &amp;amp; Allies D-Day will allow players to recreate the largest amphibious invasion in history.&amp;#10;&amp;#10;Axis &amp;amp; Allies D-Day features detailed game components including a new blockhouse piece, an extra-large game board, and original artwork commissioned exclusively for the D-Day game box. Other elements of this new Axis &amp;amp; Allies variant include a card deck with three card types -- Orders, Tactics, and Fortune -- to add depth and complexity to play. Order cards determine play sequence and break turns into distinct phases; Tactics cards offer players varied strategic opportunities; and Fortune cards add an element of unpredictability.&amp;#10;&amp;#10;Axis &amp;amp; Allies D-Day begins as Operation Overlord, the invasion of German-held Normandy, is underway -- 130,000 soldiers of the United Kingdom, Canada, and the United States are poised to assault Fortress Europe. You and your fellow world powers control their fates.&amp;#10;&amp;#10;One player controls Germany, whose Axis forces have turned the beaches of Normandy into a near-impenetrable stronghold. Set to breach those defenses are the Allies: the United Kingdom, Canada, and the United States. The future of Europe and the world hangs in the balance.&amp;#10;&amp;#10;Axis &amp;amp; Allies D-Day is designed for two or three players and can be played in two hours. Axis &amp;amp; Allies D-Day is the third Axis &amp;amp; Allies variant, following the successful Axis &amp;amp; Allies Europe and Axis &amp;amp; Allies Pacific, both of which were published in 2001.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="24">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="12"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="20"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="9"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="8"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="2"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="6"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamefamily" id="34" value="Axis &amp; Allies"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="575" value="Larry Harris, Jr."/>
+    <link type="boardgamedesigner" id="604" value="Mike Selinker"/>
+    <link type="boardgameartist" id="13324" value="Tommy Lee Edwards"/>
+    <link type="boardgameartist" id="13560" value="Todd Gamble"/>
+    <link type="boardgameartist" id="22121" value="Craig Gibson"/>
+    <link type="boardgameartist" id="16822" value="Ryan Sansaver"/>
+    <link type="boardgameartist" id="18317" value="Peter Whitley"/>
+    <link type="boardgamepublisher" id="4871" value="Avalon Hill Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1853"/>
+        <average value="6.4181"/>
+        <bayesaverage value="5.97643"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2332" bayesaverage="5.97643"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="747" bayesaverage="6.20722"/>
+        </ranks>
+        <stddev value="1.51263"/>
+        <median value="0"/>
+        <owned value="3481"/>
+        <trading value="235"/>
+        <wanting value="54"/>
+        <wishing value="156"/>
+        <numcomments value="614"/>
+        <numweights value="192"/>
+        <averageweight value="2.375"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

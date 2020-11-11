@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8385">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/xtPSpTinlCKDBMNym3N4UzAxBGo=/fit-in/200x150/pic34860.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3jNHeXqLzFnyN_gHYmJRtrNgJlg=/0x0/pic34860.jpg</image>
+    <name type="primary" sortindex="1" value="Starship Duel I"/>
+    <description>A game of starship combat between the USS Enterprise and a Klingon Bird of Prey scout. There is no mapboard. Instead, the game is played using two Navigation Wheels that show the relative position and heading of each ship, depending on the maneuvers made by the players. A Statistics card is used to damage and starship systems. Game variations include the option of using a Klingon frigate in place of the Bird of Prey, or playing a solitaire game against a &amp;quot;computer controlled&amp;quot; drone ship.&amp;#10;&amp;#10;See also Starship Duel II&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="7392" value="Star Trek"/>
+    <link type="boardgamedesigner" id="411" value="Jordan Weisman"/>
+    <link type="boardgamepublisher" id="342" value="FASA"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="24"/>
+        <average value="5.97083"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.78477"/>
+        <median value="0"/>
+        <owned value="67"/>
+        <trading value="4"/>
+        <wanting value="15"/>
+        <wishing value="20"/>
+        <numcomments value="11"/>
+        <numweights value="2"/>
+        <averageweight value="1.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

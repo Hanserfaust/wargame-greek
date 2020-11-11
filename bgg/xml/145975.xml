@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="145975">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/1MIVCg-6BtRAqq4e-OjdsDpC6zs=/fit-in/200x150/pic1997761.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-_DtnvpHzQL5Lchc4bpkvCHPNgQ=/0x0/pic1997761.jpg</image>
+    <name type="primary" sortindex="1" value="Hoplite"/>
+    <description>Hoplite, the 15th volume in the Great Battles of History series of games, allows players to recreate classic battles from the pre-Alexandrian Persian-Hellenistic Age, the heyday of the Hoplite (heavy infantry fighting in packed formation). This period is often considered to feature the birth of Western Warfare, as opposed to the Persian/Eastern style, which relied on archery , light cavalry, and mobility.&amp;#10;&amp;#10;Exactly how hoplite warfare was fought &amp;ndash; what really happened when &amp;ldquo;the bell rang&amp;rdquo; &amp;ndash; is highly disputed by ancient military historians, even today. Hoplite allows you to test out your theories (well, our theories, using your dice) with eleven of the great battles of this era, from the Battle of Leuctra, featuring the huge 60-man deep phalanx of Beotarch Epaminondas to the classic confrontations with the Persian missile-armed troops against the classic Greek hoplite phalanxes.&amp;#10;&amp;#10;Hoplite uses detailed mechanics meant to convey all the possibilities of this style of warfare, from The Hellenic Law of Inertia, to Drift to the Right, to the special capabilities of the Persian Light Cavalry (Harassment and Dispersal) to three different levels of Hoplite advance to Combat (the Run Don&amp;rsquo;t Walk rules) and a whole lot more.  We even still have some good old chariots!&amp;#10;  &amp;#10;And you get to fight what was the biggest land battle in European history up until Napoleonic times, the immense Battle of Plataea (truly the deciding engagement of the Greco-Persian Wars):  two maps and about 250 combat  counters covering The Greek Contingents from 26 City-States under Pausanias, Spartan Regent and General, vs. The Persians, Medes, Asians (Bactrians, Scythians, Indians and a whole lot of others) and seven Medized Greek city-states, under Mardonius, Persian Commander and son-in-law of The Great King, Darius I.&amp;#10; The package includes Simple GBoH versions for each of the battles along with special rules that highlight the hoplite style of warfare.&amp;#10;&amp;#10;Hoplite is the ultimate board game simulation on the birth of Western Warfare. And it lets you see how we stack up with the latest (June 2013) book on the subject:&amp;#10;&amp;#10;Men of Bronze: Hoplite Warfare in Ancient Greece, Donald Kagan (Editor), Gregory F. Viggiano (Editor) &amp;#10; Components: &amp;#10;&amp;#10;     3 22 x 34&amp;quot; back printed maps&amp;#10;     4 Counter Sheets (1,120 1/2&amp;quot; counters)&amp;#10;     1 Rules Book&amp;#10;     1 Scenario Book&amp;#10;     2 player aid folio cards (standard rules)&amp;#10;     1 player aid card (Simple GBoH rules)&amp;#10;     1 ten-sided die&amp;#10;     plastic counter storage bags&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Game scale:  100 yards per hex&amp;#10;&amp;#10;Players:  1 to 4 &amp;ndash; Plataea (no solo rules; Plataea could hold up to nine actually)&amp;#10; Playing Time:  1 &amp;frac12; to 8 hours&amp;#10;&amp;#10;Battles:&amp;#10;&amp;#10;     Cunaxa&amp;#10;     Delium&amp;#10;     Ephesus&amp;#10;     Leuctra&amp;#10;     Mantinea&amp;#10;     Marathon&amp;#10;     Mycale&amp;#10;     Plataea&amp;#10;     Nemea&amp;#10;     Coronea&amp;#10;     Tanagra&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="480"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="480"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="51" value="No necessary in-game text" numvotes="1"/>
+        <result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="55" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="120" value="Great Battles of History"/>
+    <link type="boardgameexpansion" id="250339" value="Hoplite: The First Battle of Mantinea, 418 BC"/>
+    <link type="boardgameexpansion" id="218226" value="Hoplite: The Great Battles of Sparta's Persian Expedition"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgamedesigner" id="152" value="Mark Herman"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="184"/>
+        <average value="7.77228"/>
+        <bayesaverage value="5.77323"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3592" bayesaverage="5.77323"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="350" bayesaverage="6.60115"/>
+        </ranks>
+        <stddev value="1.28056"/>
+        <median value="0"/>
+        <owned value="913"/>
+        <trading value="11"/>
+        <wanting value="47"/>
+        <wishing value="146"/>
+        <numcomments value="98"/>
+        <numweights value="27"/>
+        <averageweight value="3.5556"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

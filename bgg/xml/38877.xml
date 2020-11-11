@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="38877">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/wsLrP-WDBRw3ivKT6EFDZY7-obg=/fit-in/200x150/pic381855.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ADSYGmxAJhQKlcoMfT6SnfdyL2U=/0x0/pic381855.jpg</image>
+    <name type="primary" sortindex="1" value="No Retreat!"/>
+    <description>No Retreat! is a two-player wargame that retells the story of the titanic struggle between the invading armies of Nazi Germany versus Communist Russia during WW2 at a player-friendly and manageable level in scope and difficulty. Each turn is alight with intriguing on-board challenges plus the surprise of card hand Events as players vie to win in one of three different ways.&amp;#10;&amp;#10;In a skillfully blended collation of classic hex-based wargaming and modern card-driven simulations, No Retreat! stays truly story-centric, providing the proper feel of sweeping maneuvers, exploitation and encirclements across the vast steppes and forests of Russia. With a simple-yet-innovative economic model, players will also feel the growing might and sophistication of the Russian&amp;rsquo;s Red Army, and the degradation of the once-invincible German Wehrmacht, over the epic four year sweep of time that this merciless campaign was fought.&amp;#10;&amp;#10;Neither side can afford the disgrace of yielding an inch of ground to their hated foe, so your orders are: &amp;ldquo;No Retreat!&amp;rdquo;&amp;#10;&amp;#10;Game Components:&amp;#10;&amp;bull; 8 page color Rules booklet&amp;#10;&amp;bull; 4 page Reference booklet&amp;#10;&amp;bull; 4 page Scenarios booklet&amp;#10;&amp;bull; One 11&amp;rdquo; x 17&amp;rdquo; color map&amp;#10;&amp;bull; Three Player Aid Sheets&amp;#10;&amp;bull; 40 color, die-cut two-sided 5/8&amp;rdquo; mounted game pieces&amp;#10;&amp;bull; 11 round game markers&amp;#10;&amp;bull; 24 Event cards&amp;#10;&amp;#10;Scale: Each unit is 1 army or front, each hex is 100 kilometers, and each turn is 2 months.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11062" value="No Retreat series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="42104" value="Na Berlin!"/>
+    <link type="boardgameexpansion" id="93797" value="No Retreat! Solitaire"/>
+    <link type="boardgameexpansion" id="59064" value="No Surrender!"/>
+    <link type="boardgameimplementation" id="68264" value="No Retreat! The Russian Front"/>
+    <link type="boardgamedesigner" id="11119" value="Carl Paradis"/>
+    <link type="boardgameartist" id="709" value="Alan Emrich"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="186"/>
+        <average value="7.87527"/>
+        <bayesaverage value="5.78749"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3467" bayesaverage="5.78749"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="257" bayesaverage="6.73646"/>
+        </ranks>
+        <stddev value="1.32821"/>
+        <median value="0"/>
+        <owned value="358"/>
+        <trading value="12"/>
+        <wanting value="27"/>
+        <wishing value="109"/>
+        <numcomments value="104"/>
+        <numweights value="37"/>
+        <averageweight value="2.5676"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

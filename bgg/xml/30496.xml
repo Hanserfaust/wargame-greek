@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30496">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BvW7vLUyxFep20EwlTpIOD0b2j4=/fit-in/200x150/pic225618.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Vw_mlxAoipUOdehTbmXuksZ4Gx0=/0x0/pic225618.jpg</image>
+    <name type="primary" sortindex="1" value="Solo-Wargaming"/>
+    <description>Adapted from the inside dust jacket:&amp;#10;&amp;#10;Solo-Wargaming caters for both the player who cannot find opponents, and the player who wants an additional fix between sessions with friends!&amp;#10;&amp;#10;It describes innumerable methods of maneuvering two wargame armies under such conditions of secrecy and surprise that the result of the battle is in the balance until the last cannon is fired. It opens many doors to ingenious and practical methods of doing battle with model soldiers, raising the pastime in some sense almost to the level of chess.&amp;#10;&amp;#10;Microbadge:&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="100"/>
+    <minplaytime value="100"/>
+    <maxplaytime value="100"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="3805" value="Donald F. Featherstone"/>
+    <link type="boardgamepublisher" id="7111" value="Kaye and Ward"/>
+    <link type="boardgamepublisher" id="14804" value="lulu.com"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="7.68182"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.65519"/>
+        <median value="0"/>
+        <owned value="31"/>
+        <trading value="1"/>
+        <wanting value="7"/>
+        <wishing value="9"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

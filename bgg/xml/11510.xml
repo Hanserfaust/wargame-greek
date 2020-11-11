@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11510">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/wZHmJlP_EAw4Z1w9JMqL5rXA3JU=/fit-in/200x150/pic48702.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/EqcU4IhQt5zFUjWO2EqtTnQ8Fco=/0x0/pic48702.jpg</image>
+    <name type="primary" sortindex="1" value="Robert at Bannockburn"/>
+    <description>Robert at Bannockburn is a simulation of the battle between the Scottish and English armies on 24 June 1314, during Scotland's war of independence. The Battle of Bannockburn was of great importance as the Scottish victory there brought an end to English military domination of the Scottish lowlands, and secured King Robert Bruce's claim to the throne of Scotland.&amp;#10;&amp;#10;Unit types in the game are: English infantry, Scottish schiltrom (pikemen), cavalry, English crossbow, English longbow, and Scottish shortbow. The game scale is approximately 70 yards per hex and 15 minutes per game-turn.&amp;#10;&amp;#10;In addition to being published as a seperate game, Robert at Bannockburn was also published as part of SPI's Great Medieval Battles Quadrigame.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="51" value="No necessary in-game text" numvotes="0"/>
+        <result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="55" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3267" value="Great Medieval Battles System"/>
+    <link type="boardgamecompilation" id="3694" value="Great Medieval Battles"/>
+    <link type="boardgamedesigner" id="1154" value="Anthony F. Buccini"/>
+    <link type="boardgamedesigner" id="1579" value="David Werden"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="33"/>
+        <average value="6.43939"/>
+        <bayesaverage value="5.51971"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12209" bayesaverage="5.51971"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2376" bayesaverage="5.62491"/>
+        </ranks>
+        <stddev value="1.71339"/>
+        <median value="0"/>
+        <owned value="92"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="6"/>
+        <numcomments value="16"/>
+        <numweights value="5"/>
+        <averageweight value="2.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

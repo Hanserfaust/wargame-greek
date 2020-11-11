@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="150005">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/zEQM11v0T9BaDsf_G1Ljz2uhXZg=/fit-in/200x150/pic2650219.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LdujUYmi_i_LVb8QX5gAxmEAFi0=/0x0/pic2650219.jpg</image>
+    <name type="primary" sortindex="1" value="Lock 'n Load Tactical: Heroes of Normandy"/>
+    <description>Heroes of Normandy The award-winning, squad-level Lock &amp;rsquo;n Load Tactical Series jumps into Western Europe in 1944 with Heroes of Normandy. From the initial D-Day drops, on June 6th, to the fighting in the Norman bocage, and on to Operation Market Garden, this combination of Band of Heroes and its expansion, Swift &amp;amp; Bold, arrives at the battle heavy, with 30 scenarios, over 650 die-cut counters, and the latest v4.1 rules. Command audacious American and British paratroopers and glider troops in daring missions against stalwart defensive positions and fiendish counterattacks by the German Wehrmacht, SS and Fallschirmj&amp;auml;gers.&amp;#10;&amp;#10;Infantry squads and intrepid individuals, such as skilled Leaders and Heroes, are at the core of the LnL Tactical Series. With them you can fire M1919A4, Vickers, MG34 and MG42 machine guns; take aim at approaching tanks with Bazookas, Piats and Panzerfausts; and find the range with heavy mortars and numerous anti-tank guns, from the American 57mm to the dreaded German 88mm. Vehicles, especially tanks, also clatter onto the battlefield to take on pesky infantry and, of course, each other. M4A1 Shermans, M5A1 Stuarts, Fireflies and Cromwells square off against Panzer IIIs and IVs as well as the big cats: Panthers and Tigers.&amp;#10;&amp;#10;Heroes of Normandy has 30 scenarios and tell the battles of the men from the 101st Airborne, 82nd Airborne, British 6th Airborne, 17th SS Panzergrenadier, 6th Fallschirmjager, 91st Airlanding and 352nd Infantry Divisions.  The scenarios covers battles spanning the D-Day drops, fighting the Norman hedgerows and Operation Market Garden.&amp;#10;&amp;#10;It&amp;rsquo;s squad-level tactical combat at its most exciting!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="28328" value="Lock 'n Load Tactical"/>
+    <link type="boardgameexpansion" id="34085" value="Lock 'n Load Tactical: Battle Pack Alpha"/>
+    <link type="boardgameexpansion" id="56201" value="Lock 'n Load Tactical: Battle Pack Bravo"/>
+    <link type="boardgameexpansion" id="211877" value="Lock 'n Load Tactical: Compendium Volume 1 World War 2 Era"/>
+    <link type="boardgameexpansion" id="260845" value="Lock 'n Load Tactical: Compendium Volume 3 World War 2 Era"/>
+    <link type="boardgameexpansion" id="250502" value="Lock 'n Load Tactical: Core Rules v5.0"/>
+    <link type="boardgameexpansion" id="184564" value="Lock 'n Load Tactical: Days of Villainy"/>
+    <link type="boardgameexpansion" id="260459" value="Lock 'n Load Tactical: Heroes of Normandy – The Untold Stories Vol. 1"/>
+    <link type="boardgameexpansion" id="264523" value="Lock 'n Load Tactical: Heroes of Normandy – We Stand Alone: Battles of Easy Company"/>
+    <link type="boardgameintegration" id="193024" value="Lock 'n Load Tactical: World War II Era Core Rules Manual v4.1"/>
+    <link type="boardgamecompilation" id="18460" value="Lock 'n Load: Band of Heroes" inbound="true"/>
+    <link type="boardgamecompilation" id="25731" value="Lock 'n Load: Swift and Bold" inbound="true"/>
+    <link type="boardgameimplementation" id="18460" value="Lock 'n Load: Band of Heroes" inbound="true"/>
+    <link type="boardgamedesigner" id="26104" value="Jeff Lewis"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgameartist" id="85732" value="Blackwell Hird"/>
+    <link type="boardgameartist" id="12341" value="David Julien"/>
+    <link type="boardgameartist" id="12340" value="Marc von Martial"/>
+    <link type="boardgamepublisher" id="6025" value="Lock 'n Load Publishing, LLC."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="96"/>
+        <average value="8.43958"/>
+        <bayesaverage value="5.66717"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.66717"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.28482"/>
+        </ranks>
+        <stddev value="1.45197"/>
+        <median value="0"/>
+        <owned value="357"/>
+        <trading value="2"/>
+        <wanting value="38"/>
+        <wishing value="94"/>
+        <numcomments value="37"/>
+        <numweights value="12"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

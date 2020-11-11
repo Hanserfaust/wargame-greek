@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="205164">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Qn3vhSMHTJNraPkN9F9qERhqXvU=/fit-in/200x150/pic3117891.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/KWfYZXnzFueZVgBC2LOV7dDcCE0=/0x0/pic3117891.png</image>
+    <name type="primary" sortindex="1" value="Old School Tactical: Volume 2 – West Front 1944-45"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;The popular Old School Tactical series returns for its second edition with Old School Tactical Volume II: West Front 1944-45. This iteration of the quick to learn, challenging to master, tactical game introduces the Americans to the series. Fight across the European countryside with M-10 tank destroyers and Sherman Easy Eight Tiger tank destroyers. Pile your powerful rifle squads into venerable M5 halftracks or nail an onrushing armored car with a bazooka.  Find your enemy, fix them, flank them, and finish them. If it works on the battlefield it works in Old School Tactical, and it works with minimal fuss and muss.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="44779" value="Old School Tactical"/>
+    <link type="boardgameexpansion" id="239244" value="Old School Tactical: Airborne"/>
+    <link type="boardgameexpansion" id="252583" value="Old School Tactical: Ghost Front – Belgium 1944"/>
+    <link type="boardgameexpansion" id="239246" value="Old School Tactical: Volume II West Front 1944-45 – Pocket Battles"/>
+    <link type="boardgameintegration" id="170669" value="Old School Tactical"/>
+    <link type="boardgamedesigner" id="79680" value="Shayne Logan"/>
+    <link type="boardgameartist" id="79680" value="Shayne Logan"/>
+    <link type="boardgamepublisher" id="28732" value="Flying Pig Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="83"/>
+        <average value="8.54398"/>
+        <bayesaverage value="5.63865"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5456" bayesaverage="5.63865"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="686" bayesaverage="6.25271"/>
+        </ranks>
+        <stddev value="1.25565"/>
+        <median value="0"/>
+        <owned value="324"/>
+        <trading value="5"/>
+        <wanting value="25"/>
+        <wishing value="61"/>
+        <numcomments value="39"/>
+        <numweights value="2"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

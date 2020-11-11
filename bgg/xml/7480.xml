@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7480">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7mftl8KQa863p4g9MFmyqrvxqzk=/fit-in/200x150/pic1994346.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hFdIj8FWtjz2Qm6mEWiDdiL__X4=/0x0/pic1994346.png</image>
+    <name type="primary" sortindex="1" value="Sword of Rome"/>
+    <name type="alternate" sortindex="5" value="The Sword of Rome: Conquest of Italy, 362-272 BC"/>
+    <description>From the GMT P500 web page:&amp;#10;&amp;#10;The Sword of Rome is the latest in GMT&amp;rsquo;s acclaimed line of card-driven board games. It uses the popular base system invented by Mark Herman and featured in Ted Raicer&amp;rsquo;s Paths of Glory. This time, event cards and point-to-point maneuver enable up to four players to recreate the vicious struggles among the peoples of Italy and Sicily in 4th and 3rd Centuries BC. Who will dominate the western Mediterranean&amp;ndash;and with it earn the right to vie for control of the known world?&amp;#10;&amp;#10;The Sword of Rome includes rules and events for city loyalty, Roman colonies, tribal raids, Gallic indiscipline, Greek siege craft, Indian war elephants, Roman and Macedonian-style infantry tactics, the mountain fastness of Samnium, and much, much more. The game covers over 100 years of classical history in just 9 hands of cards.&amp;#10;&amp;#10;The interplay of each power&amp;rsquo;s special strengths, of the strategy decks&amp;rsquo; 152 event cards, and of up to four players&amp;rsquo; diplomatic acumen provides unlimited variety. But the rules remain at low-moderate complexity, and the familiar, underlying system is easily mastered.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;&amp;#10;     Sword of Rome: 5th Player Expansion&amp;#10;     Sword of Rome: Deluxe Map&amp;#10;     Sword of Rome Mounted Map&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="25"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="22"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="15"/>
+        <result value="Not Recommended" numvotes="18"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="35"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="12"/>
+        <result value="Recommended" numvotes="14"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="4"/>
+        <result value="14" numvotes="7"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="9"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1086" value="Territory Building"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="11515" value="Country: Italy"/>
+    <link type="boardgameexpansion" id="21419" value="Sword of Rome: 5th Player Expansion"/>
+    <link type="boardgamedesigner" id="2615" value="Wray Ferrell"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1491"/>
+        <average value="7.31056"/>
+        <bayesaverage value="6.46461"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1001" bayesaverage="6.46461"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="110" bayesaverage="7.11236"/>
+        </ranks>
+        <stddev value="1.43767"/>
+        <median value="0"/>
+        <owned value="2552"/>
+        <trading value="104"/>
+        <wanting value="114"/>
+        <wishing value="398"/>
+        <numcomments value="585"/>
+        <numweights value="201"/>
+        <averageweight value="3.3134"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="154991">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/gIHZmCpp9gs2OBY7km_8xR7zA9c=/fit-in/200x150/pic1977923.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Ofavfq9rGJQLMSvA6XZ8Wzm_HMg=/0x0/pic1977923.jpg</image>
+    <name type="primary" sortindex="1" value="Set Europe Ablaze: The Resistance War 1939-1945"/>
+    <description>[from publisher's website]&amp;#10;Gestapo. Resistance. Careful plans. Desperate measures. The Germans move Security troops to the scene of the latest sabotage outbreaks. The French shut down Networks to prevent them being overcome by police and security forces. Ever want to parachute arms into France to support the Resistance? To blow up trains and prevent the fruits of Western European labor being drained to fuel the Nazi war machine? To fool the Allies with the Englandspiel radio games&amp;mdash;inducing them to fly agents and weapons right into German arms? Well, here&amp;rsquo;s your chance! Set Europe Ablaze, named for Sir Winston Churchill&amp;rsquo;s famous instruction for his new Special Operations Executive (SOE) to disrupt Occupied Europe, offers you the exciting opportunity to refight the Resistance War in a strategic-level game with all the trimmings.&amp;#10;&amp;#10;Set Europe Ablaze focuses on the Resistance War in France, Belgium, and Holland, in a dynamic card-driven system that takes in all the action from 1940 through the eve of the D-Day invasion. It&amp;rsquo;s all here! This novel game system includes SOE, MI-6, the XX (Double-Cross) Committee, French BCRA, the OSS. There are Agent Networks, Weapons Caches, Commando Raids, Jedburghs, SAS Teams, OSS Operational Groups. Their missions include Sabotage, Interdiction, Intelligence Collection, and Propaganda. The Germans deploy Security units, intelligence services&amp;mdash;RSHA, Abwehr, Gestapo&amp;mdash;with a higher command, and Vichy Security, plus Labor Forces, to keep the lid on the Resistance and repair the effects of their depredations. German activities range from Anti-Partisan Sweeps to Propaganda, to Damage Repair. Inter-service rivalries play their role too. From Klaus Barbie to Jean Moulin, everyone&amp;rsquo;s efforts are bent to secure victory in the Resistance War. All the action focuses on the economic resources the Germans are able to extract from the West.&amp;#10;&amp;#10;Designed by award-winning innovator John Prados, Set Europe Ablaze is a two-player game that uses quarterly and biennial turns to take in the expanse of the war. Play proceeds by alternating Rounds within the turn. Players utilize several types of cards to set the level of their actions, mark notable Events, and cancel the adversary&amp;rsquo;s successes by means of Counter-Espionage. The Allied player builds Maquis strength across the regions of France and the Low Countries and supports the Resistance with Networks and other capabilities. The German builds Labor Force strength to effect repairs and deploys Security units plus intelligence detachments to quash the Resistance. Set Europe Ablaze features quick set up, elegant mechanics, and is playable by experienced players in under three hours.&amp;#10;&amp;#10;(Note: Read more about the game's development in Prados' article in ATO No. 38, Guns of the Askari.)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="200"/>
+    <minplaytime value="200"/>
+    <maxplaytime value="200"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1081" value="Spies/Secret Agents"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamedesigner" id="226" value="John Prados"/>
+    <link type="boardgameartist" id="11856" value="Mark Mahaffey"/>
+    <link type="boardgamepublisher" id="1244" value="Against the Odds"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="14"/>
+        <average value="6.67857"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.18934"/>
+        <median value="0"/>
+        <owned value="107"/>
+        <trading value="7"/>
+        <wanting value="5"/>
+        <wishing value="15"/>
+        <numcomments value="16"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

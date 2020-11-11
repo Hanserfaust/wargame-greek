@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9093">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/e33ZOhNmgJAMUEqF2OVPkrbJrQM=/fit-in/200x150/pic43483.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/poL6qBcP2CmFGhPTQ9kZHCd5ybg=/0x0/pic43483.jpg</image>
+    <name type="primary" sortindex="1" value="1777: The Year of the Hangman"/>
+    <description>Being an Examination of the Philadelphia Campaign of that Year Including a Study of the Ten Crucial Days of 1776 and the Battles of Trenton and Princeton.&amp;#10;&amp;#10;&amp;quot;I left Congress on the 11th of November, 1777, that year which the Tories said, had three gallows in it, meaning the three sevens.&amp;quot;&amp;#10;~John Adams&amp;#10;&amp;#10;1777: The Year of the Hangman is an operational study of the campaign for Philadelphia. Between September 1st and December 19th two armies contended for the American capital, seat of the rebellion, home to the Congress, and from where independence from Great Britain had been declared only the year before. In this contest battles were fought in Delaware, New Jersey and Pennsylvania. Today roadside placards mark these places: Cooch's Bridge, the banks of the Brandywine, The Battle of the Clouds, and Germantown. For 225 years a solemn, common grave has marked the site of the Paoli Massacre. Glory attends the name of Red Bank where the hated Hessian was sent packing, and the fight for Fort Mercer where the Royal Navy suffered its worst defeat of the entire war. Fort Mifflin stands in mute testament to the patriot's naked valor; while Valley Forge remains a shrine to his devotion.&amp;#10;&amp;#10;Yet all this could have ended on the gallows for Washington and his men, instead of the nation we call the United States of America.&amp;#10;&amp;#10;Scale: Two miles per hex. Units: Primarily Brigades and Divisions with a strength point representing roughly 200 men (or 1 regiment). Turns: One day divided into several movement pulses.&amp;#10;&amp;#10;Contents: 1 Map (34 x 22&amp;quot;), 1 Counter sheet (280 pieces). 2 Off Board Army Displays, Box, 1 six sided die, Rulebook, including extensive Historical Commentary and a dozen scenarios ranging in length from the entire campaign to simple battle vignettes that last half an hour.&amp;#10;&amp;#10;Also includes a study of The Ten Crucial Days of 1776, encompassing the campaigns of Trenton and Princeton and several &amp;quot;what if&amp;quot; scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1075" value="American Revolutionary War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="1710" value="Ed Wimble"/>
+    <link type="boardgameartist" id="23441" value="Terry Leeds"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="70"/>
+        <average value="6.74143"/>
+        <bayesaverage value="5.54505"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9529" bayesaverage="5.54505"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1824" bayesaverage="5.77925"/>
+        </ranks>
+        <stddev value="1.73127"/>
+        <median value="0"/>
+        <owned value="304"/>
+        <trading value="12"/>
+        <wanting value="16"/>
+        <wishing value="51"/>
+        <numcomments value="44"/>
+        <numweights value="13"/>
+        <averageweight value="3.3846"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

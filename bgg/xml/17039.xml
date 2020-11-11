@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17039">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0ByBD2ceeT64YjPcBkDjfcRuw-8=/fit-in/200x150/pic133832.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4m4GVIQnDU2a_ox8b29cTReEkDg=/0x0/pic133832.jpg</image>
+    <name type="primary" sortindex="1" value="Ship of the Line"/>
+    <description>Play out classic sea battles of the age of fighting sail using the Ship of the Line rules. The pdf has everything you need to play (except dice) including rules, maps and counters. Ship of the Line is for two or more players and a typical game will take an hour or less to finish.&amp;#10;&amp;#10;Ship of the Line includes full rules for: All manner of ships; Unusual vessels; Fortifications; Islands, reefs, shallows, harbors and other terrain types; Ammunition types; Crew quality; Prize money and rules for campaign play; random scenario generator; Scenarios; Extensive notes.&amp;#10;&amp;#10;Downloadable from rpgnow.com&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="4334" value="Jonathan Clarke"/>
+    <link type="boardgamepublisher" id="3140" value="Fat Jonny Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="7.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29099"/>
+        <median value="0"/>
+        <owned value="33"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="17"/>
+        <numcomments value="12"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

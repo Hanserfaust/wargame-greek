@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="43505">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/THKNtt1_hm5U9P9enPjs1gQ0fxk=/fit-in/200x150/pic496766.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sy0TtncbuQv3v0m--xQ-Ixokttc=/0x0/pic496766.jpg</image>
+    <name type="primary" sortindex="1" value="Somewhere far beyond: Prairie Grove 1862"/>
+    <description>Somewhere far beyond: Prairie Grove 1862 is a print &amp;amp; play only wargame, on this battle fought in Arkansas 7th December 1862, as a sideshow to the principal theaters of war during the American Civil War.&amp;#10;It is the second entry in a system premiered with the succesfull and Charles Roberts Award nominated Innocence Lost: the battle of Bull Run.&amp;#10;It is a brigade level wargame, with a lot enphasys given to chit activation (each leader has an activation chit to activate his units each turn) and chain of command to the transmission of the order.&amp;#10;Medium complexity, very good for solitaire play.&amp;#10;It comes with a 4A4 full color map, 144 counters, 1 order track and 6 pages of rules.&amp;#10;Available through wargamesdownloads, arima or directly from the author (pumaye@virgilio.it).&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="8869" value="Roberto Chiavini"/>
+    <link type="boardgameartist" id="10858" value="Giulia Canova"/>
+    <link type="boardgamepublisher" id="6597" value="TCS Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="10"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

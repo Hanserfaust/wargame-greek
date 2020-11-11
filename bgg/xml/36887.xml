@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36887">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/vcq7JNLAz-5h7zIXLg46Jjl0l_I=/fit-in/200x150/pic412813.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iJn4Zqe9iLgj8A8SXK6zP0q0ZH4=/0x0/pic412813.jpg</image>
+    <name type="primary" sortindex="1" value="Waterloo"/>
+    <description>Description courtesy of BoardgameNews.com&amp;#10;&amp;#10;Waterloo &amp;ndash; a two-player game for early 2009 with the French and British fighting once again. The action system is a clever creation: You know the range of possible actions that you can take on a turn, but the opponent knows exactly how many actions you have, and that knowledge strips the certainty from your preparation. Can you get your infantry back in a defensive position before the opponent thunders through with his cavalry? If you don&amp;rsquo;t think you can, you might develop timidly, which gives the opponent a better shot of taking valuable terrain.&amp;#10;&amp;#10;Damage in the game is represented by blue/red/black cubes, and you can distribute the cubes throughout your lines during the game to represent the movement of troops back and forth from the front lines. Shifting all the damage to the back seems like a no-brainer, but if cavalry does break through your front line, your troops are toast. Morale is checked only in face-to-face combat, and it&amp;rsquo;s handled by a die roll compared with the level of damage within an area.&amp;#10;&amp;#10;Control of areas like La Haye Sainte is critical. Just as Wellington tried to funnel French attacks through gaps in ridges in order to cut off their support, you can do the same, fighting for highland to prevent being pinched. The French win if they take Mont St. Jean, the British if they take Rosonne; if neither occurs before the end of 8pm (ie the last turn), then the British and Allies win.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="136" value="No necessary in-game text" numvotes="4"/>
+        <result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="140" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="99" value="Treefrog Line"/>
+    <link type="boardgamedesigner" id="6" value="Martin Wallace"/>
+    <link type="boardgameartist" id="11802" value="Peter Dennis"/>
+    <link type="boardgamepublisher" id="12275" value="Treefrog Games"/>
+    <link type="boardgamepublisher" id="7" value="Warfrog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="381"/>
+        <average value="6.97315"/>
+        <bayesaverage value="5.83085"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3114" bayesaverage="5.83085"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="404" bayesaverage="6.51967"/>
+        </ranks>
+        <stddev value="1.45549"/>
+        <median value="0"/>
+        <owned value="918"/>
+        <trading value="42"/>
+        <wanting value="68"/>
+        <wishing value="185"/>
+        <numcomments value="200"/>
+        <numweights value="61"/>
+        <averageweight value="3.2459"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

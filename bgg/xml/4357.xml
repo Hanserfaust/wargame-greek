@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4357">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/YgETO0aj3GisznwZcnfglhJGlRc=/fit-in/200x150/pic433002.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HRnR1sTQuL6QZAnNJlZUgIwOT5c=/0x0/pic433002.jpg</image>
+    <name type="primary" sortindex="1" value="Aspern-Essling"/>
+    <description>This is the third game in the Napoleonic Brigade Series.  It depicts the Battle of Aspern-Essling, May 21-22, 1809.&amp;#10;&amp;#10;Napoleon Brigade Series (NBS) &amp;#10;- scale = 180-200 m/hex (197-219 yrd/hex);&amp;#10;- time = 30 min/GT (60 min/Night-GT);&amp;#10;- strength = 150 inf (100 cav)/SP&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="141" value="No necessary in-game text" numvotes="1"/>
+        <result level="142" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="143" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="144" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="145" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3252" value="Napoleonic Brigade Series"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgamedesigner" id="1740" value="Jerry Malone"/>
+    <link type="boardgameartist" id="42654" value="Jacques-Louis David"/>
+    <link type="boardgamepublisher" id="219" value="The Gamers"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="92"/>
+        <average value="6.73478"/>
+        <bayesaverage value="5.57527"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7492" bayesaverage="5.57527"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1344" bayesaverage="5.90871"/>
+        </ranks>
+        <stddev value="1.35209"/>
+        <median value="0"/>
+        <owned value="410"/>
+        <trading value="20"/>
+        <wanting value="8"/>
+        <wishing value="26"/>
+        <numcomments value="51"/>
+        <numweights value="16"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

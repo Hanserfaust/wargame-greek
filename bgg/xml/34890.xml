@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="34890">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kHSD49EI7PZfOWWjYl6LOPdqH3U=/fit-in/200x150/pic305581.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/74I8CURc0WJvjDHas2PLh1TTrAQ=/0x0/pic305581.jpg</image>
+    <name type="primary" sortindex="1" value="Assault on Sevastopol"/>
+    <description>Assault on Sevastopol is a two-player game recreating Erich von Manstein&amp;rsquo;s attempt to clear the Crimean peninsula and seize the key port city of Sevastopol as a prelude to Germany&amp;rsquo;s 1942 summer offensive in Ukraine &amp;ndash; the roads to which would lead to the fateful battle of Stalingrad. The Germans are attempting to clear this enemy bastion on the Black Sea and free up their forces for the great offensive to the north. The Russians are desperately trying to hold out as long as possible, falling back on great defensive terrain and strong fortified positions, hoping to delay the German invaders and extract as high a price as possible from them for the capture of Sevastopol.&amp;#10;&amp;#10;But the Germans have prepared for this campaign. With complete air superiority, the Luftwaffe (German Air Force) relentlessly attacks from the skies, while special super-heavy siege artillery is slowly and carefully brought in and assembled expressly for this operation. It&amp;rsquo;s a hard-fought matter of time, distance, and attrition as you recreate the Assault on Sevastopol.&amp;#10;&amp;#10;Scale: Each unit is 1 regiment, brigade, division, or battle group, each hex is 3 kilometers, and each turn is 3 days.&amp;#10;&amp;#10;Game Components:&amp;#10;&amp;#10;     One 4-page, color instructions booklet&amp;#10;     40 color, die-cut, two-sided 5/8&amp;rdquo; mounted game pieces&amp;#10;     One 11&amp;rdquo; x 17&amp;rdquo; color game map with charts &amp;amp; tables&amp;#10;     One 2-page sheet of historical, designer, and developer notes&amp;#10;     One 4-page, color BATTLESSON (TM) booklet&amp;#10;     One bonus Optional Rule&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Assault on Sevastopol&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10; Buy Microbadge&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10258" value="Victory Point Games Battlesson Series"/>
+    <link type="boardgamedesigner" id="1844" value="Adrian McGrath"/>
+    <link type="boardgameartist" id="709" value="Alan Emrich"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="35"/>
+        <average value="6.67286"/>
+        <bayesaverage value="5.52995"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11046" bayesaverage="5.52995"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2078" bayesaverage="5.70778"/>
+        </ranks>
+        <stddev value="1.00721"/>
+        <median value="0"/>
+        <owned value="133"/>
+        <trading value="5"/>
+        <wanting value="5"/>
+        <wishing value="22"/>
+        <numcomments value="25"/>
+        <numweights value="6"/>
+        <averageweight value="1.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

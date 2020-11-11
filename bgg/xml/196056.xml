@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="196056">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BHNHi8XOXYZ6nZnWlWGYAxs20mw=/fit-in/200x150/pic3823652.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nYOOGs8_Z0sstLXv4DLmBItUk2A=/0x0/pic3823652.jpg</image>
+    <name type="primary" sortindex="4" value="La Bataille de Schoengrabern 1805"/>
+    <description>This battle, which was made famous in Leo Tolstoy&amp;rsquo;s War and Peace,  recreates the fight between French Imperial Prince Joachim Murat&amp;rsquo;s advance guard, having just taken Vienna from the Austrians, and the Russian rear guard led by General Peter Bagration, Bagration was desperately trying to buy enough time for Prince Mikhail Kutuzov to unite two separated parts of his large Russian-Austrian army in the maneuvering before the Battle of Austerlitz.&amp;#10; Murat has dallied for a few days after his capture of Vienna, trying to accomplish victory through diplomacy and trickery rather than force of arms, and the Russians used Murat&amp;rsquo;s vanity to keep the formerly hard-pressing French from catching the spread-out Russian forces in detail.  The result is a small but sharp battle on November 16, 1805 which allowed the Russians enough time to unite their armies.&amp;#10;&amp;#10;The game includes more than 100 counters, representing both the French Imperial forces and such leaders as Oudinot and Suchet; and the Russian rearguard represented by counters for Bagration; assorted Russian Cossacks, Austrian Hussars and Russian Jaegers.  There are two 11 X17 maps, with much of the territory taken up by the extensive vineyards.  The Schoengrabern Special Rules feature a La Bataille first: combat in the vineyards, which makes this game very different from any other La Bataille game.  There is also a commemorative essay about Marshal Murat&amp;rsquo;s efforts and the battle itself.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="180"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2676" value="Grid Movement"/>
+    <link type="boardgamefamily" id="109" value="La Bataille series"/>
+    <link type="boardgamedesigner" id="59683" value="James Soto"/>
+    <link type="boardgamedesigner" id="4035" value="Dennis A. Spors"/>
+    <link type="boardgameartist" id="4036" value="Monte Mattson"/>
+    <link type="boardgamepublisher" id="3428" value="Marshal Enterprises"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="7.875"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.75851"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

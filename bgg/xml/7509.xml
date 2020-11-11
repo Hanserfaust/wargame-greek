@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7509">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/oxTs1xWt2b98Wl3onNeK4tg9p1A=/fit-in/200x150/pic3653846.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/TcXB0jjR95964xKxMe6exfQVEww=/0x0/pic3653846.jpg</image>
+    <name type="primary" sortindex="1" value="Christians and Lions"/>
+    <description>Christians and Lions is a game for one, two or three players, and in fact requires the participation of the Divine Being Himself. (Are you on His good side?) It somewhat facetiously recreates the dire plight of those first Christians, facing certain death in the arena. We suggest that for maximum enjoyment and playability the participants forget for the time being that feeding otherwise innocent Christians to a pack of ravening wild beasts is a vile and reprehensible act. At least that's the rumor going around. In any case, it's all in fun.&amp;#10;&amp;#10;From the Fantasy Gamer (Feb/Mar, 1984 issue #4) Review of C&amp;amp;L, by Scott Haring:&amp;#10;&amp;#10;&amp;quot;Let's face it.  If you're seriously concerned that Nuclear War trivializes one of the most important issues of our time, and if you sometimes wonder if fantasy role-playing games are warping the youth of America, then Christians and Lions may not be the game for you.&amp;quot;&amp;#10;&amp;#10;Despite the warning on the cover (it says, &amp;quot;The Irreverent Strategy Game,&amp;quot; right there in big print), you may not be prepared for what's inside.  Therein lies C&amp;amp;L's first hurdle - can anyone take seriously a game in which dozens of perfectly blameless innocents are ripped to shreds by marauding beasts?&amp;quot;&amp;#10;&amp;#10;~&amp;#10;&amp;#10;&amp;quot;...All this is very important in figuring the best strategy.&amp;#10;What? Strategy?  Yes, Virginia, this game is not only borderline tacky and a barrel of laughs, its also a fairly good strategy game.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1079" value="Humor"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="7834" value="Animals: Lions"/>
+    <link type="boardgamedesigner" id="2628" value="Steve Davidson"/>
+    <link type="boardgamedesigner" id="2627" value="Douglas J. Woods"/>
+    <link type="boardgamepublisher" id="1735" value="Omicron Games Company"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="6.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.49444"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="1"/>
+        <wanting value="4"/>
+        <wishing value="8"/>
+        <numcomments value="6"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

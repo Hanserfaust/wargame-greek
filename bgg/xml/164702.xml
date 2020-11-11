@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="164702">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KjAAuih_TIQ-SHSDA5gppodqS4U=/fit-in/200x150/pic4211206.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/N9sLgfR6ioXi7tNv64oKIxy9nfE=/0x0/pic4211206.jpg</image>
+    <name type="primary" sortindex="1" value="Glorantha: The Gods War"/>
+    <description>Glorantha: The Gods War is a competitive strategy game in which 3 or 4 players (3 to 8 players with the Empires expansion) summon units (minions, heroes, lesser gods and usually one greater god); construct buildings (usually Shrines, Temples, and Ziggurats) and clash in mortal combat. The players seek to build their own strength and destroy their enemies by killing their enemies' units and capturing and destroying their enemies' buildings, to achieve Heroquests and thus earn gifts, and to earn runes with unique effects. Each empire has its own, and different, unique ability, weakness, greater god ability, units, Heroquests and gifts. For example, the Darkness empire features trolls, the Mistress (Cragspider), shades, and the Hellmother (Kyger Litor), while the Sky empire has archers, the Emperor, phoenixes, and the Sun God (Yelm). These are not just the same units with different names, but also have different abilities, as do their buildings. Chaos has both different buildings, three greater gods (the Unholy Trio) and a different agenda to the other empires. The game has a world-shattering &amp;quot;mythic&amp;quot; feel to it rather than a &amp;ldquo;fantasy adventure&amp;rdquo; sensation.&amp;#10;&amp;#10;Glorantha: The Gods War is based on the vigorous mythic realm of Glorantha, which has been the basis for multiple tabletop board, roleplaying, and even digital games, as well as numerous works of fiction. Its depth and scope has been recognized by numerous aficionados of fantasy and gaming, and now it is brought to you in all its astounding power.&amp;#10;&amp;#10;In each round, in the Action Phase players spend the power they have earned from various sources, most importantly how many different types of buildings they have and the Heroquests they have achieved. They then spend power to build more buildings, summon and move units, do battle with enemy empires, and use powerful empire-specific abilities including from their earned gifts. The Council Phase may include an attempt to close the Chaos Rift that threatens the existence of the world and/or the Great Compromise in which an empire may sacrifice power for the greater good and to distribute victory points.&amp;#10;&amp;#10;Victory is determined by obtaining victory points from various sources, most importantly the number of buildings controlled each round, paired Heroquests achieved and the Great Compromise, and from runes.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="3"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="120"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="7757" value="From RPG books to board games"/>
+    <link type="boardgamefamily" id="25869" value="Glorantha  Board Games"/>
+    <link type="boardgameexpansion" id="256216" value="Glorantha: The Gods War – Elder Races"/>
+    <link type="boardgameexpansion" id="208007" value="Glorantha: The Gods War – Empires"/>
+    <link type="boardgameexpansion" id="256215" value="Glorantha: The Gods War – Monsters"/>
+    <link type="boardgamedesigner" id="7522" value="Sandy Petersen"/>
+    <link type="boardgameartist" id="90824" value="Rich Fleider"/>
+    <link type="boardgamepublisher" id="28545" value="Petersen Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="176"/>
+        <average value="8.46619"/>
+        <bayesaverage value="5.7803"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3527" bayesaverage="5.7803"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="707" bayesaverage="6.23469"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="508" bayesaverage="6.0114"/>
+        </ranks>
+        <stddev value="1.61733"/>
+        <median value="0"/>
+        <owned value="343"/>
+        <trading value="5"/>
+        <wanting value="40"/>
+        <wishing value="204"/>
+        <numcomments value="86"/>
+        <numweights value="14"/>
+        <averageweight value="3.4286"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

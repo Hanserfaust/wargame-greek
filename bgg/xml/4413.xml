@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4413">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/MkhEYMGqvNnfkB4V7GE7aSTWAac=/fit-in/200x150/pic58394.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FH_OTO_JXDBP2-AajhMwheRUR00=/0x0/pic58394.jpg</image>
+    <name type="primary" sortindex="1" value="Star Trek III"/>
+    <description>Set of three solitaire games in one box, none of which has very much to do with the movie &amp;quot;Star Trek III.&amp;quot;&amp;#10;&amp;#10;In &amp;quot;The Sherwood Syndrome,&amp;quot; the Enterprise crew must stop a renegade Federation sociologist who has set up a &amp;quot;king of the world&amp;quot; on a planet with medieval technology -- but they must do this *without* causing any further major disruptions to the planet's society. So you control them as they become the equivalent of Robin Hood and his merry men. Strange.&amp;#10;&amp;#10;In &amp;quot;The Kobayashi Maru,&amp;quot; you take the infamous final Starfleet Academy test and see how far you can get. You can measure yourself against either the standard version of the test, which can't be beaten, or against Kirk's reprogrammed version of the test, which can.&amp;#10;&amp;#10;In &amp;quot;Free Enterpri$e,&amp;quot; you as the Federation are competing with the Klingons for the allegiance of the Glista, a species obsessed with mercantile trade. You have two weeks to warp back and forth between the Glista worlds and out-trade the Klingons.&amp;#10;&amp;#10;Playing time is completely arbitrary; it will depend on which variety of which of these games you choose to play and how fast or methodically you choose to play it.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="66" value="No necessary in-game text" numvotes="0"/>
+        <result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="70" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure"/>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="7392" value="Star Trek"/>
+    <link type="boardgamedesigner" id="498" value="Greg Costikyan"/>
+    <link type="boardgamedesigner" id="1759" value="John M. Ford"/>
+    <link type="boardgamedesigner" id="47" value="Doug Kaufman"/>
+    <link type="boardgamepublisher" id="40" value="West End Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="103"/>
+        <average value="5.99078"/>
+        <bayesaverage value="5.52297"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11844" bayesaverage="5.52297"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2426" bayesaverage="5.61032"/>
+        </ranks>
+        <stddev value="1.65187"/>
+        <median value="0"/>
+        <owned value="359"/>
+        <trading value="17"/>
+        <wanting value="26"/>
+        <wishing value="74"/>
+        <numcomments value="59"/>
+        <numweights value="12"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

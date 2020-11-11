@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5982">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/3yUveu1WJKv3vikm95YLrpPFpKY=/fit-in/200x150/pic263343.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BM10o7l5ZA5IsMq8229Uej-t9W0=/0x0/pic263343.jpg</image>
+    <name type="primary" sortindex="1" value="Mothra vs. Godzilla"/>
+    <name type="alternate" sortindex="1" value="モスラ対ゴジラ"/>
+    <description>Part of Bandai's Game for Adult ~ IF series (meaning aimed at older players, not anything with objectionable content0.&amp;#10;&amp;#10;Complexity 2 on Bandai's 1-7 scale (1=easiest)&amp;#10;&amp;#10;&amp;quot;If&amp;quot; refers to the their gimmick of setting up each game in the series as a &amp;quot;What if... (insert game scenario)&amp;quot;&amp;#10;&amp;#10;This particular game has Godzilla fighting other Toho movie monsters as a hex-based wargame. It has the same game designer as the &amp;quot;Godzilla Computer Wargame 03&amp;quot;.&amp;#10;&amp;#10;Includes counters and 9 figures to represent the people and monsters. Map is made up of 2 mounted boards (double sided, making for two different 2-board-size maps).&amp;#10;&amp;#10;The game is divided into three parts:&amp;#10;&amp;#10;- Part I: Mothra vs Godzilla (scenario for 2 players). One player plays &amp;quot;The Mothra Side&amp;quot; (the defense forces, the civilians, the Shobijin (the little twin fairies) and the Mothra larvae. The other player is &amp;quot;The Godzilla Side&amp;quot;, just Godzilla. Godzilla approaches the coast from the sea in search of Mothra's hidden egg, with lots of chaos and destruction along the way. The Mothra player uses the defense forces and hidden tactics to slow Godzilla long enough to allow the egg to hatch so that the Mothra larva(e) can face Godzilla. The game uses the &amp;quot;city side&amp;quot; of the gameboard.&amp;#10;&amp;#10;- Part II: Solo Game - provides rules for solitaire play of the Mothra vs Godzilla scenario. The player plays &amp;quot;The Mothra Side&amp;quot;, with cards and die rolls governing the movement and behavior of Godzilla.&amp;#10;&amp;#10;- Part III: Rules for additional scenarios - provides rules for 4 scenarios in which additional monsters face off against one another. Stats for Mothra (adult), Rodan, King Ghidorah, Anguirus, Gigan and Mechagodzilla - as well as aliens controlling the monsters - are included. The game uses the &amp;quot;island side&amp;quot; of the gameboard.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="24569" value="Kaiju"/>
+    <link type="boardgamefamily" id="5615" value="Monsters"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="934" value="Bandai"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="6.97833"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.00117"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="17"/>
+        <wishing value="25"/>
+        <numcomments value="1"/>
+        <numweights value="2"/>
+        <averageweight value="1.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

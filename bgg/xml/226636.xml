@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="226636">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/b7cSuMOpaaSVQJejwSAmCRqhbBU=/fit-in/200x150/pic3544154.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jbewsBDb2Yw4RsmCtMvCFoTmPfo=/0x0/pic3544154.png</image>
+    <name type="primary" sortindex="1" value="Festung Breslau 1945"/>
+    <description>- Here the victorious Soviet troops are returning from Berlin to the parade of victory in Moscow.&amp;#10;Suddenly, explosions and guns are heard on the way.&amp;#10;- Was it already shot on chevat?&amp;#10;- No - 6th Army is still trying to conquer Breslau ...&amp;#10;Dmitri Baltermanc&amp;#10;&amp;#10;The board wargame &amp;quot;Festung Breslau 1945&amp;quot; allows players to see the events that took place in the besieged city between 15th February and 6th May 1945. The advantage for the game owners is that they have the opportunity to try alternative strategies for both sides.&amp;#10;&amp;#10;Players take on the role of Commanders of the Red Army or fortress&amp;rsquo; garrison. They determine the directions of assaults and dispose of available resources. Their decisions affect the outcome of the fighting. You can check whether the Russians could take the city earlier than they did historically or whether the Germans could organize the defense more effectively. Each side has its respective advantages. It is up to you whether you will use them appropriately.&amp;#10;&amp;#10;Fate of &amp;quot;Festung Breslau&amp;quot; is in your hands!&amp;#10;&amp;#10;A complete game &amp;bdquo;Festung Breslau 1945&amp;rdquo; contains:&amp;#10;&amp;bull; one board 48x68 cm;&amp;#10;&amp;bull; a set of 308 mounted counters (12,5x12,5mm size);&amp;#10;&amp;bull; one rule book (12 pages);&amp;#10;&amp;bull; one scenario card;&amp;#10;&amp;bull; one six sided die.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="35698" value="Adam Niechwiej"/>
+    <link type="boardgameartist" id="35698" value="Adam Niechwiej"/>
+    <link type="boardgamepublisher" id="11687" value="Strategemata"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="5.71429"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.54751"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="8"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

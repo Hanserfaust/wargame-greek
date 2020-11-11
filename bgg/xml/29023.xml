@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29023">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fgQ7ru2KctL9115BUSTC6M-HPG0=/fit-in/200x150/pic291003.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/PIGqZxfVG_R13dNkikd02Vt66VI=/0x0/pic291003.jpg</image>
+    <name type="primary" sortindex="1" value="Invasão da Polônia"/>
+    <description>Original introductory wargame, released in early 80&amp;acute;s in Brazil, from a small company called JOG. The games was quite simple, last just with 5 turns&amp;lt; The game had a small map and eleven counters. The main idea of JOG was to introduce the hobby in Brazil, but by 1982, the company was broke and the JOG remains only in the memories of veteran wargamers. Polonia (or Invasion of Poland) was the first of a game series which included another wargames (France 1940, Barbarossa, Ardennes, etc), but there were errors in order of battle, etc.&amp;#10;&amp;#10;But JOG and their other games created the first generation of wargamers in Brazil, and now many of them, recognize the great importance of this initiative.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="8630" value="JOG"/>
+    <link type="boardgamepublisher" id="6786" value="JOG"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="5.125"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.1388"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

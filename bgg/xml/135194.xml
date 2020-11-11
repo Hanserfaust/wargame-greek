@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="135194">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/h3F9Qk0lbVFPdPybGTjHh2f5hxI=/fit-in/200x150/pic1661316.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/zLfIAjvuMKLM-Ms7s7h3fq2YP2I=/0x0/pic1661316.jpg</image>
+    <name type="primary" sortindex="5" value="The Grand Campaign"/>
+    <description>(from SPW website:)&amp;#10;&amp;#10;The Grand Campaign covers the strategic and production aspects of Der Weltkrieg Series for WWI and completes the Weltkrieg series.&amp;#10;&amp;#10;July 28, 1914:  The peace of Europe is shattered.  Rapid fire cannons and machine guns usher in a new and deadlier form of warfare. The major powers had prepared for years, building up massive armies and navies.  It was supposed to end quickly. War was now too expensive, too deadly.  But they would fight on to the death.&amp;#10;&amp;#10;The War begins with sweeping invasions.  Great armies marching to the largest battles yet seen.  Murderous fire produces unimaginable casualties.  Exhausted, they dig in. The Armies develop Siege Howitzers, Poison Gas, Tanks, and Combat Aircraft.  New tactics attempt to overcome the deadlock of trench warfare.  Mass Tank Attacks, Storm Troopers, Drumfire Barrages. The war is on multiple fronts.  Belgium, France, Italy, Austria, Serbia, Greece, Turkey, Poland, Russia, Romania, Palestine, Mesopotamia. The conflict is much broader than just the battlefields.  Factories must be supplied and people fed.  Produce the guns, shells and bullets the armies need, or face disaster.&amp;#10;&amp;#10;The Grand Campaign combines all of the Der Weltkrieg series titles (not a stand alone product).  Link all of the campaigns together to simulate the entire war from start to finish.  All options are now on the table, as you control everything.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="111" value="Der Weltkrieg Series"/>
+    <link type="boardgamedesigner" id="2702" value="David Schroeder"/>
+    <link type="boardgamepublisher" id="1814" value="SPW (Schroeder Publishing &amp; Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="24"/>
+        <average value="8.11667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.9226"/>
+        <median value="0"/>
+        <owned value="195"/>
+        <trading value="2"/>
+        <wanting value="16"/>
+        <wishing value="34"/>
+        <numcomments value="21"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

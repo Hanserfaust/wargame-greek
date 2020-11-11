@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="35093">
+    <thumbnail/>
+    <image/>
+    <name type="primary" sortindex="1" value="Prototype Competition"/>
+    <description>Published in Game Journal #64, this is a card game with a very interesting theme. Players are World War II aircraft manufacturers trying to design the best fighter plane of WWII. Players can literally put together their dream plane, from jet-engined Zeros to Mustangs bristling with 50mm cannons.&amp;#10;&amp;#10;The game comes with 117 cards.&amp;#10;&amp;#10;This game is a spin-off from Tank Extravaganza that was published in Game Journal #61, also from the same game designer. The designer also subsequently designed a similar game called Naval Competition.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="3"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="100"/>
+    <minplaytime value="100"/>
+    <maxplaytime value="100"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamedesigner" id="10278" value="Yuichi Kazama"/>
+    <link type="boardgamepublisher" id="3358" value="Game Journal"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="6.4"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.35647"/>
+        <median value="0"/>
+        <owned value="12"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="1"/>
+        <numcomments value="0"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

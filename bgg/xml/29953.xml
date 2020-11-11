@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="29953">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PMO3jmrn-noz6yAnK5n-sRNpm-M=/fit-in/200x150/pic218296.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_bMvSmvJO0K298BQ6ZeOTvE3uwc=/0x0/pic218296.jpg</image>
+    <name type="primary" sortindex="1" value="Flames of War: Bloody Omaha"/>
+    <description>Bloody Omaha is a source book for Flames of War: The World War II Miniatures Game covering the fighting on Omaha Beach.  Included are army lists for the forces involved, including the US Rangers and 1st and 29th Infantry Divisions, and the German 352nd Infantry Division.&amp;#10;&amp;#10;Also included are scenarios, modeling tips and historical background.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamefamily" id="5772" value="Flames of War"/>
+    <link type="boardgameexpansion" id="11168" value="Flames of War: The World War II Miniatures Game" inbound="true"/>
+    <link type="boardgamedesigner" id="8856" value="Steven Ptak"/>
+    <link type="boardgamedesigner" id="3609" value="Phil Yates"/>
+    <link type="boardgamepublisher" id="2476" value="Battlefront Miniatures Ltd"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="22"/>
+        <average value="7.12273"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.976046"/>
+        <median value="0"/>
+        <owned value="89"/>
+        <trading value="5"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="6"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

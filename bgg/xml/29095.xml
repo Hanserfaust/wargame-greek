@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="29095">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iH_rkoGMkjvdwdMf8Wn8RniKBhc=/fit-in/200x150/pic203972.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UANFN_wB7E1lFoXd9Yyqhn6QMts=/0x0/pic203972.jpg</image>
+    <name type="primary" sortindex="1" value="BattleLore: Dwarven Battalion Specialist Pack"/>
+    <name type="alternate" sortindex="1" value="Battlelore Zwergen-Batallion"/>
+    <name type="alternate" sortindex="1" value="BattleLore: Bataillon Nain"/>
+    <description>From the publisher's blog:&amp;#10;&amp;#10;This will be our first two Specialist packs: a Dwarven Battalion and a Goblin Skirmishers set. These packs introduce new units to the game, along with the Specialist and Weapon summary cards necessary to field them. For now, let&amp;rsquo;s just say that they will significantly alter your game.&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;     4 Iron Dwarf Bagpipers&amp;#10;     8 Iron Dwarf Spear Bearers (16 more are found in BattleLore: Scottish Wars)&amp;#10;     8 Iron Dwarf Axe Swingers (8 more are found in BattleLore: Bearded Brave)&amp;#10;     14 banners&amp;#10;         2&amp;times;1 Green Bagpiper&amp;#10;         2&amp;times;1 Blue Bagpiper&amp;#10;         2&amp;times;1 Red Bagpiper&amp;#10;         2&amp;times;2 Axe Swingers&amp;#10;         2&amp;times;2 Spear Bearers&amp;#10;    &amp;#10;     4-page Rules booklet with 2 new adventures&amp;#10;     3 Specialist cards (Iron Dwarves Axe Swingers, Bagpipers, Spear Bearers)&amp;#10;     3 Weapon Summary cards (Bagpiper, Battle Axe, Spear Bearer)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;     BattleLore&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="9768" value="BattleLore"/>
+    <link type="boardgamefamily" id="28952" value="BattleLore (First edition)"/>
+    <link type="boardgamefamily" id="50" value="Commands &amp; Colors"/>
+    <link type="boardgameexpansion" id="25417" value="BattleLore" inbound="true"/>
+    <link type="boardgamedesigner" id="25" value="Richard Borg"/>
+    <link type="boardgameartist" id="12519" value="Cyrille Daujean"/>
+    <link type="boardgamepublisher" id="1027" value="Days of Wonder"/>
+    <link type="boardgamepublisher" id="17" value="Fantasy Flight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="528"/>
+        <average value="7.42847"/>
+        <bayesaverage value="6.05867"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.05867"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.89453"/>
+        </ranks>
+        <stddev value="1.17803"/>
+        <median value="0"/>
+        <owned value="2086"/>
+        <trading value="71"/>
+        <wanting value="55"/>
+        <wishing value="106"/>
+        <numcomments value="179"/>
+        <numweights value="46"/>
+        <averageweight value="2.587"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

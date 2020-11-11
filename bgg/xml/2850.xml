@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="2850">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/S4R3kdQQE-cPKC96B0NxhO-zb8w=/fit-in/200x150/pic4759650.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fM8rdWg50aGNSj0NSYYcoPSEZ-Q=/0x0/pic4759650.jpg</image>
+    <name type="primary" sortindex="1" value="Supremacy: Boomers – Ballistic Missile Subs"/>
+    <description>The Boomers expansion set allows players to add ballistic missile subs to their navies. Players must pay $2 Billion dollars and lose one grain, one oil, and four minerals units from their supply center to build each sub. Each sub carries two missiles and can be used for conventional or strategic attacks. The rules contain specific info for offensive and defensive tactics.&amp;#10;The expansion set contains 40 color-coded miniature subs, five per-superpower.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Supremacy&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Supremacy:  Boomers &amp;#226;&amp;#128;&amp;#147; Warlords and Pirates Blister Pack&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1990"/>
+    <minplayers value="4"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1009" value="Abstract Strategy"/>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1026" value="Negotiation"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamefamily" id="56401" value="Supremacy"/>
+    <link type="boardgameexpansion" id="27" value="Supremacy" inbound="true"/>
+    <link type="boardgamedesigner" id="643" value="Robert J. Simpson"/>
+    <link type="boardgamepublisher" id="18" value="Supremacy Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="86"/>
+        <average value="6.38372"/>
+        <bayesaverage value="5.54813"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54813"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.72136"/>
+          <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="5.62254"/>
+        </ranks>
+        <stddev value="1.78318"/>
+        <median value="0"/>
+        <owned value="225"/>
+        <trading value="10"/>
+        <wanting value="14"/>
+        <wishing value="27"/>
+        <numcomments value="19"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3248">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/K-O6fuSosmi-K92MqLkzoxcZKOM=/fit-in/200x150/pic65299.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/u3209lqvGjTjEql2k1JRmr2yYHw=/0x0/pic65299.jpg</image>
+    <name type="primary" sortindex="1" value="Citadel of Blood"/>
+    <name type="alternate" sortindex="1" value="Black Gates"/>
+    <name type="alternate" sortindex="1" value="Labirynt Śmierci"/>
+    <description>Players form a party of Heroic Fantasy adventurers to journey into the Citadel of the evil mage &amp;quot;X the Unknown&amp;quot;, gaining experience and power by fighting his monsters, and ultimately facing and defeating X himself.&amp;#10;&amp;#10;The Citadel map is randomly generated during the game by drawing and placing rooms and corridors printed on 1/4&amp;quot; die-cut counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="41" value="No necessary in-game text" numvotes="2"/>
+        <result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="45" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure"/>
+    <link type="boardgamecategory" id="1020" value="Exploration"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1059" value="Maze"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="6210" value="Magazine: Ares"/>
+    <link type="boardgameimplementation" id="3625" value="DeathMaze" inbound="true"/>
+    <link type="boardgamedesigner" id="681" value="Eric Lee Smith"/>
+    <link type="boardgameartist" id="21795" value="Barclay Shaw"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="5018" value="Encore (for boardgames)"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="15123" value="SharpSharkGames"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="221"/>
+        <average value="6.45656"/>
+        <bayesaverage value="5.6197"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5909" bayesaverage="5.6197"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1509" bayesaverage="5.86803"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="787" bayesaverage="5.67282"/>
+        </ranks>
+        <stddev value="1.55869"/>
+        <median value="0"/>
+        <owned value="624"/>
+        <trading value="21"/>
+        <wanting value="41"/>
+        <wishing value="165"/>
+        <numcomments value="117"/>
+        <numweights value="21"/>
+        <averageweight value="2.381"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

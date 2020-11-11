@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="54300">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bt6oZ9V2l2qbrH-mAprUcRgE6Yk=/fit-in/200x150/pic663894.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/mO54ojjsnxovzeB9yEN30wj5-Nw=/0x0/pic663894.jpg</image>
+    <name type="primary" sortindex="1" value="Bravery in the Sand"/>
+    <description>Bravery in the Sand is a two-player game that covers the major part of the battle known as Operation Crusader in North Africa during World War Two. Covering the period from November 20 to December 3, 1941, players assume the roles of the Axis and Commonwealth generals to determine who will be victorious in this battle.&amp;#10;&amp;#10;One player controls the Commonwealth force (British, South African, New Zealand, and Indian), and the other player the Axis force (German and Italian).&amp;#10;&amp;#10;Players activate formations via chit draw, and combat is of the roll-to-hit variety.  Includes rules for battlefield recovery, replacements, fortifications, Rommel and more.&amp;#10;&amp;#10;Part of the International Games Series (IGS) from Multi-Man Publishing&amp;#10;&amp;#10;Originally published in Operations Special Magazine #2 (Summer 2009).&amp;#10;&amp;#10;Game Scale:&amp;#10;Turn: 2 days&amp;#10;Hex: 15 miles / 24 Km&amp;#10;Units: Regiment &amp;amp; Brigade&amp;#10;&amp;#10;Game Inventory (Operations Special Issue #2 edition):&amp;#10;One 17 x 22&amp;quot; full-color mapsheet&amp;#10;One dual-side printed countersheet (176 5/8&amp;quot; counters)&amp;#10;One 8-page rules booklet&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="66" value="No necessary in-game text" numvotes="1"/>
+        <result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="70" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3201" value="International Games Series"/>
+    <link type="boardgamecompilation" id="119835" value="Operations Special Issue #2"/>
+    <link type="boardgamedesigner" id="4565" value="Ginichiro Suzuki"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="73"/>
+        <average value="7.23151"/>
+        <bayesaverage value="5.58994"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6889" bayesaverage="5.58994"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1030" bayesaverage="6.03821"/>
+        </ranks>
+        <stddev value="1.48646"/>
+        <median value="0"/>
+        <owned value="355"/>
+        <trading value="10"/>
+        <wanting value="10"/>
+        <wishing value="22"/>
+        <numcomments value="65"/>
+        <numweights value="22"/>
+        <averageweight value="1.6818"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

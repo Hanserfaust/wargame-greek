@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="23425">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Na7aGwjoC43q3j1Hrh7MHge1pTc=/fit-in/200x150/pic4162860.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nrlxAn70QeBUV9ZOUgkLdoqCDfA=/0x0/pic4162860.jpg</image>
+    <name type="primary" sortindex="1" value="Down Styphon!"/>
+    <description>Down Styphon! Is a miniatures game simulating Musket and Pike warfare. The setting of the game is based on one of the stories in the Paratime series by H.Beam Piper. The main character Lord Kalvin, who is a Penn. State Trooper that ends up on a parallel earth where the 'secret' of gunpowder is controlled by a group of Priests who's influence and gunpowder or 'Fireseed' as it's called can be bought and controlled. Kalvin also possesses the knowledge of making 'Fireseed', better guns and the history of warfare.&amp;#10;     The rule book is 20 pages with two card stock loose pages that have turn references and combat result tables. This game was designed in 1977 when all they had was 28mm minis, but you can just change the scale of movement and range without too much trouble. You can use any English Civil war minis for this and the has four pages of line drawings showing how the armies look and what colors to use for each of the different armies. &amp;#10;     Scale for 28mm is 1 figure = 20 men. You can change this if you like using 15, 6, or even 2mm (for 1:1 fun) change range and movement distance as you scale down. &amp;#10;     Orders are written down with simultaneous movement.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1977"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1093" value="Novel-based"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamedesigner" id="2717" value="Mike Gilbert (I)"/>
+    <link type="boardgameartist" id="2717" value="Mike Gilbert (I)"/>
+    <link type="boardgamepublisher" id="192" value="Fantasy Games Unlimited"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="4"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="2"/>
+        <wanting value="3"/>
+        <wishing value="2"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

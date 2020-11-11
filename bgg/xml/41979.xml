@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="41979">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/JG36MVzLC_r9i7RfZ-OQF3b9jQc=/fit-in/200x150/pic464115.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BOKgbOScYe0j2c1mM6ESk7sgCJo=/0x0/pic464115.jpg</image>
+    <name type="primary" sortindex="1" value="Out of the Attic"/>
+    <description>Out of the Attic is a collection of OOP articles, and scenarios for ASL.&amp;#10;&amp;#10;Contents:&amp;#10;    * Night articles and Series Replay&amp;#10;    * 12-point facing variant&amp;#10;    * Basic ASL tips article&amp;#10;    * 16 ASL Scenarios (15 from popular, hard to get &amp;quot;third party&amp;quot; sources!)&amp;#10;&amp;#10;Articles&amp;#10;  Bring On The Night&amp;#10;  Sicilian Midnight: Series Replay&amp;#10;  Who Rules The Night&amp;#10;  and plenty more!&amp;#10;&amp;#10;Scenarios:&amp;#10;OA1: The Road to St. Lo&amp;#10;OA2: Skirmish in the Snow&amp;#10;OA3: Waiting for Fredendall&amp;#10;OA4: Hell On Wheels&amp;#10;OA5: Rear Area Defenders&amp;#10;OA6: Mounted Extraction&amp;#10;OA7: Celles Melee&amp;#10;OA8: A Parting Blow&amp;#10;OA9: Tyranny's End&amp;#10;OA10: Monty's Mess&amp;#10;OA11: Crocodile Rock&amp;#10;OA12: Sicilian Midnight&amp;#10;OA13: Brief Breakfast&amp;#10;OA14: Across the Aisne and into Freineux&amp;#10;OA15: Shattering the Line&amp;#10;OA16: Surrender or Die&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="16202" value="Eric Baker"/>
+    <link type="boardgamedesigner" id="27786" value="Russ Bunten"/>
+    <link type="boardgamedesigner" id="12425" value="Nadir Elfarra"/>
+    <link type="boardgamedesigner" id="28346" value="Chuck Goetz"/>
+    <link type="boardgamedesigner" id="28342" value="Kevin Meyer"/>
+    <link type="boardgamedesigner" id="9459" value="Steven Swann"/>
+    <link type="boardgamedesigner" id="29048" value="Rick Troha"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="7.75735"/>
+        <bayesaverage value="5.56047"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56047"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.8531"/>
+        </ranks>
+        <stddev value="1.85552"/>
+        <median value="0"/>
+        <owned value="265"/>
+        <trading value="2"/>
+        <wanting value="6"/>
+        <wishing value="14"/>
+        <numcomments value="16"/>
+        <numweights value="3"/>
+        <averageweight value="5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

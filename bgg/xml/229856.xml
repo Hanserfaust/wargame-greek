@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="229856">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dWsA-O1XiLOvRo_thl2iCm1vhKI=/fit-in/200x150/pic3603159.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D3bMm120ho0P3P3MF0rhqix_9m4=/0x0/pic3603159.jpg</image>
+    <name type="primary" sortindex="1" value="Sabres and Smoke: The War of 1812"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;Sabres and Smoke: The War of 1812 is a 2-player, turn-based light strategy board game set during the War of 1812. From Trenton in the Michigan Territory, to Fort George and Queenston Heights in Upper Canada, to the shores of Baltimore, Maryland, players will be able to pit British and Canadian infantry, militia, artillery, Native Warriors and naval units against their American counterparts. Across 16 exciting, historically accurate scenarios, both players will determine the fate of North America, with a game that is simple to both set up and learn, yet provides an incredibly rich, entertaining gaming experience. The game is for ages 10 and up.&amp;#10;&amp;#10;Created by Eric Sheppard, the game is the result of extensive research that included explorations of several of the battle fields featured in the game. Additional scenarios to augment the 16 included in the base game will be forthcoming later in the year.&amp;#10;&amp;#10;The game includes:&amp;#10;&amp;#10;- 3 fully-mounted game boards (2 land, 1 coastal).&amp;#10;&amp;#10;- 44 double-sided terrain hexes, illustrated to provide depth and dimension to the battlefield.&amp;#10;&amp;#10;- 250 military units, including Native Warriors British, Canadian and American infantry, militia, artillery, naval units, and specialized unit markers.&amp;#10;&amp;#10;- 100 card stands, allowing all units to &amp;lsquo;stand to&amp;rsquo;. No need to move stacks around the board.&amp;#10;&amp;#10;- 8 battle dice (4 red, 4 blue) with custom-printed icon stickers.&amp;#10;&amp;#10;- 32-page Rule/Scenario Book with all the information to set and play the game, quickly and easily. Book also includes 16 scenarios with full-colour set up maps.&amp;#10;&amp;#10;- 52 Battle Cards, to add richness and variability to the gameplay.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="35"/>
+    <maxplaytime value="90"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="22184" value="Admin: Unreleased Games"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamedesigner" id="101687" value="Eric Sheppard"/>
+    <link type="boardgamepublisher" id="36737" value="Hand2hand Entertainment Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="7.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.136"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="5"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

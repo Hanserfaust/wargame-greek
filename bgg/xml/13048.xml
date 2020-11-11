@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="13048">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RJBMBb4CQ85gO4d1JWEyZP4S3Pg=/fit-in/200x150/pic96088.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/zyWmZsIAxjH3AMeUHqiKN1bdw8M=/0x0/pic96088.jpg</image>
+    <name type="primary" sortindex="1" value="Deployment"/>
+    <description>Deployment was originally called Tactical Game 10. Its purpose is to show the use and development of small unit tactics during the &amp;quot;flintlock musket&amp;quot; period of warfare (roughly 1670 to 1840).&amp;#10;&amp;#10;From the designers notes: (which also listed other games in the tactical game series 1 to 21)&amp;#10;&amp;#10;This was a Test Series game published by Simulations Corporation, Poultron Press, Box 4267, Long Island City, NY 11104 - the rules are essentially a photocopy set with very thin unit counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1969"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="5.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.17851"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="5"/>
+        <numcomments value="6"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

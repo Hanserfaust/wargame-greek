@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10397">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/J8X0hSwWrndJvYKMRGeo5eFBtiM=/fit-in/200x150/pic67064.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XBRMb2X-oTyB-KrOZ9vO4qomYxQ=/0x0/pic67064.jpg</image>
+    <name type="primary" sortindex="1" value="Togoland 1914"/>
+    <name type="alternate" sortindex="5" value="The Invasion of Togoland, 1914"/>
+    <description>Game covering the Anglo-French campaign to capture the radio station in German-controlled Togoland at the outbreak of World War I.&amp;#10;&amp;#10;The pressure on the Germans is to set up a defense that will prevent the Allies from taking the radio station in the alloted time - they also need to defend their supply dump, as once they lose it they cannot raise new units or attack anymore.  The Allies need to take ground, but they must be careful not to spook the Germans into blowing the radio station before they can capture it.&amp;#10;&amp;#10;Units stacked with a leader are deployed on a hidden unit display and a traditional odds ratio CRT is used.  As the units present in this campaign are inexperienced, casualties are quite heavy in combat, with one side generally being wiped out.  An attack can be modified for the presence of entrenchments, machine guns or artillery, all of which played a role in the battle, and a successful attacker can see his units advance and attack again in the same period.&amp;#10;&amp;#10;Each hex is 15 miles, each game turn is two to three days (there are nine turns in total) and each unit is a platoon, company, combat group, artillery section or machine gun section.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamedesigner" id="1262" value="Dennis Bishop"/>
+    <link type="boardgameartist" id="3029" value="Richard Canavan"/>
+    <link type="boardgamepublisher" id="2031" value="Khyber Pass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="24"/>
+        <average value="6.48958"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.52493"/>
+        <median value="0"/>
+        <owned value="84"/>
+        <trading value="3"/>
+        <wanting value="4"/>
+        <wishing value="9"/>
+        <numcomments value="13"/>
+        <numweights value="6"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

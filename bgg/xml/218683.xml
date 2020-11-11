@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="218683">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/MDvhQHn_QbUtsCwommDAKPVbfTs=/fit-in/200x150/pic4208996.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/V2_ltcwzJYHd0h6wiR4jaJtCZIE=/0x0/pic4208996.jpg</image>
+    <name type="primary" sortindex="1" value="Alesia: Last Stand of the Gauls"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;Alesia is a two-player game of the epic battle between Roman and Gallic forces in 52 BC. The battle pitted two of the great Leaders of that era against each other: Julius Caesar and Vercingetorix. This began as a Roman siege of the Gallic fortress at Alesia, and concluded with a decisive battle. The game system emphasizes command control. Players pick command markers to generate actions, modeling the chaos of the original battle. The Gallic objective is to break out of Alesia and link up with the relief army coming in from off the map. The Roman&amp;rsquo;s (caught in the middle) objective is to defeat the Gauls and eliminate Vercingetorix. There are two players in the game: Roman and Gauls. The game consists of three Days of Battle. Within each day, there will be several turns based on the command markers. There are 176 5/8in counters, with a 22x34 inch map depicting the area around the fortified village of Alesia and the Roman fortifications and towers surrounding the village.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="12425" value="Nadir Elfarra"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="7.35294"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.71297"/>
+        <median value="0"/>
+        <owned value="100"/>
+        <trading value="1"/>
+        <wanting value="11"/>
+        <wishing value="19"/>
+        <numcomments value="21"/>
+        <numweights value="5"/>
+        <averageweight value="1.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

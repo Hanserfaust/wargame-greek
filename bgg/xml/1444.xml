@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1444">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/U_GWgLaPKpw6yNCXvMqBKNsncco=/fit-in/200x150/pic182956.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/U1wVmRI97R0akTH4Ej3nAMBZawQ=/0x0/pic182956.jpg</image>
+    <name type="primary" sortindex="1" value="SPQR"/>
+    <description>This game contains counters and maps that allow the reproduction of five battles of warfare in the Roman Republic.  The mechanics allow leaders to activate units within their command range in order to rout or destroy the other player's army.&amp;#10;&amp;#10;Volume II in GMT Games' Great Battles of History Series.&amp;#10;&amp;#10;Contains:&amp;#10;5 Battles&amp;#10;2 doublesided maps&amp;#10;3.5 counter sheets&amp;#10;Rules for SPQR&amp;#10;&amp;#10;Battles:&amp;#10;&amp;bull; Beneventum&amp;#10;&amp;bull; Bagradas&amp;#10;&amp;bull; Cannae&amp;#10;&amp;bull; Zama&amp;#10;&amp;bull; Cynocephalae&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="120" value="Great Battles of History"/>
+    <link type="boardgameexpansion" id="42192" value="SPQR: The Truceless War – Hamilcar Barca Puts Down a Mercenary Revolt"/>
+    <link type="boardgameexpansion" id="113603" value="Alexander the Great in Italy"/>
+    <link type="boardgameexpansion" id="113605" value="The Battle of Dertosa 215 B.C."/>
+    <link type="boardgameexpansion" id="7497" value="Consul for Rome: SPQR Module"/>
+    <link type="boardgameexpansion" id="42154" value="The Hammer of God: Judea vs. the Seleucids, 167-160 B.C."/>
+    <link type="boardgameexpansion" id="7500" value="Jugurtha: Guerrilla Warfare in Numidia"/>
+    <link type="boardgameexpansion" id="7498" value="Pyrrhic Victory: SPQR Module"/>
+    <link type="boardgameexpansion" id="1347" value="Simple GBoH"/>
+    <link type="boardgameexpansion" id="25603" value="Simple GBoH Battle Manual"/>
+    <link type="boardgameexpansion" id="66764" value="Sophonisba and the Battle of the Great Plains: SPQR Module"/>
+    <link type="boardgameexpansion" id="7494" value="SPQR: Africanus Module"/>
+    <link type="boardgameexpansion" id="26606" value="SPQR: Barbarian"/>
+    <link type="boardgameexpansion" id="267379" value="SPQR: Cannae-Lite – the Battles of Herdonia, 212 and 210 BC"/>
+    <link type="boardgameexpansion" id="42196" value="SPQR: Caralis – The Battle for Sardinia, 215 B.C"/>
+    <link type="boardgameexpansion" id="42201" value="SPQR: Equus – Cavalry Battles of the Second Punic War, 218-203 B.C."/>
+    <link type="boardgameexpansion" id="42168" value="SPQR: Mago – Youngest of the Lion's Brood"/>
+    <link type="boardgameexpansion" id="42194" value="SPQR: Marcus Claudius Marcellus – The Sword of Rome"/>
+    <link type="boardgameexpansion" id="41831" value="SPQR: Player's Guide"/>
+    <link type="boardgameexpansion" id="42152" value="SPQR: Pyrrhus in Sicily – Epirus versus Carthage, 278-275 B.C."/>
+    <link type="boardgameexpansion" id="267380" value="SPQR: Syphax – Lion of the Desert: The Battles of Tispara, 213, Siga &amp; Tingis 212 BC"/>
+    <link type="boardgameexpansion" id="113604" value="SPQR: The Battle of Castulo, 211 B.C."/>
+    <link type="boardgameexpansion" id="251475" value="SPQR: The Battle of Grumentum, the Italian Campaign, 207 BC"/>
+    <link type="boardgameexpansion" id="42165" value="SPQR: The Battle of Telamon, 225 B.C."/>
+    <link type="boardgameexpansion" id="36341" value="SPQR: The Battle of the Tagus River"/>
+    <link type="boardgameexpansion" id="251480" value="SPQR: The Battle of Utica, 203 BC"/>
+    <link type="boardgameexpansion" id="7496" value="War Elephant: SPQR Module"/>
+    <link type="boardgameimplementation" id="21551" value="SPQR (Deluxe Edition)"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgamedesigner" id="152" value="Mark Herman"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="975" value="Oriflam"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="455"/>
+        <average value="7.36053"/>
+        <bayesaverage value="5.97893"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2321" bayesaverage="5.97893"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="191" bayesaverage="6.89041"/>
+        </ranks>
+        <stddev value="1.63447"/>
+        <median value="0"/>
+        <owned value="1144"/>
+        <trading value="45"/>
+        <wanting value="20"/>
+        <wishing value="79"/>
+        <numcomments value="178"/>
+        <numweights value="65"/>
+        <averageweight value="3.7077"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

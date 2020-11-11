@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="582">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HV6E2RN1Zekwhf4lGZwMT269aDc=/fit-in/200x150/pic75827.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RXbFpIcp0eewNj2l0h2_fOpXAiQ=/0x0/pic75827.jpg</image>
+    <name type="primary" sortindex="1" value="Kampf um Rom"/>
+    <description>Kampf um Rom (Struggle for Rome) is actually two games in one.  Two designers have utilized the same components and come up with two different games.&amp;#10;&amp;#10;Germanica by Hartmut Witt deals with the crumbling of the Roman Empire with the invasion of the German barbarians.  Kind of a cross between Britannia and Civilization, players play a series of tribes that flow through the region.  The aim of the game is to gain the most cultural advances by creating as much stability in a region as possible.&amp;#10;&amp;#10;Huns, Romans, and Germans by Gerhard H. Kuhlmann follows a similar theme although the game is broken down into basic and advanced rules and scenarios.&amp;#10;&amp;#10;The game comes with wood tokens as the playing pieces.  Detailed stickers are applied to the tokens to represent various types of units.  A deck of cards also accompanies the game which drives the invasions and advancements.  Lastly the game board itself is a beautifully painted map of Europe detailed in Latin.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="3"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="16"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1015" value="Civilization"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="18284" value="Britannia game-system"/>
+    <link type="boardgameexpansion" id="108589" value="Kampf um Rom Ergänzungsregeln und historisches Glossar"/>
+    <link type="boardgamedesigner" id="274" value="Gerhard H. Kuhlmann"/>
+    <link type="boardgamedesigner" id="275" value="Hartmut Witt"/>
+    <link type="boardgameartist" id="28532" value="Werner Pollak"/>
+    <link type="boardgameartist" id="855" value="Andreas Steiner"/>
+    <link type="boardgamepublisher" id="147" value="Kuhlmann Geschichtsspiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="5.47941"/>
+        <bayesaverage value="5.49945"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14466" bayesaverage="5.49945"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2812" bayesaverage="5.46782"/>
+        </ranks>
+        <stddev value="1.20508"/>
+        <median value="0"/>
+        <owned value="120"/>
+        <trading value="5"/>
+        <wanting value="5"/>
+        <wishing value="17"/>
+        <numcomments value="16"/>
+        <numweights value="5"/>
+        <averageweight value="3.2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

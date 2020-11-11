@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2998">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/k3Hdwb-aprcLAahdS474xYhJDJY=/fit-in/200x150/pic38284.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fBkfwhUWKpc2O6pUtkIAoxuJdzo=/0x0/pic38284.jpg</image>
+    <name type="primary" sortindex="1" value="Reds! The Russian Civil War 1918-1921"/>
+    <description>(from GMT website:)&amp;#10;&amp;#10;Reds! is a two-player wargame covering these dramatic events from August 1918 to the start of 1921, when the last organized opposition to Red rule outside the far east was destroyed.&amp;#10;&amp;#10;The single large-hex map stretches from Warsaw in the west to Omsk in the east and from Murmansk in the north to Tashkent in the south. Across this vast expanse, players maneuver a colorful array of combat units representing various White factions, Anarchists, Nationalists, Alied Intervention Forces, the two divisions of the Czech Legion, and six Polish armies.&amp;#10;&amp;#10;Units range from armies to brigades. The Red Order of Battle is built around 16 Red Armies organized by Leon Trotsky. There are also two powerful Red cavalry armies and the elite Latvian Rifle division. The White Order of Battle includes everything from Cossack cavalry corps to Muslim partisans and a German Free Corps. Each side also has support units: naval and river flotillas, air units, and, of course, the famous armored trains. Key leaders are also included: Frunze, Denikin, Wrangel, and Trotsky and his famous Red Train.&amp;#10;&amp;#10;To model the chaos of this many-sided multi-front war, the sequence of play is based upon random chit pull which determines the order of activation of each White faction or six Red Army Front commands. The key Logistics phase, in which disrupted units are rallied and unsupplied units attritted, is also randomly determined. The game also includes TWO random event tables: one for each side.&amp;#10;From sweeping cavalry advances to slogging matches over major cities (such as Tsaritsyn - the future Stalingrad - know as the Red Verdun), Reds! is a true player's game. It is also a realistic depiction of some of the most titanic and unusual campaigns of modern history.&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;    One 22 x 34&amp;quot; Game Map&amp;#10;    One Sheet of 240 Counters&amp;#10;    Two Player Aid Cards&amp;#10;    One Rule Book &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;TIME SCALE     1-2 months per turn&amp;#10;MAP SCALE     65 miles per hex&amp;#10;UNIT SCALE     Brigades, Divisions, Corps, and Armies&amp;#10;NUMBER OF PLAYERS     One or two&amp;#10;&amp;#10;DESIGNER: Ted Raicer&amp;#10;DEVELOPER: Andy Lewis and Volko Ruhnke&amp;#10;ART DIRECTOR: Rodger B. MacGowan&amp;#10;MAP ART: Mark Simonitch&amp;#10;COUNTER ART: Mark Simonitch&amp;#10;PRODUCER: Gene Billingsley&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="44377" value="Interwar"/>
+    <link type="boardgamefamily" id="32025" value="Russian Civil War"/>
+    <link type="boardgamedesigner" id="484" value="Ted Raicer"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="435"/>
+        <average value="7.27581"/>
+        <bayesaverage value="5.92704"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2558" bayesaverage="5.92704"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="267" bayesaverage="6.7263"/>
+        </ranks>
+        <stddev value="1.35036"/>
+        <median value="0"/>
+        <owned value="1279"/>
+        <trading value="54"/>
+        <wanting value="43"/>
+        <wishing value="137"/>
+        <numcomments value="186"/>
+        <numweights value="67"/>
+        <averageweight value="3.0746"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

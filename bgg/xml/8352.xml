@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8352">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-9zdsQgxMMM7IIdcY1wxJyljPyI=/fit-in/200x150/pic122005.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/P2PS6kNWH4lIaBRSe6pI71HVkPk=/0x0/pic122005.jpg</image>
+    <name type="primary" sortindex="1" value="Turning the Tables"/>
+    <description>Folio format, operational level treatment of the launch and subsequent defeat of the Soviet Spring 1942 offensive. First installment in Moments in History's &amp;quot;T3&amp;quot; series, which has subsequently become the &amp;quot;Schwerpunkt&amp;quot; series for GMT Games. Hallmarks of the system are ease of play and the &amp;quot;fog of war&amp;quot; element.&amp;#10;&amp;#10;Contrary to the playing time above this game takes about 6 hours to play unless their is an earlier sudden death decision.&amp;#10;&amp;#10;Features C3I points used to generate the number of units that can be activated to move and the number of attacks that can be made during each segment.  There are three segments per turn in which each player must begin by deciding whether they will move and then attack or attack and then move.  Not only is combat strength compared but also a unit's tactical rating when resolving combats.  The side with the higher tactical rating gets to draw more random chits most of which have beneficial drms for that side. To a limited extent combat losses can be converted into retreats and enemy retreats can occasionally result in an additional advance for the attacker.  Occasionally, extreme die rolls allow additional spontaneous activities.  ZoCs are hard except friendly units allow tracing supply through them.  Loss of supply reduces unit effectiveness and can result in attrition.  Victory is determined mostly by units losses but also the Soviet control of objective cities and the presence of even one friendly unit on the other players side of the Donets river provides a healthy number of VPs.  Both players begin with units in this position and so cancel each other out.&amp;#10;&amp;#10;All in all it is a tense game.  The Russian player with the benefit of hindsight can avoid many of the hazards of the original campaign by not over extending himself.&amp;#10;&amp;#10;Republished in Command Magazine Japan #56.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10643" value="Country: Germany"/>
+    <link type="boardgamefamily" id="4314" value="T3 System / Schwerpunkt Series"/>
+    <link type="boardgamedesigner" id="1923" value="Dirk Blennemann"/>
+    <link type="boardgameartist" id="23910" value="Sawshun Yamaguchi"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="539" value="Moments in History"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="54"/>
+        <average value="6.96222"/>
+        <bayesaverage value="5.55629"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8682" bayesaverage="5.55629"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1533" bayesaverage="5.86206"/>
+        </ranks>
+        <stddev value="1.58538"/>
+        <median value="0"/>
+        <owned value="188"/>
+        <trading value="5"/>
+        <wanting value="8"/>
+        <wishing value="12"/>
+        <numcomments value="23"/>
+        <numweights value="10"/>
+        <averageweight value="2.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

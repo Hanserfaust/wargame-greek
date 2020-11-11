@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="32083">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/t25-24iM8UfRMvqJHe678SySWdA=/fit-in/200x150/pic257990.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Ijjnhxh3kmPlhY-l8kcmJkAIEIw=/0x0/pic257990.jpg</image>
+    <name type="primary" sortindex="1" value="PEKIN 1900"/>
+    <description>A solitaire card game to recall the siege of the legations in the Beijing in 1900 and the relief forces that they were sent to raise the siege.&amp;#10;&amp;#10;The alliance of Great Britain, Russia,Germany, Italy, Japan, Italy,Austro-Hungary and the United States,enemies in few years, against the Chinese Empire&amp;#10;&amp;#10;The player tries to arrive with the relief forceses at Peking before 55 days. Meanwhile the Boxers attacks the legations to eliminate the defenders.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="11518" value="Country: China"/>
+    <link type="boardgamedesigner" id="3585" value="Antonio Catalán"/>
+    <link type="boardgamepublisher" id="772" value="(Unpublished)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="5.66667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.29983"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="11"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

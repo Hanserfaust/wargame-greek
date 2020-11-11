@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="75674">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HNDcI5JBca0lSSKgOnbTBU9-VbM=/fit-in/200x150/pic865524.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/txQ51Ykg2HncriVmccRJ8544Ivc=/0x0/pic865524.jpg</image>
+    <name type="primary" sortindex="1" value="Julian: Triumph Before the Storm"/>
+    <description>Julian, designed by Joseph Miranda, is a wargame of intermediate complexity simulating the situation across the Roman Empire in the 4th century AD. There are two opposing players: Roman and Barbarian. The Roman player represents the high command of a centralized empire; the Barbarian player represents the various chaotic forces working to destroy that empire. The Roman objective is to reconsolidate the threatened empire and secure its frontier regions to prevent further barbarian invasion. The Barbarian objective is to grab as much Roman territory as possible. The game system is based on the one originally presented in our earlier S&amp;amp;T games: They Died With Their Boots On, Vol. 1 and They Died With Their Boots On, Vol. 2.&amp;#10;&amp;#10;The Barbarian side is divided into &amp;ldquo;forces,&amp;rdquo; each representing an independent people or coalition of tribes, such as the Goths. The Persians and Armenians, though commanded in the game by the barbarian player, are considered &amp;ldquo;civilized&amp;rdquo; forces (along with all Roman and rebel units).&amp;#10;&amp;#10;Each turn represents one year. Each hexagon on the map represents 100 miles (162 km) from side to opposite side. Each unit represents 10,000 to 30,000 troops and camp followers, etc. Special rules cover such things as: usurpation, stratagems, random events, reinforcements, pursuit, taxation, Caesar and Augustus units, naval movement, fortresses and bases, fog of war, the Huns, political crises, tribal homelands, militia, field armies, supply trains, pursuit combat, amphibious operations, pillage, civic works, and more.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="76" value="No necessary in-game text" numvotes="0"/>
+        <result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="80" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="54"/>
+        <average value="7.23148"/>
+        <bayesaverage value="5.56564"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8026" bayesaverage="5.56564"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1356" bayesaverage="5.90677"/>
+        </ranks>
+        <stddev value="1.24526"/>
+        <median value="0"/>
+        <owned value="275"/>
+        <trading value="5"/>
+        <wanting value="12"/>
+        <wishing value="38"/>
+        <numcomments value="42"/>
+        <numweights value="9"/>
+        <averageweight value="2.5556"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

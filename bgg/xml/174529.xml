@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="174529">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/a6ugQhrAgohLUeQzCoAWzH1Pwsk=/fit-in/200x150/pic2439561.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/JtsoDOGoFaDfNOTYx3kc4Fv6jbI=/0x0/pic2439561.jpg</image>
+    <name type="primary" sortindex="1" value="Waterloo: Enemy Mistakes"/>
+    <description>Waterloo: Enemy Mistakes is a strategic wargame on the last battle of Napoleon in occasion of the bicentenary of the Battle of Waterloo.&amp;#10;&amp;#10;The game recreates the clash between the British line-up (helped along by the Prussian army) and the French one. The players identify themselves with the Commanders of the armies; with two players, one leads the Duke of Wellington in opposition to Napoleon Bonaparte. To complete the main scenario there will be, eventually, a third player representing the field marshal Gebhard Leberecht von Bl&amp;uuml;cher, leader of the Prussian army.&amp;#10;&amp;#10;The Game uses an overall mechanic of pushing counters over the board without them being placed on specific places in an organized grid.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="150"/>
+    <minplaytime value="150"/>
+    <maxplaytime value="150"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2012" value="Auction/Bidding"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgamefamily" id="12226" value="Country: Belgium"/>
+    <link type="boardgamedesigner" id="80996" value="Aldo Ghetti"/>
+    <link type="boardgamedesigner" id="80997" value="Paris Poli"/>
+    <link type="boardgameartist" id="60472" value="Alan D'Amico"/>
+    <link type="boardgameartist" id="10052" value="Gianluca Santopietro"/>
+    <link type="boardgamepublisher" id="27654" value="Pendragon Game Studio"/>
+    <link type="boardgamepublisher" id="18942" value="Sir Chester Cobblepot"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="24"/>
+        <average value="6.81639"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.49279"/>
+        <median value="0"/>
+        <owned value="97"/>
+        <trading value="4"/>
+        <wanting value="1"/>
+        <wishing value="21"/>
+        <numcomments value="9"/>
+        <numweights value="4"/>
+        <averageweight value="3.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

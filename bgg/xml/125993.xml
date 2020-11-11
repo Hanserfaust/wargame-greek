@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="125993">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/s4I7KROLFicSnSz0KuxFlR51gD8=/fit-in/200x150/pic4231903.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ON0C44uTvw9k-JVmgX9oehqRv9g=/0x0/pic4231903.jpg</image>
+    <name type="primary" sortindex="1" value="France '40"/>
+    <name type="alternate" sortindex="1" value="France 1940"/>
+    <name type="alternate" sortindex="1" value="Sichelschnitt, 1940"/>
+    <description>(from GMT website:)&amp;#10;&amp;#10;France '40  contains two separate games - Sickle Cut and Dynamo. Both games use the same rules and share many game pieces, but each has a separate full size map.&amp;#10;&amp;#10;Sickle Cut: Guderian's Drive to the Channel&amp;#10;&amp;#10;This game covers the crucial week in May 1940 when the German army broke the French line on the Meuse and raced to the sea at Abbeville. The game starts on May 13th, the third day of Case Yellow. Six panzer divisions have passed through the Ardennes and are now at the Meuse River. The French and British have raced through Belgium to reach the Dyle Line and cover the Gembloux Gap. The stage is set. Can the Germans cross the Meuse in front of strong opposition? And, if they can, will they be able to break out from the bridgeheads and advance across the map while threatened by Allied reinforcements pouring in from the north and south?&amp;#10;&amp;#10;Dynamo: Retreat to Victory&amp;#10;&amp;#10;This game covers the British withdrawal to Dunkirk and the evacuation. The game starts on May 24th, the day the British decide that the B.E.F. is in real danger of being cut-off from their supply base and the best option is to head for the coast at Dunkirk. However, many of the German panzer divisions are closer to Dunkirk than the British. Can the British reach the coast before the Germans? Can they hold the Dunkirk perimeter for eight days while they evacuate?&amp;#10;&amp;#10;&amp;#10;The rules for both games highlight armor, air support, and morale. Special rules include: Allied Heavy Tanks, DeGaulle, Rommel, Hitler's Halt Order, and French Command Paralysis. Note that the two maps may be linked together for players to study the entire period from May 13th to June 3rd, but there is no combined game scenario.&amp;#10;&amp;#10;TIME SCALE:     1 day per turn&amp;#10;MAP SCALE:     4 miles per hex&amp;#10;UNIT SCALE:     Divisions, Brigades, Regiments, and Battalions&amp;#10;&amp;#10;COMPONENTS:&amp;#10;&amp;#10;    2 paper maps&amp;#10;    2 countersheets&amp;#10;    Rulebook&amp;#10;    4 Player Aid Cards&amp;#10;    Two 6-sided dice&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;DESIGNER: Mark Simonitch&amp;#10;MAP ART: Mark Simonitch&amp;#10;COUNTER: ART Mark Simonitch&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="71" value="No necessary in-game text" numvotes="0"/>
+        <result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="75" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="140" value="Mark Simonitch"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="311"/>
+        <average value="7.72106"/>
+        <bayesaverage value="5.92619"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2569" bayesaverage="5.92619"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="180" bayesaverage="6.91891"/>
+        </ranks>
+        <stddev value="1.1344"/>
+        <median value="0"/>
+        <owned value="900"/>
+        <trading value="10"/>
+        <wanting value="69"/>
+        <wishing value="175"/>
+        <numcomments value="145"/>
+        <numweights value="40"/>
+        <averageweight value="2.95"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

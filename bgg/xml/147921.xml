@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="147921">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/vzIL0anvlWTV_lA3Q_PGqU-6jf8=/fit-in/200x150/pic2493527.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/f7ViwccnRk3l0D_9YYq94CbFhSs=/0x0/pic2493527.jpg</image>
+    <name type="primary" sortindex="1" value="John Butterfield's Battle of the Bulge"/>
+    <description>John Butterfield's Battle of the Bulge is an analog version of the popular iOS game published by Shenandoah Studio. This printed version was made available as a Kickstarter incentive to supporters of Shenandoah's project.&amp;#10;&amp;#10;Game covers the entire area of the conflict, and runs from December 16th through the 28th. Units are generally divisional in scale, with some brigade and regimental units.  Map is divided into areas, regulating movement and combat. Multiple turns during each &amp;quot;day&amp;quot; are performed IGo-UGo, starting with the player having initiative for the day. A single area is activated, and the units within are given the option of moving. A player may also choose to &amp;quot;pass&amp;quot;. Each &amp;quot;day&amp;quot; begins at 0600hrs, with an interesting mechanic of rolling for the amount of elapsed time for each turn, where a turn can be as short as zero minutes to as long as three hours. Each &amp;quot;day&amp;quot; ends when the time record for the day passes 1800hrs (or both players pass). Combat occurs at then end of any turn where units of opposing sides occupy the same area. Combat is done by rolling 10-sided dice for each strengthpoint of either infantry or armor in the combat, with simultaneous losses. Victory is gauged by the accumulation of points for enemy casualties, objective spaces, and Axis across the Meuse/exiting the western map edge, with daily sudden-death victory point levels.&amp;#10;&amp;#10;Components consist of an 11' x 17&amp;quot; mounted map, 180 mounted counters/markers, a 12-page rule booklet, terrain effects chart, hours in the day and victory point charts, plastic bags for counter storage, and four ten-sided dice.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamedesigner" id="679" value="John H. Butterfield"/>
+    <link type="boardgamepublisher" id="24104" value="Shenandoah Studio"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="7.3"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.979796"/>
+        <median value="0"/>
+        <owned value="8"/>
+        <trading value="0"/>
+        <wanting value="7"/>
+        <wishing value="11"/>
+        <numcomments value="3"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

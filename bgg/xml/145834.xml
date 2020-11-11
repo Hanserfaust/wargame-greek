@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="145834">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/NVEbTrNirHbMZW0IBBzZ1lzklxU=/fit-in/200x150/pic1737142.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/a8WHuxRkeXc3Qpl5xa6e-WhfvSA=/0x0/pic1737142.jpg</image>
+    <name type="primary" sortindex="3" value="A Monstrous Fuss: The Battle of Wilson's Creek, August 10, 1861"/>
+    <description>&amp;ldquo;Great stir in camp this evening. General Lyon has issued an order that this night shall decide the fate of Southern Missouri&amp;hellip;We are going to march on them tonight.&amp;rdquo;&amp;#10;--August 9th, 1861 Diary entry by William Branson, Iowan of the Muscatine Volunteer Infantry.&amp;#10;&amp;#10;&amp;ldquo;I will gladly give up my life for victory.&amp;rdquo;&amp;#10;--General Nathaniel Lyon, around 1:00 AM, August 10th, 1861.&amp;#10;&amp;#10;A Monstrous Fuss is a simulation of the battle fought on August 10th, 1861 at Wilson&amp;rsquo;s Creek between the Union Army under General Nathaniel Lyon and the Confederate forces led by Generals Benjamin Mcculloch and Sterling Price.  The Union force, badly outnumbered, launched a bold attack that caught the Rebels still encamped. Both sides armies&amp;rsquo; were made up of militia and volunteers who were in combat for the first time. The intensity and casualties sustained in this day&amp;rsquo;s battle surprised many of the officers and further reinforced that this Civil War would not be settled quickly or cheaply. Can you do better?&amp;#10;&amp;#10;Terrain scale is about 250 yards per hex, while the infantry and cavalry units are mostly regiments, artillery units are batteries of 4-6 guns. Each turn is about 30 minutes.  Each strength point represents 250 men.&amp;#10;&amp;#10;Each copy of A Monstrous Fuss is composed of the following:&amp;#10;&amp;#10;&amp;bull;    Four 11 by 17 inch map sections&amp;#10;&amp;bull;    280 single-sided, unmounted counters&amp;#10;&amp;bull;    1 Player&amp;rsquo;s Aid Sheet&amp;#10;&amp;bull;    2 Order Roster Sheets&amp;#10;&amp;bull;    One set of rules&amp;#10;&amp;#10;Note: Players will have to supply one ten sided die.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="2"/>
+    <minplaytime value="2"/>
+    <maxplaytime value="2"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="0"/>
+        <wanting value="4"/>
+        <wishing value="5"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

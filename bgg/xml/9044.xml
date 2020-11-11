@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9044">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FBYVS6RF6ADJvqMj1hXT6FZY2D8=/fit-in/200x150/pic37958.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/u7AQeeNz0RKL0TdwKHIdfde-_yQ=/0x0/pic37958.jpg</image>
+    <name type="primary" sortindex="1" value="All Quiet on the Western Front"/>
+    <description>In early 1918, the trench warfare stalemate between the Germans and Allies was on the verge of ending. New small unit tactics developed by the Germans, and the advent of the Royal Tank Corps for the Allies, promised a new set of doctrines that would rule warfare for decades. The question was: who would beat whom to the punch?&amp;#10;&amp;#10;The Germans were fresh from a decisive military victory in the East against Tsarist Russia. The Allies were celebrating the arrival of fresh U.S. troops. Either side could claim victory if it could break the national will of the other.&amp;#10;&amp;#10;All Quiet on the Western Front is another Ted Raicer design focusing on this often neglected war. For many years, wargame designers shunned World War I for a variety of reasons: too dull, too static, too hard to reproduce the suicidal wave attacks waged by both sides. Ted Raicer almost single-handedly put WWI back on the wargaming map with a number of designs, including Paths of Glory, Clash of Giants, and &amp;quot;All Quiet...&amp;quot;.&amp;#10;&amp;#10;A traditional hex wargame, &amp;quot;All Quiet...&amp;quot; elegantly tackles a number of the key issues that help determine the outcome of the war, including German Stosstruppen and national morale, as well as more traditional elements like supply and command/control.&amp;#10;&amp;#10;The game includes four scenarios: &amp;quot;Operation Michael&amp;quot; (an Introductory Scenario), &amp;quot;Ludendorff Attacks&amp;quot;, &amp;quot;Allied Counteroffensive&amp;quot;, and finally, the 30-hour campaign game, &amp;quot;1918&amp;quot;.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="484" value="Ted Raicer"/>
+    <link type="boardgameartist" id="3347" value="Beth Queman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <link type="boardgamepublisher" id="539" value="Moments in History"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="55"/>
+        <average value="7.52545"/>
+        <bayesaverage value="5.57023"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7771" bayesaverage="5.57023"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1230" bayesaverage="5.95171"/>
+        </ranks>
+        <stddev value="1.54945"/>
+        <median value="0"/>
+        <owned value="202"/>
+        <trading value="9"/>
+        <wanting value="15"/>
+        <wishing value="24"/>
+        <numcomments value="31"/>
+        <numweights value="7"/>
+        <averageweight value="2.8571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

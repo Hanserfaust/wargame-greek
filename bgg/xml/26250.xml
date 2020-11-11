@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="26250">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/lp6pzXHQPaJ0MPSJ6BzpmDbjUDk=/fit-in/200x150/pic315941.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/d8KVECw13Hja2-K0g748XBt-_o4=/0x0/pic315941.jpg</image>
+    <name type="primary" sortindex="1" value="A las Barricadas!"/>
+    <description>On 18 July 1936, various generals in the Spanish army rose up against the government of the Second Republic. The failure of the coup as it had been originally planned gave way to a civil conflict between the defenders of the democratic government and the backers of the military coup. Machado&amp;rsquo;s two Spain's fought each other for nearly three years in a battle which reflected the political and social tensions affecting the world at that time.&amp;#10;&amp;#10;The  opposing armies were very different: on one hand, the Republican army possessed a limited number of professional soldiers and many popular militias belonging to political parties and labor unions. To this were added the International Brigades, formed from foreign volunteers of diverse origin; a fighting force which was highly motivated, but poorly coordinated and typically poorly organized. On the other hand, the Franco&amp;acute;s army had most of the professional military, along with Carlist and fascist militias, many native Moroccan troops, and the volunteers of the Condor Legion and the Corpo Trupe Voluntarie, sent by Hitler and Mussolini, respectively.&amp;#10;&amp;#10;From a military point of view, the Spanish Civil War presaged the global conflict which would soon erupt. In the mid-1930s, military high commands from all over the globe theorized on the possibilities of motorized armies and &amp;ldquo;lightning war&amp;rdquo;. Both Nazis and Soviets rehearsed armored tactics in Spain, and tested various types of weapons. In addition, the importance that air superiority would have on all later conflicts was made clear. All of these elements make the Spanish Civil War a fascinating conflict from an historical point of view and with regard to military strategy.&amp;#10;&amp;#10;To the Barricades!, the first title in the War Storms series, is a game which attempts to simulate, at platoon and company level, the battles which took place on the different fronts of the war. The rules are oriented towards the tactical simulation of combat involving armored vehicles, infantry, artillery, and aircraft, and as such they are especially suited to represent almost any 20th century armed conflict as it actually happened.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="37037" value="War Storm Series"/>
+    <link type="boardgameexpansion" id="186822" value="Alone in the Storm: Solo Play Expansion for War Storm Series"/>
+    <link type="boardgameexpansion" id="38306" value="A las Barricadas!: La Guerra del Rif"/>
+    <link type="boardgameintegration" id="35220" value="Help Arrives!"/>
+    <link type="boardgameimplementation" id="63868" value="A las Barricadas! (2nd Edition)"/>
+    <link type="boardgamedesigner" id="3982" value="Juan Carlos Cebrián"/>
+    <link type="boardgamedesigner" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="6146" value="War Storm Series"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="67"/>
+        <average value="7.13657"/>
+        <bayesaverage value="5.56038"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8369" bayesaverage="5.56038"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1638" bayesaverage="5.83141"/>
+        </ranks>
+        <stddev value="1.73581"/>
+        <median value="0"/>
+        <owned value="134"/>
+        <trading value="6"/>
+        <wanting value="7"/>
+        <wishing value="28"/>
+        <numcomments value="40"/>
+        <numweights value="15"/>
+        <averageweight value="2.7333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

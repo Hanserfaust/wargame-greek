@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="161682">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7vSxX65xfH28UzJDntNIj3xqHDY=/fit-in/200x150/pic2064559.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sCWsbAwpvKC3XzjxzE_1JvLyZN8=/0x0/pic2064559.jpg</image>
+    <name type="primary" sortindex="4" value="Le Temps des As"/>
+    <name type="alternate" sortindex="1" value="Age of Aces"/>
+    <name type="alternate" sortindex="1" value="Temps des As"/>
+    <description>Fast &amp;amp; Furious dogfights during the Great War.&amp;#10;&amp;#10;Le Temps des As (Age of Aces) is a tactical game featuring aerial combats from 1917-1918 during World War One.&amp;#10;The system allows dogfights with several aircrafts in a reduced game time, with minimal markings on the map and requiring no pre-plotting or card play. &amp;#10;The game focuses on dogfights and features rules for bombing and balloon-busting.&amp;#10;&amp;#10;Le Temps des As (Age of Aces) can be played solo or with 2 or more players.&amp;#10;&amp;#10;The updated version with new map, aircrafts, ships is Le Temps des As II (Age of Aces II)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="90"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="61" value="No necessary in-game text" numvotes="0"/>
+        <result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="65" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9825" value="Magazine: Vae Victis"/>
+    <link type="boardgameintegration" id="203757" value="Le Temps des As II"/>
+    <link type="boardgamedesigner" id="76243" value="Patrick Ruestchmann"/>
+    <link type="boardgameartist" id="3290" value="Pascal da Silva"/>
+    <link type="boardgamepublisher" id="2096" value="Histoire &amp; Collections"/>
+    <link type="boardgamepublisher" id="540" value="Vae Victis"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="40"/>
+        <average value="7.595"/>
+        <bayesaverage value="5.55333"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8891" bayesaverage="5.55333"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1507" bayesaverage="5.86822"/>
+        </ranks>
+        <stddev value="1.32362"/>
+        <median value="0"/>
+        <owned value="175"/>
+        <trading value="1"/>
+        <wanting value="11"/>
+        <wishing value="23"/>
+        <numcomments value="32"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

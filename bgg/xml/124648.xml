@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="124648">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/pXGi92fuNGuFyxtH-L2dafA_1a0=/fit-in/200x150/pic1322773.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/rvNev5NBG_gR7OcHPUnSwvu9HNM=/0x0/pic1322773.jpg</image>
+    <name type="primary" sortindex="1" value="I Am Vlad: Prince of Wallachia"/>
+    <description>I Am Vlad: Prince Of Wallachia &amp;ndash; an epic board game about the real life of Vlad the Impaler and about the habits, mysteries and actual facts of Wallachia and Transylvania &amp;ndash; can be played by two, three or four players. The players begin the game from their own base and each have control over a Vlad hero as well as an Archer and a Wallachian Knight.&amp;#10;&amp;#10;During the game, they try to eliminate the opposing Vlad heroes through tactical movements and attacks with their own units. Gameplay takes place on two boards: the Game Map and the Underworld Map. While the Game Map is the board on which all the interactions between players take place (including movement, battles, tactical actions, and the positioning of units and outposts), the Underworld is the area Archers and Wallachian Knights enter once they die in battle. I Am Vlad: Prince Of Wallachia has two types of battles: against enemy units and against neutral units; for both types, players use battle cards, magic cards, tokens, and an eight-sided die. Other tactical actions are made through tokens, gold coins, outposts, and so on.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1024" value="Horror"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2664" value="Deck / Pool Building"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2663" value="Time Track"/>
+    <link type="boardgamefamily" id="10637" value="Country: Romania"/>
+    <link type="boardgameexpansion" id="132375" value="I Am Vlad: Prince Of Wallachia – Bonus Pack"/>
+    <link type="boardgamedesigner" id="60465" value="Cosmin Anghel"/>
+    <link type="boardgameartist" id="60464" value="Eugen Anghel"/>
+    <link type="boardgamepublisher" id="22561" value="Real Wallachian Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="85"/>
+        <average value="4.67941"/>
+        <bayesaverage value="5.43003"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17103" bayesaverage="5.43003"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2949" bayesaverage="5.2081"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1038" bayesaverage="5.352"/>
+        </ranks>
+        <stddev value="2.60729"/>
+        <median value="0"/>
+        <owned value="178"/>
+        <trading value="13"/>
+        <wanting value="7"/>
+        <wishing value="57"/>
+        <numcomments value="35"/>
+        <numweights value="12"/>
+        <averageweight value="2.9167"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

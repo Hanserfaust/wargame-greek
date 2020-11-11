@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9382">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/t21-J4vGhhj3nrDMCCqixLGh308=/fit-in/200x150/pic1044313.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SPXxE36pHqlv_87Jy6u1a6pBLbg=/0x0/pic1044313.jpg</image>
+    <name type="primary" sortindex="1" value="Syria, 1941"/>
+    <description>Syria, 1941 is a World War II game that covers the campaign in Lebanon and western Syria in June-July 1941. The forces involved are British, Dominion, and the Free French versus Vichy French colonial forces and local levies. There are &amp;quot;what-if&amp;quot;  options for each side to allow for multiple scenarios.&amp;#10;&amp;#10;The game was published by Abwehr Publications. There are a few mentions of a second edition from JagdPanther Publications, but there seems to be no actual evidence of this. Since Jagdpanther purchased Abwehr, they may have simply sold some remaining copies of the game.&amp;#10;&amp;#10;Re-implemented as:&amp;#10;&amp;#10;     Drive on Damascus&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1974"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="25894" value="Country: Lebanon"/>
+    <link type="boardgamefamily" id="10629" value="Country: Syria"/>
+    <link type="boardgamedesigner" id="671" value="Vance von Borries"/>
+    <link type="boardgamepublisher" id="17599" value="Abwehr Publications"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="5.83333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.849837"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="1667">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0fJwmsbtWWyFWCNxhvUuECCdv1I=/fit-in/200x150/pic733925.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/51shTzzxYbu4IAaVVsiLM5CkFBU=/0x0/pic733925.jpg</image>
+    <name type="primary" sortindex="1" value="Battle Hymn: Leatherneck"/>
+    <name type="alternate" sortindex="1" value="Ambush! Battle Hymn: Leatherneck"/>
+    <description>The rules, missions, playing pieces, and mapsheets provided in Leatherneck are fully compatible with those components in your Battle Hymn game. This complete four-mission module is designed to test your squad to its utmost. Using the most exciting solitaire system ever devised, it is up to you to lead your men through steaming jungle and across shell-torn beaches - and lead them home again. The stakes are high, the missions dangerous, and the enemy cunning, but your squad has not survived the rigors of Battle Hymn for nothing!&amp;#10;&amp;#10;Contents:&amp;#10;60 new Character/Vehicle Cards&amp;#10;11 new Mission Cartridges&amp;#10;108 new Counters&amp;#10;1 8 1/2&amp;quot; x 22&amp;quot; Map (E)&amp;#10;1 7 1/2&amp;quot; x 22&amp;quot; Map (D)&amp;#10;1 new Paragraph/Mission Booklet&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2636" value="Ambush! solitaire wargame system"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="1666" value="Battle Hymn" inbound="true"/>
+    <link type="boardgamedesigner" id="680" value="Joseph Reiser"/>
+    <link type="boardgamedesigner" id="681" value="Eric Lee Smith"/>
+    <link type="boardgameartist" id="15063" value="Ted Koller"/>
+    <link type="boardgameartist" id="13649" value="James Talbot"/>
+    <link type="boardgamepublisher" id="123" value="Victory Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="151"/>
+        <average value="7.86358"/>
+        <bayesaverage value="5.72808"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.72808"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.58076"/>
+        </ranks>
+        <stddev value="1.31182"/>
+        <median value="0"/>
+        <owned value="612"/>
+        <trading value="15"/>
+        <wanting value="92"/>
+        <wishing value="104"/>
+        <numcomments value="82"/>
+        <numweights value="21"/>
+        <averageweight value="3.2381"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

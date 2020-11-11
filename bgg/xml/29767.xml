@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29767">
+    <name type="primary" sortindex="1" value="Admiralty"/>
+    <description>Admiralty is a set of Wargame rules for fighting under sail  for the period 1750 - 1815.&amp;#10;&amp;#10;It is a rules-set ( 20+ pages ) and does not contain any figures.  It's design in relatively simple and designed to allow players field large forces and still maintain realism in their simulations.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="1"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="5509" value="The War Times Journal"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.5"/>
+        <median value="0"/>
+        <owned value="6"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

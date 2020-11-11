@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="54620">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qPglIHeIRlNcY8EVEXSroDtuXiU=/fit-in/200x150/pic601529.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9TC-yw1K3Ry8OjowefCwfG1lhw8=/0x0/pic601529.jpg</image>
+    <name type="primary" sortindex="1" value="Close Action: Naval Warfare in the Age of Napoleon, 1793-1815"/>
+    <description>Close Action is a realistic game system that recreates tactical naval combat during the wars of the French Revolution and Empire, better known as the Napoleonic era.&amp;#10;&amp;#10;Close Action is a simultaneous movement game. At the beginning of each game turn, all players plot their actions for that game turn on ship logs. The plots are then revealed and executed simultaneously.&amp;#10;&amp;#10;Includes: Rules Booklet, Scenario &amp;amp; Tournament Rules Booklet, Four cardstick sheets (blue, red, green, and yellow), 3 color glossy counter sheet, 2 blank ship log sheets, and a message form for multi player games.&amp;#10;&amp;#10;Not included but needed to play: a mapboard gridded into regular hexagons and two 6 sided dice&amp;#10;&amp;#10;</description>
+    <yearpublished value="1991"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="28441" value="Close Action series"/>
+    <link type="boardgameexpansion" id="165874" value="Bloody Red Flag"/>
+    <link type="boardgameimplementation" id="3553" value="Close Action: The Age of Fighting Sail Vol. 1"/>
+    <link type="boardgamedesigner" id="1445" value="Mark A. Campbell"/>
+    <link type="boardgamepublisher" id="8554" value="Tempest Games Co."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="7.96667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.61727"/>
+        <median value="0"/>
+        <owned value="32"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="9"/>
+        <numcomments value="7"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

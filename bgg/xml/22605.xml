@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="22605">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/CZjXMVYnQRTMpcSoI_kXeL43rGs=/fit-in/200x150/pic627081.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/JVVg_V2_CLomt_7YxIXBlnxdJjI=/0x0/pic627081.jpg</image>
+    <name type="primary" sortindex="1" value="Commands &amp; Colors: Ancients Expansion Pack #1 – Greece &amp; Eastern Kingdoms"/>
+    <name type="alternate" sortindex="1" value="Commands and Colors Ancients: Expansion Pack 1 – Greeks and Eastern Kingdoms"/>
+    <description>The Greeks &amp;amp; Eastern Kingdoms is the first expansion to Commands &amp; Colors: Ancients. The armies of Philip, Alexander and the Successors meet the hosts of Persians, Scythians and Indians to the east. In this expansion, you will find historical scenarios that focus on the hoplites of classical Greece fighting off the invading Persian army at Marathon and Plataea; epic battles from the Peloponnesian War, the rise of Macedon and Alexander's battles of Gaugamela, Issus and Granicus against the Persians; and battles involving Alexander's successors. With your Greeks you will be able to turn west and battle the Carthaginians in Sicily, or as King Pyrrhus at Heraclea and Ausculum, battle the Romans.&amp;#10;&amp;#10;This first expansion showcases over 20 scenarios (the package includes over 300 new unit blocks and stickers you need to fight out these battles). Now, that is a lot of history, but Commands &amp; Colors: Ancients is, by design, a unique historical game system that will allow players to effectively portray stylized Ancient battles that play to a conclusion in less than an hour.&amp;#10;&amp;#10;The battle dice resolve combat quickly and the command cards provide an element of luck that creates a fog of war and presents players with both challenges and opportunities for victory. Yet the tactics you need to execute conform remarkably well to the advantages and limitations inherent to the various Ancient units, their weapons, terrain and the history.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Commands &amp; Colors: Ancients&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="50" value="Commands &amp; Colors"/>
+    <link type="boardgamefamily" id="9769" value="Commands &amp; Colors: Ancients Series"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgameexpansion" id="14105" value="Commands &amp; Colors: Ancients" inbound="true"/>
+    <link type="boardgamedesigner" id="25" value="Richard Borg"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1102"/>
+        <average value="8.23639"/>
+        <bayesaverage value="6.75641"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.75641"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="7.8232"/>
+        </ranks>
+        <stddev value="1.16051"/>
+        <median value="0"/>
+        <owned value="3399"/>
+        <trading value="52"/>
+        <wanting value="140"/>
+        <wishing value="264"/>
+        <numcomments value="443"/>
+        <numweights value="154"/>
+        <averageweight value="2.5065"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

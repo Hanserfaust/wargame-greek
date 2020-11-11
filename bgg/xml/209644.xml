@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="209644">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/6S_9X5e6iLrLqGpeqhnyoc6a0uI=/fit-in/200x150/pic3197662.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4RGqnc3Ws2PPxlXk92sNXF7LgY4=/0x0/pic3197662.jpg</image>
+    <name type="primary" sortindex="5" value="The Pacific War: From Pearl Harbor to the Philippines"/>
+    <description>On December 7th, 1941, the Imperial Japanese Navy bombed the US Pacific Fleet at Pearl Harbor, an unprovoked attack that, brought the United States into World War 2. Instead of delivering a fatal death blow that would give the Empire of Japan dominance of the Pacific region, the attack's ultimate consequence was to, in words attributed to Admiral Yamamoto, &amp;quot;awaken a sleeping giant and fill him with a terrible resolve.&amp;quot;&amp;#10;&amp;#10;In The Pacific War - From Pearl Harbor to the Philippines, two players face off in an epic struggle for control of the Pacific area of operations. In action from December 1941 to June 1944, the Japanese player uses his forces against the Allied forces from the United States, Great Britain, Australia and the Netherlands. Aircraft carriers, battleships, cruisers, and land-based aircraft are all involved. With them, each player plans and conducts strategies out of a limited hand of resourcey cards to gain the initiative and defeat his enemy's forces and control crucial ports and bases across the Pacific. The Japanese are at their strongest at the beginning, and the Allies gain power and resources each turn. Few would debate Japan's chances of victory, but the goal of The Pacific War is to see whether the Japanese forces can achieve better military gains and delay its defeat. Or can the Allies win a quicker victory? It's up to the players to utilize their assets to turn the tide of the war!&amp;#10;&amp;#10;Man, your battle station . . . It's time to fight The Pacific War!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameimplementation" id="164747" value="The Pacific War: From Pearl Harbor to Philippine Sea" inbound="true"/>
+    <link type="boardgamedesigner" id="4043" value="Yasushi Nakaguro"/>
+    <link type="boardgameartist" id="85732" value="Blackwell Hird"/>
+    <link type="boardgameartist" id="12340" value="Marc von Martial"/>
+    <link type="boardgamepublisher" id="6025" value="Lock 'n Load Publishing, LLC."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="28"/>
+        <average value="7.17857"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.69671"/>
+        <median value="0"/>
+        <owned value="94"/>
+        <trading value="6"/>
+        <wanting value="18"/>
+        <wishing value="42"/>
+        <numcomments value="21"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

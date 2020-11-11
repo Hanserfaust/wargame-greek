@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5228">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/d_BTBgrW1T7ZqJ49wkp64fT_KQU=/fit-in/200x150/pic4667915.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/0lQkGoAQ-BVBU-n8TT5hH9VGV38=/0x0/pic4667915.jpg</image>
+    <name type="primary" sortindex="1" value="Glory: The Battles of First &amp; Second Manassas and Chickamauga, 1861-63"/>
+    <description>Glory: The Battles of First &amp;amp; Second Manassas and Chickamauga, 1861-63 is the first game in GMT's Glory Series. Glory presents three American Civil War battles - First Manassas (1861), Second Manassas (1862) and the Battle of Chickamauga (1863) - as never before seen. The new game system combines sophistication with ease of accessibility: the rules are less than eight pages and there are practically no charts. The system combines mostly familiar mechanics with just enough new ones to add spice and challenge to comfortable familiarity. And while you can start playing in about 15-20 minutes, it will take far longer to master the nuances of play. To add to all of that, there are four different ways to play the game, from Igo-Hugo all the way to command oriented LIMs.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: 75 minutes&amp;#10;Hex: 250 yards / 229 meters&amp;#10;Units: Brigades&amp;#10;&amp;#10;Game Inventory:&amp;#10;Two 22 x 34&amp;quot; full color mapsheets&amp;#10;One dual-side printed countersheet (240 1/2&amp;quot; counters)&amp;#10;One dual-side printed countersheet (176 5/8&amp;quot; counters)&amp;#10;One 8-page Glory rules booklet&amp;#10;One 8-page Glory scenario booklet&amp;#10;One single-sided Charts &amp;amp; Tables players aid card&amp;#10;One 10-sided die&amp;#10;&amp;#10;Solitaire Playability: High&amp;#10;Complexity Level: Low&amp;#10;Players: 2 or more&amp;#10;Playing Time: 3-10 hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="600"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="600"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="4270" value="Glory Series"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="164"/>
+        <average value="6.48323"/>
+        <bayesaverage value="5.60761"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6284" bayesaverage="5.60761"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1147" bayesaverage="5.98604"/>
+        </ranks>
+        <stddev value="1.38471"/>
+        <median value="0"/>
+        <owned value="451"/>
+        <trading value="9"/>
+        <wanting value="20"/>
+        <wishing value="42"/>
+        <numcomments value="83"/>
+        <numweights value="23"/>
+        <averageweight value="2.6087"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

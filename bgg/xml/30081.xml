@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30081">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ADaiEKv-U6Mr7Ah-ltsddAqXhDo=/fit-in/200x150/pic933150.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Ob-hiBp0_Sa7U0rQ8vi5PNHrNfQ=/0x0/pic933150.jpg</image>
+    <name type="primary" sortindex="1" value="Salvo!"/>
+    <description>Salvo! is a solitaire WW2 naval wargame consisting of rules, game tables and several ship counters.  Three d6 dice, paper and pencil are also required and not included in the game.&amp;#10;&amp;#10;Salvo! is a &amp;quot;postcard&amp;quot; game published by Minden Games.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Advanced Salvo! 1939-1941&amp;#10;    Mediterranean Salvo!&amp;#10;    Pacific Salvo!&amp;#10;    Great War Salvo!&amp;#10;    Salvo! River Plate&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgameexpansion" id="192579" value="Salvo! River Plate"/>
+    <link type="boardgameintegration" id="39894" value="Mediterranean Salvo!"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgameartist" id="42166" value="Todd Sanders"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="32"/>
+        <average value="6.375"/>
+        <bayesaverage value="5.51657"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12571" bayesaverage="5.51657"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2403" bayesaverage="5.61573"/>
+        </ranks>
+        <stddev value="1.39194"/>
+        <median value="0"/>
+        <owned value="121"/>
+        <trading value="8"/>
+        <wanting value="2"/>
+        <wishing value="21"/>
+        <numcomments value="27"/>
+        <numweights value="6"/>
+        <averageweight value="1.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

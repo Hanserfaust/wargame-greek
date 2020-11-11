@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="40968">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dblPXHx3ZP_a-qyftwBvHI__clY=/fit-in/200x150/pic448259.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/EHNe51WVjUtksy1Xc1q8SZt6UYA=/0x0/pic448259.jpg</image>
+    <name type="primary" sortindex="1" value="Hordes: Metamorphosis"/>
+    <description>ADAPT &amp;amp; ANNIHILATE! Change of an epic scale is sweeping the land. Makeda leads the Army of the Western Reaches to the Abyssal Fortress. Thagrosh undergoes a terrifying transformation as the power of Everblight increases. Krueger pursues a path of glory and stirs an ancient enmity. Madrak struggles with the curse of Rathrok even as he relies on the axe's strength to defend his people. And above all, the dragon threat grows ever stronger.&amp;#10;&amp;#10;HORDES: Metamorphosis is the second expansion for the award-winning miniatures battle game set in the untamed lands of the Iron Kingdoms. Evolve your Monstrous Miniatures Combat with: &amp;#10;&amp;#10;     Three commanding new warlocks for each faction, including new EPIC characters &amp;#10;     Powerful new war beasts for each faction, ready to rile &amp;#10;     Dragoon rules introduced into HORDES for the first time &amp;#10;     New painting and modeling guides for each faction&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Expands&amp;#10;&amp;#10;    Hordes&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="8+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="6323" value="Warmachine"/>
+    <link type="boardgameexpansion" id="19679" value="Hordes" inbound="true"/>
+    <link type="boardgamedesigner" id="1857" value="Matt Wilson"/>
+    <link type="boardgamepublisher" id="1111" value="Privateer Press"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="7.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.49518"/>
+        <median value="0"/>
+        <owned value="65"/>
+        <trading value="3"/>
+        <wanting value="4"/>
+        <wishing value="3"/>
+        <numcomments value="4"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

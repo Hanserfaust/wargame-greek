@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="191295">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/9mLw8TZanFBHSbF7I7Tterqpx_Y=/fit-in/200x150/pic2843857.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/IhpNGbdGyFdoYgEoAla7cla9Mz8=/0x0/pic2843857.jpg</image>
+    <name type="primary" sortindex="1" value="Somaliland 1940"/>
+    <description>Italy&amp;nbsp;conquers British&amp;nbsp;Somaliland&amp;#10;&amp;#10;Somaliland &amp;rsquo;40 simulates the Italian conquest of British  Somaliland  in  August  1940. In this two player game, one player ontrols the Italian forces and  the  other  the  British  forces.[...] &amp;#10;The  map  depicts  the  part  of  British Somaliland  where  the  harshest  combats  took place. Each hex is about 10 km across (6.2 miles). &amp;#10;Each game turn represents two days. The ground unit  counters  principally  represent  battalions, armored companies and artillery batteries.&amp;#10;&amp;#10;(source: rulebook)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9825" value="Magazine: Vae Victis"/>
+    <link type="boardgamedesigner" id="10019" value="Piergennaro Federico"/>
+    <link type="boardgamepublisher" id="31598" value="Cérigo Editions"/>
+    <link type="boardgamepublisher" id="540" value="Vae Victis"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="20"/>
+        <average value="6.775"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.28914"/>
+        <median value="0"/>
+        <owned value="86"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="5"/>
+        <numcomments value="13"/>
+        <numweights value="2"/>
+        <averageweight value="4.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

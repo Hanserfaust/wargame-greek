@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4884">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZUAK68oanQWSxOh79sNJU18fR34=/fit-in/200x150/pic216377.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4R5dAtGwVuzY8uIcmawcbVT8oaw=/0x0/pic216377.jpg</image>
+    <name type="primary" sortindex="5" value="The Legend Begins"/>
+    <name type="alternate" sortindex="5" value="The Legend Begins ‐ The Afrika Korps 1941"/>
+    <description>The Legend Begins is a game simulating the war in Libya and Egypt during WW2, with multiple scenarios and an overall campaign game. The map covers North Africa from Alexandria to Marble Arch at 12km/hex.&amp;#10;&amp;#10;The 1st and 2nd edition (by Rhino Games, only available in ziplock) only cover 1941.  &amp;#10;The 3rd edition (by Terran Games, also known as the Deluxe edition), covers 1940-1942 with a much larger mix of scenarios and a 1940-42 campaign game. This is achieved in part by increasing the timescale so that a turn covers a longer period of time.&amp;#10;&amp;#10;Counters of all editions have the same layout and combat values but the movement values were changed in 3rd Ed to accommodate the different timescale.&amp;#10;Every scenario can also be used as a starting point for the campaign game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1991"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="35872" value="Rhino Game Company"/>
+    <link type="boardgamepublisher" id="2465" value="Terran Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="122"/>
+        <average value="7.72705"/>
+        <bayesaverage value="5.67519"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4733" bayesaverage="5.67519"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="537" bayesaverage="6.3845"/>
+        </ranks>
+        <stddev value="1.18183"/>
+        <median value="0"/>
+        <owned value="522"/>
+        <trading value="15"/>
+        <wanting value="35"/>
+        <wishing value="63"/>
+        <numcomments value="85"/>
+        <numweights value="18"/>
+        <averageweight value="3.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

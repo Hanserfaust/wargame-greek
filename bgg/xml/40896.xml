@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="40896">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_IigV_JfxjJh3JHB88pZdMKWmr0=/fit-in/200x150/pic445288.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Iq1NHAC4ogwgJhfuUbncRXYSnSs=/0x0/pic445288.jpg</image>
+    <name type="primary" sortindex="5" value="The Glory that Was Vol. I: Greece. Episode II – Cadmea"/>
+    <description>The Glory That Was is a series of games depicting several different battles from the ancient world.&amp;#10;Volume I, Greece, depicts a number of battles from the Persian War to the War of the Successors, while volume II, Rome, will have different battles from the Early Republic to the Late Roman Empire.&amp;#10;After the Peloponnesian War, Sparta was for around three decades the uncontested military leader of the Greek Poleis, and considered almost invincible in an open field battle, for the strength and the courage of their Hoplites.&amp;#10;Since 378 BC, a coalition of cities from the northern part of Greece, led by Athens and especially Thebes, starts to disrupt this power and for a short period of time, under the leadership of two great generals, like Pelopidas, and especially Epaminondas, the small city of Thebes gained a clear spot in ancient history, making the acropolis of their city (called Cadmea and for a long time subject to the control of a Spartan garrison) a sort of paladin of freedom against Lacedaemonian power.&amp;#10;This game scenarios, Leuctra and Mantineia, depicts the rise and fall of this short but sweet &amp;quot;empire&amp;quot;, being an eulogy of one of the greatest military leaders of all time: Epaminondas.&amp;#10;Map scale will be variable, depending on the battle depicted, while each unit will normally represents from 100 to 1.000 infantry and from 25 to 250 cavalry or missile units.&amp;#10;&amp;#10;Contains:&amp;#10;2 11x17&amp;quot; full color maps (2 8.5x11&amp;quot;pieces)&amp;#10;148 counters and markers&amp;#10;14 Cards&amp;#10;10 Page Rules in English&amp;#10;1 Morale Chart&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="7546" value="The Glory That Was Series"/>
+    <link type="boardgamedesigner" id="8869" value="Roberto Chiavini"/>
+    <link type="boardgamepublisher" id="6597" value="TCS Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

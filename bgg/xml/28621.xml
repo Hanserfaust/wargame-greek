@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="28621">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OozdxnKP5I_nqoUkLo0i8hVCVZE=/fit-in/200x150/pic198665.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ZEsRycgphZLT0j4_eswDYlv9M2M=/0x0/pic198665.jpg</image>
+    <name type="primary" sortindex="1" value="ATS Warfighting Guide #1"/>
+    <description>From the publisher's site:&amp;#10;&amp;#10;The first in a series of detailed handbooks for ATS players filled with illustrated examples of play and instruction articles. Each issue is about 40 pages.&amp;#10;&amp;#10;The first issue of ATS WARFIGHTING GUIDE #1 also includes a bonus multi-turreted tank play aid for owners of ADVANCED TOBRUK + a free bonus GOODY..&amp;#10;&amp;#10;Articles cover analysis of machine-gun and mortars in ATS, a look at Panther Tanks in the system, compared to US Army data, and a couple of new variants...plus we hear more from the Hal Hock correspondence collection...and more!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="112" value="Advanced Tobruk System"/>
+    <link type="boardgameexpansion" id="3992" value="Advanced Tobruk" inbound="true"/>
+    <link type="boardgamedesigner" id="1592" value="Ray Tapio"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="14"/>
+        <average value="5.95"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.4879"/>
+        <median value="0"/>
+        <owned value="58"/>
+        <trading value="4"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="9"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

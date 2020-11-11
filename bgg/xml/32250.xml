@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="32250">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/57zcbnCkcdtgs63ydh3TuQNiRFg=/fit-in/200x150/pic4084865.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kiCLEzgE4vDO_mYEkpVC6I8TZAw=/0x0/pic4084865.jpg</image>
+    <name type="primary" sortindex="1" value="Rebels &amp; Royalist"/>
+    <description>Rebels &amp;amp; Royalist is a multi-player wargame taking place in an imaginary country. Each player controls a faction of rebels and is trying to get their faction to control five (of twelve) cities or three Royalist cities. Players receive production for their holdings, build units, move and fight, etc., in a reasonably familiar fashion. There are rules for supply and fairly elaborate rules for scouting.&amp;#10;&amp;#10;There are two unusual features of the game. One is that the Royalists take part in the game but are not controlled by a single player - when it is the Royalist's turn to build or move the player to the left of the last player to do something takes control of them. The other is that every turn has an alliance phase, in which the players may make or break alliances between their factions. The player order for each turn is determined by drawing cards, and all factions in an alliance move when one of the faction cards is drawn (the members may vote to wait for a later card rather than moving at the first opportunity).&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="4"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1026" value="Negotiation"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamedesigner" id="9478" value="George R. Kinney"/>
+    <link type="boardgamepublisher" id="39609" value="Citadel's Game Series (CGS)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

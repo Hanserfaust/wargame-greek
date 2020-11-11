@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="26945">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/gjRgJLcGaEmLvZag0W9tePD_24U=/fit-in/200x150/pic4243497.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/pmSZROan7Xj2Vz7rdX_G53V5oY8=/0x0/pic4243497.jpg</image>
+    <name type="primary" sortindex="5" value="The Battle of Rosebud Creek"/>
+    <name type="alternate" sortindex="1" value="Battle of the Rosebud"/>
+    <description>From Khyber Pass Games website&amp;#10; George Armstrong Custer and The Battle of the Little Bighorn have long overshadowed the Battle of the Rosebud.  Preceding the Little Bighorn by a week, the outcome of this battle directly influenced what happened to Custer and the 7th US Cavalry.&amp;#10; General George Crook was given command of the Southern column of the Bighorn Campaign.  With Gibbon's column coming in from the West and the Terry/Custer column from the Northeast, the campaign's objective was to trap the Sioux and Northern Cheyenne and forcibly return them back to their reservation.&amp;#10; Tactically the battle was inconclusive.  Casualties on both sides were relatively low, and in the end Crook held the field.  But strategically the Rosebud fight was a great victory for the Sioux and Cheyenne.  Crook expended a huge amount of ammunition; most soldiers were down to 10 rounds or fewer each.  Many horses were killed, injured, or worn out. Because of these reasons Crook decided to withdraw his command back to his base camp, effectively taking his column out of the campaign.&amp;#10; Had Crook been able to continue operations he could have linked up with Custer's column, adding his infantry and cavalry to the 7th Cavalry.  Custer's last stand would have, in all probability, never have occurred.&amp;#10; Game scale:&amp;#10;Each combat unit represents:&amp;#10; - one US Cavalry company&amp;#10; - approximately 100 Indians&amp;#10; - individual leader&amp;#10;Each hex equals 1/4 mile across.&amp;#10;Each game turn represents 20 minutes.&amp;#10;&amp;#10;This game will be re-released by Legion Wargames as a boxed game with die-cut EasyPunch counters. Also being re-released is Volume I in the series Battle of the Little Bighorn.&amp;#10;&amp;#10;This game is part of a series: The Battle of Rosebud Creek, The Battle of the Little Bighorn, and The Battle of Adobe Walls.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="150"/>
+    <minplaytime value="150"/>
+    <maxplaytime value="150"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1055" value="American West"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="14835" value="Country: USA"/>
+    <link type="boardgamefamily" id="22165" value="Indian Wars of the American West"/>
+    <link type="boardgamedesigner" id="6231" value="Michael Taylor (I)"/>
+    <link type="boardgameartist" id="11322" value="Knut Grünitz"/>
+    <link type="boardgameartist" id="36911" value="Randy Lein"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="2031" value="Khyber Pass Games"/>
+    <link type="boardgamepublisher" id="9512" value="Legion Wargames LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="23"/>
+        <average value="7.7087"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.27549"/>
+        <median value="0"/>
+        <owned value="193"/>
+        <trading value="8"/>
+        <wanting value="17"/>
+        <wishing value="37"/>
+        <numcomments value="24"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

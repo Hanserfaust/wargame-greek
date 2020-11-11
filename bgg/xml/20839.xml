@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="20839">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/jQDlmQwYTZ05YvDo0yAKBD6op-M=/fit-in/200x150/pic741619.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WnwQniLHahge3db4gIWK23sygNQ=/0x0/pic741619.jpg</image>
+    <name type="primary" sortindex="1" value="MOCKBA"/>
+    <description>Mockba International Teams  (W122)&amp;#10;&amp;#10;CONTENTS&amp;#10;&amp;#10;280 counters&amp;#10;01 rigid map (in two pieces)&amp;#10;01 book of rules&amp;#10;01 book of example and tables&amp;#10;01 6 sided die&amp;#10;&amp;#10;&amp;#10;GAME DATA&amp;#10;&amp;#10;Unit scale: Division through Brigade&amp;#10;Turn length: 1 week&amp;#10;Hex scale: the game doesn't mention it but I think 12 mile for hex&amp;#10;Complexity: IT value OOOO&amp;#10;&amp;#10;&amp;#10;To the end of September 1941 the forecasts of the Fuhrer seemed to come true: the end of the campaign, before the advent of the winter and the complete destruction of the&amp;#10;Russian army, it was to capacity of hands.&amp;#10;The armed order of the day of the group center very spoke 73 divisions about infantry and 13 destroyed enemy armored divisions.However the situation was not still completely under control regarding the previous experiences, in fact the great created bags did not yield but they continued to&amp;#10;resist beyond every expectation.A last effort was therefore necessary.With a superiority of men and means of 2 to 1 and in sky of 3 to 1 that one began that had to be the last and definitive offensive...&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Moskva&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="6248" value="Roberto Bonsi"/>
+    <link type="boardgameartist" id="37980" value="Enea Riboldi"/>
+    <link type="boardgamepublisher" id="435" value="International Team"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="23"/>
+        <average value="6.80435"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.67941"/>
+        <median value="0"/>
+        <owned value="51"/>
+        <trading value="0"/>
+        <wanting value="4"/>
+        <wishing value="7"/>
+        <numcomments value="8"/>
+        <numweights value="5"/>
+        <averageweight value="3.2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

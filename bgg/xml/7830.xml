@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7830">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/i6DFmlDpPlCFd9xhhO1kYi_tbWg=/fit-in/200x150/pic31988.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2vv0T7vVyCKJUCg5iPtRTofTcVs=/0x0/pic31988.jpg</image>
+    <name type="primary" sortindex="1" value="Eagles of the Empire: Borodino"/>
+    <description>Vol. I - Napoleon's battle before the Gates of Moscow&amp;#10;&amp;#10;A grand tactical game system of Napoleonic Battlefield combat using a unique &amp;quot;geomorphic&amp;quot; map regulating the movement and positioning of large infantry formations.&amp;#10;&amp;#10;Play is accomplished through alternating activation of forces by each player until all forces have activated.  Simultaneous modified die rolls by both players resolve combat.  Units incur step losses.&amp;#10;&amp;#10;The game includes 4 scenarios including Shevardino Redoubt, Historical Borodino, Davout's Borodino, and a full 3-day battle.&amp;#10;&amp;#10;From the back of the box:&amp;#10;Scale:&amp;#10;500 yards/inch&amp;#10;Infantry: Divisions&amp;#10;1500 men/infantry point&amp;#10;Cavalry: regiments / brigades&amp;#10;500 horses/cavalry point&amp;#10;4-8 guns/artillery point&amp;#10;1 hour per turn&amp;#10;&amp;#10;</description>
+    <yearpublished value="1994"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="3229" value="Eagles Of The Empire"/>
+    <link type="boardgamedesigner" id="945" value="Brien J. Miller"/>
+    <link type="boardgamedesigner" id="2732" value="Arron J. Monroe"/>
+    <link type="boardgamedesigner" id="2731" value="Mark E. Searle"/>
+    <link type="boardgameartist" id="945" value="Brien J. Miller"/>
+    <link type="boardgamepublisher" id="1834" value="Games USA"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="57"/>
+        <average value="6.42895"/>
+        <bayesaverage value="5.53746"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10220" bayesaverage="5.53746"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1974" bayesaverage="5.73505"/>
+        </ranks>
+        <stddev value="1.39211"/>
+        <median value="0"/>
+        <owned value="215"/>
+        <trading value="13"/>
+        <wanting value="11"/>
+        <wishing value="25"/>
+        <numcomments value="30"/>
+        <numweights value="8"/>
+        <averageweight value="2.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

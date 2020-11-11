@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="118336">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ExTKhUWDgbYntJbEA6657I1yVTU=/fit-in/200x150/pic1210880.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/AC9fXwL7WBnIZQt0Ui3WO0BRCLA=/0x0/pic1210880.jpg</image>
+    <name type="primary" sortindex="1" value="Paul Koenig's Market-Garden: Eindhoven Bridge"/>
+    <description>Paul Koenig&amp;rsquo;s Market Garden is a series of small-format, competitive introductory-level wargames covering the critical first three days of Operation Market-Garden, where the Allies attempted to seize a series of bridges in Holland and end WWII before Christmas. Each game in the series covers a separate bridge: Arnhem, Nijmegen, and Eindhoven.&amp;#10;As a player, you must command your German or Allied forces so as to capture key objectives on the board while keeping your casualties down (and your opponent&amp;rsquo;s casualties up).&amp;#10;&amp;#10;Eindhoven Bridge is the second game in the Market Garden series, covering the events happening at this vital fiver crossing from September 17th-19th, 1944. Each player commands their German or American forces so as to capture key objectives on the board while keeping your casualties down (and your opponent&amp;rsquo;s casualties up).&amp;#10;&amp;#10;With plenty of decision making and Optional Rules to extend gameplay and realism, the very collapse of Germany is at stake as you make your stand and bring your enemies down at Eindhoven Bridge!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="50"/>
+    <minplaytime value="50"/>
+    <maxplaytime value="50"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="19320" value="Cities: Eindhoven (North Brabant, Netherlands)"/>
+    <link type="boardgamefamily" id="23110" value="Paul Koenig's Market Garden Series"/>
+    <link type="boardgamedesigner" id="10975" value="Paul Koenig"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="84449" value="Bryan Armor (II)"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="28"/>
+        <average value="7.26786"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.22905"/>
+        <median value="0"/>
+        <owned value="103"/>
+        <trading value="1"/>
+        <wanting value="13"/>
+        <wishing value="21"/>
+        <numcomments value="14"/>
+        <numweights value="4"/>
+        <averageweight value="1.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

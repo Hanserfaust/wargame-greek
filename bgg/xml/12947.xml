@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12947">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sNwLg6KJVuX4CljrB5CvNj8Sa54=/fit-in/200x150/pic51762.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8bbxwlPHfqOlr31ogmc-kh9kjNA=/0x0/pic51762.jpg</image>
+    <name type="primary" sortindex="1" value="Napoleon at War: Four Battles"/>
+    <description>An SPI Quad game containing four separate Napoleonic battles:&amp;#10;&amp;#10;    Marengo (subtitle: Napoleon in Italy, 14 June 1800)&amp;#10;    Jena-Auerstadt (subtitle: The Battle for Prussia 14 October 1806)&amp;#10;    Wagram (subtitle: The Peace of Vienna, 5-6 July 1809)&amp;#10;    The Battle of Nations (subtitle: The Encirclement at Leipzig, 16-19 October 1813).&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;The simple rules comprise just four sides with additional sheets for each of the scenarios.&amp;#10;&amp;#10;A fun and highly playable game system about interesting subjects.  It was the inspiration for Borodino, Napoleon's Last Battles, Napoleon at Leipzig, and many other wargames.&amp;#10;&amp;#10;CRT has EE (Equal Elimination) feature. A die roll of 6 can result in an attacker with unit strength of 12 and a defender with unit strength of 2 both being simultaneously eliminated, unless the attacker has units of a lesser strength involved in the combat.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="23117" value="Napoleon At Waterloo"/>
+    <link type="boardgamefamily" id="17838" value="SPI Quads"/>
+    <link type="boardgamecompilation" id="10301" value="The Battle of Nations: The Encirclement at Leipzig, 16-19 October 1813" inbound="true"/>
+    <link type="boardgamecompilation" id="255" value="Jena-Auerstadt" inbound="true"/>
+    <link type="boardgamecompilation" id="13881" value="Marengo: Napoleon in Italy, 14 June 1800" inbound="true"/>
+    <link type="boardgamecompilation" id="239" value="Wagram" inbound="true"/>
+    <link type="boardgamedesigner" id="338" value="Edward Curran"/>
+    <link type="boardgamedesigner" id="339" value="Frank Davis"/>
+    <link type="boardgamedesigner" id="1488" value="Irad B. Hardy"/>
+    <link type="boardgamedesigner" id="692" value="David C. Isby"/>
+    <link type="boardgamedesigner" id="1435" value="Tom Walczyk"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="136"/>
+        <average value="6.59265"/>
+        <bayesaverage value="5.59493"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59493"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.97306"/>
+        </ranks>
+        <stddev value="1.50227"/>
+        <median value="0"/>
+        <owned value="336"/>
+        <trading value="12"/>
+        <wanting value="19"/>
+        <wishing value="26"/>
+        <numcomments value="89"/>
+        <numweights value="18"/>
+        <averageweight value="1.8889"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

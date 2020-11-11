@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="27509">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/42ScpBnDoZmloYfv6FaGerU7Qmc=/fit-in/200x150/pic177221.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HlhRdzkae-d6Em_SJdLpl7tq8fM=/0x0/pic177221.jpg</image>
+    <name type="primary" sortindex="1" value="Obstinate Beyond Description"/>
+    <description>The game is Leader driven. His characteristics and qualities coupled with circumstances will dictate what a force can and cannot do. The closer you are to supplies, the more you can do- unfortunately you can&amp;rsquo;t win by sitting in a supply depot.&amp;#10;A turn is played in operations. Players alternate operating with a force and Leader of their choosing, trying to outmaneuver their opponents and lever them out of commanding positions, opening up strategic objectives. Beware; although you may be only a mile or so from your objective, stretched supply lines, bands of guerrilla fighters and incompetent Generals can force a sudden retreat, undoing careful planning.&amp;#10;&amp;#10;The board is divided into supply areas (color coded) that can change due to territorial acquisitions. While the British begin with excellent supplies near Lake Ontario, the loss of Fort George can mean restricted movement in your own heartland. If the Americans lose Fort Schlosser, the British will have a free hand marching to Black Rock or Buffalo, causing the Americans to retire in shame from the Canadian side.&amp;#10;&amp;#10;Battles, Skirmishes, and guerrilla activity not only leads to the loss of men, but of confidence, and an army that loses hope will degenerate into an armed mob, incapable of organized action. Both sides were determined during this campaign, so battles tended to be hard fought, and cause high casualties, even among the Generals.&amp;#10;&amp;#10;The Scale&amp;#10;&amp;#10;The Niagara region in not a huge one. An army could march from the top to the bottom in two days (in peacetime).We use two day turns, which allows for the tiniest of actions and moves to be of significance. As far as troop scale is concerned all units used in play are called Detachments, which represent between 100-200 men. Thus the British 100th&amp;#10;regiment (roughly 600 men) is composed of four detachments.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="3873" value="The Perfect Captain"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.5"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="6"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

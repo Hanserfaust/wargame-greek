@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="15595">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-ffqw6_Cs4Q6_G6RVIu_NDhw5OM=/fit-in/200x150/pic65982.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/eMdDa4BrcfvFYjpb5h0UvUJ1dMc=/0x0/pic65982.jpg</image>
+    <name type="primary" sortindex="4" value="La Bataille d' Eckmühl"/>
+    <description>It is nearly noon, 22nd April 1809, and still no news from the Emperor. You, Marshal Davout, best French leader and victor of Auerstedt, carefully listens to the thunder of artillery which, from the South, shall indicate that the battle has begun. For the moment, you must hold with two divisions.. but others are joining, with your German allies from Bavaria and W&amp;uuml;rtemberg. In front of you, two Austrian corps stay idle, seemingly hesitating between staying there or retreating towards Ratisbon. What has your opponent, Archduke Charles,  have in mind?&amp;#10;&amp;#10;A game of the &amp;quot;Vive l'Empereur&amp;quot; series from Azure Wish on regimental scale. The series using standard rules and a set of exclusive rules specific to each battle. The game contains 332 counter, 1 Map, 2 Rules booklets.&amp;#10;&amp;#10;Gamesystem:&amp;#10;- scale = 250 m/hex; &amp;#10;- time = 30 min/GT; &amp;#10;- strength = ~600 men/counter (Reg/2xBatt)&amp;#10;&amp;#10;</description>
+    <yearpublished value="1996"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="8462" value="Vive l'Empereur !"/>
+    <link type="boardgamedesigner" id="4759" value="Didier Rouy"/>
+    <link type="boardgamepublisher" id="195" value="Azure Wish Enterprise (AWE)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="21"/>
+        <average value="6.7381"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.57071"/>
+        <median value="0"/>
+        <owned value="54"/>
+        <trading value="2"/>
+        <wanting value="6"/>
+        <wishing value="17"/>
+        <numcomments value="9"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

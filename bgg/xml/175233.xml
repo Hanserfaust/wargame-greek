@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="175233">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/m2kM_5tkGxgXxfoDqROm-N-ZWNI=/fit-in/200x150/pic2839758.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/19cBCz3wd5gtvMemfVYzSOV2k4M=/0x0/pic2839758.jpg</image>
+    <name type="primary" sortindex="1" value="New World Order Battles"/>
+    <description>New World Order Battles is a grand tactical wargame of battles that were, or could possibly be fought, in the era since the fall of the Berlin Wall, and even into the near future. Players control actual and hypothetical combat units using a wide range of technologies and forces to gain objectives. Two scenarios are included: Kiev, covering a hypothetical Russian clash with NATO forces at the Ukrainian capital, and Ulaan Baatar, a hypothetical clash between Russian and Chinese forces at the Mongolian capital.&amp;#10;&amp;#10;There are two players in each game, commanding opposing forces. Both games use a system of shared rules, and each also has its own scenario special instructions. The game pieces represent military units, supporting firepower, and Netwar operations.&amp;#10;&amp;#10;Modern War #22, Mar-Apr 2016&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="20084" value="Magazine: Modern War"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="7.04167"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.748842"/>
+        <median value="0"/>
+        <owned value="109"/>
+        <trading value="4"/>
+        <wanting value="4"/>
+        <wishing value="7"/>
+        <numcomments value="15"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

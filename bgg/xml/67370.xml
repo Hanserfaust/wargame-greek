@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="67370">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/hNTz40sG5VUvyxDufmgAUyujLgg=/fit-in/200x150/pic674985.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/T-dh6h-SY-jVqugFnm2V_2OQqOE=/0x0/pic674985.jpg</image>
+    <name type="primary" sortindex="1" value="Heaven's Mandate: the Reunification of China"/>
+    <description>The great Han Dynasty, once the paragon of peace and order in the world, has atrophied under the weight of corruption and conspiracy.  Without even the strength for something as grand or as simple as civil war, the whole of China slowly shattered into countless independent states.  Still, memories of such unity linger and there may be time for another to unify the middle kingdom and prove worthy of Heaven&amp;rsquo;s Mandate. &amp;#10; This is a strategic,&amp;quot;empire building&amp;quot; game that roughly covers the Three Kingdoms Period.  Each player will lead their state through the tumult of the age until one player reunifies the middle kingdom, or else builds a state so wondrous that the achievements of the Han look dim in comparison.&amp;#10;&amp;#10;The game has two overlying engines: one, a military game of fierce battles and bold leaders, and the other, a game of economic management and cultural development.  Oftentimes, when a player is conquered they are able to find refuge in the cultural development of their state, or when their temples have fallen to ash, find the call to war appealing.&amp;#10;&amp;#10;The game can be played with anywhere between one and seven players and includes several alternate historical scenarios in additional to the grand campaign.&amp;#10;&amp;#10;The game currently exists through only a few handmade play test copies.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="1"/>
+    <maxplayers value="7"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="7+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1015" value="Civilization"/>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamemechanic" id="2082" value="Worker Placement"/>
+    <link type="boardgamefamily" id="11518" value="Country: China"/>
+    <link type="boardgamedesigner" id="35585" value="Cole Wehrle"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="4.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.5"/>
+        <median value="0"/>
+        <owned value="1"/>
+        <trading value="0"/>
+        <wanting value="6"/>
+        <wishing value="25"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

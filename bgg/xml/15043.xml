@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="15043">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/trJMjCm40eCUdOWacmMGMTdpv4s=/fit-in/200x150/pic71800.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/N_rYNb1jPWSnK3GVwdSobOHcbEM=/0x0/pic71800.jpg</image>
+    <name type="primary" sortindex="1" value="Malaya &amp; Burma"/>
+    <name type="alternate" sortindex="1" value="日本の進撃"/>
+    <description>Not two as the title suggests, but three separate games in one box:  Race to Singapore covers the Malaya Campaign in 1941-1942, Burma the Japanese invasion of that country at a similar scale, and Fall of Singapore is a tactical/low level operational game about the Japanese assault on the island of Singapore itself.  There are &amp;quot;rough&amp;quot; linking rules to join the two campaign scenarios.&amp;#10;&amp;#10;Features 4 hard backed maps and 2 paper maps for air combat, 600 counters and 22 pages of dense English rules.&amp;#10;&amp;#10;Scale for the two campaign games is about 11 days a turn, 36-43 km a hex (depending on the scenario played) and units are primarily regiments and brigades.  Fall of Singapore has 5km hexes and 2 day turns.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="400"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="400"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10625" value="Country: Burma"/>
+    <link type="boardgamefamily" id="10616" value="Country: Malaysia"/>
+    <link type="boardgamedesigner" id="4637" value="Akira Ishikawa"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="6.78125"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.26205"/>
+        <median value="0"/>
+        <owned value="78"/>
+        <trading value="3"/>
+        <wanting value="7"/>
+        <wishing value="14"/>
+        <numcomments value="11"/>
+        <numweights value="3"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

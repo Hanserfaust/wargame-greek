@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="58599">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iC9gvA4tqpm4pgoOOJ7x9ehQriE=/fit-in/200x150/pic1097896.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ivvRWfEfTU1UBp2yVI3NyVLSCcQ=/0x0/pic1097896.jpg</image>
+    <name type="primary" sortindex="1" value="Euro Pack V: Eastern Front Warfare"/>
+    <description>Eight more eastern front scenarios for ASL, from ASL News designers.&amp;#10;&amp;#10;Contains the following scenarios:&amp;#10;&amp;#10;EP 7: Rescue Behle&amp;#10;EP79: Teutonic Knights&amp;#10;EP81: Katukov Turns the Tables II&amp;#10;EP84: Battle for the Odessa Line&amp;#10;EP91: A Taste of Things to Come&amp;#10;EP96: 40 Miles Behind&amp;#10;EP99: Lords of the Steppe&amp;#10;EP 18: Winter Hell&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgamefamily" id="13388" value="Euro-Pack Scenario Series"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="2960" value="Ian Daglish"/>
+    <link type="boardgamedesigner" id="2935" value="Philippe Leonard"/>
+    <link type="boardgamedesigner" id="3354" value="Pedro Ramis"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="5.6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.93939"/>
+        <median value="0"/>
+        <owned value="36"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="4"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

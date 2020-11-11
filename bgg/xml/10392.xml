@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10392">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Ypqfm4S5tuWW7gTiLKJK96YFOPw=/fit-in/200x150/pic65786.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/z0nSJo1KL7-vaOgo76hd5GtGLEU=/0x0/pic65786.jpg</image>
+    <name type="primary" sortindex="1" value="Campaigns of Napoleon"/>
+    <name type="alternate" sortindex="1" value="Campaigns of Napoleon: Bonaparte versus Europe, 1800 to 1815"/>
+    <description>The Emperor Napoleon I fought valiantly to unite the whole of Europe under French rule. The foremost military genius of his time, Napoleon's campaigns swept across the breadth of the Continent, and very nearly toppled the world's oldest monarchies. Each player represents France or one of her enemies during the Wars of the Empire. Playing pieces represent the actual military formations of the time, and are maneuvered across an accurate terrain map of central Europe. Many unique rules capture the flavor of the period, including the economics of war, diplomacy, fortresses, leaders and much more.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="169" value="Eric Goldberg"/>
+    <link type="boardgamedesigner" id="3393" value="Daniel Scott Palter"/>
+    <link type="boardgamedesigner" id="226" value="John Prados"/>
+    <link type="boardgamepublisher" id="40" value="West End Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="31"/>
+        <average value="5.82258"/>
+        <bayesaverage value="5.50434"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13965" bayesaverage="5.50434"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2677" bayesaverage="5.53053"/>
+        </ranks>
+        <stddev value="1.48405"/>
+        <median value="0"/>
+        <owned value="136"/>
+        <trading value="9"/>
+        <wanting value="3"/>
+        <wishing value="2"/>
+        <numcomments value="25"/>
+        <numweights value="3"/>
+        <averageweight value="4.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

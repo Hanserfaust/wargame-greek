@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="40895">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/jydusPIi1cqOY7-QRVuA26Yq_Ls=/fit-in/200x150/pic444693.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/rdTrCtURJAUAIJ9eNrJ1zlptXpY=/0x0/pic444693.jpg</image>
+    <name type="primary" sortindex="5" value="The Glory that Was Vol. I: Greece. Episode I – Tanagra"/>
+    <description>The Glory That Was is a series of games depicting several different battles from the ancient world.&amp;#10;Volume I, Greece, depicts a number of battles from the Persian War to the War of the Successors, while volume II, Rome, will have different battles from the Early Republic to the Late Roman&amp;#10;Empire.&amp;#10;Map scale will be variable, depending on the battle depicted, while each unit will normally represents from 100 to 1.000 infantry and from 25 to 250 cavalry or missile units.&amp;#10;&amp;#10;Contains:&amp;#10;8.5 x 11&amp;quot; full color map&amp;#10;76 counters and markers&amp;#10;9 Page Rules in English&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="7546" value="The Glory That Was Series"/>
+    <link type="boardgamedesigner" id="8869" value="Roberto Chiavini"/>
+    <link type="boardgamepublisher" id="6597" value="TCS Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="4.4"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.0198"/>
+        <median value="0"/>
+        <owned value="40"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="1"/>
+        <numcomments value="6"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

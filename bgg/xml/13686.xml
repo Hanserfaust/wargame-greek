@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="13686">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/h50r1iNng-p4YwvLFzmj9BK26uo=/fit-in/200x150/pic55323.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/cFvhFm1uNdUmEPlY4YtCv43xBkU=/0x0/pic55323.jpg</image>
+    <name type="primary" sortindex="1" value="Strategos"/>
+    <description>Strategos (Greek for 'General') is a simple but realistic set of wargame rules descended from the designer's previous Society of Ancients games, 'Phalanx' and 'Legion'. It focuses firmly on the grand-tactical level of generalship, and includes full scenarios for 48 Greek and Roman land battles (from Marathon to Philippi), based on extensive study of both Ancient and Modern sources.  The 2nd edition (2006) only includes 36 battles, as the designer felt there was insufficient information on the others to create a truly representative scenario.&amp;#10;&amp;#10;Strategos makes use of a gridded battle area which makes it well-suited to being played as a boardgame, but it can be also be played on a normal, ungridded tabletop with any number, or scale, of miniature models figures, using any basing arrangement. A comprehensive 5-page example of play (a refight of Cannae) in the 28 page manual (of which 8 pages are the scenarios, and 12 pages are rules) makes it easy to grasp the principles of the game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameimplementation" id="83325" value="Lost Battles"/>
+    <link type="boardgamedesigner" id="6341" value="Philip Sabin"/>
+    <link type="boardgamepublisher" id="3011" value="Society of Ancients"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="6.91667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.80085"/>
+        <median value="0"/>
+        <owned value="45"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="5"/>
+        <numcomments value="8"/>
+        <numweights value="2"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

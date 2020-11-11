@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36819">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/z_6mJ5o1eXKVl71UzyX_v-0JKvY=/fit-in/200x150/pic1604560.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/u_BTXFR1gT2dSJKMgVXPfsGEsMA=/0x0/pic1604560.jpg</image>
+    <name type="primary" sortindex="1" value="Anzio: The Fight For The Beachhead"/>
+    <name type="alternate" sortindex="1" value="Anzio II: The Fight For The Beachhead"/>
+    <description>from site&amp;#10;&amp;#10;Anzio: The Fight For The Beachhead is a solitaire or two-player mini-game that simulates at the division level the battle of Anzio. The goal of the Anzio-Nettuno amphibious landings and the resulting so-called battle of Anzio, January - May, 1944, was to outflank the German Winter Line and open the way to Rome. A major battle of World War Two, the initial landings were unopposed. Instead, the resulting fight developed to keep the beachhead.&amp;#10;&amp;#10;Third Edition:&amp;#10;&amp;#10;Game Features&amp;#10;Solitaire Rules&amp;#10;Off-Map Bombardment&amp;#10;Weather&amp;#10;German Air Attacks&amp;#10;12 Turns&amp;#10;Initiative Checks&amp;#10;&amp;#239;&amp;#187;&amp;#191;&amp;#10;Game Components&amp;#10;&amp;#226;&amp;#128;&amp;#139;17&amp;quot; x 11&amp;quot; Game Board&amp;#10;41 5-8&amp;quot; Mounted, Die-Cut Counters and Markers&amp;#10;8-Page Color Rulebook&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="33438" value="Tom Cundiff"/>
+    <link type="boardgameartist" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="6.5625"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.04146"/>
+        <median value="0"/>
+        <owned value="44"/>
+        <trading value="1"/>
+        <wanting value="4"/>
+        <wishing value="9"/>
+        <numcomments value="8"/>
+        <numweights value="3"/>
+        <averageweight value="1.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

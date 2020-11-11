@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9968">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Xc7Cf9uErps1kwTsdG5utr7oEI0=/fit-in/200x150/pic55191.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/X4x0SJIhJfLJNRGrE4QzZrf-CGU=/0x0/pic55191.jpg</image>
+    <name type="primary" sortindex="1" value="Custer's Luck"/>
+    <description>Four scenarios re-create the U.S. Army&amp;rsquo;s ill-fated 1876 campaign against the Sioux and their allies.  One to three players (all scenarios play solitaire) direct the various army commands: Crook&amp;rsquo;s, Terry&amp;rsquo;s/Gibbon&amp;rsquo;s and, of course Custer&amp;rsquo;s.  The Indians move on the results of a double-dice roll against a wander table.&amp;#10;&amp;#10;There are rules for scouting, surprise attacks, mule and wagon supply-trains and the river-boat &amp;ldquo;Far West&amp;rdquo;.&amp;#10;&amp;#10;Published in The Wargamer Magazine issue 45.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="2626" value="Wayne C. Close"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="45"/>
+        <average value="5.4"/>
+        <bayesaverage value="5.49413"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14938" bayesaverage="5.49413"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2820" bayesaverage="5.46076"/>
+        </ranks>
+        <stddev value="2.07257"/>
+        <median value="0"/>
+        <owned value="204"/>
+        <trading value="10"/>
+        <wanting value="3"/>
+        <wishing value="11"/>
+        <numcomments value="29"/>
+        <numweights value="11"/>
+        <averageweight value="2.2727"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

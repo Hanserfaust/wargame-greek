@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="94340">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ii8cvRzy_oOkHBlxm_aQV7LyuIQ=/fit-in/200x150/pic936449.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xP14_0zYetGcIZOtlVkGhC8SG8c=/0x0/pic936449.jpg</image>
+    <name type="primary" sortindex="1" value="Zama: Scipio Against Hannibal 202 BC"/>
+    <description>Zama, Scipio Against Hannibal, 202 BC, is designed as a fast-play simulation of the battle in North Africa. The battle ended the Second Punic War and the fabled career of Hannibal as a battlefield commander, arguably the greatest military commander who ever lived. (Okay, three cheers for Scipio Africanus, too.) The game comes in print-and-play format as well as a Vassal game module. &amp;#10;One player commands the Roman forces under Scipio, the other player commands the Carthaginian army under Hannibal. After determining the initiative at the start of a turn, the sequence of play is classic &amp;quot;I go - you go&amp;quot;. Special rules for War Elephants and cavalry add to the historical flavor. Your goal is to rout the other army. &amp;#10;The game is designed by Michael W. Kennedy. It includes 89 game counters representing Roman, Numidian, Carthaginian and War Elephant units.There are six pages of rules&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamedesigner" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgameartist" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="4"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

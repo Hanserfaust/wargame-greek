@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="171694">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/3rp33F5mNrlp6Ejeo4PudaXN7yg=/fit-in/200x150/pic2377773.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lsyjaRtzCbkW7mgDhx2YAn-v1ro=/0x0/pic2377773.jpg</image>
+    <name type="primary" sortindex="1" value="Head Honcho: Jet Combat Over the Yalu"/>
+    <description>Head Honcho is an introductory level mini-game on air combat set during the early years of the Korean War. The game is designed by Paul Rohrbaugh, with graphics by Bruce Yearian, and is published by High Flying Dice Games.&amp;#10;&amp;#10;Head Honcho: Jet Combat over the Yalu is also the Consimworld Donation Drive Gold Level game for 2015. Head Honcho features such aircraft as the F-86, the F-84, F9F Panther and other aircraft of the war, all battling the Communist MiG-15s for air supremacy.&amp;#10;&amp;#10;Head Honcho is not meant to be the most accurate of air warfare simulations. Rather, players should find this an entertaining diversion that still captures the &amp;ldquo;essence&amp;rdquo; of the violent and tense nature of Korean War jet combat. Similar to other minigames using this design (Dueling Eagles, Fighting Eagles), I also hope Head Honcho serves as a vehicle by which newcomers to the hobby of simulation gaming can be introduced.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1091" value="Korean War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

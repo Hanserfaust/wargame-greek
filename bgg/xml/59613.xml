@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="59613">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fwO_O-4_ImkfF0BDuwyBWt31S8g=/fit-in/200x150/pic585135.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/eHkRmhZahzvJDQXFqkDt_DdWyzQ=/0x0/pic585135.jpg</image>
+    <name type="primary" sortindex="1" value="Hell from Above"/>
+    <description>HELL FROM ABOVE: The RAF Descends on Dumenko's Tsaritsyn Offensive, 1919&amp;#10;&amp;#10;For a brief moment of time, the Red Army posed a serious threat to Tsaritsyn when the Dumenko Horse Corps had slipped through a large gap in the patchy front lines between the White Caucasian and Don Armies near the Don river. This large gap allowed Dumenko&amp;rsquo;s three cavalry brigades and a few armor cars to advance unopposed by any White forces. It was only 40 miles from Tsaritsyn. The steppe was perfect for such an advance, flat as hell, providing no cover but fast transit for the cavalry. While White forces did occupy some of Tsaritsyn, there were none in the White rear areas. The closest forces were the 2nd Kuban Cavalry Corps (6000 men) but over a day away. The British B Flight of the 47th RAF led by Lt. Kinkead appeared overhead with Camel fighters and a few DH 9A bombers, swooping down on its prey, firing machines guns and dropping bombs on their strafing runs. This continued for hours. Could a few aircraft actually stop them?&amp;#10;&amp;#10;Dumenko&amp;rsquo;s three cavalry brigades and a few armor cars to advance unopposed by any White forces. It was only 40 miles from Tsaritsyn. The steppe was perfect for such an advance, flat as hell, providing no cover but fast transit for the cavalry. While White forces did occupy some of Tsaritsyn, there were none in the White rear areas. The closest forces were the 2nd Kuban Cavalry Corps (6000 men) but over a day away. The British B Flight of the 47th RAF led by Lt. Kinkead appeared overhead with Camel fighters and a few DH 9A bombers, swooping down on its prey, firing machines guns and dropping bombs on their strafing runs. This continued for hours.  Dumenko's men became scattered, disorganized and sought to escape the HELL FROM ABOVE, saving the city from falling into the Red grasp!&amp;#10;&amp;#10;The game comes with a 11x17&amp;quot; map, 280 counters, rules. The map scale is about 800 yd. per hex. Each combat unit is a company. A game turn is 15 minutes of time. Each aircraft is one airplane.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="4366" value="Firefight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.35"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4.35"/>
+        <median value="0"/>
+        <owned value="4"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

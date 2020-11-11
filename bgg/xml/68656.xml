@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="68656">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ERDczFZB0ExUZP64MfDyFmcvA4Y=/fit-in/200x150/pic705985.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Gsb-9TnUY8pKnl9Ykfa9oE0LONY=/0x0/pic705985.jpg</image>
+    <name type="primary" sortindex="1" value="Classical Hack Scenarios: Rome"/>
+    <description>Book Introduction:&amp;#10;&amp;quot;Classical Hack Scenarios is intended to provide historical miniature games interested in classical warfare with fast, playable, and entertaining scenarios.  The scenarios themselves are designed to be used with the Classical Hack game system.  Gamers can covert the lists to another system they wish with a little work on their part.&amp;quot;&amp;#10;&amp;#10;Historical Articles:&amp;#10;&amp;#10;The First Roman Legion: Romulus 750 B.C.&amp;#10;Servian Changes (2 interpretations): 650 B.C. - 390 B.C.&amp;#10;Phalanx to Line: The Legion 390 B.C. - 200 B.C.&amp;#10;The Three Line Manipular Legion:  225 B.C. - 104 B.C.&amp;#10;Marian Changes:  100 B.C. - 6 A.D.&amp;#10;Augustus and After: 6 A.D. - 250 A.D.&amp;#10;&amp;#10;Scenarios included:&amp;#10;&amp;#10;Rome Fights Fidenae:  725 B.C.&amp;#10;Allia Valley:  390 B.C.&amp;#10;Heraclea: 280 B.C.&amp;#10;Asculum Second Day:  279 B.C.&amp;#10;Tunes: 255 B.C.&amp;#10;Battle of Ilipa:  206 B.C&amp;gt;&amp;#10;Cynoscephalae:  197 B.C.&amp;#10;A Campaign in Spain:  76 B.C. - 75 B.C.&amp;#10;Caesar and Pharnaces, Zela:  47 B.C.&amp;#10;Mons Graupius:  83 A.D.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="8+">		
+				</results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgameexpansion" id="13949" value="Classical Hack (second edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="4313" value="Philip J. Viverito"/>
+    <link type="boardgamepublisher" id="1643" value="LMW Works"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="7"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

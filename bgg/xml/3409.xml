@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3409">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kR8t9kklpT4l0ixK_XcyzPc7fJg=/fit-in/200x150/pic33004.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/H6t38FAYewxsouUU25qOYh2td2g=/0x0/pic33004.jpg</image>
+    <name type="primary" sortindex="5" value="The Napoleonic Wars"/>
+    <description>From GMT games:&amp;#10;&amp;#10;In The Napoleonic Wars, GMT Games brings you a fast-paced, tension-filled, card-driven wargame with a point-to-point movement system that pushes the envelope in a new direction for a pivotal period of history. Rooted soundly in Mark Herman's award-winning We The People system, The Napoleonic Wars provides refinements that allow two-to-five players to play an exciting game requiring two to ten hours. The majority of your games will easily end in a single evening, thanks to sudden death victory conditions providing variable game lengths that eliminate the &amp;quot;end of the world&amp;quot; phenomenon that plague many games. Often, you'll set 'em up and knock 'em down twice a night, and once in a great while your Campaign game will require two nights of play for the terrific panoramic history to unfold before your eyes.&amp;#10;&amp;#10;Like similar card-driven games, The Napoleonic Wars provides strategy cards that are played as events or to activate leaders, armies or fleets (by play of command points) to move on the map. Players must constantly weight the value of an event or reaction card against the need for its command points. Command points themselves can be played for a wide variety of activities, making play unpredictable and fresh with each sitting. Uncontrolled powers are governed by a diplomatic track which is also affected by play of command points and events.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;     Napoleonic Wars: Super Deluxe Map&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Revised by:   &amp;#10;&amp;#10;     The Napoleonic Wars 2008 Update Kit (upgrade to 2nd edition)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;     Wellington&amp;#10;     The Napoleonic Wars (Second Edition) (aka 2008 reprint Edition)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="10"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="11"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="8"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamefamily" id="4947" value="GMT Napoleonic Wars Series"/>
+    <link type="boardgameexpansion" id="37649" value="The Napoleonic Wars 2008 Update Kit"/>
+    <link type="boardgameimplementation" id="36399" value="The Napoleonic Wars (Second Edition)"/>
+    <link type="boardgamedesigner" id="76" value="Don Greenwood"/>
+    <link type="boardgamedesigner" id="181" value="Ben Knight"/>
+    <link type="boardgamedesigner" id="4595" value="Mark McLaughlin"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="738"/>
+        <average value="7.0092"/>
+        <bayesaverage value="6.02443"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2133" bayesaverage="6.02443"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="299" bayesaverage="6.68085"/>
+        </ranks>
+        <stddev value="1.71454"/>
+        <median value="0"/>
+        <owned value="1062"/>
+        <trading value="45"/>
+        <wanting value="46"/>
+        <wishing value="139"/>
+        <numcomments value="324"/>
+        <numweights value="102"/>
+        <averageweight value="3.4608"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

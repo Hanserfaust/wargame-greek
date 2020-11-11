@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17677">
+    <name type="primary" sortindex="1" value="Flying Fortress 1 &amp; 2"/>
+    <name type="alternate" sortindex="1" value="Flying Fortress 2"/>
+    <description>Two of the &amp;quot;Test Series&amp;quot; games released by Poultron Press, the forerunner of SPI. Flying Fortress 1 was Test Series Game No. 2 and Flying Fortress 2 was Test Series Game No. 10. The games covered the Allied strategic bombing in Europe during World War II.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1969"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgameimplementation" id="36291" value="USAAF: Strategic Bombing Operations Over the Third Reich, 1944"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgamepublisher" id="4392" value="Poultron Press"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="3"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

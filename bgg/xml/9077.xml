@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9077">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/K2bTYuUSHuZlDSEy0L2qtqSZQmY=/fit-in/200x150/pic261701.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RoggIZQpfwI1Wp-uCf3KGs3ZkMQ=/0x0/pic261701.jpg</image>
+    <name type="primary" sortindex="4" value="La Grande Armée"/>
+    <description>La Grande Armee is an operational &amp;lsquo;wargame&amp;rsquo; covering three distinct Napoleonic campaigns in central Europe. There are scenarios covering the 1805 campaign against Austria, the 1806 campaign against Prussia and the 1809 campaign against Austria (again). The Russians appear in the 1805 and 1806 campaigns, with possible Prussian entry against the French in the 1805 scenario. The game includes a 22&amp;rdquo; x 28&amp;rdquo; map, a 400 counter sheet (although there are a number of blank counters) as well the rules (accordion format), and separate sheets for the scenarios and tables. The game system is based on that of the earlier Leipzig game, also by SPI. La Grande Armee has a bit more variety, as three distinct separate campaigns are covered. The composition of the various national armies also varies. The composition of the Austrian army in the 1809 scenario is quite different from that of the Austrian army in the 1805 scenario. This reflects various reforms carried out by the Austrians in the interim between the campaigns. The emphasis of the game is on maneuver, including forced marches, and supply. Dispersion for movement and concentration for combat is a key tactic. The French have a significant advantage in forced marching, as well as in the quality of their leaders. Note this game is totally different from the later TSR &amp;lsquo;remake&amp;rsquo; of the same title.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1972"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="150"/>
+    <minplaytime value="150"/>
+    <maxplaytime value="150"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="20779" value="SPI Leipzig System"/>
+    <link type="boardgamedesigner" id="1925" value="John Young"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="84"/>
+        <average value="6.71131"/>
+        <bayesaverage value="5.56662"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7971" bayesaverage="5.56662"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1453" bayesaverage="5.88131"/>
+        </ranks>
+        <stddev value="1.58348"/>
+        <median value="0"/>
+        <owned value="290"/>
+        <trading value="18"/>
+        <wanting value="11"/>
+        <wishing value="24"/>
+        <numcomments value="52"/>
+        <numweights value="18"/>
+        <averageweight value="2.8333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

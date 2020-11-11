@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="49096">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BVQVREyv25yApv6X0p38hhPctME=/fit-in/200x150/pic518845.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/am5M-PT31pjCK-HjJv8UiiMO5So=/0x0/pic518845.jpg</image>
+    <name type="primary" sortindex="1" value="Battleground Historical Warfare: Second Punic War 218-201 BC"/>
+    <description>The newest expansion for Battleground Historical Warfare which features the armies of Rome and Carthage.&amp;#10;&amp;#10;Two centuries before the birth of Christ, the greatest general of his day led a small army over the Alps and nearly broke the power of Rome. Now you can recreate Hannibal's triumphs at Cannae and Trasimene, or reenact his defeat by Scipio Africanus at the battle of Zama.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="51530" value="Battleground Historical Warfare"/>
+    <link type="boardgameexpansion" id="57031" value="Battleground Historical Warfare: Second Punic War 218-201 BC Reinforcements"/>
+    <link type="boardgameintegration" id="18985" value="Battleground"/>
+    <link type="boardgameintegration" id="94342" value="Battleground Fantasy Warfare: Dark Elves"/>
+    <link type="boardgameintegration" id="49394" value="Battleground Fantasy Warfare: Dwarves of Runegard"/>
+    <link type="boardgameintegration" id="49396" value="Battleground Fantasy Warfare: Elves of Ravenwood"/>
+    <link type="boardgameintegration" id="49391" value="Battleground Fantasy Warfare: High Elves"/>
+    <link type="boardgameintegration" id="49392" value="Battleground Fantasy Warfare: Lizardmen"/>
+    <link type="boardgameintegration" id="49397" value="Battleground Fantasy Warfare: Men of Hawkshold"/>
+    <link type="boardgameintegration" id="49050" value="Battleground Fantasy Warfare: Monsters &amp; Mercenaries"/>
+    <link type="boardgameintegration" id="49400" value="Battleground Fantasy Warfare: Orc Army"/>
+    <link type="boardgameintegration" id="49038" value="Battleground Fantasy Warfare: Umenzi Tribesmen"/>
+    <link type="boardgameintegration" id="49399" value="Battleground Fantasy Warfare: Undead Army"/>
+    <link type="boardgameintegration" id="168924" value="Battleground Fantasy Warfare: Wuxing"/>
+    <link type="boardgameintegration" id="159526" value="Battleground Historical Warfare: Alexander vs. Persia"/>
+    <link type="boardgamedesigner" id="4113" value="Robert Dougherty"/>
+    <link type="boardgamedesigner" id="4114" value="Chad Ellis"/>
+    <link type="boardgamepublisher" id="2913" value="Your Move Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="42"/>
+        <average value="6.80714"/>
+        <bayesaverage value="5.53943"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10023" bayesaverage="5.53943"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1918" bayesaverage="5.7493"/>
+        </ranks>
+        <stddev value="1.84318"/>
+        <median value="0"/>
+        <owned value="231"/>
+        <trading value="14"/>
+        <wanting value="11"/>
+        <wishing value="31"/>
+        <numcomments value="26"/>
+        <numweights value="7"/>
+        <averageweight value="2.5714"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

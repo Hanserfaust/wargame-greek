@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29310">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RgJVe68BnGPVcp5td4wvMONDba0=/fit-in/200x150/pic274018.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/AH3u-CpTggbSS-9rCttbCQrWNYM=/0x0/pic274018.jpg</image>
+    <name type="primary" sortindex="1" value="Chinggis Khan: almidras Allah (the flail of God)"/>
+    <description>Chinggis Khan: almidras Allah is a solitaire game that covers the Mongol campaigns against the Khwarizmians in 1220 and 1221.  This game was published in the first issue of battle-market magazine dated Spring 2007.&amp;#10;&amp;#10;It contains 1 A4-sized map, 30 1/2&amp;quot; counters, and four pages of rules.  An accompanying article is included in the same magazine.&amp;#10;&amp;#10;Each turn represents 1 month and each counter represents 10,000 cavalry, 3000 engineers, or one leader.  Sieges are a main focus of the game.&amp;#10;&amp;#10;Two scenarios are included, historical and alternate.  The alternative scenario challenges you to improve on Chinggis Khan's historical performance.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10623" value="Country: Mongolia"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="8664" value="Glyn R. Sparkes"/>
+    <link type="boardgamepublisher" id="6830" value="battle-market"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="12"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="4"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

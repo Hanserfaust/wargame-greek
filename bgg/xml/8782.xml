@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8782">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/5D1b5Z0eD8nvMhnCownasHg38Xo=/fit-in/200x150/pic188890.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3UKMpa4rTNYCl-F1h0KYN06ixIc=/0x0/pic188890.jpg</image>
+    <name type="primary" sortindex="1" value="Narvik"/>
+    <description>Narvik is a game/simulation of the historical events surrounding the German invasion of Norway in the spring of 1940.&amp;#10;&amp;#10;Narvik is actually two games in one. The historical game faithfully recreates the situation and explores the alternatives open to the opposing field commanders. On the strategic level, Narvik may be combined with the other games of The Europa Series. To this end, in addition to the counters provided for the historical game, counters for Norway and Sweden are supplied in compatible strengths for The Europa Series.&amp;#10;&amp;#10;Narvik is a two player game. One side represents Norway and her Allies (Britain, France, and Poland), and the other represents Germany. The game is played in sequenced turns during which players move their units and engage in combat to destroy enemy units and gain geographic objectives. The German player will attempt to occupy Norway. The Norwegian player will attempt to prevent the occupation and/or extract the highest possible toll from the invaders.&amp;#10;&amp;#10;First (1974) Edition Game components: &amp;#10;&amp;#10;    one full and two partial map sheets (Europa #10, 5A and 11A, in white-black-blue colour) &amp;#10;    two and a half sheets of die cut counters (Europa #11, 12 &amp;amp; 13) [in 1st edition sheet #12 is a half-sheet]&amp;#10;    one rules folder&amp;#10;    one set of charts:&amp;#10;        Norwegian Armed Forces Chart&amp;#10;        Norwegian Initial Order of Battle&amp;#10;        Allied Reinforcement Chart&amp;#10;        Allied Unit Composition Chart&amp;#10;        German Initial Order of Battle&amp;#10;        German Reinforcement Chart&amp;#10;        German Unit Composition Chart&amp;#10;        CRT/Terrain Effects Chart (x2)&amp;#10;        Turn Record Chart&amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Second (1980) Edition Game components:&amp;#10;&amp;#10;    two full map sheets (Europa #10A and 5B, in white-black-blue-green-brown colour)&amp;#10;    three sheets of die cut counters (Europa #11A, 12A &amp;amp; 13A; for 720 counters)&amp;#10;    one rules booklet (bound, without 3-hole punching, with black front cover)&amp;#10;    one Norwegian and one Swedish &amp;quot;Europa-scale&amp;quot; double sided OOB/mobilisation supplement sheets&amp;#10;    one set of charts:&amp;#10;        Norwegian Armed Forces Chart&amp;#10;        Norwegian Initial Order of Battle&amp;#10;        Allied Reinforcement Chart&amp;#10;        Allied Unit Composition Chart&amp;#10;        German Initial Order of Battle&amp;#10;        German Reinforcement Chart&amp;#10;        German Unit Composition Chart&amp;#10;        CRT/Terrain Effects Chart (x2)&amp;#10;        Turn Record Chart&amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;[2nd Edition Note: Rules booklet dated 2/80 and charts dated 3/80.]&amp;#10;&amp;#10;</description>
+    <yearpublished value="1974"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="104" value="Europa Series"/>
+    <link type="boardgameexpansion" id="187282" value="Fall Gelb"/>
+    <link type="boardgameexpansion" id="28394" value="Hearts Of Oak"/>
+    <link type="boardgameexpansion" id="33589" value="Master Europa 107: Northern Fronts"/>
+    <link type="boardgameexpansion" id="169516" value="The Northern Theatre of Operations 1939-40"/>
+    <link type="boardgameimplementation" id="15990" value="Storm Over Scandinavia"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgameartist" id="17137" value="Richard Hentz"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="141"/>
+        <average value="6.98901"/>
+        <bayesaverage value="5.63437"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5557" bayesaverage="5.63437"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="817" bayesaverage="6.14933"/>
+        </ranks>
+        <stddev value="1.39491"/>
+        <median value="0"/>
+        <owned value="530"/>
+        <trading value="24"/>
+        <wanting value="5"/>
+        <wishing value="18"/>
+        <numcomments value="80"/>
+        <numweights value="25"/>
+        <averageweight value="3.48"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

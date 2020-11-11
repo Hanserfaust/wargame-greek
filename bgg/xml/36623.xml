@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36623">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qt4ulGI3z0ah_uHGAuNSll-ttKM=/fit-in/200x150/pic2257862.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-1emOEcOq6PS1JvCV-TPZBuQB4Q=/0x0/pic2257862.jpg</image>
+    <name type="primary" sortindex="1" value="Second World War at Sea: Coral Sea"/>
+    <name type="alternate" sortindex="1" value="Second World War at Sea: Coral Sea – The First Carrier Battle, 1942"/>
+    <description>In May 1942, the Japanese sought to capture Port Moresby on the south coast of New Guinea and interrupt communications between the United States and Australia. Such a move, they hoped, would bring the Americans to battle.&amp;#10;&amp;#10;The United States Navy needed no special inducement to fight its nation's enemies. Two American aircraft carriers met one small and two large Japanese carriers in the world's first battle between these powerful new warships. For the first time in naval history, a major battle was decided with no warship of either fleet even sighting an enemy ship directly. Aircraft were the new measure of naval power.&amp;#10;&amp;#10;Coral Sea is the new introductory boxed game for the Second World War at Sea series. It covers this key battle and is intended as a gateway for players new to the world's most popular series of naval boardgames. The Japanese player must establish new bases in New Guinea and at Tulagi in the Solomon Islands; the American player must stop them. Forces are very closely balanced, and victory will rest with the player who can best make use of his or her resources.&amp;#10;&amp;#10;The 22x17-inch operational map covers the Coral Sea off northeastern Australia as well as surrounding waters. Players maneuver their task forces on this map and search for one another with aircraft, submarines and surface ships. When contact is made, player moves to the tactical map.&amp;#10;&amp;#10;The tactical map is a generic blue field of hexagons, used to resolve surface combat. There, ships maneuver and fight using their gunnery and torpedo factors. Each player rolls a number of dice according to the ship&amp;rsquo;s capabilities, hitting on a result of 6. Gunnery and torpedo damage tables give the results: ships can suffer damage to engines, hull or armament. Air attacks are resolved in similar fashion. The combat systems yield results rapidly but in a historically accurate fashion, giving a good balance of fun and insight.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="76" value="No necessary in-game text" numvotes="0"/>
+        <result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="80" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="45" value="Second World War at Sea"/>
+    <link type="boardgameexpansion" id="76462" value="Second World War at Sea: Combined Fleet"/>
+    <link type="boardgameexpansion" id="233605" value="Second World War at Sea: Dragon Boat Festival 2017"/>
+    <link type="boardgameexpansion" id="227340" value="Second World War at Sea: FDR's Lost Ships of 1937"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgameartist" id="37032" value="Beth Donahue"/>
+    <link type="boardgameartist" id="37033" value="Susan Robinson"/>
+    <link type="boardgameartist" id="17446" value="Christopher West"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="69"/>
+        <average value="7.0013"/>
+        <bayesaverage value="5.57005"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7777" bayesaverage="5.57005"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1354" bayesaverage="5.90732"/>
+        </ranks>
+        <stddev value="1.51267"/>
+        <median value="0"/>
+        <owned value="366"/>
+        <trading value="9"/>
+        <wanting value="13"/>
+        <wishing value="49"/>
+        <numcomments value="32"/>
+        <numweights value="13"/>
+        <averageweight value="3.0769"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

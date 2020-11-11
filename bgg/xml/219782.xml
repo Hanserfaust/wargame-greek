@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="219782">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/80TiTfp3U3LoEugd9rSbu8awxDw=/fit-in/200x150/pic3529694.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/dDPStIExifjpGQLfgWT_YM5gL_o=/0x0/pic3529694.jpg</image>
+    <name type="primary" sortindex="1" value="Hold the Line: The French &amp; Indian War"/>
+    <description>Include 75+ plastic miniatures with French, American Ranger, and Indians joining the fighting associated with the Hold the Line, The American Revolution game. This expansion comes with 12 new scenarios and new tiles specifically designed for the game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="120"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamefamily" id="21079" value="French and Indian War"/>
+    <link type="boardgamefamily" id="17619" value="Hold the Line"/>
+    <link type="boardgameexpansion" id="37900" value="Hold the Line: French and Indian War Expansion Set"/>
+    <link type="boardgameexpansion" id="198630" value="Hold the Line: The American Revolution" inbound="true"/>
+    <link type="boardgamepublisher" id="29198" value="PSC Games"/>
+    <link type="boardgamepublisher" id="26659" value="Worthington Publishing, LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="20"/>
+        <average value="8.295"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29053"/>
+        <median value="0"/>
+        <owned value="126"/>
+        <trading value="7"/>
+        <wanting value="5"/>
+        <wishing value="17"/>
+        <numcomments value="9"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

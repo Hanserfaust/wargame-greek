@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="158885">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/8cWI6OVwPAwL86hwl-ABVFXvsnU=/fit-in/200x150/pic2011575.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-yqoT4Aoy2K-GATvuYhWKu5CRuQ=/0x0/pic2011575.png</image>
+    <name type="primary" sortindex="1" value="Mollwitz 1741"/>
+    <description>INTRODUCTION&amp;#10;Mollwitz 1741 was fought on April 10, 1741 between Prussia and Austria in the War of the Austrian Succession. This game uses the Stand and Deliver Standard Series Rules for tactical warfare from about 1700 to 1799. The Standard Series Rules provide beginning and advanced players with the feel of linear combat of the time while being designed for easy play.&amp;#10;&amp;#10;THE GAME MAP&amp;#10;The 22&amp;rdquo; x 17&amp;rdquo; inch game map represents the general area where the battle was fought around the small Polish village of Mollwitz. Each hex is about 180 yards across. The map is mostly white as there had been a heavy, late snow in April that year.&amp;#10;&amp;#10;COUNTERS AND MARKERS&amp;#10;There are three general types of combat units: foot (infantry and grenadiers); mounted (cavalry and cuirassiers); and artillery. In addition, there are commander units.&amp;#10;&amp;#10;HOW TO WIN&amp;#10;Frederick II and his army were caught behind enemy lines with a large Austrian force lying between him and the rest of his kingdom to the north with his supply and communication lines cut off. The Prussian player wins the game if at the end of the game any Mollwitz Town hex is occupied by Prussian ordered foot units. The Austrian player wins immediately if Frederick II is killed. The Austrian player wins if at the end of the game the Prussian player does not capture at least one Mollwitz hex and at least 6 ordered Austrian infantry units remain on the field. Either side wins if the other should rout. Anything else is a draw.&amp;#10;&amp;#10;SEQUENCE OF PLAY&amp;#10;There are ten game turns. Each game turn consists of the following phases performed in the sequence shown:&amp;#10;&amp;#10;A. Roll for Turn Initiative&amp;#10;Both players roll one six-sided die (1D6). The player who rolls the higher result is the First Player. In the event of a tie, roll again.&amp;#10;B. First Player Phases&amp;#10; a. Ranged Artillery Fire&amp;#10; b. Movement&amp;#10; c. Combat&amp;#10; d. Rally&amp;#10;C. Repeat Above Phases for the Second Player&amp;#10;D. Both Sides Check for Rout; Advance Turn Marker&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="2725" value="Pike and Shot"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="75769" value="Jeff Berry (II)"/>
+    <link type="boardgamedesigner" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgameartist" id="26507" value="José Ramón Faura"/>
+    <link type="boardgameartist" id="73137" value="Antonio Pinar"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

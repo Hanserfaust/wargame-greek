@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="15602">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/D-o0Phu8aT8ETIseEE5a6pmNBUQ=/fit-in/200x150/pic64892.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/AlmFViTq7VAE_aeOJ4uhemGsA1c=/0x0/pic64892.jpg</image>
+    <name type="primary" sortindex="1" value="Armageddon"/>
+    <name type="alternate" sortindex="1" value="神々の戦い"/>
+    <description>This is a Japanese fantasy game published by Epoch and its about different pantheons of gods fighting it out for control of the Earth.&amp;#10;&amp;#10;Its a 3-6 player territorial conquer type game. There are 150 cards as well to probably make it too much a hassle for me to translate anytime soon. Each player plays a god, and your power increases throughout the game (of course, the other gods' power to destroy your armies increases as well).&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="3"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamefamily" id="10794" value="World War Game series"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1392" value="Epoch"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7.075"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.075"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

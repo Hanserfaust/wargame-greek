@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6046">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/09l8OHNWsQStNV3HjLyoC51zqWk=/fit-in/200x150/pic27314.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qJx7MpQilOrOc8r3iWzd6GikCzM=/0x0/pic27314.jpg</image>
+    <name type="primary" sortindex="1" value="Gettysburg: Lee's Greatest Gamble"/>
+    <description>This game is a simulation of the battle which took place between Lee's Army of Northern Virginia and Meade's Army of the Potomac at Gettysburg, Pennsylvania during the first four days of July 1863.  &amp;#10;Included in the game are a 22 x 34&amp;quot; mapsheet, 200 counters, and 18 pages of rules.&amp;#10;&amp;#10;To win the game, the Confederate player must inflict heavy casualties on the Union army and/or move his own train off the map to the southwest.  The Union player must resist the Confederates drive while inflicting heavy losses on the Confederates.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="14835" value="Country: USA"/>
+    <link type="boardgamefamily" id="21633" value="Magazine: Command"/>
+    <link type="boardgameexpansion" id="42909" value="Age of Rifles"/>
+    <link type="boardgamedesigner" id="1718" value="Chris Perello"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="116"/>
+        <average value="6.65"/>
+        <bayesaverage value="5.58565"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7072" bayesaverage="5.58565"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1251" bayesaverage="5.94362"/>
+        </ranks>
+        <stddev value="1.45398"/>
+        <median value="0"/>
+        <owned value="496"/>
+        <trading value="12"/>
+        <wanting value="10"/>
+        <wishing value="18"/>
+        <numcomments value="84"/>
+        <numweights value="23"/>
+        <averageweight value="2.7826"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

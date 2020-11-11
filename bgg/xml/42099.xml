@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="42099">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZqzSEDY7sYAsh4tYMKtm-2KYlzU=/fit-in/200x150/pic467886.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/V6ZtS8-Ihuk2bfxQHio277SIurQ=/0x0/pic467886.jpg</image>
+    <name type="primary" sortindex="1" value="Rommel's Nightmare"/>
+    <description>The Allied Counterattack at Arras, May, 1940&amp;#10;&amp;#10;The attack by British and French armor sent shock waves down the German High Command as their vaunted SS troops fled when their antitank guns failed to penetrate the British tank armor of the Matildas. Rommel&amp;rsquo;s panzers were no more effective and it was only when Rommel ordered his 88mm AA guns to be used at antitank weapons was the British attack halted. However, the British two tank battalions and two infantry battalions, along with several French tank companies proved quite dangerous for several hours as nothing seemed to halt them. Rommel, himself, lost his cool and told his superiors he was under attack by division. The British armor continue to advance as shells bounced off their thick armor and it was in a desperation that Rommel ordered his four 88mm AA guns to level their barrels and fire in anti-tank mode. By the time this had occurred, the damage was done and the German High Command instructed its panzer spearhead to halt.&amp;#10;&amp;#10;Each turn is 30-45 min. Units are mostly company size. Each hex is 400-500 yards. Each game has 11x17&amp;quot; map and has 280 counters. Rules cover historical and non-historical scenarios, use of Stukas, morale, armor strengths, leaders, random events, tactical advantages and more!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgamepublisher" id="4366" value="Firefight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.3"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4.3"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

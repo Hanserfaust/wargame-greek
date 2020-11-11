@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="55829">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/saMLPkBiUijFcLkO7bFo3VxDf_E=/fit-in/200x150/pic659980.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iaegdlPFUVDkWNQyVZvXg6ibfhY=/0x0/pic659980.jpg</image>
+    <name type="primary" sortindex="1" value="Axis &amp; Allies Pacific 1940"/>
+    <name type="alternate" sortindex="1" value="Axis &amp; Allies Pacific:  1940 Edition"/>
+    <name type="alternate" sortindex="1" value="Axis &amp; Allies: Pacific 1940 Second Edition"/>
+    <description>Axis &amp;amp; Allies celebrates 25 years of strategy war gaming with a deluxe edition of its original theater-level game. Axis &amp;amp; Allies Pacific 1940, designed and developed by Larry Harris, utilizes the updated rules established in A&amp;amp;A Anniversary Edition. Two new combat units debut in this game, Tactical Bombers and Mechanized Infantry. Australia and New Zealand, joined together as the ANZAC forces, represent a new playable ally. China fields more forces than ever before, but will need help from their allies -- the United States and England -- to withstand the might of expansionist Imperial Japan.&amp;#10;&amp;#10;Axis &amp;amp; Allies Pacific 1940 features an oversized board that measures 35 inches wide by 32 inches high (89 x 81 cm). With over 450 pieces, deluxe game components and local storage boxes, this game raises the standard established by A&amp;amp;A Anniversary Edition. All new rules for neutral nations, naval &amp;amp; air bases, kamikaze attacks and convoy disruption add even more depth and historical accuracy to this giant game.&amp;#10;&amp;#10;Finally, this deluxe theater-level game is designed to join together with Axis &amp; Allies Europe 1940 to create the greatest Axis &amp;amp; Allies experience to date! When joined, these boards will measure 5 feet wide by 32 inches high (178 x 81 cm). Both games have been designed to play alone or together to offer a 2-6 player global 1940 scenario, complete with separate set up and national objectives.&amp;#10;&amp;#10;Integrates with:&amp;#10;&amp;#10;    Axis &amp; Allies Europe 1940&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="27"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="22"/>
+        <result value="Recommended" numvotes="15"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="20"/>
+        <result value="Recommended" numvotes="15"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="20"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="25"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="3"/>
+        <result value="12" numvotes="5"/>
+        <result value="14" numvotes="5"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="16">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="5"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="9470" value="Asian Theme"/>
+    <link type="boardgamefamily" id="34" value="Axis &amp; Allies"/>
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures"/>
+    <link type="boardgameintegration" id="61692" value="Axis &amp; Allies Europe 1940"/>
+    <link type="boardgamedesigner" id="575" value="Larry Harris, Jr."/>
+    <link type="boardgameartist" id="28510" value="Blake Beasley"/>
+    <link type="boardgamepublisher" id="4871" value="Avalon Hill Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1456"/>
+        <average value="7.49087"/>
+        <bayesaverage value="6.42234"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1078" bayesaverage="6.42234"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="137" bayesaverage="7.03087"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="258" bayesaverage="6.54743"/>
+        </ranks>
+        <stddev value="1.65025"/>
+        <median value="0"/>
+        <owned value="3189"/>
+        <trading value="71"/>
+        <wanting value="62"/>
+        <wishing value="357"/>
+        <numcomments value="328"/>
+        <numweights value="101"/>
+        <averageweight value="3.4851"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

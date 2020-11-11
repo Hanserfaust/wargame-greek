@@ -1,0 +1,50 @@
+{% extends "wgg_base.html" %}
+{% load staticfiles %}
+
+{% block extra_head_scripts %}
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+{% endblock %}
+
+{% block tab_content %}
+    <script>
+        $(document).ready(function() {
+            $('#games_table').DataTable();
+        } );
+    </script>
+
+    <table class="display" id="games_table" data-page-length='100'>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Title</th>
+                <th>Published year</th>
+                <th>Categories</th>
+                <th>Designers</th>
+                <th>Publishers</th>
+                <th>Rating</th>
+                <th>Votes</th>
+                <th>Weigth</th>
+                <th>BGG Link</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        {% for game in games %}
+            <tr>
+                <th><img src="{{ game.thumbnail }}" style='height="60"; max-width:40'></th>
+                <td>{{ game.name }}</td>
+                <td>{{ game.yearpublished }}</td>
+                <td>{{ game.categories }}</td>
+                <td>{{ game.designers }}</td>
+                <td>{{ game.publishers }}</td>
+                <td>{{ game.ratings_average|floatformat:"-2" }}</td>
+                <td>{{ game.ratings_usersrated }}</td>
+                <td>{{ game.ratings_averageweight|floatformat:"-2" }}</td>
+                <td><a href="https://boardgamegeek.com/boardgame/{{ game.bgg_id }}/" target="_blank">[BGG]</a></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+{%  endblock %}

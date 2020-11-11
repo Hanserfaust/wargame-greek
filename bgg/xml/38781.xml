@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="38781">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/C8A3c1np7xqAEvpDjePN_YXpTrg=/fit-in/200x150/pic414157.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_V2ueikQOxxLkHZ14EcayTheyS8=/0x0/pic414157.jpg</image>
+    <name type="primary" sortindex="1" value="Macho Women with Guns"/>
+    <name type="alternate" sortindex="1" value="Maschiacce Armate Pesantemente"/>
+    <description>Macho Women with Guns is a humorous tactical miniatures game with some RPG elements tacked on for good measure. Players take on the roles of heavily armed women battling everything from Drunken Frat Boys to Bthulhu and more. One player controls the monsters and NPCs while the rest play the women. Characters are created with a point based system governing the stats of Strength, Dexterity, Macho, Looks, and Health. (There is no Intelligence score), as well as various skills like &amp;quot;Run in High Heels&amp;quot; and &amp;quot;Hit Things With Things&amp;quot;...&amp;#10;Combat and skill use is based on a 3d6 roll system combined with double-sided cut-out paper miniatures (cardboard bimbos), and hex boards supplied with the game. Gameplay is quick, easy to learn, and often very absurd.&amp;#10;&amp;#10;The game has gone through 3 editions and several expansions.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Renegade Nuns on Wheels&amp;#10;    Batwinged Bimbos from Hell&amp;#10;    Macho Women with Guns: The Final Chapter (part one)&amp;#10;    More Excuses to Kill Things&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="2"/>
+    <maxplayers value="10"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="9">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="10">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="10+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1079" value="Humor"/>
+    <link type="boardgamecategory" id="1118" value="Mature / Adult"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgameexpansion" id="39412" value="Batwinged Bimbos from Hell"/>
+    <link type="boardgameexpansion" id="39413" value="Macho Women with Guns: The Final Chapter (part one)"/>
+    <link type="boardgameexpansion" id="39414" value="More Excuses to Kill Things"/>
+    <link type="boardgameexpansion" id="39411" value="Renegade Nuns on Wheels"/>
+    <link type="boardgamedesigner" id="105" value="Greg Porter"/>
+    <link type="boardgameartist" id="13343" value="Liz Danforth"/>
+    <link type="boardgameartist" id="78128" value="Romeo Gallo"/>
+    <link type="boardgameartist" id="13335" value="Darrell Midgette"/>
+    <link type="boardgameartist" id="78127" value="Giuseppe Palumbo"/>
+    <link type="boardgameartist" id="403" value="Dan Smith"/>
+    <link type="boardgamepublisher" id="69" value="Blacksburg Tactical Research Center"/>
+    <link type="boardgamepublisher" id="504" value="Nexus Editrice"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="5.54063"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.8716"/>
+        <median value="0"/>
+        <owned value="65"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="6"/>
+        <numcomments value="11"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

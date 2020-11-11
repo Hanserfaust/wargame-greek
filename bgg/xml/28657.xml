@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="28657">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tv_4FcHnd00sThG97-DsVE68fuw=/fit-in/200x150/pic195550.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nZDeIk0zSxtKlgDT7jvOm3MswTw=/0x0/pic195550.jpg</image>
+    <name type="primary" sortindex="1" value="Sensuikan: Eastern Solomons Sept 1942"/>
+    <description>Japanese Submarine Offensive in the Eastern Solomons September 1942.&amp;#10;&amp;#10;Sensuikan is a simple strategic simulation of the attempt of the Japanese Sixth Submarine Fleet to prey the U.S. carrier groups engaged, during the opening days of September 1942, in covering important convoys carrying reinforcements and supplies to Guadalcanal.&amp;#10;&amp;#10;Sensuikan is a solitaire game in which a single Player controls both the opposing forces. The Player will command the Japanese submarine force by playing the role of Vice Adm. Komatsu Teruhisa , who, between August and September 1942, prepared and ordered the I-boats offensive from his headquarters in Truk. By contrast, the Allied escort groups will operate in accordance with a strictly defined set of rules. The specific game scenario will allow the Player to simulate the crucial moments which led on 15th September to sink the carrier U.S.S. Wasp and to hit some units of another carrier group built around the U.S.S. Hornet. As a consequence, the Player will be able to understand the logic of a submarine force whose potential was underestimated even by the High Japanese Command, and perceive the tension of Japanese sub-commanders in their ultimate search for high estimated preys, personal glory and, most of all, respect.&amp;#10;    Specific rules for random events, like intelligence resources or air raids, will add to the realism of the game. Concurrently, these elements will also offer the opportunity to examine through a different perspective, limits and contradictions to the Imperial Japanese Navy management of its &amp;lsquo;silent service&amp;rsquo; during one of the most intense (and largely unknown) phases of submarine warfare of the entire War in the Pacific.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="13255" value="Country: Solomon Islands"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="8506" value="Alessio Patalano"/>
+    <link type="boardgamepublisher" id="6691" value="King’s College"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.25"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="3"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

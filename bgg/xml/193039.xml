@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="193039">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7R2xEMXXhfw18aGXBQU4NMuCkf8=/fit-in/200x150/pic2939909.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kGgmMwRq8p_k8NjcctdHAkpnIGg=/0x0/pic2939909.jpg</image>
+    <name type="primary" sortindex="1" value="WO Bonus Pack #7: ASL Scenario Bonus Pack for Winter Offensive 2016"/>
+    <description>ASL Winter Offensive 2016 Bonus Pack features three new scenario designs (two by Bill Sisler and one by Ken Dunn) and two new geomorphic mapboards (74 and 75), also designed by Bill.&amp;#10;&amp;#10;MMP has an ulterior motive, however, for the manufacture and sale of this particular product. Proceeds from the sales of each WO Bonus Pack 2016 are donated to the WWII Foundation. You get a nice set of new maps, three more ASL scenarios, and help a great project dedicated to memorializing the efforts of the men who fought in WWII get a very nice donation. This really seems like a win/win in our opinion.&amp;#10;&amp;#10;ASL Winter Offensive 2016 Bonus Pack contains:&amp;#10;&amp;#10;2 ASL/ASLSK geomorphic mapboards (74, 75)&amp;#10;3 new ASL scenarios (WO18-WO20)&amp;#10;Scenarios:&amp;#10;&amp;#10;WO18 - A Quick Strike - 6-1/2 turns, boards 74 and 75, 10 July 1943, Munda Airfield, New Georgia&amp;#10;WO19 - Through The Dragon's Teeth - 6-1/2 turns, boards 38, 62, and 74, 10 July 1943, Enogai, New Georgia&amp;#10;WO20 - Sealing Their Fate - 6 turns, boards 72 and 75, 15 February 1945, Konitz, Poland&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="19918" value="Bill Sisler"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="22"/>
+        <average value="8.22727"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.80735"/>
+        <median value="0"/>
+        <owned value="332"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="8"/>
+        <numcomments value="14"/>
+        <numweights value="1"/>
+        <averageweight value="5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

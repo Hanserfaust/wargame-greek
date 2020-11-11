@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="64701">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OVolfXvRCJF5g5abexO60FDB20k=/fit-in/200x150/pic772198.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/93daKpjC3ByizrRahPcQ0iYH-Aw=/0x0/pic772198.jpg</image>
+    <name type="primary" sortindex="1" value="Body Count: Five Battles in Vietnam 1965–1969"/>
+    <description>Body Count is a new Tactical Combat Series game that covers five actions in Vietnam starting with the earliest actions of the US (Operation Starlite and LZ X-Ray) through air cavalry actions (Operation Pegagus), Vietnamization (Duc Lap) and finally assaults on fortified areas (Hamburger Hill).&amp;#10;&amp;#10;5 maps (small) + 5 area movement maps&amp;#10;720 counters&amp;#10;20 scenarios&amp;#10;&amp;#10;Unit size: single vehicles, weapons sections, infantry platoons&amp;#10;Hex scale: 125 yards&amp;#10;Turn: 20 minutes&amp;#10;&amp;#10;Special rules:&amp;#10;Napalm&amp;#10;Flare Ships&amp;#10;FACs&amp;#10;Broken Arrow&amp;#10;Helicopter transport&amp;#10;Helicopter gunships&amp;#10;Tunnel complexes&amp;#10;RPGs&amp;#10;Claymores&amp;#10;NVA/VC concealment&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10618" value="Country: Vietnam"/>
+    <link type="boardgamefamily" id="122" value="Tactical Combat Series"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgamedesigner" id="1730" value="Lee Forester"/>
+    <link type="boardgamedesigner" id="1681" value="Dave Friedrichs"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="772" value="(Unpublished)"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="0"/>
+        <trading value="0"/>
+        <wanting value="8"/>
+        <wishing value="32"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="60815">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7bgz9RCYXlqREIrJTJtqwUjPSLQ=/fit-in/200x150/pic4472317.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/PgC1OD6G6d1hXmhMMUie9A-orQ8=/0x0/pic4472317.jpg</image>
+    <name type="primary" sortindex="1" value="Black Powder"/>
+    <name type="alternate" sortindex="1" value="Black Powder Second Edition"/>
+    <description>Miniature Wargame rules for the era of horse and musket 1700-1900.&amp;#10;&amp;#10;If you can think of nothing finer than taking to the field of battle to refight great battles such as Quatre Bras, Bunker Hill, Rourke&amp;rsquo;s Drift, Blenheim, Gettysburg, and more, you&amp;rsquo;ll be needing a copy of Black Powder.&amp;#10;&amp;#10;Black Powder is very much a game for gentlemen gamers. Gamers who cherish the finer things in life such as wonderfully painted armies, fighting over luxurious terrain and doing so in the company of friends. No need for the use of protractors to wheel a unit. Arguments over whether a charge is 2mm out of range are not something you&amp;rsquo;ll need to worry about. In essence it&amp;rsquo;s a very relaxing game that can produce stunning conflicts - conflicts that can see one side appear doomed only for them to pull victory from the icy grasp of Mistress Defeat!&amp;#10;&amp;#10;The book itself is glorious. Hardback covers binding 184 full-colour pages filled with atmospheric anecdotes and the most sumptuous photographs of model soldiers you will have seen. It&amp;rsquo;s every wargamer&amp;rsquo;s dream!&amp;#10;&amp;#10;The 2nd Edition was published in August 2018.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="2"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1075" value="American Revolutionary War"/>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="21079" value="French and Indian War"/>
+    <link type="boardgameexpansion" id="135939" value="Albion Triumphant Vol 1: The Peninsular Campaign"/>
+    <link type="boardgameexpansion" id="145417" value="Albion Triumphant Vol. 2: The Hundred Days Campaign"/>
+    <link type="boardgameexpansion" id="259059" value="Black Powder: A Clash of Eagles"/>
+    <link type="boardgameexpansion" id="107802" value="The Last Argument of Kings"/>
+    <link type="boardgameexpansion" id="167950" value="Rebellion!"/>
+    <link type="boardgameexpansion" id="167949" value="Zulu!"/>
+    <link type="boardgameintegration" id="204594" value="Black Powder: Waterloo"/>
+    <link type="boardgamedesigner" id="712" value="Jervis Johnson"/>
+    <link type="boardgamedesigner" id="39" value="Rick Priestley"/>
+    <link type="boardgamedesigner" id="5319" value="John Stallard"/>
+    <link type="boardgameartist" id="11802" value="Peter Dennis"/>
+    <link type="boardgameartist" id="4491" value="Daniel Faulconbridge"/>
+    <link type="boardgameartist" id="2766" value="Alan Perry"/>
+    <link type="boardgameartist" id="6702" value="Michael Perry"/>
+    <link type="boardgamepublisher" id="11335" value="Warlord Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="121"/>
+        <average value="7.36116"/>
+        <bayesaverage value="5.65493"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5102" bayesaverage="5.65493"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="704" bayesaverage="6.23652"/>
+        </ranks>
+        <stddev value="1.42553"/>
+        <median value="0"/>
+        <owned value="299"/>
+        <trading value="2"/>
+        <wanting value="5"/>
+        <wishing value="22"/>
+        <numcomments value="45"/>
+        <numweights value="13"/>
+        <averageweight value="2.6923"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7192">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/doHOfD8bXvu2U8T0yflIN_78-6o=/fit-in/200x150/pic41356.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/MUMgipwQgyxldZP_EIVqeCu1hXQ=/0x0/pic41356.jpg</image>
+    <name type="primary" sortindex="1" value="Foreign Legion: Macta"/>
+    <description>Over five hundred men had died at the twin battles of Moulay Ishmael and Macta, most of them legionaires. It was a small battle by Napoleonic standards, less than eight thousand men engaged, but this was 1836, and the fate of the column received world wide attention . . . Although a complete game in itself, Macta contains optional rules which will allow the players to combine it with Moulay Ishmael.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="2482" value="John Lewis (I)"/>
+    <link type="boardgamedesigner" id="2483" value="Daryl A. Shirley"/>
+    <link type="boardgamepublisher" id="1625" value="Bearhug Publications"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.5"/>
+        <median value="0"/>
+        <owned value="13"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="5"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

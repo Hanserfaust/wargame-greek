@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="83486">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/xeafLHtGIH0JWE-BgWR_RlyDTzw=/fit-in/200x150/pic823778.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Prg_8SC5uZ93hkfXiB8_uCEEOLs=/0x0/pic823778.jpg</image>
+    <name type="primary" sortindex="1" value="Kursk Campaign"/>
+    <description>Kursk Campaign, a computer game of Operation Zitadelle, summer 1943.&amp;#10;&amp;#10;Kursk Campaign is a command oriented study of the battle, the greatest tank confrontation in history. The Axis player must cut into the bulging Soviet line and destroy any trapped Red forces. The Soviet player must brunt the attack with defense in depth and attrite the Axis into defeat. The game includes 2 sets of playing pieces and simulation maps for both players. The computer will act as a player for either side. Scenarios include both early and late Axis offensive start dates.&amp;#10;&amp;#10;Design by Stephen St. John, development by S. Newberg and art by J. Kula. Disk for Apple II or IBM PC systems.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="1699" value="Stephen Newberg"/>
+    <link type="boardgameartist" id="4361" value="John Kula"/>
+    <link type="boardgamepublisher" id="988" value="Simulations Canada"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4.5"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

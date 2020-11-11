@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3249">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/LmCQvKQXeK34ez_dZH_CU-2QlI0=/fit-in/200x150/pic1642843.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/75pJH_ktDjP3DVnh2re5B7_kgzI=/0x0/pic1642843.jpg</image>
+    <name type="primary" sortindex="1" value="Rescue from the Hive"/>
+    <name type="alternate" sortindex="1" value="W Imieniu Ziemi"/>
+    <description>Ares Magazine #7.   Rescue from the Hive simulates a Space Marine task force attempting to rescue a Human ambassador and family. Action takes place aboard a space ship, using forces selected by each player from a larger pool.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1981"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2676" value="Grid Movement"/>
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamefamily" id="6210" value="Magazine: Ares"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="1339" value="Nick Karp"/>
+    <link type="boardgameartist" id="24284" value="John W. Pierard"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="5018" value="Encore (for boardgames)"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="143"/>
+        <average value="5.71608"/>
+        <bayesaverage value="5.51344"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12919" bayesaverage="5.51344"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2555" bayesaverage="5.56997"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="953" bayesaverage="5.52107"/>
+        </ranks>
+        <stddev value="1.48976"/>
+        <median value="0"/>
+        <owned value="570"/>
+        <trading value="24"/>
+        <wanting value="10"/>
+        <wishing value="36"/>
+        <numcomments value="70"/>
+        <numweights value="13"/>
+        <averageweight value="2.4615"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

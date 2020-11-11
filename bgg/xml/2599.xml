@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2599">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qrblSBFHY-b5oLDm2TmDYLYmRZg=/fit-in/200x150/pic254274.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jGgo3cabf0u2MfIx3aV9JTAEKTc=/0x0/pic254274.jpg</image>
+    <name type="primary" sortindex="1" value="Valkenburg Castle"/>
+    <description>Valkenburg Castle is a fantasy game of adventure and combat in the depth of an ancient dungeon.  It was one of the Task Force Games Pocket Games.&amp;#10;&amp;#10;Players may use heroic leaders, fighting men, clever burglars and mysterious magic users to explore and eventually capture the castle from evil orcs, trolls, banshee and drogs.  It includes 5 scenarios and a campaign. &amp;#10;There are different victory conditions such as slay the dragon, find the secret treasure, raid, etc. or there is also a campaign game where Lord Hobart starts with a fixed amount of money and has to use it wisely to finance his long term assault on the castle for total takeover. He has to use the loot recovered from the castle to maintain his small force and keep up the pressure on the monsters during a protracted campaign with repeated sieges of the castle.&amp;#10;Comes with 16x20 map sheet depicting the five floors of the castle, 54 die-cut counters, and a 26-page rulebook with color cover.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="1"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2676" value="Grid Movement"/>
+    <link type="boardgamefamily" id="21630" value="Task Force Games: Pocket Games series"/>
+    <link type="boardgamedesigner" id="675" value="Stephen V. Cole"/>
+    <link type="boardgameartist" id="13288" value="Alvin Belflower"/>
+    <link type="boardgameartist" id="1247" value="R. Vance Buck"/>
+    <link type="boardgameartist" id="1498" value="Allen D. Eldridge"/>
+    <link type="boardgamepublisher" id="352" value="Task Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="92"/>
+        <average value="5.91902"/>
+        <bayesaverage value="5.51704"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12520" bayesaverage="5.51704"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2530" bayesaverage="5.57769"/>
+        </ranks>
+        <stddev value="1.38324"/>
+        <median value="0"/>
+        <owned value="393"/>
+        <trading value="38"/>
+        <wanting value="8"/>
+        <wishing value="37"/>
+        <numcomments value="65"/>
+        <numweights value="10"/>
+        <averageweight value="1.9"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

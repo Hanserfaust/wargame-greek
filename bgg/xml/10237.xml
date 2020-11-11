@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10237">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/UsZ9uTB9eQegGcnSavM-SKlY4fY=/fit-in/200x150/pic80664.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/PdN7TFAobTPXXjg0xqHlqXnygu0=/0x0/pic80664.jpg</image>
+    <name type="primary" sortindex="1" value="Clash of Steel: Battleship Engagements of WWII"/>
+    <description>First version's capital ships represented by double size counter, and Lite(second) by single size counter.&amp;#10;&amp;#10;(from the rules:)&amp;#10;&amp;#10;&amp;quot;Clash of Steel is a two-player game of surface naval warfare in the period 1939-1945.  Engagements emphasize the role of the battleship in surface actions.  Historical and hypothetical battles set in the Atlantic, Mediterranean, and Pacific are presented.  All the essential elements of gunnery, torpedoes, maneuvers, and damage control [sic].  In 'Clash of Steel' each player is cast in the role of an admiral commanding a fleet of ships.&amp;quot;&amp;#10;&amp;#10;Twelve scenarios are included, such as sinking the Bismarck, the destruction of the French fleet at Mers-el-Kebir, Calabria, and many others.  Rules are in Japanese; English rules are available and typically provided with the game.  Other components, such as the counters, are in English.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1996"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1856" value="Michael Scott Smith"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.32857"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.0236"/>
+        <median value="0"/>
+        <owned value="19"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="3"/>
+        <numweights value="5"/>
+        <averageweight value="2.4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

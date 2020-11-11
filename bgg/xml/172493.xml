@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="172493">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/wXZUprnek_hrU-1aluc9FGK_hhI=/fit-in/200x150/pic2392591.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/c-YGkyXCgZ1dFyKN0QbjsLGL5yI=/0x0/pic2392591.jpg</image>
+    <name type="primary" sortindex="1" value="Tannenberg: The Introductory Game"/>
+    <description>Tannenberg: The Introductory Game is a perfect game for learning basic wargaming concepts. The game uses the same basic rules used in an entire series on the battles and campaigns of the World Wars. Learning this simple game prepares you for playing games on almost every battle and every campaign of the Der Weltkrieg series.&amp;#10;&amp;#10;The Historical Background&amp;#10;Tannenberg &amp;ndash; The Introductory Game covers the Russian invasion of German East Prussia in 1914, and the subsequent German counter thrusts.&amp;#10;&amp;#10;The Russians plan to invade Germany from two directions at once, trapping the Germans in the middle. The Russians vastly outnumbered their foes, as the bulk of the German army is invading France at the onset of war. The Germans plan to conduct a fighting withdraw from East Prussia, but their commanding General panics.&amp;#10;&amp;#10;It&amp;rsquo;s up to you to determine the outcome. Will your decisions produce Victory or Defeat?&amp;#10;&amp;#10;The Tannenberg battle in this game is a smaller version of the Tannenberg battle in the 2-scenario box Tannenberg: Eagles in the East / Galicia: The Forgotten Cauldron and the 6-scenario box The Eastern Front: 1914-1917. (The larger versions can be combined into larger scenarios or campaigns.)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="111" value="Der Weltkrieg Series"/>
+    <link type="boardgameimplementation" id="7750" value="Tannenberg: Eagles in the East / Galicia: The Forgotten Cauldron" inbound="true"/>
+    <link type="boardgamedesigner" id="2702" value="David Schroeder"/>
+    <link type="boardgamepublisher" id="1814" value="SPW (Schroeder Publishing &amp; Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="25"/>
+        <average value="7.52"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.4176"/>
+        <median value="0"/>
+        <owned value="160"/>
+        <trading value="4"/>
+        <wanting value="8"/>
+        <wishing value="28"/>
+        <numcomments value="25"/>
+        <numweights value="5"/>
+        <averageweight value="2.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

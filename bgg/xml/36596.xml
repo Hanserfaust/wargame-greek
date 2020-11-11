@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36596">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KyYgecYwnRs_xxVEUHyZlIATkr0=/fit-in/200x150/pic335082.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tjoPYTxWDghe0DfVqrIzGh4J6oM=/0x0/pic335082.jpg</image>
+    <name type="primary" sortindex="1" value="Ancient Battles Deluxe"/>
+    <description>With grim-faced determination and sharpened sword, lead your troops through the greatest battles of history using the simple maneuver and combat mechanics that allow you engage in the decisive missile and melee combat that is Ancient Battles Deluxe.&amp;#10;&amp;#10;Here players will find more than a great game, but a complete system using standardized pieces and rules that allows hearty warriors to recreate any number of pre-gunpowder and early-gunpowder era battles in a compact playing area over a short time.&amp;#10;&amp;#10;Do you have what it takes to command an army in a desperate situation? Will your leadership be able to advance your line in good order or resist the shock of a barbarian charge? If your units falter and break, will you be able rally them once more unto the line, or will your army disintegrate into abject panic? Show us what it takes to maintain good order and cohesion amidst the chaos of battle long enough to vanquish the foe, break their spears asunder, and to stand gloriously amid the field of battle victorious!&amp;#10;&amp;#10;Time scale: Each Game Turn equals 45 minutes.&amp;#10;Unit scale: Dozens to hundreds of men, beasts and equipment.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="141" value="No necessary in-game text" numvotes="0"/>
+        <result level="142" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="143" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="144" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="145" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="14742" value="Ancient Battles Deluxe"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgameexpansion" id="42472" value="Ancient Battles Deluxe  Expansion Kit 4: The Art of War"/>
+    <link type="boardgameexpansion" id="37563" value="Ancient Battles Deluxe Expansion Kit 1: Elephants at War"/>
+    <link type="boardgameexpansion" id="39777" value="Ancient Battles Deluxe Expansion Kit 2: Hell's Horsemen"/>
+    <link type="boardgameexpansion" id="42337" value="Ancient Battles Deluxe Expansion Kit 3: Strange Ordnance"/>
+    <link type="boardgameexpansion" id="111826" value="Ancient Battles Deluxe Expansion Kit 5.1: Way of the Samurai"/>
+    <link type="boardgameexpansion" id="89350" value="Ancient Battles Deluxe Expansion Kit 5: Design Your Own"/>
+    <link type="boardgameimplementation" id="1782" value="Ancients" inbound="true"/>
+    <link type="boardgameimplementation" id="6399" value="Ancients I" inbound="true"/>
+    <link type="boardgameimplementation" id="12211" value="Ancients II" inbound="true"/>
+    <link type="boardgamedesigner" id="2961" value="Mike Nagel"/>
+    <link type="boardgameartist" id="709" value="Alan Emrich"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="131"/>
+        <average value="7.03473"/>
+        <bayesaverage value="5.6403"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5431" bayesaverage="5.6403"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="790" bayesaverage="6.17082"/>
+        </ranks>
+        <stddev value="1.36766"/>
+        <median value="0"/>
+        <owned value="304"/>
+        <trading value="11"/>
+        <wanting value="47"/>
+        <wishing value="102"/>
+        <numcomments value="83"/>
+        <numweights value="30"/>
+        <averageweight value="1.8667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

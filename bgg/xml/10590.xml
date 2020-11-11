@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10590">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Wrm0frZtZjiFZm9_7dymE2pYxFQ=/fit-in/200x150/pic74926.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/aEIdMIoXtl61xk4Y-iSOYBmJkS0=/0x0/pic74926.jpg</image>
+    <name type="primary" sortindex="5" value="The Big One"/>
+    <description>This game is on a single 11x17&amp;quot; map (yet stretches from Portugal to the Persian Gulf) and has 120 counters.  It originally appeared in the first issue of GameFix magazine. Billed as the smallest-ever game on the whole of the Second World War in Europe, a pitch that overlooked the 1991 3W release 2WW which also featured an 11x17&amp;quot; map but  only 80 counters.&amp;#10;&amp;#10;It is now published by One Small Step, available through their website www.ossgames.com.&amp;#10;&amp;#10;A new version is available as print n' play (with included VASSAL module) at wargamevault.com.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1996"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="50153" value="Continent: Europe"/>
+    <link type="boardgamefamily" id="6208" value="Gamefix / Competitive Edge"/>
+    <link type="boardgameimplementation" id="143745" value="2WW: The War in Europe"/>
+    <link type="boardgamedesigner" id="759" value="William L. Banks"/>
+    <link type="boardgamedesigner" id="7400" value="Paul Cooper"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1229" value="Game Publications Group"/>
+    <link type="boardgamepublisher" id="992" value="One Small Step"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="30"/>
+        <average value="5.31667"/>
+        <bayesaverage value="5.49566"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14815" bayesaverage="5.49566"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2808" bayesaverage="5.46947"/>
+        </ranks>
+        <stddev value="1.68564"/>
+        <median value="0"/>
+        <owned value="149"/>
+        <trading value="6"/>
+        <wanting value="4"/>
+        <wishing value="6"/>
+        <numcomments value="27"/>
+        <numweights value="5"/>
+        <averageweight value="1.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

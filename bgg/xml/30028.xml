@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30028">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KhJXRT6wRR2lwETkhTKhmk1Y0lE=/fit-in/200x150/pic287842.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Xostg3714G4tQeVfwZ9GNNnYVZs=/0x0/pic287842.jpg</image>
+    <name type="primary" sortindex="1" value="Serbia/Galicia"/>
+    <description>Serbia/Galicia&amp;#10;Austria-Hungary at War, 1914&amp;#10;&amp;#10;Prior to the outbreak of the Great War, the Chief-of-Staff of the Hapsburg Army, Count Conrad von Hotzendorff, had declared that the Empire's forces were not strong enough to undertake simultaneous full-scale offensives in both Poland and the Balkans. Nevertheless, in the Autumn of 1914, this is what he attempted.&amp;#10;&amp;#10;Serbia/Galicia includes a dual map, which illustrates both major fronts on which the Austro-Hungarians were deployed in 1914. The Austro-Serbian border, from Belgrade to Montenegro, is shown on half the map, while the majority of Galicia, including Lemberg and the crucial Prezmysl-fortress complex, is on the other half.  On the first map area, the Austrian forces must try to make headway against the under-equipped but ferocious Serbs, while on the other, the Russians attempt to make up for the disasters in Prussia by overrunning as much of Galicia as possible.  Special rules cover Serbian supply constraints, Austrian river-monitors, and the transfer of Austrian troops.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1978"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10639" value="Country: Serbia"/>
+    <link type="boardgamefamily" id="19979" value="Great War in the East Series"/>
+    <link type="boardgamecompilation" id="8070" value="The Great War in the East"/>
+    <link type="boardgamecompilation" id="12379" value="The Great War in the East: 1914-1918 (second edition)"/>
+    <link type="boardgamedesigner" id="1598" value="J. A. Nelson"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="6.66667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.67"/>
+        <median value="0"/>
+        <owned value="70"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="18"/>
+        <numweights value="5"/>
+        <averageweight value="2.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

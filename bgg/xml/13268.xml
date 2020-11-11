@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="13268">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/QWNArgeAfMC2gjOBkZ9A1X6YTts=/fit-in/200x150/pic55117.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8AVl7vu3-Xp6vt1CID3LZIHNSww=/0x0/pic55117.jpg</image>
+    <name type="primary" sortindex="1" value="1864: Year of Decision"/>
+    <description>1864 is a boardgame simulation of the decisive campaigns that brought the American Civil War to its violent conclusion.  The game compels players to focus on the interrelationship between military operations and their political consequences.  Victory is determined by political points resulting from military successes and failures.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="1646" value="Don Alexander"/>
+    <link type="boardgamepublisher" id="962" value="Omega Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="6.575"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.51224"/>
+        <median value="0"/>
+        <owned value="63"/>
+        <trading value="4"/>
+        <wanting value="5"/>
+        <wishing value="1"/>
+        <numcomments value="11"/>
+        <numweights value="3"/>
+        <averageweight value="3.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

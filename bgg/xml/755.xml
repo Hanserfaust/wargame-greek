@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="755">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/b5uFThDF6hQ51NoL9F2nQTUnCFE=/fit-in/200x150/pic19520.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FI0Cx7VGf3DnDba7miYRaHAT3gw=/0x0/pic19520.jpg</image>
+    <name type="primary" sortindex="1" value="Thunder at Cassino"/>
+    <description>Thunder at Cassino is a mid-complexity wargame on the Third Battle of Monte Cassino during the Second World War. The game uses the area-impulse system first used in Storm over Arnhem, and to be used subsequently in Turning Point: Stalingrad and Breakout: Normandy.&amp;#10;&amp;#10;The game depicts the battle from 15 Mar 1944 to 23 Mar 1944. The Allied attackers consisted of elements of the 2nd New Zealand Corps, comprising the New Zealand 2nd Division, the Indian 4th Division and the British 78th Division. The German defenders are mainly from the elite 1st Fallschirmj&amp;auml;ger Division. The game map depicts the town of Cassino, its renowned monastery and the surrounding environs, divided into areas to facilitate movement and combat. Units are mainly infantry platoons, armor platoons depicted.&amp;#10;&amp;#10;The game comes with two introductory scenarios, a end-of-battle scenario and a campaign game featuring the entire battle. Playing time varies from 60 minutes to 360 minutes depending on scenario chosen.&amp;#10;&amp;#10;Game consists of a 22&amp;quot; by 24&amp;quot; mounted map, 478 unit counters, rules and charts.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1987"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="18538" value="Avalon Hill area-impulse series"/>
+    <link type="boardgamedesigner" id="282" value="Courtney F. Allen"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="12422" value="George I. Parrish, Jr."/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="388"/>
+        <average value="7.03841"/>
+        <bayesaverage value="5.84536"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3027" bayesaverage="5.84536"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="366" bayesaverage="6.57104"/>
+        </ranks>
+        <stddev value="1.22702"/>
+        <median value="0"/>
+        <owned value="1085"/>
+        <trading value="39"/>
+        <wanting value="51"/>
+        <wishing value="87"/>
+        <numcomments value="178"/>
+        <numweights value="51"/>
+        <averageweight value="3.1765"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

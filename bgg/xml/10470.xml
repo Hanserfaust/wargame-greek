@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10470">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/DeakVhp4rYW-Ct2QDPZSkaRMe9Q=/fit-in/200x150/pic361374.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/YITbSUL8HbPDztsQHo2w3p12jds=/0x0/pic361374.jpg</image>
+    <name type="primary" sortindex="1" value="March to Victory: West Front 1914-1916"/>
+    <description>This war to end all wars was fought in the dawn of new technology that laid waste to vast empires and their armies. Virtually all our modern weapons were first used in this war. The tactics were not. Mass attack resulted in mass destruction. During this war both sides were forced to rebuild their armies. Each new army with the air and naval forces are in this game.&amp;#10;This game features many scenarios, and the ability to play with, or without the air and naval system.&amp;#10;This game is one of 5 that will make up The Great War Series.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="1"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="10" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5623" value="The Great War Series"/>
+    <link type="boardgamedesigner" id="3096" value="A. E. Goodwin"/>
+    <link type="boardgamedesigner" id="3097" value="Eric Pierce"/>
+    <link type="boardgamepublisher" id="205" value="Games Research/Design (GR/D)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="44"/>
+        <average value="7.11932"/>
+        <bayesaverage value="5.53554"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10432" bayesaverage="5.53554"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1940" bayesaverage="5.74311"/>
+        </ranks>
+        <stddev value="1.98538"/>
+        <median value="0"/>
+        <owned value="194"/>
+        <trading value="1"/>
+        <wanting value="18"/>
+        <wishing value="22"/>
+        <numcomments value="28"/>
+        <numweights value="12"/>
+        <averageweight value="4.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8452">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/A2nG5vPy2h5VVieJvnx4l8F8Q0Q=/fit-in/200x150/pic2250760.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UY117I-6WiKtOF8kmObcXS4UHJs=/0x0/pic2250760.png</image>
+    <name type="primary" sortindex="1" value="Unconditional Surrender"/>
+    <description>Unconditional Surrender was the game in issue #36 of The Wargamer Magazine dated December 1984.&amp;#10;&amp;#10;The game simulates the Confederate counterattack on Fort Donelson after the Fort had been invested by U.S. Grant and the Union army in February 1862. The Confederate garrison actually outnumbered the Union troops 18,000 to 15,000, but Grant's judgement of his opponent's psychology served him well. The unconditional surrender of the fort on Febuary 16th, 1862, shattered the Confederate defenses in western and middle Tennessee.The equivalent of an entire corps was taken prisoner, and the Cumberland River was opened to the Union Navy. Within weeks Nashville would fall and the remaining Confederate forces would retreat into Mississippi. The victory made a national hero of it's previously unknown author, who here began his rise to command of all the Union armies - U.S. Grant. Yet the battle could have turned out much differently, and the controversy in later years over what really happened and why would be among the most intense surrounding any action of the war.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="1"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="713" value="Jon Southard"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="32"/>
+        <average value="5.34531"/>
+        <bayesaverage value="5.49255"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15067" bayesaverage="5.49255"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2833" bayesaverage="5.44783"/>
+        </ranks>
+        <stddev value="1.38538"/>
+        <median value="0"/>
+        <owned value="206"/>
+        <trading value="12"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="27"/>
+        <numweights value="6"/>
+        <averageweight value="3.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="148601">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/LfF3xzCAIVb_oW3duaZSRl2EUuI=/fit-in/200x150/pic2014460.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/CXtU6aHQyllOIkv8i1CZ-YlAcDI=/0x0/pic2014460.png</image>
+    <name type="primary" sortindex="1" value="1944: Race to the Rhine"/>
+    <name type="alternate" sortindex="1" value="1944: Carrera hacia el Rin"/>
+    <name type="alternate" sortindex="1" value="1944: Carrera hacia el Rin"/>
+    <name type="alternate" sortindex="1" value="1944: Wyścig do Renu"/>
+    <description>Not enough gas, not enough ammo or not enough time. Not enough to cross the Rhine before the enemy closes all the gaps. You need to form the bridgehead before others do. That&amp;rsquo;s the only way to Victory and your personal glory.&amp;#10;&amp;#10;1944 Race to the Rhine is a new game experience. You can&amp;rsquo;t win this game without proper planning. Your tanks need gas to move and ammo to fight. But don&amp;rsquo;t forget to feed your GIs. So what would be your transport priority?&amp;#10;&amp;#10;Will you follow General Patton&amp;rsquo;s strategy to discard ammo in order to bring additional fuel barrels along to move boldly forward? Would you risk your prestige and gamble on Market-Garden as Field Marshal Montgomery did? Would you cross the Rhine more quickly than General Bradley did, with the help of your hard work and a little luck?&amp;#10;&amp;#10;&amp;ldquo;In preparing for battle I have always found that plans are useless, but planning is indispensable&amp;rdquo; (General Dwight D. Eisenhower, Supreme Commander of the Allied Forces in Europe).&amp;#10;&amp;#10;So, how are you planning your Victory?&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="19"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="24"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="28"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="11"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="6"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="15">
+      <results>
+        <result level="236" value="No necessary in-game text" numvotes="13"/>
+        <result level="237" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="238" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="239" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="240" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1031" value="Racing"/>
+    <link type="boardgamecategory" id="1011" value="Transportation"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2081" value="Route/Network Building"/>
+    <link type="boardgamefamily" id="12226" value="Country: Belgium"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamefamily" id="10643" value="Country: Germany"/>
+    <link type="boardgamefamily" id="14837" value="Country: Luxembourg"/>
+    <link type="boardgamefamily" id="10309" value="Country: The Netherlands"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="194190" value="1944: Race to the Rhine – Red Ball Express"/>
+    <link type="boardgameexpansion" id="250402" value="Dragoon Expansion (fan expansion for 1944: Race to the Rhine)"/>
+    <link type="boardgamedesigner" id="40429" value="Jaro Andruszkiewicz"/>
+    <link type="boardgamedesigner" id="38134" value="Waldek Gumienny"/>
+    <link type="boardgameartist" id="38138" value="Piotr Słaby"/>
+    <link type="boardgamepublisher" id="36186" value="PHALANX"/>
+    <link type="boardgamepublisher" id="7186" value="ASYNCRON games"/>
+    <link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="984"/>
+        <average value="7.30142"/>
+        <bayesaverage value="6.25945"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1418" bayesaverage="6.25945"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="187" bayesaverage="6.90275"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="707" bayesaverage="6.399"/>
+        </ranks>
+        <stddev value="1.36242"/>
+        <median value="0"/>
+        <owned value="1451"/>
+        <trading value="63"/>
+        <wanting value="143"/>
+        <wishing value="476"/>
+        <numcomments value="285"/>
+        <numweights value="100"/>
+        <averageweight value="2.9"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

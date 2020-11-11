@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4343">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/U_csLsek7-Ps8FZtzuCIpwOUJ6Y=/fit-in/200x150/pic434298.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9DIzn7WiaGNuk-0xDHVQyVmp8Bg=/0x0/pic434298.jpg</image>
+    <name type="primary" sortindex="1" value="Semper Fi!"/>
+    <description>Semper Fi! - The US Marines in Korea, 1950, is game 10 in the Tactical Combat Series (TCS) by The Gamers&amp;#10;&amp;#10;It depicts four actions fought by US Marines during their first five months in Korea, focusing on their counterattacks against the North Korean 4th and 6th Divisions at the Pusan Perimeter and their later epic stand against the Chinese IX Army Group near the Chosin Reservoir in North Korea.&amp;#10;&amp;#10;Game Scale:&amp;#10;Turn: 20 minutes&amp;#10;Hex: 125 yards / 114 meters&amp;#10;Units: Infantry platoons, individual vehicles&amp;#10;&amp;#10;Game Inventory:&amp;#10;Four full-color mapsheets (1- 22 x 17&amp;quot;, 1- 11 x 17&amp;quot;, 2- 8.5 x 11&amp;quot;)&amp;#10;Three dual-side printed countersheets (2 combat, 1 markers - 700 1/2&amp;quot; counters)&amp;#10;One 28-page TCS version 3.1 system rulebook&amp;#10;One 32-page Semper Fi! game specific rulebook&amp;#10;Two 4-page TCS version 3.1 Charts &amp;amp; Tables folders&amp;#10;Three Player Aid cards&amp;#10;Two 6-sided dice&amp;#10;&amp;#10;Solitaire Playability: Medium-High&amp;#10;Complexity Level: High&amp;#10;Players: 1 or more&amp;#10;Playing Time: 6-20 hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="15"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1091" value="Korean War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10633" value="Country: Korea"/>
+    <link type="boardgamefamily" id="122" value="Tactical Combat Series"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgamedesigner" id="1730" value="Lee Forester"/>
+    <link type="boardgameartist" id="28351" value="David Pentland"/>
+    <link type="boardgamepublisher" id="219" value="The Gamers"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="82"/>
+        <average value="6.93415"/>
+        <bayesaverage value="5.56696"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7952" bayesaverage="5.56696"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1372" bayesaverage="5.90112"/>
+        </ranks>
+        <stddev value="1.48941"/>
+        <median value="0"/>
+        <owned value="332"/>
+        <trading value="17"/>
+        <wanting value="13"/>
+        <wishing value="41"/>
+        <numcomments value="40"/>
+        <numweights value="7"/>
+        <averageweight value="3.4286"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

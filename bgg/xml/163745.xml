@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="163745">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rTUeoUkqJ4T-FArQ55eiLYrbhhU=/fit-in/200x150/pic2355171.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Vk1etS8zgr3oUGVfNs0P1EnCN7M=/0x0/pic2355171.jpg</image>
+    <name type="primary" sortindex="1" value="Star Wars: Armada"/>
+    <description>Massive Star Destroyers fly to battle against Rebel corvettes and frigates. Banks of turbolasers unleash torrential volleys of fire against squadrons of X-wing and TIEs. Engineering teams race to route additional power to failing shields. Laser blasts and explosions flare across the battlefield. Even a single ship can change the tide of battle.&amp;#10;&amp;#10;In Star Wars: Armada, you assume the role of fleet admiral, serving with either the Imperial Navy or Rebel Alliance. You assemble your fleet and engage the enemy. Using the game&amp;rsquo;s unique maneuver tool, you steer your capital ships across the battlefield, even while squadrons of starfighters buzz around them. Then, as these ships exchange fire, it&amp;rsquo;s your job to issue the tactical commands that will decide the course of battle and, perhaps, the fate of the galaxy.&amp;#10;&amp;#10;Maneuver Tool&amp;#10;The maneuver tool is one of the game&amp;rsquo;s most innovative features and adds a unique feel to the way your capital ships must accommodate for inertia as they maneuver through the stars.&amp;#10;&amp;#10;It consists of a number of segments linked with hinges, which is used to plot the ship's course. More nimble ships are allowed to turn the ship further at each hinge.&amp;#10;&amp;#10;Command Stack&amp;#10;Armada balances the awesome scale of the Star Wars galaxy&amp;rsquo;s ships and space warfare with intuitive ship designs and accessible rules for issuing commands and resolving combat that make for rich, engaging, and highly tactical play experiences.&amp;#10;&amp;#10;Capital ships are extremely powerful war machines, but they&amp;rsquo;re also massive and sophisticated vessels that can&amp;rsquo;t swiftly react to every development in the heat of battle. Accordingly, the key to flying these vessels effectively is learning how to plan ahead. You want to issue your commands in such a way that your crews will be ready to execute them at just the right times.&amp;#10;&amp;#10;Each of your pre-painted capital ships has a command value, which determines how many commands it will have in its stack at any given point in time. During setup, you secretly build your initial command stack, selecting from any of four different commands, each of which provides a different advantage. Once you have locked your selections, you place the commands in your stack in the order of your choice. Then, during each round of game play, you secretly select and assign a new command to your ship, placing it at the bottom of your command stack, before you reveal the command at the top of your stack and gain its benefits.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="34"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="43"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="14"/>
+        <result value="Not Recommended" numvotes="14"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="8"/>
+        <result value="12" numvotes="5"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="16">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="0"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="9"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1044" value="Collectible Components"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures"/>
+    <link type="boardgamefamily" id="5602" value="Star Wars"/>
+    <link type="boardgamefamily" id="27615" value="Star Wars: Armada"/>
+    <link type="boardgameexpansion" id="198787" value="Star Wars: Armada –  Rebel Transports Expansion Pack"/>
+    <link type="boardgameexpansion" id="169017" value="Star Wars: Armada – Assault Frigate Mark II Expansion Pack"/>
+    <link type="boardgameexpansion" id="235604" value="Star Wars: Armada – Chimaera Expansion Pack"/>
+    <link type="boardgameexpansion" id="168928" value="Star Wars: Armada – CR90 Corellian Corvette Expansion Pack"/>
+    <link type="boardgameexpansion" id="169018" value="Star Wars: Armada – Gladiator-class Star Destroyer Expansion Pack"/>
+    <link type="boardgameexpansion" id="223356" value="Star Wars: Armada – Hammerhead Corvettes Expansion Pack"/>
+    <link type="boardgameexpansion" id="175284" value="Star Wars: Armada – Home One Expansion Pack"/>
+    <link type="boardgameexpansion" id="198786" value="Star Wars: Armada – Imperial Assault Carriers Expansion Pack"/>
+    <link type="boardgameexpansion" id="175283" value="Star Wars: Armada – Imperial Class Star Destroyer Expansion Pack"/>
+    <link type="boardgameexpansion" id="169020" value="Star Wars: Armada – Imperial Fighter Squadrons Expansion Pack"/>
+    <link type="boardgameexpansion" id="212351" value="Star Wars: Armada – Imperial Fighter Squadrons II Expansion Pack"/>
+    <link type="boardgameexpansion" id="223355" value="Star Wars: Armada – Imperial Light Carrier Expansion Pack"/>
+    <link type="boardgameexpansion" id="212318" value="Star Wars: Armada – Imperial Light Cruiser Expansion Pack"/>
+    <link type="boardgameexpansion" id="175286" value="Star Wars: Armada – Imperial Raider Expansion Pack"/>
+    <link type="boardgameexpansion" id="201038" value="Star Wars: Armada – Interdictor Expansion Pack"/>
+    <link type="boardgameexpansion" id="201039" value="Star Wars: Armada – Liberty Expansion Pack"/>
+    <link type="boardgameexpansion" id="175287" value="Star Wars: Armada – MC30c Frigate Expansion Pack"/>
+    <link type="boardgameexpansion" id="168929" value="Star Wars: Armada – Nebulon-B Frigate Expansion Pack"/>
+    <link type="boardgameexpansion" id="212317" value="Star Wars: Armada – Phoenix Home Expansion Pack"/>
+    <link type="boardgameexpansion" id="235605" value="Star Wars: Armada – Profundity Expansion Pack"/>
+    <link type="boardgameexpansion" id="169019" value="Star Wars: Armada – Rebel Fighter Squadrons Expansion Pack"/>
+    <link type="boardgameexpansion" id="212350" value="Star Wars: Armada – Rebel Fighter Squadrons II Expansion Pack"/>
+    <link type="boardgameexpansion" id="282070" value="Star Wars: Armada – Rebellion in the Rim"/>
+    <link type="boardgameexpansion" id="175285" value="Star Wars: Armada – Rogues and Villains Expansion Pack"/>
+    <link type="boardgameexpansion" id="257616" value="Star Wars: Armada – Super Star Destroyer Expansion Pack"/>
+    <link type="boardgameexpansion" id="204853" value="Star Wars: Armada – The Corellian Conflict"/>
+    <link type="boardgameexpansion" id="168927" value="Star Wars: Armada – Victory-class Star Destroyer Expansion Pack"/>
+    <link type="boardgamedesigner" id="64445" value="James Kniffen"/>
+    <link type="boardgamedesigner" id="21" value="Christian T. Petersen"/>
+    <link type="boardgameartist" id="49280" value="Ben Zweifel"/>
+    <link type="boardgamepublisher" id="17" value="Fantasy Flight Games"/>
+    <link type="boardgamepublisher" id="2973" value="Edge Entertainment"/>
+    <link type="boardgamepublisher" id="4617" value="Galakta"/>
+    <link type="boardgamepublisher" id="5530" value="Giochi Uniti"/>
+    <link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3949"/>
+        <average value="7.90143"/>
+        <bayesaverage value="7.20582"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="217" bayesaverage="7.20582"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="33" bayesaverage="7.489"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="42" bayesaverage="7.37754"/>
+        </ranks>
+        <stddev value="1.46959"/>
+        <median value="0"/>
+        <owned value="8123"/>
+        <trading value="194"/>
+        <wanting value="285"/>
+        <wishing value="1450"/>
+        <numcomments value="766"/>
+        <numweights value="189"/>
+        <averageweight value="3.1376"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="34868">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Amuj5dkeS2fJ_gv_qMYmfns8pBU=/fit-in/200x150/pic304928.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/b98vcFuJGs-MXHMTt_LfcE4Nuzg=/0x0/pic304928.jpg</image>
+    <name type="primary" sortindex="1" value="Tenka Goudatsu"/>
+    <name type="alternate" sortindex="1" value="天 下 強 奪"/>
+    <description>This game covers the Sekigahara campaign, with particular attention to castle sieges.&amp;#10;&amp;#10;The game map covers the area from Osaka to the eastern castles and the game spans from August to November, 1600. One side takes the forces of Ieyasu Tokugawa and the other the forces of the Toyotomi clan.&amp;#10;&amp;#10;It includes a A1-sized map, 140 counters and a 12-page rulebook.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="10221" value="Shigeru Hirano"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="6.83333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.849837"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="4"/>
+        <averageweight value="2.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

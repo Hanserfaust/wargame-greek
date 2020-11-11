@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9790">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/j43oKeN4egGHTa7ahE1MGXGHTtU=/fit-in/200x150/pic1666391.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/R1UWDPzaOoDVfBSynrRZfE8390E=/0x0/pic1666391.jpg</image>
+    <name type="primary" sortindex="1" value="Triumph &amp; Fall of the Desert Fox"/>
+    <description>Sub-Title:'The North African Campaign from 1940 to 1943.'&amp;#10;&amp;#10;This is meant to be an introductory game for the 'Empires of the Apocalypse Part II' games system. As is implied by its title, this covers Rommel in North Africa as well as the beginning of the 'Desert War' with just the Italians &amp;amp; British 'Western Desert Force,' and even includes a game on the 'Italian East Africa' campaign PLUS allowing the 'TORCH' operation to occur during the 'El Alamein' Scenario!&amp;#10;&amp;#10;The components consist of the following: a Ziploc storage 'Baggie;' 5-Full COLOR paper Mapsheets; a 2-page graphically illustrated Quick-Start card; a Player Aid card; 1-COLOR Chart &amp;amp; Tables sheet; 280-Full COLOR die-cut cardboard counters; and a RULES Book plus a Scenario &amp;amp; Advanced RULES Book.&amp;#10;&amp;#10;Game Scale given is: CORPS-level; 1-Turn=a Month; &amp;amp; each HEX is 25 miles across. There are 5-Scenarios plus the Campaign game. These are: Campaign Game~begins-Nov. 1940 to Dec.1943; 1.Battleaxe-June 1941; 2.Crusader-Nov.1941; 3.Gazala-May 1942; 4.El Alamein-Oct.1942 with Operation TORCH also taking place; &amp;amp; 5.Italian East African Expansion which can be combined with the entire Campaign. The I.E.A. map uses a slightly smaller map scale but is still fully compatible. Any of the Scenarios can begin and then be played until Dec.1943, if players prefer.&amp;#10;&amp;#10;NOTE: the Campaign game can take anywhere from 1-7 Hours to complete, while this can even be combined with the previously released E.o.t.A. series. Complexity is considered to be 'Low' while Solotaire play is rated as 'High' in suitabiltiy.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2635" value="Empires of Apocalypse series"/>
+    <link type="boardgameintegration" id="9784" value="Cold Days in Hell"/>
+    <link type="boardgameintegration" id="7622" value="Morsecode ···–"/>
+    <link type="boardgameintegration" id="18099" value="Pearl Harbor"/>
+    <link type="boardgamedesigner" id="2674" value="Andreas Bertram"/>
+    <link type="boardgamedesigner" id="2673" value="Dirk Blech"/>
+    <link type="boardgamedesigner" id="1957" value="Udo Grebe"/>
+    <link type="boardgameartist" id="2674" value="Andreas Bertram"/>
+    <link type="boardgameartist" id="2673" value="Dirk Blech"/>
+    <link type="boardgameartist" id="20467" value="Thorsten Fischer"/>
+    <link type="boardgameartist" id="1957" value="Udo Grebe"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="3347" value="Beth Queman"/>
+    <link type="boardgamepublisher" id="570" value="Udo Grebe Gamedesign"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="6.74737"/>
+        <bayesaverage value="5.52826"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11246" bayesaverage="5.52826"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2220" bayesaverage="5.66877"/>
+        </ranks>
+        <stddev value="1.11609"/>
+        <median value="0"/>
+        <owned value="187"/>
+        <trading value="15"/>
+        <wanting value="4"/>
+        <wishing value="7"/>
+        <numcomments value="23"/>
+        <numweights value="10"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

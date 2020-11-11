@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9357">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tlTAvngr5dzoAzWm9fd7Mk_y9o4=/fit-in/200x150/pic176667.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/bT_Cl1FdylTRVcF6hh-iG18hpV0=/0x0/pic176667.jpg</image>
+    <name type="primary" sortindex="1" value="East Wind Rain"/>
+    <description>From box back:&amp;#10;&amp;#10;The War in the Pacific 1941-1945&amp;#10;&amp;#10;A true strategic simulation of the pacific war, East Wind Rain allows players to command the war economies of the U.S., Japan, Great Britain, China and Australia and build what they think will be the best mix of air, sea and land forces. For 16 quarterly turns, these forces must battle across a unique map that combines area and hex movement to represent the theater  of war from Pearl Harbor to India.&amp;#10;&amp;#10;Naval forces are organized into Task Forces, and are then moved with hidden composition to conduct such naval missions as; shore bombardment,amphibious assaults, carrier strikes and more.  Four different types of aircraft (army air, naval air, bombers, and super bombers) are operated from either Army air bases or Naval Task forces.  Ground units range from airborne brigades to Chinese Armies.&amp;#10;&amp;#10;Despite its scope, East Wind Rain is an easily playable game that will appeal to both the wargamer and naval enthusiast alike. A simple one turn Midway scenario provides an easy to handle intro to the rules and game system. Midway, Solomons, and Marshall campaigns introduce players to the economics and planning of operations.  There is also a campaign game in which players may plan and fight the great campaign that decided the mastery of the Pacific.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamedesigner" id="4595" value="Mark McLaughlin"/>
+    <link type="boardgamedesigner" id="8208" value="Chris Vorder Bruegge"/>
+    <link type="boardgameartist" id="28547" value="Jan French Johns"/>
+    <link type="boardgameartist" id="720" value="Kevin Zucker"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="352" value="Task Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="41"/>
+        <average value="4.82439"/>
+        <bayesaverage value="5.47792"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16002" bayesaverage="5.47792"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2897" bayesaverage="5.36411"/>
+        </ranks>
+        <stddev value="2.06808"/>
+        <median value="0"/>
+        <owned value="210"/>
+        <trading value="14"/>
+        <wanting value="7"/>
+        <wishing value="18"/>
+        <numcomments value="41"/>
+        <numweights value="6"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

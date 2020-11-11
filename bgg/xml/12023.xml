@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12023">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/E15Zbq8JTVdFozHFMkATbJ0BJwA=/fit-in/200x150/pic288842.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/l1tSStsyqdFFvyjEk_bNY9lVXpI=/0x0/pic288842.jpg</image>
+    <name type="primary" sortindex="1" value="Omaha:  The Battle for the Beach"/>
+    <description>Omaha: The Battle for the Beach is a free-for-downloading game available from the Armchair General website.  A Download Key is required; this is available to purchasers of the July 2004 issue of the magazine.  The download itself consists of a zipped Adobe Acrobat file, from which the downloader will need to print 10 pages of rules, tables, counters, and the map.  A color printer is recommended, but the game can be played on a black-and-white printout.  The rules are designed for easy assimilation and allow for a two-player game or a solitaire American player.  The download page contains a short historical background of the Omaha beach landing and several paragraphs of designer's notes.&amp;#10;&amp;#10;UPDATE:&amp;#10;&amp;#10;This game has been redeveloped by the new LnLP staff improving the counters, maps, rules, and scenarios in the game.  You can find the new edition at&amp;#10;&amp;#10;https://boardgamegeek.com/boardgame/230075/devils-beach-omaha-landings&amp;#10;&amp;#10;or&amp;#10;&amp;#10;https://store.lnlpublishing.com/category/battles-on-demand/the-devils-beach-omaha-landings&amp;#10;&amp;#10;If you have purchased Omaha: The Battle for the Beach at the current LnLP Store, we will provide you a FREE Print and Play edition that you can be download from your order history from the LnLP Store.&amp;#10;&amp;#10;Print On Demand Edition: The Print On Demand Edition includes full color printed, manual, player aid cards, larger maps, and counters printed on Sticker sheets and chit board to mount them on.  Once you received your game you will be all ready to play. The Print and Play edition is included for free with our Print On Demand Edition.&amp;#10;&amp;#10;Print and Play Edition: The Print and Play Edition is available as a downloadable Print and Play files that can be printed in both US Letter and A4 paper sizes. Our Print and Play Edition includes individual files for the manual, player aid cards, counters and smaller multi-part maps for home printers and larger map files that can be printed at a local print shop. You may select to purchase only Print and Play Edition and reduce the price of the game under the Available Options on the product page.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="2343" value="Mark H. Walker"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="2247" value="Armchair General magazine"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="5.84615"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.1666"/>
+        <median value="0"/>
+        <owned value="40"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="13"/>
+        <numweights value="3"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="162680">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qCvlUNl6_ih9Tieb6jCAswIQFhg=/fit-in/200x150/pic2091814.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D-e_lgX4aqtVNmcqontErD4CleM=/0x0/pic2091814.jpg</image>
+    <name type="primary" sortindex="1" value="War of the Worlds"/>
+    <description>War of the Worlds is a new game from Bill Banks and is the in-magazine game for the premier issue of the new Ares Magazine (2).&amp;#10;&amp;#10;War of the Worlds is a two-player game of the conquest of Earth and the survival of humanity! The military forces of Queen Victoria gather to repel an attack by the diabolical Martian forces under the command of the evil Martian overlord.&amp;#10;&amp;#10;The Martians have huge, mechanical tripod walkers, flying saucers, death rays, missile bases, and giant monsters at their disposal. They can also elicit help from sympathetic (read gullible) human proxies.&amp;#10;&amp;#10;The humans rely on conventional infantry, cavalry, and artillery, and perhaps a hero, for their main defense. Fortunately, the human player may get assistance from a mad scientist who can field an Infernal Machine that the Martians won't find amusing.&amp;#10;&amp;#10;The Martians have a choice of five different victory conditions. Part of the challenge for the human player is to determine the Martian overlord's true objectives so they can be best thwarted.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1009" value="Abstract Strategy"/>
+    <link type="boardgamecategory" id="1093" value="Novel-based"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="25555" value="Magazine: Ares (One Small Step)"/>
+    <link type="boardgamedesigner" id="759" value="William L. Banks"/>
+    <link type="boardgameartist" id="1935" value="Michael Anderson (I)"/>
+    <link type="boardgameartist" id="77114" value="Robert Czerny"/>
+    <link type="boardgamepublisher" id="992" value="One Small Step"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="6.67308"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.67529"/>
+        <median value="0"/>
+        <owned value="139"/>
+        <trading value="6"/>
+        <wanting value="8"/>
+        <wishing value="29"/>
+        <numcomments value="25"/>
+        <numweights value="6"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

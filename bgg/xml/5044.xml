@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5044">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/E4kGU-JAqlv7aD3-A3jJDIkUmzw=/fit-in/200x150/pic1443609.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UgZqMEfQA3IY7-hKLV4sAwdbktA=/0x0/pic1443609.png</image>
+    <name type="primary" sortindex="1" value="Tunisia 43"/>
+    <description>Tunisia 43 uses a streamlined version of the same system found in Moments in History's Piercing the Reich and Triumphant Fox. This system is very interactive with players activating each of their formations at various times during the turn.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="27517" value="Country: Tunisia"/>
+    <link type="boardgamedesigner" id="1923" value="Dirk Blennemann"/>
+    <link type="boardgamepublisher" id="539" value="Moments in History"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="27"/>
+        <average value="6.99259"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.748"/>
+        <median value="0"/>
+        <owned value="139"/>
+        <trading value="9"/>
+        <wanting value="4"/>
+        <wishing value="8"/>
+        <numcomments value="13"/>
+        <numweights value="8"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

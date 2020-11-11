@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16090">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Xlde9EDD3oeEHZlK1TA5Dosmjbs=/fit-in/200x150/pic67033.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/YiCyen1k4vMwW5O1r-i7zOtQoBs=/0x0/pic67033.jpg</image>
+    <name type="primary" sortindex="1" value="Paulus 6th Army"/>
+    <description>Paulus' 6th Army is an operational level simulation of the Soviet encirclement operation named &amp;quot;Operation Uranus&amp;quot; and the German escape attempt from Stalingrad from 19th November to 24th December, 1942.&amp;#10;&amp;#10;This game represents the first significant operational victory of the previously inferior Soviet Red Army over the Wehrmacht. For this reason, the battle of Stalingrad in often referred to as the &amp;quot;turning point&amp;quot; of the World War II. But in this game, the German player has more options of command than Friedrich Paulus, the commander of German 6th Army. So the German player may conduct withdraw from Stalingrad with his troops as he chooses and may defend more effectively than the historical static situation.&amp;#10;&amp;#10;(source: Six Angles webpage)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamecompilation" id="192846" value="Knight's cross of Iron"/>
+    <link type="boardgameimplementation" id="2090" value="Stalingrad Pocket (first edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgameartist" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgamepublisher" id="3406" value="Six Angles"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.78571"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.524891"/>
+        <median value="0"/>
+        <owned value="61"/>
+        <trading value="2"/>
+        <wanting value="3"/>
+        <wishing value="5"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

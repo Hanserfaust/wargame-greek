@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="103">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bPHS4Of-ZnshbZtr9V_nQr8EQYI=/fit-in/200x150/pic1083237.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ZUWswW3_rZxjRf35PFU129pluJk=/0x0/pic1083237.jpg</image>
+    <name type="primary" sortindex="1" value="Titan"/>
+    <description>This classic game of the Fantasy Monster Slug-a-thon is a standby from the The Avalon Hill Game Co of yore.  The game still has a very devoted following, which is a tribute to the depth of the various strategies and approaches.  The game is divided into two realms, the masterboard and the battleboards.  On the masterboard, legions of mythical creatures roam about trying to recruit bigger and badder monsters and kill opposing legions in the process.  When a combat occurs, the action moves to the corresponding battleboard type corresponding to the area the fight is taking place in.  After lots of dice are tossed, the army that remains standing is returned to the masterboard with the spoils of war: points.&amp;#10;&amp;#10;The points are used to recruit Angels and Archangels and to augment the leader character of the player's army: The Titan.  As the points increase, the Titans become ever more powerful; at game end, the titan is able to kill most other character with a single blow. But be careful: If the Titan dies, the player is out of the game.&amp;#10;&amp;#10;The last Titan standing is the ruler of all, and winner of the game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="124">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="70"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="55"/>
+        <result value="Recommended" numvotes="48"/>
+        <result value="Not Recommended" numvotes="10"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="27"/>
+        <result value="Recommended" numvotes="64"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="52"/>
+        <result value="Recommended" numvotes="43"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="12"/>
+        <result value="Recommended" numvotes="45"/>
+        <result value="Not Recommended" numvotes="32"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="20"/>
+        <result value="Recommended" numvotes="43"/>
+        <result value="Not Recommended" numvotes="26"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="53"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="4"/>
+        <result value="12" numvotes="6"/>
+        <result value="14" numvotes="6"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="22">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="15"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2685" value="Player Elimination"/>
+    <link type="boardgamemechanic" id="2035" value="Roll / Spin and Move"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2004" value="Set Collection"/>
+    <link type="boardgamefamily" id="91" value="Valley Games Classic Line"/>
+    <link type="boardgameexpansion" id="36753" value="Titan: Battlelands of Titan"/>
+    <link type="boardgamedesigner" id="97" value="Jason B. McAllister"/>
+    <link type="boardgamedesigner" id="98" value="David A. Trampier"/>
+    <link type="boardgameartist" id="11858" value="Mike Doyle (I)"/>
+    <link type="boardgameartist" id="11872" value="Kurt Miller"/>
+    <link type="boardgameartist" id="34577" value="Kenn Nishiuye"/>
+    <link type="boardgameartist" id="98" value="David A. Trampier"/>
+    <link type="boardgameartist" id="1158" value="Chris White (I)"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <link type="boardgamepublisher" id="2486" value="Gorgonstar Publications"/>
+    <link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag"/>
+    <link type="boardgamepublisher" id="5382" value="Valley Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3773"/>
+        <average value="6.96433"/>
+        <bayesaverage value="6.52225"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="897" bayesaverage="6.52225"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="261" bayesaverage="6.7294"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="241" bayesaverage="6.60313"/>
+        </ranks>
+        <stddev value="1.77635"/>
+        <median value="0"/>
+        <owned value="5347"/>
+        <trading value="258"/>
+        <wanting value="229"/>
+        <wishing value="740"/>
+        <numcomments value="1493"/>
+        <numweights value="416"/>
+        <averageweight value="3.4591"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

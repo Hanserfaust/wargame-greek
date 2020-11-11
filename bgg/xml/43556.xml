@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="43556">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/yAysoJ27walvae6nAirFHDwXhnI=/fit-in/200x150/pic663453.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NTtDXGFnwLHqWj7Aum5jp6uortY=/0x0/pic663453.jpg</image>
+    <name type="primary" sortindex="1" value="Day of Infamy: The Attack on Pearl Harbor"/>
+    <description>From the introduction:&amp;#10;&amp;#10;&amp;quot;Day of Infamy is a simulation war game about the Japanese raid on Pearl Harbor on December 7th, 1941. The game is meant for two players...{but] can easily be played solitaire&amp;quot;&amp;#10;&amp;#10;A deck of cards is needed to play. Each turn (of six) represents one wave of attackers. Each side draws cards to deploy units (Japanese air units arrive in predefined waves per turn) and to allow actions (e.g. AA fire, bombing etc). Card draws may also trigger random events. The US has limited repair abilities which are triggered by the US Alert level. VPs are earned through damage/eliminations. Designer's notes are available.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="12671" value="Magazine: Panzer Digest"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="52187" value="Allen Saalburg"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="7.02222"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.2488"/>
+        <median value="0"/>
+        <owned value="63"/>
+        <trading value="2"/>
+        <wanting value="4"/>
+        <wishing value="8"/>
+        <numcomments value="8"/>
+        <numweights value="2"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

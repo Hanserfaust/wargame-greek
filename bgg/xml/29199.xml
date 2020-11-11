@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29199">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Ej1LJ56MiZANh5ueU6SliWcbbpI=/fit-in/200x150/pic1036379.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/22-Bnv5HmBO4mQSrslWLwa-j5BY=/0x0/pic1036379.jpg</image>
+    <name type="primary" sortindex="1" value="Victoria Cross II"/>
+    <description>Victoria Cross II&amp;#10;&amp;#10;This is a reprint of Victoria Cross with the battles of  Isandlwana, Rorkes Drift, included.&amp;#10;&amp;#10;The game that started it all for Worthington Games. Using the Victoria Cross system that was the first game produced by Worthington Games.&amp;#10;&amp;#10;Two battles, one great game! The game will include the original Victoria Cross updated with counters, updated rules, and new box. As the British player tries to stem the hordes of Zulu warriors with his trusty Martini-Henry rifle (with a bit of guts behind it!). As the Zulu player can you, through mass and guile, drive the British from your land.&amp;#10;&amp;#10;It is up to you to decide!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="151" value="No necessary in-game text" numvotes="0"/>
+        <result level="152" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="153" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="154" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="155" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgameimplementation" id="10662" value="Victoria Cross" inbound="true"/>
+    <link type="boardgamedesigner" id="3464" value="Grant Wylie"/>
+    <link type="boardgamedesigner" id="3465" value="Mike Wylie"/>
+    <link type="boardgameartist" id="27597" value="Sean Cooke"/>
+    <link type="boardgameartist" id="45064" value="Charles Edwin Fripp"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="2355" value="Worthington Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="86"/>
+        <average value="7.41222"/>
+        <bayesaverage value="5.61527"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6044" bayesaverage="5.61527"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="821" bayesaverage="6.14744"/>
+        </ranks>
+        <stddev value="1.19088"/>
+        <median value="0"/>
+        <owned value="248"/>
+        <trading value="5"/>
+        <wanting value="43"/>
+        <wishing value="92"/>
+        <numcomments value="45"/>
+        <numweights value="20"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

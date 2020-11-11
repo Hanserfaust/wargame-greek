@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10696">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kSCSrJNf91pqpnC-0seel6uvVok=/fit-in/200x150/pic204298.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lhmBdyyNJlKclPf59-qaiA4ncBE=/0x0/pic204298.jpg</image>
+    <name type="primary" sortindex="1" value="Warring Fleets"/>
+    <description>From the designer: &amp;quot;Although set in the fantasy world of Talomir, Warring Fleets works equally well with historical fleets. Whether commanding Carthagians or Kurinthians, players command opposing fleets in lively fast play combat. Suitable for solo-play, Warring Fleets can used to supplement both Warrior Kings and Warrior Heroes as well as any other rule set of the same period. Over twenty navies are available from the ponderous slaver ships of Merchen to the fast raiders of Kurinthia. Warring Fleets is a real departure from what you may be used to. The action is fast and furious with victory going to the player who can exploit situations as they arise. Do you have what it takes to command&amp;hellip;&amp;quot;&amp;#10;&amp;#10;Ancient/Medieval/Fantasy Naval wargame for ships.  Can be played solo or with lots of players.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="1"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamedesigner" id="3471" value="Ed Teixeira"/>
+    <link type="boardgamepublisher" id="2360" value="Two Hour Wargames (THW Game Design)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.829156"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

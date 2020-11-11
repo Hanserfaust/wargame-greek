@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11913">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ph_RnWn8W-NI3EIHT1dv84JPKy8=/fit-in/200x150/pic50126.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/yJoWs30UzAXp_tav8XPf9RjZ_aA=/0x0/pic50126.jpg</image>
+    <name type="primary" sortindex="5" value="The Dragon and the Pearl"/>
+    <description>The Dragon and the Pearl is, essentially, the Britannia game concept set in China during the same era. The succession of invading hordes arrive historically accurately, but points are rewarded for surviving rather than being in the right place at the right time, so strange and interesting results are possible. A  full historical background is provided so you can try to get it right if you want to, the dice-based combat system has a fair element of chance to stop it getting too serious.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Britannia&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="3"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="18284" value="Britannia game-system"/>
+    <link type="boardgamefamily" id="11518" value="Country: China"/>
+    <link type="boardgamefamily" id="6363" value="Tube Games"/>
+    <link type="boardgamedesigner" id="3767" value="Thom Richardson"/>
+    <link type="boardgamepublisher" id="2624" value="Spirit Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.31656"/>
+        <median value="0"/>
+        <owned value="35"/>
+        <trading value="2"/>
+        <wanting value="18"/>
+        <wishing value="23"/>
+        <numcomments value="15"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

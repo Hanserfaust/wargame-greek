@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="147451">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nKP1fVCM7G9ByBlS9NA76uYaP6Y=/fit-in/200x150/pic1804120.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9_HR5q6Fogy5tDYyAAePtmnIGOE=/0x0/pic1804120.jpg</image>
+    <name type="primary" sortindex="1" value="Field of Glory: The Card Game"/>
+    <description>Field of Glory: The Card Game is a quick-playing game for two players inspired by Field of Glory, the miniatures rule system designed by Richard Bodley Scott for ancient and medieval tabletop battles.&amp;#10;&amp;#10;The game is split into two parts. You first decide with which units to fight, constructing a deck of 24 unit cards. You then fight a battle across a battlefield made up of five terrain cards; to win the game, you must take control of three of these terrain cards. The army cards represent the main troop types of the period, such as heavy infantry, light cavalry and elephants, each having its own strengths and weaknesses. To be able to play units onto the battlefield, you must discard other cards to pay the movement costs involved, giving you a number of difficult decisions to make.&amp;#10;&amp;#10;Field of Glory: The Card Game is of medium complexity and should take 20-30 minutes to play.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="96" value="No necessary in-game text" numvotes="0"/>
+        <result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="100" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2664" value="Deck / Pool Building"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgameimplementation" id="258207" value="Milito"/>
+    <link type="boardgameimplementation" id="31542" value="Field of Glory" inbound="true"/>
+    <link type="boardgamedesigner" id="6" value="Martin Wallace"/>
+    <link type="boardgameartist" id="11802" value="Peter Dennis"/>
+    <link type="boardgamepublisher" id="12275" value="Treefrog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="416"/>
+        <average value="6.64962"/>
+        <bayesaverage value="5.78014"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3529" bayesaverage="5.78014"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="672" bayesaverage="6.26478"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1302" bayesaverage="5.85506"/>
+        </ranks>
+        <stddev value="1.28838"/>
+        <median value="0"/>
+        <owned value="867"/>
+        <trading value="61"/>
+        <wanting value="41"/>
+        <wishing value="141"/>
+        <numcomments value="148"/>
+        <numweights value="35"/>
+        <averageweight value="1.9143"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

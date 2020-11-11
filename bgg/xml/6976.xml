@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6976">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/1Sv9lGBAOyrjm0yR4kaALmvUG2c=/fit-in/200x150/pic28510.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Qpyn0g06l7nOkS3zXAcyxbbJVpU=/0x0/pic28510.jpg</image>
+    <name type="primary" sortindex="1" value="St-Lô"/>
+    <name type="alternate" sortindex="1" value="St-Lo"/>
+    <name type="alternate" sortindex="1" value="St. Lo"/>
+    <description>St. Lo was the first game to cover this unique battle. Designed by Joe Balkoski, creator of Atlantic Wall and Sixth Fleet, St. Lo offers a challenging system for the simulation of WW2 battalion-level combat.&amp;#10;&amp;#10;Unit morale is the crucial factor in this game. Morale fluctuates as units move, rest or attack. Should you pull this battalion out of the line to rest ? Or will one more push carry the position ?&amp;#10;&amp;#10;Artillery plays a crucial role too. Good observation posts are essential for accurate fire. You will find yourself fighting many desperate actions for control of hilltop vantage points or church steeples.&amp;#10;&amp;#10;The innovative movement system makes uncertainty another key element of St Lo. You never know who will move next. Even units that have already moved may move again the same turn. You will need to plan ahead, rest your troops and then spring your offensive.&amp;#10;&amp;#10;Outstanding for solitaire play. The rulebook has extensive designers notes throughout and each chapter has numerous quotes from commanders at the battle for St. Lo.&amp;#10;&amp;#10;Designed by a master craftsman this is an innovative, tense and accurate portrayal of WW2 battalion command - the way it really was.&amp;#10;&amp;#10;18 July 1944 13:40 Hrs&amp;#10;Gen. Gerhardt: &amp;quot;Capt. Putenny, you sure did a masterful job and are going up for promotion; you'll keep that battalion. Where is Howie's body?&amp;quot;&amp;#10;&amp;#10;Contents:&amp;#10;22&amp;quot; x 34&amp;quot; paper map of St. Lo and surrounding areas.&amp;#10;400 multi-color back printed counters&amp;#10;Rulebook&amp;#10;Player-aid cards&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="71" value="No necessary in-game text" numvotes="0"/>
+        <result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="75" value="Unplayable in another language" numvotes="2"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgameimplementation" id="5239" value="Omaha Beachhead: Battle for the Bocage"/>
+    <link type="boardgamedesigner" id="673" value="Joseph M. Balkoski"/>
+    <link type="boardgamedesigner" id="111982" value="James Derek Harris"/>
+    <link type="boardgameartist" id="2604" value="Stephen Crane"/>
+    <link type="boardgameartist" id="20086" value="Loring Eutemey"/>
+    <link type="boardgameartist" id="16474" value="Kevin Wilkins"/>
+    <link type="boardgamepublisher" id="40" value="West End Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="92"/>
+        <average value="7.22446"/>
+        <bayesaverage value="5.60583"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6334" bayesaverage="5.60583"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="937" bayesaverage="6.08755"/>
+        </ranks>
+        <stddev value="1.56836"/>
+        <median value="0"/>
+        <owned value="361"/>
+        <trading value="14"/>
+        <wanting value="23"/>
+        <wishing value="46"/>
+        <numcomments value="47"/>
+        <numweights value="14"/>
+        <averageweight value="3.3571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

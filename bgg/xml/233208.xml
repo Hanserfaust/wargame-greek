@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="233208">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FtYbYJo3AAMcOsV-vnHlYPOam3w=/fit-in/200x150/pic3695605.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/uAnXnZagavM-UCUym1jIMsJcG30=/0x0/pic3695605.jpg</image>
+    <name type="primary" sortindex="1" value="D-Day Dice (Second edition)"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;The new version of D-Day Dice, published by Word Forge Games, sees new art, missions, tiles and dice. It is fully compatible with the previous version, but adds new mechanics and play concepts to the highly successful D-Day Dice franchise.&amp;#10;&amp;#10;Normandy, June 6th, 1944 &amp;ndash; as you land on the well-defended beaches, a German machine gun nest is killing your comrades like flies. You must do something!&amp;#10;&amp;#10;In D-Day Dice, players are Allied soldiers trying to organize improvised units for an attack against the machine gun nest. Each player starts the game with a unit of a few soldiers and nothing else. As the game progresses, he will collect resources and advance on the beach, sector by sector, as his unit grows stronger and deadlier. He will succeed...or die trying.&amp;#10;&amp;#10;D-Day Dice is a multiplayer co-op game, where all players play their turn simultaneously and must help each other in order to stay alive. It also includes solitaire optional rules. Although built around dice rolling, this game is about resource management (soldiers, specialists, items and courage) and knowing when to move your unit. Resources are kept from turn to turn, so the players can plan ahead.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede"/>
+    <link type="boardgamefamily" id="4705" value="Games by the Game Artisans of Canada"/>
+    <link type="boardgamefamily" id="11080" value="RWB Series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="241535" value="D-Day Dice (Second edition): Atlantikwall"/>
+    <link type="boardgameexpansion" id="248255" value="D-Day Dice (Second edition): Gott Mit Uns"/>
+    <link type="boardgameexpansion" id="248253" value="D-Day Dice (Second edition): Legends"/>
+    <link type="boardgameexpansion" id="248256" value="D-Day Dice (Second edition): Overlord"/>
+    <link type="boardgameexpansion" id="248254" value="D-Day Dice (Second edition): Spoils of War"/>
+    <link type="boardgameexpansion" id="102263" value="D-Day Dice (Second edition): War Stories"/>
+    <link type="boardgameexpansion" id="102265" value="D-Day Dice (Second edition): Way to Hell"/>
+    <link type="boardgameintegration" id="247567" value="D-Day Dice Pocket"/>
+    <link type="boardgameimplementation" id="101785" value="D-Day Dice" inbound="true"/>
+    <link type="boardgameimplementation" id="61028" value="D-Day Dice: Free Trial Version" inbound="true"/>
+    <link type="boardgamedesigner" id="12685" value="Emmanuel Aquin"/>
+    <link type="boardgameartist" id="75217" value="Dominik Kasprzycki"/>
+    <link type="boardgamepublisher" id="29784" value="Word Forge Games"/>
+    <link type="boardgamepublisher" id="42147" value="Giant Roc"/>
+    <link type="boardgamepublisher" id="30677" value="Maldito Games"/>
+    <link type="boardgamepublisher" id="15906" value="Nuts! Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="8"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.35785"/>
+        <median value="0"/>
+        <owned value="110"/>
+        <trading value="3"/>
+        <wanting value="38"/>
+        <wishing value="251"/>
+        <numcomments value="92"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="259394">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iMEK3o-37FcbjCCTfTvri5G3fLY=/fit-in/200x150/pic4623098.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NFL2BG_cE_pmYkPQLM_0brPsAEg=/0x0/pic4623098.jpg</image>
+    <name type="primary" sortindex="1" value="Storm Above the Reich"/>
+    <description>Storm Above the Reich is a solitaire game depicting a Luftwaffe squadron of Fw190s struggling to deter and destroy the relentless daylight raids over Germany during World War Two. The player&amp;rsquo;s individual aircraft, each represented by a stickered block, must confront the mighty &amp;ldquo;combat box&amp;rdquo; formation of the United States Army Air Force, a deadly terrain of B-24 Liberator heavy bombers. Like its counterpart, Skies Above the Reich, the game is a broad strokes depiction that presents the arc of the desperate air war. Stretching from late 1942 to early 1945, Storm Above the Reich follows that trajectory in a series of missions strung together to make a campaign. Each mission will take a half hour or more to play, while a campaign can last anywhere between 6 to 60 missions.&amp;#10;&amp;#10;Stand-Alone and an Expansion: Storm Above the Reich is a stand-alone game; you don&amp;rsquo;t need Skies Above the Reich to play. However, it can also serve as an expansion for that game. Storm uses the same rules as Skies, and components in one game transfer seamlessly to the other. Combined, Storm and Skies present eight formation maps, six pursuit maps, B-17s and B-24s. In Storm, you get an oversized staffel of 18 Fw190s, with the option of augmenting it into a Sturmbocke staffel. In Skies, you get a staffel of Bf109s, and with the games combined, the staffels can also be combined.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="22184" value="Admin: Unreleased Games"/>
+    <link type="boardgameintegration" id="191612" value="Skies Above the Reich"/>
+    <link type="boardgamedesigner" id="57592" value="Mark Aasted"/>
+    <link type="boardgamedesigner" id="44467" value="Jeremy White"/>
+    <link type="boardgameartist" id="105186" value="Antonis Karidis"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgameartist" id="44467" value="Jeremy White"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="10"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="6"/>
+        <trading value="0"/>
+        <wanting value="5"/>
+        <wishing value="35"/>
+        <numcomments value="8"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

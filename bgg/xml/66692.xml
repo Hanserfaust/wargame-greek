@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="66692">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/DyHIdDtHqG5-17GU7bRI1yW0IzA=/fit-in/200x150/pic662937.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qJsCtf39H5gs7Zizw1QRvKe3kGA=/0x0/pic662937.jpg</image>
+    <name type="primary" sortindex="1" value="Run?...Or Shoot?"/>
+    <description>From the rulebook:&amp;#10;&amp;#10;&amp;quot;These rules are designed for team play against an umpire-controlled zombie infestation. It is heavily influenced by '28 Days Later' and the game 'Left4Dead'. It is written for use with 20mm/25mm figures and a good source of large numbers of plastic zombies are the ones form the board game Zombies! (they also glow in the dark). The balance of the rules is on the assumption that the survivors are very heavily outnumbered, maybe 20 or 30 to one overall. Ideally the playing area should be fairly close - like an urban or wooded area - with plenty of places for the zombie hordes to lurk in ambush. In the set up there should be a number of&amp;#10;concealed hordes - in basements, behind fences, down sewers etc. These are triggered by player action and attack. In addition there will be small groups or individual zombies scattered about the playing area.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1024" value="Horror"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="8656" value="Jim Wallman"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

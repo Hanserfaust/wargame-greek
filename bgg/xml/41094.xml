@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="41094">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iTXrc5IjopEbuRj8w1M_vGZ9Vzs=/fit-in/200x150/pic448930.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RsckdSrty6dK13s0r3NmJrIrotc=/0x0/pic448930.jpg</image>
+    <name type="primary" sortindex="1" value="Armored Reserves"/>
+    <description>A Vehicle Compendium for Armored Assault&amp;#10;&amp;#10;This is a vehicle compendium designed to supplement Iron Crown Enterprises' Space Master series of games. It provides a number of vehicle designs which adventurers may meet in their travels, use, or wish to purchase. It includes the specs for:&amp;#10;&amp;#10;2 Trucks&amp;#10;3 Carriers&amp;#10;6 MIRCs&amp;#10;3 Robotic Vehicles&amp;#10;2 Scouts&amp;#10;2 Armored Cars&amp;#10;2 Walkers&amp;#10;2 Jumptanks&amp;#10;3 Battle Tanks&amp;#10;2 Explorers&amp;#10;2 Dropships&amp;#10;1 Control Center&amp;#10;4 Armor Suits&amp;#10;6 Aerocraft&amp;#10;10 Scenarios&amp;#10;&amp;#10;It also includes 180 new full-color counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1990"/>
+    <minplayers value="2"/>
+    <maxplayers value="10"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="10+">		
+				</results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgameexpansion" id="21309" value="Armored Assault" inbound="true"/>
+    <link type="boardgamedesigner" id="410" value="Kevin Barrett"/>
+    <link type="boardgamedesigner" id="10750" value="Tony Van Liew"/>
+    <link type="boardgameartist" id="19771" value="Eric Bruns"/>
+    <link type="boardgameartist" id="13266" value="Jim Burns"/>
+    <link type="boardgameartist" id="13981" value="Ted Dinwiddie"/>
+    <link type="boardgameartist" id="13335" value="Darrell Midgette"/>
+    <link type="boardgameartist" id="21651" value="Paul Yeh"/>
+    <link type="boardgamepublisher" id="98" value="Iron Crown Enterprises (ICE)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1"/>
+        <median value="0"/>
+        <owned value="19"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

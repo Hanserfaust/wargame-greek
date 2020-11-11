@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="220987">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FFyoHjeNYWT3m8SrvF8jk4zRYVk=/fit-in/200x150/pic3673475.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sdxIK5kfK8tLY2IA3cGAO7z_dkc=/0x0/pic3673475.jpg</image>
+    <name type="primary" sortindex="1" value="Bloody Monday"/>
+    <description>In June, 1812, Napoleon invaded Russia with over 500,000 troops, not so much to &amp;quot;conquer&amp;quot; anything but really intending to fight on big battle (like Austerlitz) and then dictate terms. Unfortunately, the Russian armies did not comply.&amp;#10;&amp;#10;He finally got a big battle at Smolensk, which could be called a French victory...except the Russian armies just retreated and burned. Now under the command of (recalled from retirement) Marshal Kutuzov, the army made a stand near the small village of Borodino, which had only marginal useful defensive terrain but was the best place to stop the French before Moscow.&amp;#10;&amp;#10;After two days of skirmishing and probing, the major battle took place Monday, September 7. About 250,000 troops were involved and the two armies lost about 70,000 casualties. It was the single bloodiest day of the entire Napoleonic Wars period &amp;mdash; &amp;quot;Bloody Monday&amp;quot;.&amp;#10;&amp;#10;Using the game engine from Moscow '41 (and not VNG's Waterloo 200), the game Bloody Monday provides action and challenges, plus the joy of die rolling. Unlike other VNG products, Bloody Monday uses large 20mm blocks to provide enough detail and different unit types but still keep the game playable in one sitting. Colorful PVC stickers and &amp;quot;fog of war&amp;quot; give players everything they need in an easy mechanism.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="6137" value="Block wargames"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamedesigner" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgameartist" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgamepublisher" id="23283" value="VentoNuovo Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="40"/>
+        <average value="8.0475"/>
+        <bayesaverage value="5.56364"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8153" bayesaverage="5.56364"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1472" bayesaverage="5.87626"/>
+        </ranks>
+        <stddev value="1.07773"/>
+        <median value="0"/>
+        <owned value="150"/>
+        <trading value="3"/>
+        <wanting value="19"/>
+        <wishing value="58"/>
+        <numcomments value="22"/>
+        <numweights value="3"/>
+        <averageweight value="3.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="746">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ntm3NqQq-e0gcy4_zYaE-6yW8-M=/fit-in/200x150/pic12164.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/aiDu51N5IETHc9lePNF1CVY5E84=/0x0/pic12164.jpg</image>
+    <name type="primary" sortindex="5" value="The Game of France, 1940: German Blitzkrieg in the West"/>
+    <name type="alternate" sortindex="1" value="Battle for France, 1940"/>
+    <description>France 1940 is an operational level simulation of the German invasion of France in 1940.  Units are corps and divisions, with important regiments and brigades represented. The map covers the German-Franco border, from the parts of the Maginot Line to the English Channel.&amp;#10;&amp;#10;The game consists of standard rules, advanced rules incorporating more complexity and realism and an Idiot's Rule, simulating the initial inflexibility of the Allied command. Six German and eleven Allied orders of battle allow players to experiment with game balance as well as explore various &amp;quot;What ifs&amp;quot;.&amp;#10;&amp;#10;The game comes with detailed designer's notes, giving insight into both game design and the actual campaign.&amp;#10;&amp;#10;The first incarnation of the game appeared as an insert in Strategy &amp;amp; Tactics magazine #27(1971), and was subsequently republished by Avalon Hill in 1972.&amp;#10;&amp;#10;224 counters (includes the 27 blanks) = Boxed Edition&amp;#10;&amp;#10;</description>
+    <yearpublished value="1972"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="101" value="No necessary in-game text" numvotes="2"/>
+        <result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="105" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamefamily" id="48332" value="SPI Kursk series"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="470"/>
+        <average value="5.79215"/>
+        <bayesaverage value="5.56195"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8273" bayesaverage="5.56195"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2218" bayesaverage="5.66965"/>
+        </ranks>
+        <stddev value="1.50088"/>
+        <median value="0"/>
+        <owned value="1310"/>
+        <trading value="99"/>
+        <wanting value="9"/>
+        <wishing value="29"/>
+        <numcomments value="264"/>
+        <numweights value="67"/>
+        <averageweight value="2.7463"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

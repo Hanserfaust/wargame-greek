@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="168852">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tN-8zqpSx_V4OdzofH01oWstOPs=/fit-in/200x150/pic2302836.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/z2_7PpiENfiyJ1_-wSHVbVfhHas=/0x0/pic2302836.png</image>
+    <name type="primary" sortindex="1" value="EARLY WAR Card Deck"/>
+    <description>The EARLY WAR Card Deck is an expansion for the Blocks Series and consists of 12 Special Events cards (400g, double laminated, UV matted, 3d)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6137" value="Block wargames"/>
+    <link type="boardgamefamily" id="22967" value="Blocks Series"/>
+    <link type="boardgameexpansion" id="130922" value="Blocks in Afrika" inbound="true"/>
+    <link type="boardgameexpansion" id="129204" value="Blocks in the East" inbound="true"/>
+    <link type="boardgameexpansion" id="131393" value="Blocks in the West" inbound="true"/>
+    <link type="boardgamedesigner" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgameartist" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgamepublisher" id="23283" value="VentoNuovo Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.05505"/>
+        <median value="0"/>
+        <owned value="22"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="0"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

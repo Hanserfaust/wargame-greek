@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="168850">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fglW8oWIHFCv_2d-t8zd-aUcMDU=/fit-in/200x150/pic2303997.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WkWa2yr_g3MlAO2SgAG8oGelNCg=/0x0/pic2303997.png</image>
+    <name type="primary" sortindex="1" value="Blocks in the West: Card Deck"/>
+    <description>The Blocks in the West Card Deck is an expansion for Blocks in the West and consists of 12 Special Events cards (400g, double laminated, UV matted, 3d).&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="4+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6137" value="Block wargames"/>
+    <link type="boardgamefamily" id="22967" value="Blocks Series"/>
+    <link type="boardgameexpansion" id="131393" value="Blocks in the West" inbound="true"/>
+    <link type="boardgamedesigner" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgameartist" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgamepublisher" id="23283" value="VentoNuovo Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="7.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.72718"/>
+        <median value="0"/>
+        <owned value="40"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="0"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

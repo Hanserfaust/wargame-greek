@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5511">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sn69JBrIEGcu91yyRNzVHqqKBI0=/fit-in/200x150/pic128067.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/63flhjL5SvTkkHRqjbIIFEG2q8c=/0x0/pic128067.jpg</image>
+    <name type="primary" sortindex="1" value="Southern Front"/>
+    <name type="alternate" sortindex="1" value="Third World War: Southern Front – Race for the Turkish Straits"/>
+    <description>Southern Front: Race for the Turkish Straits:&amp;#10;&amp;#10;Game Two in the Third World War series, although it uses the same rules, is very different from its parent.&amp;#10;Bulgaria and Romania, reinforced with three Soviet armies and special-capability forces, face Greece, Turkey, and Yugoslavia, thinly reinforced with a few elite units from the U.S., France, and Italy.&amp;#10;&amp;#10;The campaign is very mobile, with neither side having enough troops to cover a solid front (although the mountainous terrain of the area helps somewhat). Special units such as airmobile, airborne, and amphibious troops, with their abilities to outflank a line, become even more important.&amp;#10;Another important feature is the tangled web of Balkan politics, Romania is the least reliable of the Pact countries, and its participation is half-hearted at best. A second scenario allows for its total neutrality, forcing the Soviets to reinforce their armies and invade before taking on NATO. Greece and Turkey are uneasy allies, and rules allow for Greek withdrawal from NATO. And Albania is completely unpredictable.&amp;#10;&amp;#10;Additional rules allow Southern Front to be combined with The Third World War; players can reinforce one front with forces from the other, requiring a host of new decisions on the strategic level. One or two new divisions or air units sent to the Balkans can turn the tide there, but at what cost to the main front, where every unit is desperately needed ?&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="2629" value="Third World War Series"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgameartist" id="2467" value="Rich Banner"/>
+    <link type="boardgameartist" id="4769" value="William H. Keith, Jr."/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="222"/>
+        <average value="7.4198"/>
+        <bayesaverage value="5.76373"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3684" bayesaverage="5.76373"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="363" bayesaverage="6.57254"/>
+        </ranks>
+        <stddev value="1.49641"/>
+        <median value="0"/>
+        <owned value="667"/>
+        <trading value="13"/>
+        <wanting value="31"/>
+        <wishing value="65"/>
+        <numcomments value="75"/>
+        <numweights value="28"/>
+        <averageweight value="3.3929"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

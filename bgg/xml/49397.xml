@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="49397">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/zh1w0wf2NAhOY9IYGdu5Um1wALA=/fit-in/200x150/pic851844.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3KHUHbhu9bPyq39ZqNYDLF5bR4s=/0x0/pic851844.jpg</image>
+    <name type="primary" sortindex="1" value="Battleground Fantasy Warfare: Men of Hawkshold"/>
+    <description>Not playable on their own as you need two starter decks to play the game.&amp;#10;&amp;#10;Battleground Fantasy Warfare is a point-based tabletop tactical wargame in which units are represented by cards.&amp;#10;&amp;#10;Lead the noble Hawk army to defend your lands and people. Cavalry, infantry, and deadly longbowmen are yours to command! The superior training, honor and courage of your troops will bring you victory.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2079" value="Variable Phase Order"/>
+    <link type="boardgamefamily" id="2868" value="Battleground Fantasy Warfare"/>
+    <link type="boardgameexpansion" id="187855" value="Battleground Fantasy Warfare: Men of Hawkshold Reinforcements"/>
+    <link type="boardgameintegration" id="18985" value="Battleground"/>
+    <link type="boardgameintegration" id="94342" value="Battleground Fantasy Warfare: Dark Elves"/>
+    <link type="boardgameintegration" id="49394" value="Battleground Fantasy Warfare: Dwarves of Runegard"/>
+    <link type="boardgameintegration" id="49396" value="Battleground Fantasy Warfare: Elves of Ravenwood"/>
+    <link type="boardgameintegration" id="49391" value="Battleground Fantasy Warfare: High Elves"/>
+    <link type="boardgameintegration" id="49392" value="Battleground Fantasy Warfare: Lizardmen"/>
+    <link type="boardgameintegration" id="49050" value="Battleground Fantasy Warfare: Monsters &amp; Mercenaries"/>
+    <link type="boardgameintegration" id="49400" value="Battleground Fantasy Warfare: Orc Army"/>
+    <link type="boardgameintegration" id="49038" value="Battleground Fantasy Warfare: Umenzi Tribesmen"/>
+    <link type="boardgameintegration" id="49399" value="Battleground Fantasy Warfare: Undead Army"/>
+    <link type="boardgameintegration" id="168924" value="Battleground Fantasy Warfare: Wuxing"/>
+    <link type="boardgameintegration" id="159526" value="Battleground Historical Warfare: Alexander vs. Persia"/>
+    <link type="boardgameintegration" id="49096" value="Battleground Historical Warfare: Second Punic War 218-201 BC"/>
+    <link type="boardgameimplementation" id="278914" value="Battleground Fantasy Warfare: Men of Hawkshold"/>
+    <link type="boardgamedesigner" id="4113" value="Robert Dougherty"/>
+    <link type="boardgamedesigner" id="4114" value="Chad Ellis"/>
+    <link type="boardgamedesigner" id="4059" value="Darwin Kastle"/>
+    <link type="boardgameartist" id="12178" value="Calum Andrews"/>
+    <link type="boardgameartist" id="27844" value="Jackie Lee"/>
+    <link type="boardgameartist" id="41667" value="David Lloyd (II)"/>
+    <link type="boardgameartist" id="27840" value="Jordan Speer"/>
+    <link type="boardgameartist" id="27843" value="Robert Westmore"/>
+    <link type="boardgamepublisher" id="2913" value="Your Move Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="56"/>
+        <average value="6.92786"/>
+        <bayesaverage value="5.55616"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8692" bayesaverage="5.55616"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1565" bayesaverage="5.85523"/>
+        </ranks>
+        <stddev value="1.56988"/>
+        <median value="0"/>
+        <owned value="381"/>
+        <trading value="35"/>
+        <wanting value="14"/>
+        <wishing value="13"/>
+        <numcomments value="40"/>
+        <numweights value="3"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

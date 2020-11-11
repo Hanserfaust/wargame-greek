@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="150426">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/WWwXM3j1DfuU6WoD__oco5aY1CE=/fit-in/200x150/pic2248386.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wPsiDow90ztf-6NhttKcYCQ3FXs=/0x0/pic2248386.jpg</image>
+    <name type="primary" sortindex="1" value="France Fights On"/>
+    <description>This alternative history wargame examines the strategic and operational possibilities inherent in the campaign that would have occurred within France in June 1940 if that country&amp;rsquo;s government had resolved not to give up, as was the case historically. The assumption is that they instead chose to evacuate as much of the French Army as possible to France d&amp;rsquo;Outre Mer (Algeria). The resultant campaign, then, is one of strategic retreat and pursuit. The German player must try to destroy as much of the evacuating French force as possible, while keeping his own losses to a minimum in doing so.&amp;#10;&amp;#10;Both sides&amp;rsquo; orders of battle are entirely historical. The game length is held to only one month because, had the Germans not triumphed in that amount of time, the delay thereby caused to their plans for the next year would&amp;rsquo;ve then amounted to a major defeat in itself in the wider war.&amp;#10;&amp;#10;Each game turn represents two days. Each hex represents eight miles (13 km) from side to opposite side.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3244" value="Magazine: World at War"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="6.42308"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.80494"/>
+        <median value="0"/>
+        <owned value="112"/>
+        <trading value="3"/>
+        <wanting value="4"/>
+        <wishing value="9"/>
+        <numcomments value="16"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

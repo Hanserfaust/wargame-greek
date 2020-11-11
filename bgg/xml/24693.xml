@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="24693">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/elAZL4ENKPkrTwV3ue4ggEnKAtk=/fit-in/200x150/pic2002478.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wxjd8jQ68MnOA0TW_7gUVHw4Cx0=/0x0/pic2002478.jpg</image>
+    <name type="primary" sortindex="1" value="They Shall Not Pass: The Battle of Verdun 1916"/>
+    <name type="alternate" sortindex="1" value="They Shall Not Pass"/>
+    <description>From the Publisher:&amp;#10;&amp;#10;&amp;quot;The new game system has the clean play of the designer&amp;rsquo;s masterpiece, Defiant Russia, and is crafted to fit the nature of combat in 1916. Artillery bombardment and assault combat take place separately. Elite troops have numerous advantages, and morale is a vital component of the game. Game pieces represent regiments and a handful of battalions. Units are rated for morale, attack, defense and movement.&amp;#10;The game is packaged just like Defiant Russia in a small box.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="1"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="81" value="No necessary in-game text" numvotes="0"/>
+        <result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="85" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="27484" value="Cities: Verdun"/>
+    <link type="boardgameexpansion" id="256785" value="They Shall Not Pass: Bavarians at the Gates"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgamedesigner" id="10048" value="Doug McNair"/>
+    <link type="boardgamedesigner" id="3026" value="William Sariego"/>
+    <link type="boardgameartist" id="3399" value="Robert Althammer"/>
+    <link type="boardgameartist" id="37032" value="Beth Donahue"/>
+    <link type="boardgameartist" id="37033" value="Susan Robinson"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="91"/>
+        <average value="6.60165"/>
+        <bayesaverage value="5.56561"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8027" bayesaverage="5.56561"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1525" bayesaverage="5.86411"/>
+        </ranks>
+        <stddev value="1.31434"/>
+        <median value="0"/>
+        <owned value="357"/>
+        <trading value="18"/>
+        <wanting value="9"/>
+        <wishing value="32"/>
+        <numcomments value="70"/>
+        <numweights value="17"/>
+        <averageweight value="2.4706"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="39663">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ExBQUxqXAqbTZ4PXXLjTllWvt-8=/fit-in/200x150/pic404604.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Kfg4rQaZLtVDQJopNp4JKmThs08=/0x0/pic404604.jpg</image>
+    <name type="primary" sortindex="1" value="Song of Drums and Shakos"/>
+    <description>&amp;quot;Keep your musket loaded!&amp;quot;&amp;#10;&amp;#10;Song of Drums and Shakos is a fast play Napoleonic skirmish game based on the popular *Song of Blades and Heroes* mechanics.  This is a stand-alone product - you do not need Song of Blades and Heroes to play this game.&amp;#10;&amp;#10;Muster your squad. Deploy your soldiers and fire volleys at the enemy...and when the moment of truth comes, fix bayonets and charge!&amp;#10;&amp;#10;- Three scenarios included&amp;#10;- Simple, elegant system where your tactical decisions matter&amp;#10;- playable in any scale with single based models&amp;#10;- All major troop types represented: 160+ profiles (French, British,&amp;#10;Prussian, Russian, and Austrian)&amp;#10;- Easy measuring system&amp;#10;- No bookkeeping&amp;#10;- Point system for building up your Squad&amp;#10;- Play with as little as 5-6 elite to 20 inexperienced soldiers in a&amp;#10;standard game&amp;#10;- Playable on a small table (60x60 cm for 15mm)&amp;#10;- Simple yet subtle command system, with Officers and NCO&amp;#10;- Two or more players, 30-45 minutes for a full game&amp;#10;- Ideal introductory rule set to small actions in the Napoleonic Era.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="136" value="No necessary in-game text" numvotes="0"/>
+        <result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="140" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="5555" value="Song of Blades and Heroes"/>
+    <link type="boardgameexpansion" id="119463" value="Drums and Shakos Large Battle"/>
+    <link type="boardgameexpansion" id="125062" value="More Drums and Shakos"/>
+    <link type="boardgamedesigner" id="45781" value="Sergio Laliscia"/>
+    <link type="boardgamepublisher" id="7993" value="Ganesha Games"/>
+    <link type="boardgamepublisher" id="14804" value="lulu.com"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="50"/>
+        <average value="7.603"/>
+        <bayesaverage value="5.56921"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7819" bayesaverage="5.56921"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1265" bayesaverage="5.93882"/>
+        </ranks>
+        <stddev value="1.21772"/>
+        <median value="0"/>
+        <owned value="110"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="6"/>
+        <numcomments value="16"/>
+        <numweights value="4"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

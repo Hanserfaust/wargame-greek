@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="68039">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0OYByuwOwhoVJyNS6QY0X8DAoac=/fit-in/200x150/pic685630.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/YTX40qLILiHu60-uu0J3NgQ7oN8=/0x0/pic685630.jpg</image>
+    <name type="primary" sortindex="1" value="Sword of Fire"/>
+    <name type="alternate" sortindex="1" value="Sword of Fire: Lutter, 27th August 1626"/>
+    <name type="alternate" sortindex="1" value="Sword of Fire: the battle of Lutter"/>
+    <description>After having passed most of the summer season waiting for event, Christian of Denmark decided to stir himself up and join the other part of his army to combat Tilly, left a little unmanned after having lost several detachments to guard conquered cities. His movements where to slow, and when the two armies joined battle, Tilly was probably a little superior to his opponent. Christian was unable to avoid the clash, and he suffered a defeat.&amp;#10;&amp;#10;Each combat unit represents from 250 to 1500 soldiers, and it is rated, from left to right, for combat morale and movement. Each infantry strength point is around 150 men, each cavalry strength point around 80 men. Each leader is rated for Command (indicating how many activation chits that leader has) and Movement.&amp;#10;&amp;#10;Each hex is about 75 meters.&amp;#10;Each turn is half on hour.&amp;#10;&amp;#10;Contains:&amp;#10;6 page rules&amp;#10;11x17&amp;quot; map (in 2 8.5x11&amp;quot; parts)&amp;#10;1 player aid&amp;#10;216 counters and markers&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1070" value="Renaissance"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6388" value="TCS 30 years war series"/>
+    <link type="boardgameimplementation" id="188690" value="Battles of the  Thirty Years War 1642 - 1651"/>
+    <link type="boardgamedesigner" id="8869" value="Roberto Chiavini"/>
+    <link type="boardgameartist" id="10858" value="Giulia Canova"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <link type="boardgamepublisher" id="6597" value="TCS Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="5.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.39935"/>
+        <median value="0"/>
+        <owned value="8"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

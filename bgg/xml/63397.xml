@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="63397">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sbH-LBq1CCGY6P5PdKpGbG8UdXY=/fit-in/200x150/pic931462.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/T44JiSdWy3m9zWE_PEpXjEs1j44=/0x0/pic931462.png</image>
+    <name type="primary" sortindex="1" value="Eindekker"/>
+    <description>EINDEKKER simulates the era of the &amp;quot;Fokker scourge&amp;quot; on the western front in 1915 in the First World War.&amp;#10;&amp;#10;You are in the role of a famous German fighter pilot such as Max Immelmann or Oswald Boelcke, flying a Fokker EI in France. &amp;#10;Play takes place over a one week period, the aim being for you to dominate the skies over the battlefield while on combat patrol, trench patrol, and trench support missions. Includes full rules, 31 counters, map, and historical commentary.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamefamily" id="12671" value="Magazine: Panzer Digest"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="11310" value="Bob Flood"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="7.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.76383"/>
+        <median value="0"/>
+        <owned value="48"/>
+        <trading value="3"/>
+        <wanting value="5"/>
+        <wishing value="8"/>
+        <numcomments value="15"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

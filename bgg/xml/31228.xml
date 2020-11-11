@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="31228">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dTJGQneRDcWcaKwOcfKLPNu1yJc=/fit-in/200x150/pic235929.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/H-tp4G2z5ngB_l4d0prUlLcI-jc=/0x0/pic235929.jpg</image>
+    <name type="primary" sortindex="1" value="Remagen 1945"/>
+    <description>On March 7th, 1945, the Americans captured one of the last standing across the mighty Rhine River in Germany. It was pure luck that the Germans had failed to blow the bridge up.&amp;#10;&amp;#10;Operation Loralie, the codeword to destroy this key crossing and been fumbled. Fumbled badly by the Germans. Confusion reigned on the German side and the Americans seized the bridge.&amp;#10;&amp;#10;Now, the battle began. Germany&amp;rsquo;s &amp;ldquo;wonder weapons&amp;rdquo; were all directed at the bridge, from V-2 Rockets (which came close), jet bombers, massive Jagdtiger, Jagdpanther, Tiger II tanks and even SS Frogmen, all took their turn at sending the bridge to the bottom of the Rhine. The 9th, 11th and Lehr Panzer Divisions attempted to destroy the American bridgehead but were low of fuel.&amp;#10;&amp;#10;The game captures this pure luck situation, as at any moment, luck can change the course of the battle, as in real life! All the elements are present that were there in the battle. What might have happened had the bridge been destroyed after the Americans had crossed? or, had the German panzers been able to attack as a coherent force?&amp;#10;&amp;#10;The game uses a point to point movement system, easy to learn and hard to master. Daily turns, units range from company to battalions. The Americans must capture the bridge and cross to expand the bridgehead.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="27468" value="Cities: Remagen"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgamedesigner" id="8068" value="Mark Woloshen"/>
+    <link type="boardgameartist" id="11909" value="Todd Davis"/>
+    <link type="boardgamepublisher" id="4366" value="Firefight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="9"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="16"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

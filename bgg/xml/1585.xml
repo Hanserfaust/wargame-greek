@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1585">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0mjXiJ02_xuc5IicvNapysElPOg=/fit-in/200x150/pic358403.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/5n1Jss8FtdwIwvmfULSxGzzWNyU=/0x0/pic358403.jpg</image>
+    <name type="primary" sortindex="1" value="Burma"/>
+    <name type="alternate" sortindex="1" value="Burma II: The Campaign in Northern Burma, 1944"/>
+    <description>Burma - The Campaign for Northern Burma, March-August, 1944, is the sixth game in the Operational Combat Series (OCS) from The Gamers, and covers covers the 1944 campaigns beginning with the Japanese &amp;quot;U-Go&amp;quot; offensive and ending up as what would be know as Imphal-Kohima, the most dramatic defeat ever inflicted on a Japanese army.&amp;#10;&amp;#10;In the spring of 1944, two equally matched opponents faced each other in the jungles and mountains of Northern Burma. During that spring and summer, three independent, but simultaneous, dramas unfolded. In the west, the Japanese launched an all-out offensive to capture Imphal. In the center, the Chindits landed in the Japanese rear area. In the east, the Chinese/US forces moved toward Myitkyina against stubborn Japanese defenses. These battles took place in horrible terrain under the most difficult conditions imaginable with troops whose quality ranged from the world&amp;rsquo;s best to the world&amp;rsquo;s worst.&amp;#10;&amp;#10;Burma contains British, Indian, US, and Chinese troops of varying qualities with ample opportunities for both sides to attack and defend.&amp;#10;&amp;#10;While mainly a British and Indian show, the campaign would end up involving US (Galahad) and Chinese troops as well. Burma is the most markedly different of the OCS games, with a wide variety of unit types and qualities, the extremely dense terrain and lack of roads creating a challenging supply situation for both sides, and a more balanced situation as both sides have opportunities to attack and defend. There is more of the &amp;quot;cool stuff&amp;quot; too, with Galahad, Chindits, Gurkhas, lots of air supply and transport options creating some interesting situations, and the ever-enigmatic and unusual Japanese Army. Imphal-Kohima is by far the most interesting ground campaign of the PTO (from an operational perspective), and it's conversion to OCS is remarkably smooth, with a fairly modest set of game-specific rules.&amp;#10;&amp;#10;Unlike some other OCS games, Burma has an excellent range of scenarios, from a couple very short scenarios (1-2 hrs) through to a good selection of longer (6hr) scenarios and on up to 3 monster campaign games (30-60 hrs).&amp;#10;&amp;#10;Scenario Info:&amp;#10;&amp;#10;    Learning Scenario: 1/8th of Map B; 5 turns&amp;#10;    Short Scenario 1 - Operation Thursday: 1/4 of Map B; 9 turns&amp;#10;    Short Scenario 2 - U-Go: 3/4 map of Map B; 10 turns&amp;#10;    Short Scenario 3 - Merril's Marauders: 3/4 map, but requires both maps to play; 24 turns&amp;#10;    Short Scenario 4 - Sato's Dilemna: 1/2 map of Map A; 11 turns&amp;#10;    Short Scenario 5 - Imphal: 1/2 map of Map A; 17 turns&amp;#10;    Campaign Scenarios 1, 2, and 3 (which use both maps, obviously); 45, 41, and 31 turns respectively&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Game Scale:&amp;#10;Turn: 1/2 week&amp;#10;Hex: 5 miles / 8 Km&amp;#10;Units: Battalion to Division&amp;#10;&amp;#10;Game Inventory (Burma II - printed 2008):&amp;#10;Two 22 x 34&amp;quot; full-color mapsheets&amp;#10;Three dual-side printed countersheets (2 combat, 1 markers - 840 1/2&amp;quot; counters)&amp;#10;One 48-page OCS version v4.0 rules booklet&amp;#10;One 40-page Burma II specific rules booklet&amp;#10;Two 4-sided OCS v4.0 Charts &amp;amp; Tables booklets&amp;#10;Two 6-sided dice&amp;#10;&amp;#10;Players: 1 or more (also suitable for solitaire and team play)&amp;#10;Playing Time: 1 to 60 hours&amp;#10;Complexity: High&amp;#10;Solitaire Suitability: Moderate&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="1"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="1"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="1"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="20" value="Unplayable in another language" numvotes="2"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10625" value="Country: Burma"/>
+    <link type="boardgamefamily" id="80" value="Operational Combat Series"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgamedesigner" id="1681" value="Dave Friedrichs"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgameartist" id="406" value="Dean Essig"/>
+    <link type="boardgameartist" id="28351" value="David Pentland"/>
+    <link type="boardgamepublisher" id="219" value="The Gamers"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="309"/>
+        <average value="7.88276"/>
+        <bayesaverage value="5.93047"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2541" bayesaverage="5.93047"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="141" bayesaverage="7.02296"/>
+        </ranks>
+        <stddev value="1.38004"/>
+        <median value="0"/>
+        <owned value="1165"/>
+        <trading value="33"/>
+        <wanting value="67"/>
+        <wishing value="141"/>
+        <numcomments value="160"/>
+        <numweights value="52"/>
+        <averageweight value="4.0192"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

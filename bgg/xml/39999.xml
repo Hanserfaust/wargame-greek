@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="39999">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tTUbU-cZphPrAAqpC7O6uFPX-OM=/fit-in/200x150/pic433005.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/AGRDrihqdBWZaaTRUiJ2Et7P-4M=/0x0/pic433005.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Grenadier: War on the Equator"/>
+    <description>After over a century of border disputes with Ecuador, the Peruvian Army began a massive build up for a final reckoning. With modern tanks from Czechoslovakia and modern artillery and planes from Italy, South America's first unit of paratroopers and a battalion of marines, Peru unleashed its blitzkrieg in July 1941. The war lasted for seven weeks, ending with a crushing Peruvian victory as Ecuador was forced to hand over half of the territory claimed by the Quito government.&amp;#10;&amp;#10;War on the Equator is a supplement for the Panzer Grenadier system based on the battles waged between Peru and Ecuador in 1941. This module is not playable by itself, but requires ownership of Eastern Front and Road to Berlin. There are six scenarios, each based on an actual battle and featuring tank assaults, parachute landings, amphibious assaults, horsed cavalry and river gunboat operations.&amp;#10;&amp;#10;War on the Equator is sold exclusively via PDF download. The playing pieces are not die-cut and mounted, nor is the scenario book printed. Instead it comes as a series of .pdf files that will need to be assembled into the game's components.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Panzer Grenadier: Road to Berlin&amp;#10;    Panzer Grenadier: Eastern Front&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="12054" value="Country: Ecuador"/>
+    <link type="boardgamefamily" id="10646" value="Country: Peru"/>
+    <link type="boardgamefamily" id="123" value="Panzer Grenadier"/>
+    <link type="boardgameexpansion" id="16804" value="Panzer Grenadier: Eastern Front" inbound="true"/>
+    <link type="boardgameexpansion" id="16805" value="Panzer Grenadier: Road to Berlin" inbound="true"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgameartist" id="11831" value="Guy Riessen"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="7.47059"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.00346"/>
+        <median value="0"/>
+        <owned value="53"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="12"/>
+        <numcomments value="9"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

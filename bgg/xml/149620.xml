@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="149620">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/oitjvHVYch3PpNX4iQW-Lnf1nxA=/fit-in/200x150/pic1819745.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/cr8ZN_yu5gN4yTYoSpB68BLgtLc=/0x0/pic1819745.jpg</image>
+    <name type="primary" sortindex="1" value="Advanced Squad Leader: Starter Kit Historical Module 1 – Decision at Elst"/>
+    <name type="alternate" sortindex="1" value="Decision at Elst"/>
+    <description>(from MMP website:)&amp;#10;&amp;#10;Decision at Elst is the first Advanced Squad Leader Starter Kit Historical Module and covers the battle at Elst, Holland, in September 1944 between British and German units during Operation MARKET-GARDEN.&amp;#10;&amp;#10;It depicts the British 214th Brigade&amp;rsquo;s advance toward Arnhem through the Dutch town of Elst defended by the German Kampfgruppe Knaust. This area of Betuwe, also known as the Island, was the furthest advance of XXX Corps before the official end of the MARKET-GARDEN offensive on 25 September 1944.&amp;#10;&amp;#10;Decision at Elst comes with: &amp;#10;&amp;bull; a 22&amp;quot; x 34&amp;quot; historically-accurate map of the battlefield; &amp;#10;&amp;bull; three countersheets with British and German infantry, tanks, and guns, and game markers;&amp;#10;&amp;bull; two player aid cards;&amp;#10;&amp;bull; four historical scenarios and one Campaign Game; &amp;#10;&amp;bull; one 28-page ASL Starter Kit basic rules booklet (with all the latest finetuning); &amp;#10;&amp;bull; one 20-page DaE Campaign Game rules booklet, with all of the rules needed to play the scenarios and the Campaign Game, including new rules for the steeple, offboard artillery, polder terrain, and German SS units.&amp;#10;&amp;#10;Decision at Elst is a fully self-contained product and requires nothing else to play it.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="720"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="720"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="31" value="No necessary in-game text" numvotes="1"/>
+        <result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="35" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgamefamily" id="4050" value="Advanced Squad Leader Starter Kit"/>
+    <link type="boardgamedesigner" id="3615" value="Ken Dunn"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="156"/>
+        <average value="8.48205"/>
+        <bayesaverage value="5.77009"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3614" bayesaverage="5.77009"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="242" bayesaverage="6.76879"/>
+        </ranks>
+        <stddev value="1.49076"/>
+        <median value="0"/>
+        <owned value="933"/>
+        <trading value="10"/>
+        <wanting value="39"/>
+        <wishing value="85"/>
+        <numcomments value="68"/>
+        <numweights value="17"/>
+        <averageweight value="3.8235"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

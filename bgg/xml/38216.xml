@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="38216">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dK0WvtdeMPz7ZxXOGo5ODGREEyg=/fit-in/200x150/pic643228.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/oyVZziystZ8rRlO21TT8JfNAkHw=/0x0/pic643228.jpg</image>
+    <name type="primary" sortindex="1" value="Conflict of Heroes Expansion Pack: Map Board #6 – The Marsh"/>
+    <name type="alternate" sortindex="1" value="Angriff! Teil 1: Ostfront – Karte 6 – Der Sumpf"/>
+    <name type="alternate" sortindex="1" value="Conflict of Heroes: Extension &quot;Le Marais&quot;"/>
+    <description>A single-sided Conflict of Heroes battlefield board for featuring a swamp.  The board was initially released at Origins 2008.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2626" value="Conflict of Heroes"/>
+    <link type="boardgameexpansion" id="132028" value="Conflict of Heroes: Awakening the Bear! – Operation Barbarossa 1941 (second edition)" inbound="true"/>
+    <link type="boardgameexpansion" id="24800" value="Conflict of Heroes: Awakening the Bear! – Russia 1941-42" inbound="true"/>
+    <link type="boardgameexpansion" id="38823" value="Conflict of Heroes: Storms of Steel! – Kursk 1943" inbound="true"/>
+    <link type="boardgamedesigner" id="7457" value="Uwe Eickert"/>
+    <link type="boardgameartist" id="11866" value="Steve Paschal"/>
+    <link type="boardgamepublisher" id="7747" value="Academy Games, Inc."/>
+    <link type="boardgamepublisher" id="7186" value="ASYNCRON games"/>
+    <link type="boardgamepublisher" id="8450" value="Phalanx Games Deutschland"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="247"/>
+        <average value="7.51138"/>
+        <bayesaverage value="5.7945"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.7945"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.53832"/>
+        </ranks>
+        <stddev value="1.39263"/>
+        <median value="0"/>
+        <owned value="1321"/>
+        <trading value="61"/>
+        <wanting value="17"/>
+        <wishing value="53"/>
+        <numcomments value="115"/>
+        <numweights value="22"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

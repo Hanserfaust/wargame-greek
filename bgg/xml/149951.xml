@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="149951">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/M3kTC0VixDVC3so0LPtmTdpxfTM=/fit-in/200x150/pic3627881.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/x_9wQPyRwWUA9td9imTBjkIe6h8=/0x0/pic3627881.jpg</image>
+    <name type="primary" sortindex="1" value="Warfighter: The Tactical Special Forces Card Game"/>
+    <description>Command the world's best Special Forces operators and complete vital assault missions around the world!&amp;#10;&amp;#10;Warfighter is a card game for 1 to 6 players. You play cooperatively with your friends against the system to complete present day squad-level combat missions.&amp;#10;&amp;#10;At the start of each mission, you each select a soldier, equip him/her with skills, weapons, and combat gear within the mission's Resource limit.&amp;#10;&amp;#10;You then fight your way through hostile territory, engaging hostiles, as you attempt to reach and complete your mission objective.&amp;#10;&amp;#10;Every mission is a stand-alone game. You build your Soldiers, select your Gear, and then run your mission. Within 30 to 60 minutes you will have succeeded or failed.&amp;#10;&amp;#10;Warfighter uses a new combat system that takes into account the fire mode you select for your weapon, range, running out of ammo, suppression, and cover - all in the same dice roll! This system creates an incredibly deep narrative with every attack.&amp;#10;&amp;#10;As you eliminate hostiles, you gain experience to Upgun your Action cards.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+      <results numplayers="1">
+        <result value="Best" numvotes="20"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="10"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="11"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="13"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="17"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="8"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+      <results>
+        <result level="261" value="No necessary in-game text" numvotes="0"/>
+        <result level="262" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="263" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="264" value="Extensive use of text - massive conversion needed to be playable" numvotes="7"/>
+        <result level="265" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="47456" value="Warfighter: Tactical Card Games"/>
+    <link type="boardgameexpansion" id="151384" value="Warfighter: Expansion #1 – Reloading!"/>
+    <link type="boardgameexpansion" id="261631" value="Warfighter: Expansion #14 – Israel #1"/>
+    <link type="boardgameexpansion" id="261633" value="Warfighter: Expansion #15 – Israel #2"/>
+    <link type="boardgameexpansion" id="261634" value="Warfighter: Expansion #16 – Germany"/>
+    <link type="boardgameexpansion" id="261638" value="Warfighter: Expansion #17 – North Korean Adversaries"/>
+    <link type="boardgameexpansion" id="261650" value="Warfighter: Expansion #18 – Nation Skills"/>
+    <link type="boardgameexpansion" id="261654" value="Warfighter: Expansion #19 – Elite Drug War Adversaries"/>
+    <link type="boardgameexpansion" id="151385" value="Warfighter: Expansion #2 – Stealth"/>
+    <link type="boardgameexpansion" id="261938" value="Warfighter: Expansion #20 – North Korea Yongbyon Nuclear Facility"/>
+    <link type="boardgameexpansion" id="261942" value="Warfighter: Expansion #21 – Bin Laden"/>
+    <link type="boardgameexpansion" id="261659" value="Warfighter: Expansion #22 – US Airborne"/>
+    <link type="boardgameexpansion" id="261943" value="Warfighter: Expansion #23 – Syria Tabqa Airbase"/>
+    <link type="boardgameexpansion" id="261665" value="Warfighter: Expansion #24 – Chinese Adversaries"/>
+    <link type="boardgameexpansion" id="261948" value="Warfighter: Expansion #26 – United Kingdom"/>
+    <link type="boardgameexpansion" id="261667" value="Warfighter: Expansion #27 – Poland"/>
+    <link type="boardgameexpansion" id="261668" value="Warfighter: Expansion #28 – Australia"/>
+    <link type="boardgameexpansion" id="151386" value="Warfighter: Expansion #3 – Support"/>
+    <link type="boardgameexpansion" id="261669" value="Warfighter: Expansion #30 – Canada #1"/>
+    <link type="boardgameexpansion" id="261670" value="Warfighter: Expansion #31 – Canada #2"/>
+    <link type="boardgameexpansion" id="261671" value="Warfighter: Expansion #32 – African Warlords #1"/>
+    <link type="boardgameexpansion" id="261672" value="Warfighter: Expansion #33 – African Warlords #2"/>
+    <link type="boardgameexpansion" id="261959" value="Warfighter: Expansion #36 – Somali Pirate: MV Golden Nori"/>
+    <link type="boardgameexpansion" id="261674" value="Warfighter: Expansion #37 – K9 &amp; Handlers"/>
+    <link type="boardgameexpansion" id="261963" value="Warfighter: Expansion #43 – Jihadists  Oil Platform"/>
+    <link type="boardgameexpansion" id="169671" value="Warfighter: Expansion #5 – Speedball"/>
+    <link type="boardgameexpansion" id="169672" value="Warfighter: Expansion #6 – United Kingdom"/>
+    <link type="boardgameexpansion" id="169673" value="Warfighter: Expansion #7 – Russian Federation"/>
+    <link type="boardgameexpansion" id="169674" value="Warfighter: Expansion #8 – Eastern European Adversaries"/>
+    <link type="boardgameexpansion" id="177753" value="Warfighter: Expansion #9 – The Footlocker"/>
+    <link type="boardgameexpansion" id="284878" value="Warfighter: Modern Expansion #49 – Fajullah"/>
+    <link type="boardgameexpansion" id="286366" value="Warfighter: Modern Expansion #50 – Kandahar"/>
+    <link type="boardgameintegration" id="261624" value="Warfighter: The Modern Night Combat Card Game – Shadow War"/>
+    <link type="boardgameintegration" id="261666" value="Warfighter: The Private Military Contractor Card Game"/>
+    <link type="boardgameintegration" id="249421" value="Warfighter: The WWII Pacific Combat Card Game"/>
+    <link type="boardgameimplementation" id="196496" value="Warfighter: The WWII Tactical Combat Card Game"/>
+    <link type="boardgamedesigner" id="428" value="Dan Verssen"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="941"/>
+        <average value="7.74541"/>
+        <bayesaverage value="6.37057"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1177" bayesaverage="6.37057"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="86" bayesaverage="7.19559"/>
+        </ranks>
+        <stddev value="1.3998"/>
+        <median value="0"/>
+        <owned value="2023"/>
+        <trading value="76"/>
+        <wanting value="131"/>
+        <wishing value="506"/>
+        <numcomments value="325"/>
+        <numweights value="87"/>
+        <averageweight value="2.6897"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

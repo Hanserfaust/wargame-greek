@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18374">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Qem-6zah21UMHQVVsfnLeN36nh0=/fit-in/200x150/pic81362.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/apuErhLFeWGx7wC9lnv6mB64DAA=/0x0/pic81362.jpg</image>
+    <name type="primary" sortindex="1" value="Rulettes for 16th Century Naval Warfare"/>
+    <description>A &amp;quot;Rulette&amp;quot; is a small rules booklet, according to the publisher.  The whole booklet is very short and the rules are very concise (not covering every possible detail), but still very playable.&amp;#10;&amp;#10;This is a set of skirmish rules for wargaming, where one model equals one ship.  (However, if transporting troops, a based group of figures represents 500 foot soldiers or 250 horse.)&amp;#10;&amp;#10;Set largely in the Mediterranean Sea, it deals with both sailing and oared ships.  Only a few of the ships have cannons - most do not, in this era - but most forts have them.&amp;#10;&amp;#10;Rules are given for movement by oar and sail (wind is a factor), beaching, launching, shelter from the wind, and also for land units transported by these ships.  Combat covered includes cannon fire, small arms fire, hand-to-hand fighting, and morale.  Rules for terrain are covered, including islands, beaches, assaulting a fort, etc.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1978"/>
+    <minplayers value="2"/>
+    <maxplayers value="10"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="9">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="10">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="10+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="15"/>
+    <minplaytime value="15"/>
+    <maxplaytime value="15"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1070" value="Renaissance"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="938" value="Wargames Research Group"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="10"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="627">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/6k3gDGUntOZTWTsOHruSvT00ZUM=/fit-in/200x150/pic3023.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XyfKc3dUip3P79PHSjYx_KOcQEE=/0x0/pic3023.jpg</image>
+    <name type="primary" sortindex="1" value="Royal Tank Corps"/>
+    <description>From a session report:&amp;#10;&amp;#10;Ted Raicer's new game of the WWI Battle of Cambrai using a variant of the &amp;quot;Storm Over Arnhem&amp;quot; area/impulse system.&amp;#10;&amp;#10;Also published in Separate Volume #20 of Command Magazine Japan, together with 1918: Storm in the West.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamedesigner" id="484" value="Ted Raicer"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="539" value="Moments in History"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="62"/>
+        <average value="6.51855"/>
+        <bayesaverage value="5.54103"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9886" bayesaverage="5.54103"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1896" bayesaverage="5.75537"/>
+        </ranks>
+        <stddev value="1.49365"/>
+        <median value="0"/>
+        <owned value="192"/>
+        <trading value="11"/>
+        <wanting value="16"/>
+        <wishing value="23"/>
+        <numcomments value="40"/>
+        <numweights value="15"/>
+        <averageweight value="2.7333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

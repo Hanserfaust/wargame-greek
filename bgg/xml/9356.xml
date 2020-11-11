@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9356">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/uoZWMbbbwxv9kRBdUxTwlpA30I0=/fit-in/200x150/pic178488.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/TG1N3x1IbRNhMIqGpJCQvQprPEU=/0x0/pic178488.jpg</image>
+    <name type="primary" sortindex="1" value="Pacific Fleet"/>
+    <name type="alternate" sortindex="1" value="太平洋艦隊"/>
+    <description>Strategic level wargame covering all of World War II in the Pacific Theater.&amp;#10;&amp;#10;The Basic Game includes the campaigns in the Pacific, while the Expanded Game includes the war on the mainland in China and Russia. There are 5 scenarios.&amp;#10;&amp;#10;Scale: 1 turn = 3 months (1 turn consists 7 phases. 1 phase = 1 week for air-naval unit, rest 6 weeks are omitted as preparation term), 1 hex represents 250 miles. &amp;#10;Carriers are represented individually; other counters represent 2-10 vessels.&amp;#10;&amp;#10;The game is of advanced complexity and rules are comprehensive. the original rules and components are printed in Japanese, but English translations are included.&amp;#10;&amp;#10;Components include:&amp;#10;(1)  24-page rulebook&amp;#10;(1)  22x24&amp;quot; mapboard&amp;#10;(600) Counters&amp;#10;(3)  Task Force displays&amp;#10;(2)  Player Aid Cards&amp;#10;(1)  Turn, Phase and VP record cards&amp;#10;(2)  Scenario folder&amp;#10;(1)  Terrain Effects &amp;amp; Counter description card&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="3193" value="Hiroaki Sato"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="1563" value="Sunset Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="49"/>
+        <average value="7.68122"/>
+        <bayesaverage value="5.57822"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7369" bayesaverage="5.57822"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1085" bayesaverage="6.0118"/>
+        </ranks>
+        <stddev value="1.5862"/>
+        <median value="0"/>
+        <owned value="208"/>
+        <trading value="9"/>
+        <wanting value="30"/>
+        <wishing value="52"/>
+        <numcomments value="49"/>
+        <numweights value="15"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

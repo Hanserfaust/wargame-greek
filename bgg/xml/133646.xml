@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="133646">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KZyZi1P1grhAIewaEnZBfjutEOI=/fit-in/200x150/pic4566803.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/l2qr7iMaQRUQEf0cn_phH4aAh8Q=/0x0/pic4566803.jpg</image>
+    <name type="primary" sortindex="1" value="Battle of Hachioji Castle"/>
+    <name type="alternate" sortindex="1" value="八王子城攻城戦"/>
+    <description>Issue game of Wargame Japanese History #15.&amp;#10;&amp;#10;Battle of Hachioji was fought in 1590. This was part of Hideyoshi's Odawara campaign (http://en.wikipedia.org/wiki/Hachi&amp;#197;&amp;#141;ji_Castle).&amp;#10;The game focuses only the siege battle of Hachiouji Castle.&amp;#10;&amp;#10;Toyotomi's force are divided into 5 and each has its individual turn.  And between 2 of them there is a Hohjo's turn.  So, 1 game turn consits 10 player's turn.&amp;#10;&amp;#10;The game ends at the end of 13th turn.  If Toyotomi's force captures the honmaru until the end of the game, he wins.  Otherwise, Hohjo wins.&amp;#10;&amp;#10;Contains 1 map, 1 rulebook, 1 countersheet.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamedesigner" id="18511" value="Kenji Fushimi"/>
+    <link type="boardgameartist" id="52887" value="Tachibana Reiji"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.57143"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29363"/>
+        <median value="0"/>
+        <owned value="18"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="1"/>
+        <numweights value="3"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

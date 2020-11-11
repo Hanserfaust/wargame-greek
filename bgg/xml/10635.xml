@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10635">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0G1xkxbPqK_KcUv0PMxivjVgqiY=/fit-in/200x150/pic147931.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/JaK9FgGUSxzT8AajhlxtBMhKOJ8=/0x0/pic147931.jpg</image>
+    <name type="primary" sortindex="1" value="Crisis in the Ukraine"/>
+    <description>Crisis in the Ukraine is an operational level simulation of the Soviet spring offensive that resulted in the pocketing of the German First Panzer Army in March, 1944, during which eight Soviet armies, under the direction of Marshal Zhukov, encircled the German First Panzer Army. The Germans, part of von Manstien's Army Group South, executed a daring and brilliant breakout in blizzard conditions.&amp;#10;&amp;#10;In this fluid game of attack and counter-attack, both players are challenged with offensive and defensive actions. The game uses the &amp;quot;Panzergruppe Guderian&amp;quot; game system with numerous variations to fit this battle.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: 2 days&amp;#10;Hex: 3.5 miles / 5.6 kilometers&amp;#10;Units: Battalion to Corps&amp;#10;&amp;#10;Solitaire Playability: High&amp;#10;Complexity Level: Medium&amp;#10;Players: 2 or more&amp;#10;Playing Time: 4-15&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10643" value="Country: Germany"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="10635" value="Country: Ukraine"/>
+    <link type="boardgamedesigner" id="2970" value="Stephen B. Patrick"/>
+    <link type="boardgamedesigner" id="2874" value="Neil A. Rosenberg"/>
+    <link type="boardgamedesigner" id="3455" value="Milton Rosenberg"/>
+    <link type="boardgamepublisher" id="2348" value="Centurion Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="6.36667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.16142"/>
+        <median value="0"/>
+        <owned value="54"/>
+        <trading value="5"/>
+        <wanting value="5"/>
+        <wishing value="5"/>
+        <numcomments value="19"/>
+        <numweights value="2"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

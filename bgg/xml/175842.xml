@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="175842">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/U1_ZAUc05SvplQ2NRhc1-LzQHLw=/fit-in/200x150/pic2474546.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/d-uIXD_NfTh65dzZvYWHtnNCc14=/0x0/pic2474546.jpg</image>
+    <name type="primary" sortindex="1" value="One Shot Away: Operation Lam Son 719"/>
+    <description>Operation Lam Son 719 was the first major offensive waged by the Army of the Republic of South Vietnam (ARVN) outside of its borders. Supported by US airpower, the offensive sought to destroy the Communist supply dumps along the Ho Chi Minh trail in Cambodia and Laos, as well as disrupt any offensive by the forces of the North Vietnamese Army (NVA) and its People&amp;rsquo;s Army of Vietnam (PAVN), better known in the USA as the Vietcong. The offensive was also the first large scale test of President Nixon&amp;rsquo;s policy of &amp;ldquo;Vietnamization&amp;rdquo; in which the bulk of the war effort was to be borne by the ARVN as the US forces were withdrawn home.&amp;#10;&amp;#10;The Communist high command was well aware an offensive was in the works, and planned a counter-offensive. What ensued was one of the largest battles of the war that resulted in a very costly and controversial outcome. Both sides claimed victory but in the end the overall course of the war was little changed and America&amp;rsquo;s resolve to exit the conflict only deepened.&amp;#10;&amp;#10;Operation Lam Son is published by High Flying Dice Games. It is designed by Paul Rohrbaugh, with graphics by Bruce Yearian. Players use a standard deck of playing cards to activate units and resolve most combats.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

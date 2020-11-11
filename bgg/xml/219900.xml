@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="219900">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/JuOUroHxFSH_Yp0V8j1PCp5sXIQ=/fit-in/200x150/pic3438970.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9Dgp-n_b9JlVJLj4obKQoexhUKo=/0x0/pic3438970.jpg</image>
+    <name type="primary" sortindex="1" value="Niemenczyn 1794"/>
+    <description>Free DTP war game.&amp;#10;&amp;#10;The game &amp;quot;Niemenczyn 1794&amp;quot; recreates a skirmish, which occurred on 27th April 1794 near Vilnius. Polish unit of Lieutenant Colonel Stefan Grabowski attacked outnumbered force of Lieutenant Colonel Lewiz. The insurgents lost the clash. Board war game &amp;ldquo;Niemenczyn 1794&amp;rdquo; gives you the opportunity to lead Polish and Russian forces that fought against each other. An alternative scenario allows players to see how the battle could have turned out if more insurrectionary cavalry had taken part. Will the Poles enter the enemy camp? Or will the Polish attacks be stopped by Russian musket and artillery fire? The outcome of that battle is in your hands.&amp;#10;&amp;#10;Rules of the game utilize the proven mechanisms of the games of the battles of the Kosciuszko Uprising (&amp;quot;Raclawice 1794&amp;quot;, &amp;quot;Szczekociny 1794&amp;quot; and &amp;quot;Maciejowice 1794&amp;quot;). Due to the small amount of counters, &amp;quot;Niemenczyn 1794&amp;quot; is a good introduction to these games.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="150"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="150"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameintegration" id="67691" value="Racławice 1794"/>
+    <link type="boardgamedesigner" id="35698" value="Adam Niechwiej"/>
+    <link type="boardgameartist" id="35698" value="Adam Niechwiej"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="11687" value="Strategemata"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="6.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.5"/>
+        <median value="0"/>
+        <owned value="13"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="4"/>
+        <numcomments value="4"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

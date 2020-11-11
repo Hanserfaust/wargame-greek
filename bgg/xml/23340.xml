@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="23340">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/QJLiTWKH85H8cIOSm_p9RWcAQiI=/fit-in/200x150/pic362386.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1loGqHHoIJOls2Bgj500Mvf6Nt4=/0x0/pic362386.jpg</image>
+    <name type="primary" sortindex="1" value="Raid On Schweinfurt"/>
+    <description>Panzerschreck Magazine #15 with permission from Gary Graber&amp;#10;&amp;#10;Raid on Schweinfurt is a solitaire game depicting the USAAF raids in 1943 against the Schweinfurt ball-bearing factories in central Germany.  The player controls the planning and execution of each massive B-17 raid, assigning target, fighter coverage, number of waves, any &amp;quot;diversionary&amp;quot; raid, and so on.  It includes a &amp;quot;role play&amp;quot; option enabling you to play as though you are one of the crew members of a participating Flying Fortress, thus adding a layer of excitement to play.  Fly over Germany with up to 400 bombers in a game that plays in much less than an hour!  Contains 60 double-sided die-cut counters, 8.5&amp;quot; x 11&amp;quot; full-color cardstock map containing all game tables, and rules.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="1"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6221" value="Magazine: Panzerschreck"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgameartist" id="3095" value="Art Lupinacci"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.67143"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.38018"/>
+        <median value="0"/>
+        <owned value="69"/>
+        <trading value="4"/>
+        <wanting value="2"/>
+        <wishing value="7"/>
+        <numcomments value="13"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

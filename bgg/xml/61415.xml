@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="61415">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/C_v4NlW3vBMyJmeZ5BZh07O2nOs=/fit-in/200x150/pic701894.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1xz-TZW0BLyI7F9lOKN3ABxirl8=/0x0/pic701894.jpg</image>
+    <name type="primary" sortindex="1" value="Warhammer 40,000 Expansion: Apocalypse Reload"/>
+    <name type="alternate" sortindex="1" value="Warhammer 40,000: Apocalipsis Reload"/>
+    <name type="alternate" sortindex="1" value="Warhammer 40,000: Apocalisse Reload"/>
+    <name type="alternate" sortindex="1" value="Warhammer 40,000: Apocalypse Reload"/>
+    <description>Publishers Blurb:&amp;#10;&amp;#10;Apocalypse Reload allows you to take your games of Warhammer 40,000 Apocalypse to a whole new level. Command hundreds of men and squadron after squadron of vehicles in deadly battle formations. The greatest heroes of the age will march to war as huge, impossibly powerful, war machines stride forward, their super-heavy weapons reducing the enemy to a bloody mess. Use orbiting spacecraft to unleash weapons of planet-shattering power and employ devastating strategic assets. This is war on a scale undreamt of.&amp;#10;&amp;#10;This 88-page large-format, supplement book contains additional material for your Warhammer 40,000 Apocalypse games, including: over 50 new datasheets, more than 40 new strategic assets, an overview of some useful tactics and a large gatefold spread featuring a titanic battle report.&amp;#10;&amp;#10;You must possess a copy of Warhammer 40,000 and the Warhammer 40,000 Apocalypse supplement in order to use the contents of this book.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="6+">		
+				</results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="4341" value="Warhammer 40,000 Wargames"/>
+    <link type="boardgameexpansion" id="37165" value="Warhammer 40,000 (fifth edition)" inbound="true"/>
+    <link type="boardgameexpansion" id="33048" value="Warhammer 40,000: Apocalypse" inbound="true"/>
+    <link type="boardgameimplementation" id="145847" value="Warhammer 40,000: Apocalypse"/>
+    <link type="boardgameimplementation" id="284126" value="Warhammer 40,000: Apocalypse"/>
+    <link type="boardgamedesigner" id="712" value="Jervis Johnson"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="26" value="Games Workshop Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="31"/>
+        <average value="5.87742"/>
+        <bayesaverage value="5.51757"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.51757"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.62391"/>
+        </ranks>
+        <stddev value="2.57202"/>
+        <median value="0"/>
+        <owned value="93"/>
+        <trading value="2"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="3"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

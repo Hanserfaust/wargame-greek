@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="32150">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-KHUr61JNeg7PFHGzxwwQFe4dJE=/fit-in/200x150/pic255501.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RmFD3v-lex4sXMYyPU0zcaPRItQ=/0x0/pic255501.jpg</image>
+    <name type="primary" sortindex="1" value="Ambush Alley"/>
+    <description>Ambush Alley is a modern miniature wargame that allows players to recreate the intense counter-insurgency actions in an urban environment that have become the hallmark of 21st century warfare. The rules revolve around a universal mechanic that is easy to grasp but supports a high level of detail and rewards sound tactical play. The game&amp;rsquo;s dynamic turn sequence captures the turmoil of the modern city fight and integrated fog of war keeps things chaotic and unpredictable!&amp;#10;&amp;#10;Ambush Alley contains complete rules for all the key elements of modern counter-insurgency and street-fighting, including:&amp;#10;&amp;#10;&amp;#10;     Civilians on the Battlefield &amp;#10;     Full Vehicle Rules &amp;#10;     Special Assets and Off-Board Support &amp;#10;     Night Combat&amp;#10;     UAVs &amp;#10;     IEDs and VBIEDs &amp;#10;     Building Clearing &amp;#10;     And much more! &amp;#10;&amp;#10;&amp;#10;Ambush Alley includes five scenarios and sample organizational charts for US, British, and Australian forces.&amp;#10;&amp;#10;The game can be played at any scale from 15mm up. 15mm scenarios call for a 2&amp;rsquo;x2&amp;rsquo; table, while 28mm games only require a 4&amp;rsquo;x4&amp;rsquo; table.&amp;#10;&amp;#10;Ambush Alley is easy on the pocketbook where miniatures are concerned. Few scenarios require more than ten figures for the Regular force and a dozen or so for the Insurgents.&amp;#10;&amp;#10;Ambush Alley also offers full solo-play rules, so players can still have fun pushing their figures around the table even when a flesh and blood opponent isn&amp;rsquo;t available!&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;&amp;#10;     Ambush Alley: Day of the Rangers (2008)&amp;#10;     Ambush Alley: Motor Pool (2007)&amp;#10;     INVALID OBJECT ID=33973, type=thing (2007)&amp;#10;     Ambush Alley: The Three Block War (2008)&amp;#10;     Ambush Alley: Art of War (2008)&amp;#10;     Ambush Alley: Operation &amp;#226;&amp;#128;&amp;#147; Darkstar (2008)&amp;#10;     Ambush Alley: Under the Black Flag (2008)&amp;#10;     Ambush Alley: Lawyers, Guns &amp; Money (2008)&amp;#10;     Ambush Alley: Indian Country (2009)&amp;#10;     The Wasteland (2010)&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="86" value="No necessary in-game text" numvotes="0"/>
+        <result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="90" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgameexpansion" id="37890" value="Ambush Alley: Art of War"/>
+    <link type="boardgameexpansion" id="35461" value="Ambush Alley: Day of the Rangers"/>
+    <link type="boardgameexpansion" id="42722" value="Ambush Alley: Indian Country"/>
+    <link type="boardgameexpansion" id="39243" value="Ambush Alley: Lawyers, Guns &amp; Money"/>
+    <link type="boardgameexpansion" id="33972" value="Ambush Alley: Motor Pool"/>
+    <link type="boardgameexpansion" id="38398" value="Ambush Alley: Operation – Darkstar"/>
+    <link type="boardgameexpansion" id="37355" value="Ambush Alley: The Three Block War"/>
+    <link type="boardgameexpansion" id="38864" value="Ambush Alley: Under the Black Flag"/>
+    <link type="boardgameexpansion" id="64649" value="The Wasteland"/>
+    <link type="boardgamedesigner" id="9867" value="Shawn Carpenter"/>
+    <link type="boardgamedesigner" id="9868" value="Robby Carpenter"/>
+    <link type="boardgamedesigner" id="9869" value="David Phipps"/>
+    <link type="boardgamepublisher" id="7510" value="Ambush Alley Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="54"/>
+        <average value="7.84259"/>
+        <bayesaverage value="5.58208"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7202" bayesaverage="5.58208"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1071" bayesaverage="6.01751"/>
+        </ranks>
+        <stddev value="1.197"/>
+        <median value="0"/>
+        <owned value="120"/>
+        <trading value="1"/>
+        <wanting value="8"/>
+        <wishing value="32"/>
+        <numcomments value="22"/>
+        <numweights value="5"/>
+        <averageweight value="2.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="235453">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mhltO7BqliidZuofgIBZnxcotDM=/fit-in/200x150/pic3692332.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/y13w6tlUn6oGOu_AEKM4nfThbhI=/0x0/pic3692332.jpg</image>
+    <name type="primary" sortindex="1" value="Special Ops Issue #7"/>
+    <description>Special Ops #7 has eight articles, two ASL scenarios, two ASLSK scenarios, and Autumn For Barbarossa, a complete Standard Combat Series (SCS) game.&amp;#10;&amp;#10;Featured articles cover Baptism By Fire (BCS), Angola! (IGS), Soviet play in Case Blue (OCS), BCS design concepts, analyzing OCS with hints and examples, deciding which OCS scenarios are right for you, pillboxes in ASL, and a preview of the upcoming PTO addition to ASL Starter Kit line.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgamefamily" id="4050" value="Advanced Squad Leader Starter Kit"/>
+    <link type="boardgamefamily" id="23692" value="Special Ops"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="9823" value="Advanced Squad Leader: Starter Kit #1" inbound="true"/>
+    <link type="boardgameexpansion" id="15126" value="Advanced Squad Leader: Starter Kit #2" inbound="true"/>
+    <link type="boardgameexpansion" id="20542" value="Advanced Squad Leader: Starter Kit #3" inbound="true"/>
+    <link type="boardgamecompilation" id="232139" value="Autumn For Barbarossa" inbound="true"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="7.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.829156"/>
+        <median value="0"/>
+        <owned value="137"/>
+        <trading value="1"/>
+        <wanting value="4"/>
+        <wishing value="7"/>
+        <numcomments value="8"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

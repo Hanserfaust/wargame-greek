@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="19890">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZCWhnRjrJTijvgEOnwctPJdhf3U=/fit-in/200x150/pic3703061.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fquhi75hIjiWULjVAq1yH4nI8LE=/0x0/pic3703061.jpg</image>
+    <name type="primary" sortindex="1" value="How To Play War Games in Miniature"/>
+    <description>From the dust jacket:&amp;#10;&amp;#10;&amp;quot;Fighting battles on table tops, with miniature soldiers and model terrain features, is one of the oldest and most exciting of indoor sports. A good war game combines all the strategy of chess, all the fun of model railroading, and all the excitement and challenge of a game of baseball. Thanks to innovations in the manufacture of military miniatures, large numbers of excellent figures can now be obtained at very low cost. The result, in recent years, has been a dramatic upsurge in the popularity of war gaming.&amp;#10;&amp;#10;Joseph Morschauser's How to Play War Games in Miniature explains every step in setting up and playing a table top war: how to obtain soldiers and their equipment; how to construct model terrain; how to deploy and maneuver troops; and how to fight battles which accurately reproduce the tactical conditions appropriate to any historic period from remote antiquity to the present.&amp;#10;&amp;#10;Mr. Morschauser is an award-winning editor of one of America's greatest weekly magazines and a long-time war gamer. His book will introduce an exciting new pastime to thousands of older boys - and, indeed, their fathers.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1962"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1075" value="American Revolutionary War"/>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="6145" value="Joseph Morschauser III"/>
+    <link type="boardgamepublisher" id="4581" value="Walker and Company"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="7.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.21108"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="10"/>
+        <numweights value="2"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

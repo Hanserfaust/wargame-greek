@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="242589">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/60e1pDI9Zd2lGfnJLJFaTOIiyTA=/fit-in/200x150/pic4002129.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sDgLkFeDe5gnmZcJx5kyZrBy5gE=/0x0/pic4002129.jpg</image>
+    <name type="primary" sortindex="1" value="NATO Air Commander"/>
+    <description>The game of solitaire strategic air command in World War III.&amp;#10;&amp;#10;The game puts the player in the shoes of an Allied Air Commander during a hypothetical World War III set around 1987.&amp;#10;&amp;#10;To that end, the decisions you make in this game are big theater decisions and the scale of the game works on the level of flights of aircraft. Each turn, you're creating and assembling raids and assigning missions to air units, hoping to influence the ground war - over which you have limited control.&amp;#10;&amp;#10;Simple and fast but laced with tough decisions.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="46190" value="Cold War"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="112505" value="Brad Smith"/>
+    <link type="boardgameartist" id="81197" value="Ania B. Ziolkowska"/>
+    <link type="boardgamepublisher" id="33711" value="Hollandspiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="40"/>
+        <average value="7.8785"/>
+        <bayesaverage value="5.55911"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8468" bayesaverage="5.55911"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1350" bayesaverage="5.90758"/>
+        </ranks>
+        <stddev value="1.16113"/>
+        <median value="0"/>
+        <owned value="145"/>
+        <trading value="5"/>
+        <wanting value="34"/>
+        <wishing value="86"/>
+        <numcomments value="20"/>
+        <numweights value="6"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

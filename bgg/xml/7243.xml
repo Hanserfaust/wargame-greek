@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7243">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/G3lRIC9sJEVvP5jYnPYRkZ-P0NU=/fit-in/200x150/pic29738.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8OG82Dn-SV0MgXX7qlczOyQ2lFo=/0x0/pic29738.jpg</image>
+    <name type="primary" sortindex="1" value="8th Army"/>
+    <description>[From the back cover...]&amp;#10;&amp;#10;8TH ARMY is a fast moving game of the see-saw campaign in North Africa between December 1940 and January 1943. Players command the Axis or Allied forces involved in the campaign and considerable emphasis is placed on the importance of supply to the fighting units.&amp;#10;&amp;#10;A simple introductory game has been specially designed to familiarize beginners to the wargaming system of play. Examples are used extensively throughout the rules, which build up through the Basic Game, Intermediate Game and finally the Advanced Game.&amp;#10;&amp;#10;Six scenarios are included for use with the Intermediate rules which involve Maintenance Supply, Combat Supply, Replacements and Reinforcements, Overrun, Leaders, Air Units and the use of specialist units such as the SAS and the Long Range Desert Group. Convoys and the bombing and invasion of Malta are brought into the Advanced Games.&amp;#10;&amp;#10;The counter mix includes German, Italian and Allied forces: Armor, Motorized/Mechanized/Foot Infantry, Air Units, Fortifications, Merchant Ships and Escorts, Generals O'Connor, Montgomery and Rommel and the SAS/LRDG.&amp;#10;&amp;#10;Components: 11.75&amp;quot; x 32.5&amp;quot; full-color, mounted map board in five interlocking sections, 100 die-cut counters, rules booklet and one die.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1028" value="Attactix Adventure Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="53"/>
+        <average value="6.76415"/>
+        <bayesaverage value="5.55193"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8978" bayesaverage="5.55193"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1688" bayesaverage="5.8191"/>
+        </ranks>
+        <stddev value="0.993392"/>
+        <median value="0"/>
+        <owned value="141"/>
+        <trading value="5"/>
+        <wanting value="0"/>
+        <wishing value="8"/>
+        <numcomments value="25"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

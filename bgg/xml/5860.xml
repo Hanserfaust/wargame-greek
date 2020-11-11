@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5860">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0De5_IVdzOB2Cj7PQ4KDadJiGYQ=/fit-in/200x150/pic50019.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/twVphGdUuC1cLhhAIaxk5lD6k6k=/0x0/pic50019.jpg</image>
+    <name type="primary" sortindex="1" value="Descent on Crete"/>
+    <description>Descent on Crete is a tactical, company level simulation of the largest German airdrop of World War II.&amp;#10;&amp;#10;The entire scope of the operation is taken in, as players are given the command decisions throughout the operation. Special rules covering the air drop, air strikes, supply, leadership, fatigue, and British Armour are included. Depending on the scenario being played, players gain points for various objectives and for eliminating their opponent's units  strength points.&amp;#10;&amp;#10;The player with the most points, after a set number of turns, is the winner.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1978"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="101" value="No necessary in-game text" numvotes="0"/>
+        <result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="105" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="27503" value="Islands: Crete"/>
+    <link type="boardgamedesigner" id="169" value="Eric Goldberg"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="56"/>
+        <average value="5.95"/>
+        <bayesaverage value="5.51719"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12503" bayesaverage="5.51719"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2498" bayesaverage="5.58714"/>
+        </ranks>
+        <stddev value="1.67492"/>
+        <median value="0"/>
+        <owned value="218"/>
+        <trading value="5"/>
+        <wanting value="12"/>
+        <wishing value="18"/>
+        <numcomments value="43"/>
+        <numweights value="11"/>
+        <averageweight value="3.9091"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="158586">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/o0_NW7TBAG2iwG8aVsm5AP3MSHs=/fit-in/200x150/pic2357335.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iZOqMY9kljWrkZQGlxybDK6IjNE=/0x0/pic2357335.jpg</image>
+    <name type="primary" sortindex="1" value="Rampage"/>
+    <description>Rampage is purpose-designed solitaire wargame that covers the fighting in northwest Europe from the time of the Argentan-Falaise encirclement in mid-August 1944 through the end of September. You actively commands the Allied forces, while the rules system directs you in the handling of German forces. You win by accumulating victory points via seizure of key areas on the map.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3244" value="Magazine: World at War"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="77"/>
+        <average value="6.47403"/>
+        <bayesaverage value="5.55278"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8927" bayesaverage="5.55278"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2430" bayesaverage="5.60911"/>
+        </ranks>
+        <stddev value="1.58985"/>
+        <median value="0"/>
+        <owned value="518"/>
+        <trading value="12"/>
+        <wanting value="6"/>
+        <wishing value="14"/>
+        <numcomments value="36"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="38951">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/a4uZ7Q5iXYcu7OLfzoeqGRb926w=/fit-in/200x150/pic812693.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qQ5jeklYnfI6Cy9TX4Gdmf66kV4=/0x0/pic812693.jpg</image>
+    <name type="primary" sortindex="1" value="Victory at Sea"/>
+    <description>Victory at Sea is a simulation of World War II at sea. It combines War at Sea (second edition) and Victory in the Pacific, although it is advisable to use War at Sea 2 since Victory at Sea uses several maps included with this game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1977"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="23395" value="Magazine: The General"/>
+    <link type="boardgamefamily" id="6379" value="War at Sea"/>
+    <link type="boardgameexpansion" id="1442" value="Victory in the Pacific" inbound="true"/>
+    <link type="boardgameexpansion" id="1431" value="War at Sea (second edition)" inbound="true"/>
+    <link type="boardgameexpansion" id="4686" value="War at Sea 2" inbound="true"/>
+    <link type="boardgamedesigner" id="19" value="Richard Hamblen"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="7.1875"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.88642"/>
+        <median value="0"/>
+        <owned value="66"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="8"/>
+        <numcomments value="11"/>
+        <numweights value="3"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

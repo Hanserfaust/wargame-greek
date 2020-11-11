@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="42255">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/xgAYovbt1rTA-n5gUV9ofI9WTsI=/fit-in/200x150/pic667896.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/u3rSVsOgdPGh7ftqfR9R2U64RZE=/0x0/pic667896.jpg</image>
+    <name type="primary" sortindex="5" value="The Kaiser's War: World War I, 1918-19"/>
+    <description>The Kaiser&amp;rsquo;s War (KW), is an intermediate-complexity, strategic-level simulation of the last year of World War I in Europe, including an optional what-if extension into 1919. As 1918&amp;rsquo;s campaign season opened, the Central Powers had defeated the Russian Empire and dominated much of Europe, yet less than a year later the Western Allies were triumphant.&amp;#10;&amp;#10;The concept of &amp;ldquo;victory points&amp;rdquo; (VP) is central to play of game. Players begin each scenario with a designated number of VP. They may expend them to gain reinforcements and carry out certain actions. They gain new VP as a result of achieving objectives; they lose VP when they lose units in combat. To win the game you must have more VP than your opponent; so play is a balancing act between expending VP and attaining objectives.&amp;#10;&amp;#10;This is a two-player game: one player controls the Central Powers; the other player controls the Allies. Each hex on the map represents 62 miles (100 km) from side to opposite side. The map shows all of Europe from London to Moscow and south to Italy and Greece. Each game turn represents two months. Units of maneuver are mostly armies, along with certain elite and specialized corps. There are 17,500 words in the rules. Two experienced players can finish the shorter (historical) scenario in about four hours. Designed by Joseph Miranda.&amp;#10;&amp;#10;The rules cover such things as: mobilization, replacements, unit conversions, trenches, fortified zones, fog of war, railroads, headquarters, air bases, naval bombardment, seasons, neutrals, Bolshevik and nationalist forces, critical cities, psychological warfare, morale, stand-fast orders, shock troops, proto-mechanized warfare, the Poles, the Allied Blockade, alpine units, the USMC, guerrillas, the Arab Legion, and much more.&amp;#10;&amp;#10;Reprinted in Command Magazine Japan #140 in April 2018.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgamedesigner" id="1893" value="Joe Youst"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="51"/>
+        <average value="7.30784"/>
+        <bayesaverage value="5.56624"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7991" bayesaverage="5.56624"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1339" bayesaverage="5.90983"/>
+        </ranks>
+        <stddev value="1.31102"/>
+        <median value="0"/>
+        <owned value="271"/>
+        <trading value="10"/>
+        <wanting value="13"/>
+        <wishing value="27"/>
+        <numcomments value="34"/>
+        <numweights value="8"/>
+        <averageweight value="2.625"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

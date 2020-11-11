@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17953">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/8j0mnF0TfYBc5OtKZeWlgTsfI5c=/fit-in/200x150/pic78256.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hOVk5kSDRz_Y2GIRLxhB8aaFW4g=/0x0/pic78256.jpg</image>
+    <name type="primary" sortindex="1" value="Empires of Arcana"/>
+    <description>Empires of Arcana is a fantasy empire-building board game, designed over the past 2 years. In it, you will play a warlord trying to dominate Arcana, using a variety of troops to conquer your enemies. As you build up your empire, you will be able to collect more gold and mana, allowing you to build still stronger structures, support larger armies, and cast more powerful magic.&amp;#10;&amp;#10;It was designed to be simple to learn and fast-playing, but there are many roads to victory and strategies can be complex. Some players strive for magical supremacy, allowing them to cast enormous amounts of spells per turn, including collapsing enemy structures or destroying entire armies in rains of fire. Some build networks of gates, providing enormous flexibility in maneuvering troops and giving a boost to income. Some try to rapidly build castles up in their territories, giving great bonuses to defense and income, while allowing many dragons to be recruited per turn. Still others simply strive for rapid conquest, using basic infantry and cavalry to their best effect and depending on large land holdings to pay for their armies.&amp;#10;&amp;#10;Empires of Arcana was also built for flexibility. Two different ways to play come with the game, including an aggressive goblin scenario that puts player cooperation to the test and is perfectly suited for solitaire play.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="1661" value="Thane Morgan"/>
+    <link type="boardgamepublisher" id="4038" value="Thane's Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="19"/>
+        <average value="7.84211"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.71719"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="3"/>
+        <wanting value="29"/>
+        <wishing value="86"/>
+        <numcomments value="17"/>
+        <numweights value="3"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

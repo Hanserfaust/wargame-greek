@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="26203">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/QS_t6akbd7prNIoI6r203slotzY=/fit-in/200x150/pic156810.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Mv5nn3Sobur6YBAvQQ21ZNpsi2I=/0x0/pic156810.jpg</image>
+    <name type="primary" sortindex="1" value="Star Fleet Battles Silver Anniversary Master Rulebook"/>
+    <description>Part of the Star Fleet Battles Captain's Edition line.&amp;#10;&amp;#10;Huge Master Rulebook (over 400 pages) has all of the &amp;quot;rules&amp;quot; (no scenarios, annexes, or ship descriptions) from Basic Set, Advanced Missions, C1, C2, C3, J, J2, K, M, X, and Y1.&amp;#10;&amp;#10;All rules have been integrated into a single continuous text, all errata has been incorporated, and some new clarifications and examples have been added.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="21" value="Star Fleet Battles"/>
+    <link type="boardgamefamily" id="95" value="Star Fleet Universe"/>
+    <link type="boardgamefamily" id="7392" value="Star Trek"/>
+    <link type="boardgameexpansion" id="29663" value="Star Fleet Battles: Captain's Edition Basic Set" inbound="true"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="25" value="Amarillo Design Bureau, Inc."/>
+    <link type="boardgamepublisher" id="352" value="Task Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="48"/>
+        <average value="8.55833"/>
+        <bayesaverage value="5.60911"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.60911"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.20056"/>
+        </ranks>
+        <stddev value="1.67043"/>
+        <median value="0"/>
+        <owned value="105"/>
+        <trading value="3"/>
+        <wanting value="4"/>
+        <wishing value="16"/>
+        <numcomments value="20"/>
+        <numweights value="7"/>
+        <averageweight value="4.8571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

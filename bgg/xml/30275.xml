@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30275">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Am0ATqapogJ2lFZ_Vze7l-l7mCA=/fit-in/200x150/pic4454416.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/VmspPZu7NRYyfFkP6p8khMYgQiE=/0x0/pic4454416.jpg</image>
+    <name type="primary" sortindex="1" value="In the Heart of Africa"/>
+    <description>Wargames rules for the period of Exploration and Imperialism in &amp;quot;Darkest Africa&amp;quot; from 1860 to 1899.&amp;#10;&amp;#10;A set of fast-play wargames rules for the period of exploration and imperial conquest in tropical Africa. Chronologically this corresponds roughly to the second half of the 19th century, while geographically it covers the region between the Zambezi River in the south, and the edge of the Sahara Desert in the north &amp;ndash; the classic &amp;ldquo;Darkest Africa&amp;rdquo; of the explorers.&amp;#10;&amp;#10;The first edition was released in October 2000. They were basically a much evolved version of the ones which were published in Wargames Illustrated as a series of articles during 1999.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameexpansion" id="266653" value="In the Heart of Africa: Army Lists"/>
+    <link type="boardgamedesigner" id="5949" value="Chris Peers"/>
+    <link type="boardgamepublisher" id="3899" value="Brigade Games"/>
+    <link type="boardgamepublisher" id="4529" value="HLBS Publishing (The Honourable Lead Boiler Suit Company)"/>
+    <link type="boardgamepublisher" id="6373" value="Rattrap Productions LLC"/>
+    <link type="boardgamepublisher" id="18494" value="Sinister Laboratories LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29904"/>
+        <median value="0"/>
+        <owned value="13"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

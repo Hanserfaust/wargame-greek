@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="35669">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/T9zup9W10m6BDDKpsVCQcxKHoNA=/fit-in/200x150/pic325121.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ObjetDdACo862MQrQ9aBPc9zgC8=/0x0/pic325121.jpg</image>
+    <name type="primary" sortindex="1" value="Bastogne: Screaming Eagles under Siege"/>
+    <description>Bastogne: Screaming Eagles Under Siege,18-27 Dec '44,  is the thirteenth game is the Standard Combat Series.  This game covers the defense of the little crossroads town of Bastogne from 18 December to 26 December 1944. It is not a game about the whole Ardennes Offensive, but rather a close-up look at the actual perimeter battle to protect the town and the mechanized delaying actions leading into it. The map only extends as far east as Longvilly and north to Noville at 400m per hex. Each turn is a day, units are generally companies.&amp;#10;&amp;#10;Bastogne comes with special rules for road marching, Team SNAFU, barrages, and air strikes - but is built around a quick-to-play, simple-to-learn framework. Bastogne has three scenarios: an introductory scenario covering the Battle for Noville, a medium-sized one covering the Battle for Longvilly, and the withdrawal of Team Cherry plus the counterattack by the 501st Airborne Regiment, and the campaign game itself covering the whole action in a jam-packed 10 turns. A number of variants have been provided so you can experience the game over and over looking at fresh insights.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: One day&amp;#10;Hex: 400 meters&amp;#10;Units: Platoon to Battalion&amp;#10;&amp;#10;Players: 2 (suitable for solitaire play)&amp;#10;Playing Time: 4+ hours&amp;#10;Complexity: Low&amp;#10;Solitaire Suitability: High&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="13"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="12226" value="Country: Belgium"/>
+    <link type="boardgamefamily" id="121" value="Standard Combat Series"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgameartist" id="406" value="Dean Essig"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="356"/>
+        <average value="7.40275"/>
+        <bayesaverage value="5.90652"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2666" bayesaverage="5.90652"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="233" bayesaverage="6.79108"/>
+        </ranks>
+        <stddev value="1.37051"/>
+        <median value="0"/>
+        <owned value="1005"/>
+        <trading value="22"/>
+        <wanting value="46"/>
+        <wishing value="142"/>
+        <numcomments value="163"/>
+        <numweights value="48"/>
+        <averageweight value="2.6458"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

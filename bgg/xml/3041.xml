@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3041">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/DIu558NLoLlkXIray0JBzJ5utWA=/fit-in/200x150/pic187445.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/63X5tHjPGUzufZZN3wNwTLsh-fg=/0x0/pic187445.jpg</image>
+    <name type="primary" sortindex="1" value="Panzergruppe Guderian"/>
+    <name type="alternate" sortindex="1" value="Στρατάρχης Γκουντεριάν"/>
+    <description>Panzergruppe Guderian is a simulation of the German campaign to capture Smolensk in July, 1941.  The game is played in twelve turns, each one representing 2 days time, on a map scale of 10.5 km/hex.&amp;#10;&amp;#10;The game is famous for its innovative use of &amp;quot;untried&amp;quot; Soviet units.  These untried Soviet counters enter play face down, their combat strength unknown to either player, until they take part in combat, at which time they are flipped to reveal their strength and defense numbers.&amp;#10;&amp;#10;The game also models the effectiveness of German operations by allowing them a full mechanized movement phase both before and after combat, while the Soviets only move prior to combat.  In addition, if all of a German division's regiments attack or defend in the same hex, their strength is doubled by a divisional integrity bonus.&amp;#10;&amp;#10;The German player scores victory points for the capture of cities, and for any Soviet units redirected from the Southwestern Front.  The Soviet player scores vp for recaptured cities and destroying entire German divisions (which possess several steps of strength).&amp;#10;&amp;#10;The game includes: 1 map, counters (AH edition = 260; SPI edition = 200), 1 6-sided die, 1 Soviet reference card, 1 German reference card, 1 rules book, and 1 advanced rules insert.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1976"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="300"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamefamily" id="23116" value="Panzergruppe Guderian System"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="637"/>
+        <average value="7.28026"/>
+        <bayesaverage value="6.05617"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2012" bayesaverage="6.05617"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="200" bayesaverage="6.86693"/>
+        </ranks>
+        <stddev value="1.4717"/>
+        <median value="0"/>
+        <owned value="1511"/>
+        <trading value="47"/>
+        <wanting value="49"/>
+        <wishing value="135"/>
+        <numcomments value="380"/>
+        <numweights value="86"/>
+        <averageweight value="2.8605"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

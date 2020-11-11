@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="154098">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/MnVQJ-2qZ8LhlZ_iQ6tEK7BPvoA=/fit-in/200x150/pic2661663.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/EPhZV9XDLAr9kC5jvkeM6GW35Xg=/0x0/pic2661663.jpg</image>
+    <name type="primary" sortindex="1" value="1914: Germany at War"/>
+    <description>On 28 June 1914, Archduke Franz Ferdinand of Austria and his wife were shot dead in Sarajevo, by Gavrilo Princip, member of the Black Hand, a political organization seeking for a merging of the Balkan area into a Greater Serbia or a Yugoslavia.&amp;#10;&amp;#10;Austria-Hungary subsequently issued an ultimatum against Serbia. As the ultimatum was rejected, Austria-Hungary then declared war, marking the outbreak of the war.&amp;#10;&amp;#10;While France and Russia immediately sided with Serbia, Germany joined the Austria-Hungary and started a surprise offensive in the west with the objective of quickly defeating the French, to then turn east and knock the Tzarist Russia out of the war.&amp;#10;&amp;#10;&amp;#10;1914 is a game of World War I conflict simulation at the strategic level. It recalls the most decisive battles fought by Germany on the Western in 1914. Although based on historical events and battles, the players in command of the two factions can modify the evolution of World War I.&amp;#10;&amp;#10;The game is recommended for two or three players, but has a good solitaire suitability.&amp;#10;&amp;#10;Developed with a system of wooden blocks and cubes and played out over a 64x86 cm multicolor mapboard, with more than 200 wooden components painted &amp;quot;A buratto&amp;quot;, a technique usually adopted for painting car parts and accessories.&amp;#10;&amp;#10;The rules are divided into two major sections which can be learned one at a time:&amp;#10;&amp;#10;&amp;bull; The Game Rules introduce the basic concepts and enable players to start playing the game without too many rules to remember.&amp;#10;&amp;bull; The Optional Rules are for those who want to get the most out of the game, with rules for Surprise Attack, Retreat, Marne Offensive, British Fusiliers and more.&amp;#10;&amp;#10;In 1914, 1 cm is approximately 27 km, a turn is 1 month long, and a full-strength counter represents a major military formation, normally corps size with some divisions.&amp;#10;&amp;#10;The game must be played with &amp;quot;Fog of War&amp;quot; on (with the faces of wooden blocks hidden from the opponent).&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="200"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="200"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="3"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6137" value="Block wargames"/>
+    <link type="boardgamefamily" id="22967" value="Blocks Series"/>
+    <link type="boardgamedesigner" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgameartist" id="63423" value="Emanuele Santandrea"/>
+    <link type="boardgamepublisher" id="23283" value="VentoNuovo Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="53"/>
+        <average value="8.17736"/>
+        <bayesaverage value="5.58545"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7080" bayesaverage="5.58545"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1033" bayesaverage="6.03576"/>
+        </ranks>
+        <stddev value="1.66989"/>
+        <median value="0"/>
+        <owned value="154"/>
+        <trading value="4"/>
+        <wanting value="22"/>
+        <wishing value="59"/>
+        <numcomments value="25"/>
+        <numweights value="11"/>
+        <averageweight value="2.5455"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

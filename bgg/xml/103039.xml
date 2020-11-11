@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="103039">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/wi03v7Y4EKsdb82BWqWrfdvtC6o=/fit-in/200x150/pic1043047.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/VmZtTvhgcUjKZE_s3nyD64WjoxA=/0x0/pic1043047.jpg</image>
+    <name type="primary" sortindex="1" value="Beyond Waterloo"/>
+    <description>BEYOND WATERLOO is a two-player strategic level simulation of the Napoleonic Campaign of 1815. Players take the sides of France or its opponents, a coalition of Allies. In its long form the game opens with Napoleon&amp;rsquo;s arrival at Paris following his return from Elba. It encompasses his efforts to restore France to a war footing, the Allies&amp;rsquo; struggle to revive their anti-French coalition, and the military operations that ensue. BEYOND WATERLOO is played on a mapboard that includes France plus relevant portions of the Low Countries, Germany, Switzerland, and Italy. Where most games on this period focus in on the famous Battle of Waterloo, BEYOND WATERLOO takes in the full scope of the politico-military possibilities inherent in the 1815 situation. The Allies must re-defeat Napoleon. The French must avoid that outcome.&amp;#10;&amp;#10;BEYOND WATERLOO is a full strategic simulation encompassing military, economic, and diplomatic developments. It also introduces new design concepts for a game of this nature. Because of the complexities involved, these rules adopt a layered approach. Initially, the Combat Game introduces only the Battle Development Sequence, which affords a way to conduct combat in a strategic game that is nuanced for the Napoleonic era. This level of rules enables the player to learn the combat system using a scenario that covers only the Battle of Waterloo itself. At the next level, the Basic Game, rules introduce the full movement and administrative systems for a Napoleonic campaign. The scenario replicates the military action, economic factors, and force mobilization in this last Napoleonic War. The Advanced Game adds diplomacy, strategy and political action, and emphasizes the mobilization for war. In this long-form the game begins with Napoleon&amp;rsquo;s return to Paris and the sides must prepare for war before conducting it.&amp;#10;&amp;#10;BEYOND WATERLOO is played on a mapboard subdivided into areas that regulate the movement of game forces. Pieces represent prominent Commanders on all sides, and armies, corps, and divisions. Players organize and move their pieces across the mapboard to further their strategy. The players accumulate Resource Points (RPs) and Victory Points (VPs) as the game progresses. RPs procure fresh forces. The VPs influence events in the Campaign of 1815 as well as determining the winner of the game. In the Advanced Game players also engage in diplomatic and political activity intended either to prepare for war or shape the conditions that will affect the campaign.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="960"/>
+    <minplaytime value="960"/>
+    <maxplaytime value="960"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="31" value="No necessary in-game text" numvotes="0"/>
+        <result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="35" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamedesigner" id="226" value="John Prados"/>
+    <link type="boardgamedesigner" id="6469" value="Lembit Tohver"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="11856" value="Mark Mahaffey"/>
+    <link type="boardgamepublisher" id="1244" value="Against the Odds"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="36"/>
+        <average value="7.23611"/>
+        <bayesaverage value="5.5468"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9379" bayesaverage="5.5468"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1673" bayesaverage="5.82314"/>
+        </ranks>
+        <stddev value="1.62227"/>
+        <median value="0"/>
+        <owned value="272"/>
+        <trading value="7"/>
+        <wanting value="17"/>
+        <wishing value="28"/>
+        <numcomments value="35"/>
+        <numweights value="8"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

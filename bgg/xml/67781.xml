@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="67781">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/pVzG5VKYZn87sWt8KK9qE2iHyGE=/fit-in/200x150/pic687456.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/CWl9kEwWIjNVXGfrtI0QqEagaac=/0x0/pic687456.jpg</image>
+    <name type="primary" sortindex="1" value="We Shall Fight on the Marne"/>
+    <description>We Shall Fight on the Marne (PnP) is an operational level simulation of the battle of the First Marne, 1914. Having invaded Belgium and north eastern France, the German army had reached within 30 miles of Paris. With victory seemingly near, the German First Army was instructed to encircle Paris from the east. Thus began the battle of the First Marne.&amp;#10;&amp;#10;Can the Germans end the war quickly? Or will the Allies push them back? Game features include destroying bridges and building pontoons bridges, cavalry screening and breaking corps units into divisions.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="33438" value="Tom Cundiff"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="6.54118"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.02214"/>
+        <median value="0"/>
+        <owned value="58"/>
+        <trading value="2"/>
+        <wanting value="7"/>
+        <wishing value="11"/>
+        <numcomments value="9"/>
+        <numweights value="4"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

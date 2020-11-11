@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="142266">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FbCaFy_DrtkAbmoylMQvlxLyvDo=/fit-in/200x150/pic4557672.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/aqfLIYjNIxf7FJPnixlThS3dX_E=/0x0/pic4557672.jpg</image>
+    <name type="primary" sortindex="1" value="Aizu Campaign"/>
+    <name type="alternate" sortindex="1" value="会津戊辰戦争"/>
+    <description>Issue game of Wargame Japanese History #16.&amp;#10;&amp;#10;Game covering Aizu campaign of the Boshin War (1868) - (http://en.wikipedia.org/wiki/Battle_of_Aizu).&amp;#10;&amp;#10;With popular TV series &amp;ldquo;Yae no Sakura&amp;rdquo; in Japan, Aizu campaign has become much familiar (http://en.wikipedia.org/wiki/Yae_no_Sakura).&amp;#10;&amp;#10;This game uses card-driven mechanics and includes many related events.&amp;#10;It is played in 12 turns and victory is basically determined by control of important areas. The game is usually determined by the final battle at Aizu-Wakamatsu area.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="52096" value="Tadatoshi Jimbo"/>
+    <link type="boardgameartist" id="52887" value="Tachibana Reiji"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="12"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

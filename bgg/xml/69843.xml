@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="69843">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0XofYGSUBoXYJHyCwdgr--ybUH4=/fit-in/200x150/pic711356.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lsDEMRW8Z4wvqB-8ndBdm_0AWW0=/0x0/pic711356.jpg</image>
+    <name type="primary" sortindex="1" value="PRESTAGS Master-Pack"/>
+    <description>From the back of the box...&amp;#10;&amp;#10;Five Complete Simulation Games&amp;#10;&amp;#10;At last Simulations Publications has an integrated Pre-Seventeenth Century Tactical Game Systems (PRESTAGS) for simulation of all military systems prior to the predominance of fire weapons.&amp;#10;&amp;#10;The game system used in this series is based on the highly-regarded Musket &amp;amp; Pike system (although many modifications and special rules were devised to demonstrate the differences between historical periods.) All the games are compatible -- and they can be used to trace the evolution of tactics over the course of history from 3000 B.C. to 1550 A.D. Each game in the series covers a segment of the period, and presents the tactical situations faced by leaders of the great battles of the period.&amp;#10;&amp;#10;User Notes:&amp;#10;The games included in the somewhat hard to find PRESTAGS Master-Pack are: Chariot, Legion, Spartan, Viking, &amp;amp; Yeoman. Each game in the pack comes with 400 counters, so the full set contains a whopping 2000 counters. The set is comprised of not one, but two SPI flat packs, along with maps and rules for each game, and with PRESTAGS rules that cover the full series. All the sets are compatible, or as the back of the box states, &amp;quot;Because the strength values of the the units were all derived from the same base, units from one game are entirely compatible with another.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1976"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2655" value="PRESTAGS"/>
+    <link type="boardgamecompilation" id="11499" value="Chariot" inbound="true"/>
+    <link type="boardgamecompilation" id="8036" value="Legion" inbound="true"/>
+    <link type="boardgamecompilation" id="11500" value="Spartan" inbound="true"/>
+    <link type="boardgamecompilation" id="8509" value="Viking" inbound="true"/>
+    <link type="boardgamecompilation" id="7723" value="Yeoman" inbound="true"/>
+    <link type="boardgamedesigner" id="1925" value="John Young"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="32"/>
+        <average value="7.6125"/>
+        <bayesaverage value="5.53768"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.53768"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.76894"/>
+        </ranks>
+        <stddev value="1.39816"/>
+        <median value="0"/>
+        <owned value="90"/>
+        <trading value="0"/>
+        <wanting value="7"/>
+        <wishing value="16"/>
+        <numcomments value="21"/>
+        <numweights value="3"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9404">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/DC24_6JU-QZJsN6MLpN_wdcilw8=/fit-in/200x150/pic135548.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/DhKOGZiQnJC1Q44U_zJ9-UxdGBY=/0x0/pic135548.jpg</image>
+    <name type="primary" sortindex="1" value="Holowczyn: Battle of the Moscow Road"/>
+    <description>Battle between Swedes and Russians on the road to Moscow 1708. Swedish Game Production Combat Series No. 1.&amp;#10;Production qualities are fairly low but the 17&amp;quot; by 12&amp;quot; map is workmanlike in 5 colors and the counters are clear with Swedes in light blue and Russians in green.&amp;#10;The Russians are on the defensive in prepared positions but are surprised by a sudden Swedish attack through the marshes on the flank of the position. The Swedish units are much better than their opponents but there are few of them. The fight is therefore fairly evenly matched.&amp;#10;The Rules use a standard sequence of play of Move, Defender fires, Attacker fires, Melee and then Rally. Losses are taken to attack strength necessitating the use of loss markers but stacking is limited so the stacks do not get too high.&amp;#10;Special rules include Leaders, Pontoon Bridges, Surprise, extra reinforcements etc.&amp;#10;Same rules as Peter the Great by the same Designer&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="18618" value="Cities: Moscow"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="10313" value="Country: Sweden"/>
+    <link type="boardgamedesigner" id="2962" value="Peter Englund"/>
+    <link type="boardgamepublisher" id="997" value="Swedish Game Production"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="21"/>
+        <average value="6.84762"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.24312"/>
+        <median value="0"/>
+        <owned value="79"/>
+        <trading value="0"/>
+        <wanting value="8"/>
+        <wishing value="7"/>
+        <numcomments value="15"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

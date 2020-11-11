@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18325">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RsHWXMGSTK6Vtk1s7QGocouiZyE=/fit-in/200x150/pic160850.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sdnWLe_L3Z1vtIwtT8zFxfjS25I=/0x0/pic160850.jpg</image>
+    <name type="primary" sortindex="5" value="The Siege of Port Arthur"/>
+    <description>Russo-Japanese War.  Game comes in a zip-lock bag.  Features killing zones for hand-to-hand combat, Russian naval gunfire and Japanese siege guns, counter-battery fire.  The blue dots on the map are the objective hexes and features Fort Cha Kua Tzu.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="5472" value="John David Truty"/>
+    <link type="boardgamepublisher" id="4125" value="Strife Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="7.05556"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.984447"/>
+        <median value="0"/>
+        <owned value="37"/>
+        <trading value="1"/>
+        <wanting value="3"/>
+        <wishing value="5"/>
+        <numcomments value="9"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

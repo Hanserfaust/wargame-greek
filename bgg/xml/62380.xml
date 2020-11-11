@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="62380">
+    <name type="primary" sortindex="1" value="Napoleon's Campaigns: Expansion Set 3"/>
+    <description>This expansion set is an add-on to transform 'The Napoleonic Wars' into 'Napoleon's Italian Campaigns', Napoleon's Peninsula Campaign' and 'Napoleon's Russian Campaign'. It adds the scenarios of Morengo, Borodino, and Salamanca.&amp;#10;&amp;#10;Expansion includes 3 specific rules sheets (1 each from 'Napoleon's Italian Campaigns', Napoleon's Peninsula Campaign' and 'Napoleon's Russian Campaign') and 8 order of appearance cards.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgameexpansion" id="24790" value="The Napoleonic Wars" inbound="true"/>
+    <link type="boardgamedesigner" id="1276" value="Joe Angiolillo"/>
+    <link type="boardgamepublisher" id="4758" value="GTD"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="6"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="129165">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/UW2kS9F1QwAyLZmzguGM-tgOzro=/fit-in/200x150/pic1421323.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XXBZ0VlKNN_3Fm-m_H1L_Yhv_FI=/0x0/pic1421323.jpg</image>
+    <name type="primary" sortindex="1" value="Wings of Glory: WW1 Duel Pack"/>
+    <description>A pack for beginners with two miniatures and all the rules needed to start and to go deeper into the system: both Basic and Standard rules are included, plus several scenarios and special rules to go with them (both for trench cards and for AA machineguns).&amp;#10;Two version are available:&amp;#10;- one with Richthofen's Fokker Dr.I and Brown's Sopwith Camel;&amp;#10;- one with Paul B&amp;auml;umer's D.Va and Frank Luke's SPAD XIII.&amp;#10;&amp;#10;Wings of Glory WWI planes are 100% compatible with Wings of War, using the same scale, base-fittings and pegs.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="1"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="55" value="Wings of Glory / Wings of War"/>
+    <link type="boardgameexpansion" id="182509" value="Wings of Glory: World War 1 – Airco DH.2"/>
+    <link type="boardgameexpansion" id="181518" value="Wings of Glory: World War 1 – Airco DH.4"/>
+    <link type="boardgameexpansion" id="181512" value="Wings of Glory: World War 1 – Albatros D.II"/>
+    <link type="boardgameexpansion" id="243685" value="Wings of Glory: World War 1 – Albatros D.III"/>
+    <link type="boardgameexpansion" id="181511" value="Wings of Glory: World War 1 – Albatros D.Va"/>
+    <link type="boardgameexpansion" id="181503" value="Wings of Glory: World War 1 – Aviatik D.I"/>
+    <link type="boardgameexpansion" id="181516" value="Wings of Glory: World War 1 – Bristol F.2B Fighter"/>
+    <link type="boardgameexpansion" id="183939" value="Wings of Glory: World War 1 – Caproni Ca.3"/>
+    <link type="boardgameexpansion" id="181509" value="Wings of Glory: World War 1 – Fokker D.VII"/>
+    <link type="boardgameexpansion" id="181502" value="Wings of Glory: World War 1 – Fokker Dr.I"/>
+    <link type="boardgameexpansion" id="181514" value="Wings of Glory: World War 1 – Fokker E.III"/>
+    <link type="boardgameexpansion" id="181519" value="Wings of Glory: World War 1 – Gotha G. V"/>
+    <link type="boardgameexpansion" id="184995" value="Wings of Glory: World War 1 – Halberstadt CL.II"/>
+    <link type="boardgameexpansion" id="184994" value="Wings of Glory: World War 1 – Halberstadt D.III"/>
+    <link type="boardgameexpansion" id="188407" value="Wings of Glory: World War 1 – Hannover CL.IIIa"/>
+    <link type="boardgameexpansion" id="181507" value="Wings of Glory: World War 1 – Hanriot HD.1"/>
+    <link type="boardgameexpansion" id="181515" value="Wings of Glory: World War 1 – Morane-Saulnier Type N"/>
+    <link type="boardgameexpansion" id="243686" value="Wings of Glory: World War 1 – Nieuport 17"/>
+    <link type="boardgameexpansion" id="181517" value="Wings of Glory: World War 1 – Roland C.II"/>
+    <link type="boardgameexpansion" id="181504" value="Wings of Glory: World War 1 – Siemens-Schuckert D.III"/>
+    <link type="boardgameexpansion" id="192687" value="Wings of Glory: World War 1 – Sopwith Camel"/>
+    <link type="boardgameexpansion" id="181513" value="Wings of Glory: World War 1 – Sopwith Snipe"/>
+    <link type="boardgameexpansion" id="181505" value="Wings of Glory: World War 1 – Sopwith Triplane"/>
+    <link type="boardgameexpansion" id="181508" value="Wings of Glory: World War 1 – SPAD S.VII"/>
+    <link type="boardgameexpansion" id="181506" value="Wings of Glory: World War 1 – SPAD XIII"/>
+    <link type="boardgameexpansion" id="121016" value="Wings of Glory: WW1 Airplane Packs"/>
+    <link type="boardgameexpansion" id="175489" value="Wings of Glory: WW1 Giants of the Sky – British Handley Page O/400"/>
+    <link type="boardgameexpansion" id="175490" value="Wings of Glory: WW1 Giants of the Sky – German Zeppelin Staaken R.VI"/>
+    <link type="boardgameexpansion" id="108842" value="Wings of Glory: WW1 Special Packs"/>
+    <link type="boardgameexpansion" id="122317" value="Wings of Glory: WW1 – Ace Cards Promo Pack"/>
+    <link type="boardgameexpansion" id="197354" value="Wings of Glory: WW1 – Career Deck Promo Pack"/>
+    <link type="boardgameintegration" id="208754" value="Wings of Glory: Tripods &amp; Triplanes"/>
+    <link type="boardgameintegration" id="119866" value="Wings of Glory: WW1 Rules and Accessories Pack"/>
+    <link type="boardgamedesigner" id="546" value="Andrea Angiolino"/>
+    <link type="boardgamedesigner" id="547" value="Pier Giorgio Paglia"/>
+    <link type="boardgameartist" id="12475" value="Vincenzo Auletta"/>
+    <link type="boardgameartist" id="12474" value="Dario Calì"/>
+    <link type="boardgamepublisher" id="17917" value="Ares Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="198"/>
+        <average value="8.05758"/>
+        <bayesaverage value="5.77715"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3556" bayesaverage="5.77715"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="398" bayesaverage="6.52738"/>
+        </ranks>
+        <stddev value="1.45186"/>
+        <median value="0"/>
+        <owned value="590"/>
+        <trading value="7"/>
+        <wanting value="18"/>
+        <wishing value="36"/>
+        <numcomments value="73"/>
+        <numweights value="14"/>
+        <averageweight value="2.2857"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

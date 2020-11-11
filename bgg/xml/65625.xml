@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="65625">
+    <name type="primary" sortindex="1" value="Battles of 1866: Koniggratz"/>
+    <description>One of the three games split off from the earlier War of the Empires: Battles of 1866 project from APL, this game covers the most famous battle from the Austro-Prussian War... Koniggratz.  Rather than the five smaller battles in the Frontier Battles installment, this game focuses on one huge battle between the Prussians and Austrians.&amp;#10;&amp;#10;This game uses the same system as War of the States: Gettysburg, 1863 and War Of The States: Chickamauga &amp;amp; Chattanooga which is similar to the Rome at War and Eagles Of The Empire series as well. In this game, the units are Prussian, Austrian, and Saxon infantry brigades artillery batteries, and cavalry regiments. The pieces are moved around topographic maps of the various battlegrounds. Combat is resolved using by rolling a number of dice equal to the total combat strength of units involved in combat, with hits scored on a result of 6.&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="17849" value="Wars of the States and Empires"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgameartist" id="11831" value="Guy Riessen"/>
+    <link type="boardgamepublisher" id="772" value="(Unpublished)"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="8"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="0"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="5"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

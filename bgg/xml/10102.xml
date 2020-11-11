@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10102">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/WjCeQhdH4Y5B-ZxL9RSX9bEiFh4=/fit-in/200x150/pic54409.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/z_XALsleHRvTbIsbZLj3R67HGXY=/0x0/pic54409.jpg</image>
+    <name type="primary" sortindex="1" value="Ignorant Armies: Iran-Iraq War"/>
+    <description>Strategy &amp;amp; Tactics magazine #215.&amp;#10;&amp;#10;An aptly named simulation of the 1980-1988 war between Iran and Iraq. This game features everything from human wave assaults to chemical and missile attacks. This 8 years war before the fall of Saddam Hussien's regime undermines the tragedy of the Iraqi people 5 years later.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10628" value="Country: Iran"/>
+    <link type="boardgamefamily" id="10627" value="Country: Iraq"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="3331" value="Philip Sharp"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="70"/>
+        <average value="6.64286"/>
+        <bayesaverage value="5.55669"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8653" bayesaverage="5.55669"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1611" bayesaverage="5.83925"/>
+        </ranks>
+        <stddev value="1.38652"/>
+        <median value="0"/>
+        <owned value="244"/>
+        <trading value="7"/>
+        <wanting value="17"/>
+        <wishing value="39"/>
+        <numcomments value="48"/>
+        <numweights value="10"/>
+        <averageweight value="2.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="151441">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/eukS1unKpHbLOo8_CYNmGpJC0BA=/fit-in/200x150/pic4681383.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RZ30wBGHxf4QI8T1TZfb5-JZ5WM=/0x0/pic4681383.jpg</image>
+    <name type="primary" sortindex="1" value="Fierce fight! Leningrad Blitzkrieg"/>
+    <name type="alternate" sortindex="1" value="激闘！レニングラード電撃戦"/>
+    <description>This is a fifth game of the Struggle of Army group Manstein series.&amp;#10;&amp;#10;The game starts June 22 and ends September 10 in 1941.&amp;#10;The map covers from Konigsberg to Leningrad.&amp;#10;The game uses the same engine as its predecessor. Each player selects his chits each turn, then draw chits one by one and activate part of the force designated by the chit.&amp;#10;The victory is measured by VPs and mainly got from the control of major city hexes.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="19565" value="A Victory Lost Series"/>
+    <link type="boardgameimplementation" id="241805" value="A Victory Awaits: Operation Barbarossa 1941"/>
+    <link type="boardgamedesigner" id="4350" value="Tetsuya Nakamura"/>
+    <link type="boardgamepublisher" id="3358" value="Game Journal"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="7.16667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.745356"/>
+        <median value="0"/>
+        <owned value="38"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

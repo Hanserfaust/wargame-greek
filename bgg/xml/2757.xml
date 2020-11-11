@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2757">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sCvmf0yZvtjrQYqf1VH6Wqi29cE=/fit-in/200x150/pic7014.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jD8ijD4wXbzzacVOizVlORuCxeE=/0x0/pic7014.jpg</image>
+    <name type="primary" sortindex="1" value="Marine: 2002"/>
+    <description>Marine: 2002 is a tactical level simulation of combat on or near the surface of the moon.  Neutron warheads, rocket shells, lasers and charged particle beams fly through the vacuum.  Units move over the ground and in the &amp;quot;air&amp;quot;, and engagement ranges are limited only by a unit's current horizon, which depends on its altitude.  Communications, command and control, morale, cumulative vehicle damage, orbiting weapons platforms...It's all there!&amp;#10;&amp;#10;Several scenarios are provided, with playing times ranging from one to four hours.  Geomorphic mapboards and movable terrain features (craters of various sizes) provide for plenty of replayability.&amp;#10;&amp;#10;Solar Marine, also by Kerry Anderson, is very similar to Marine: 2002.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="5607" value="3D Games"/>
+    <link type="boardgameimplementation" id="40682" value="Solar Marine"/>
+    <link type="boardgamedesigner" id="1124" value="Kerry Anderson"/>
+    <link type="boardgamedesigner" id="1101" value="Michael S. Matheny"/>
+    <link type="boardgamepublisher" id="154" value="Yaquinto"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="79"/>
+        <average value="6.0901"/>
+        <bayesaverage value="5.52489"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11619" bayesaverage="5.52489"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2252" bayesaverage="5.6587"/>
+        </ranks>
+        <stddev value="1.51826"/>
+        <median value="0"/>
+        <owned value="318"/>
+        <trading value="32"/>
+        <wanting value="6"/>
+        <wishing value="17"/>
+        <numcomments value="56"/>
+        <numweights value="17"/>
+        <averageweight value="2.9412"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

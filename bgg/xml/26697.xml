@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="26697">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/WFlkLDcP0uumbIE_g_o15iruFo8=/fit-in/200x150/pic185857.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/r1XGZ-_YTsXMf2GKMnquwP4AVxE=/0x0/pic185857.jpg</image>
+    <name type="primary" sortindex="1" value="Shenandoah: Jackson's Valley Campaign"/>
+    <description>From Columbia website:&amp;#10;&amp;#10;Shenandoah covers the remarkable Valley Campaign of May/June 1862. Led by Thomas 'Stonewall' Jackson, a smaller Confederate army with audacious marching and fighting, paralyzed and defeated three enveloping Union armies. Military students worldwide study Jackson's strategy and tactics to this day.&amp;#10;&amp;#10;The CSA player has the advantage of central position, but must use it aggressively to prevent the Union armies from combining against him. The USA player has a clear advantage in numbers, but must cope with a command system that penalizes the wide separation of his three forces.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamefamily" id="6137" value="Block wargames"/>
+    <link type="boardgamefamily" id="3327" value="Columbia's Great Battles of History"/>
+    <link type="boardgamedesigner" id="64" value="Tom Dalgliesh"/>
+    <link type="boardgamedesigner" id="65" value="Gary Selkirk"/>
+    <link type="boardgameartist" id="64" value="Tom Dalgliesh"/>
+    <link type="boardgameartist" id="44295" value="John Paul Strain"/>
+    <link type="boardgamepublisher" id="49" value="Columbia Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="66"/>
+        <average value="6.97845"/>
+        <bayesaverage value="5.57114"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7713" bayesaverage="5.57114"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1286" bayesaverage="5.93234"/>
+        </ranks>
+        <stddev value="1.74105"/>
+        <median value="0"/>
+        <owned value="211"/>
+        <trading value="8"/>
+        <wanting value="25"/>
+        <wishing value="48"/>
+        <numcomments value="39"/>
+        <numweights value="8"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

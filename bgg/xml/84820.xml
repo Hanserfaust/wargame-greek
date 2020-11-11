@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="84820">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/UdIteIN81-qjT7TT4r9c6Cu4ATM=/fit-in/200x150/pic848125.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2hsaEnXdxRAiNW6lnarlkynzVvU=/0x0/pic848125.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Ace Wittmann"/>
+    <name type="alternate" sortindex="1" value="裝甲王牌魏特曼"/>
+    <description>&amp;quot;Panzer Ace Wittmann&amp;quot; is a two-player tactical wargame simulates the &amp;quot;Battle of Bocage&amp;quot; in June 13rd, 1944. Players lead German SS Heavy Panzer Battalion 101 and British 7th Armor Division respectively to fight for Villers Bocage. Each hex represents 50m across and each unit represents individual tank or artillery. This game use a &amp;quot;Time Point&amp;quot; driven mechanics and each time point represents one minute in real time. This game will be published on Board Wargame magazine issue #4 in early November, 2010.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5780" value="Magazine: Board wargame"/>
+    <link type="boardgamedesigner" id="22269" value="Wei-Cheng Cheng"/>
+    <link type="boardgameartist" id="22269" value="Wei-Cheng Cheng"/>
+    <link type="boardgamepublisher" id="10325" value="Formosa Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="6.66667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.09497"/>
+        <median value="0"/>
+        <owned value="53"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="3"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

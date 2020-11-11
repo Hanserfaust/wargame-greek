@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="246510">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ppnv9OtPBGise3JzizJ5qDjUH-c=/fit-in/200x150/pic4623371.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qRLkpf5ieKD2c99cEtVjaPD-Zl4=/0x0/pic4623371.jpg</image>
+    <name type="primary" sortindex="1" value="Wissembourg et Spicheren 1870: Premiers combats en Alsace-Lorraine"/>
+    <description>Wissembourg et Spicheren 1870: Premiers combats en Alsace-Lorraine (First combat in Alsace-Lorraine)&amp;#10;&amp;#10;Wissembourg and Spicheren simulate two battles from the beginning of the war of 1870 :&amp;#10;&amp;#10;&amp;#10;     The Battle of Wissembourg (or Battle of Weissenburg) on 4 August 1870, was the first of the Franco-Prussian War and the first French defeat of 1870, :&amp;#10;&amp;#10;&amp;#10;It opposed three German army corps (one Bavarian and two Prussian)and the small French garrison under General Douay at Wissembourg.&amp;#10;Douay's division held the town and the heights of Geisberg until early afternoon before yielding to the mass.&amp;#10;&amp;#10;&amp;#10;     The Battle of Spicheren (also known as the Battle of Forbach), on 5 August 1870, was the second of three critical French defeats. (the third was The Battle of W&amp;ouml;rth (also known as Fr&amp;ouml;schwiller or Reichshoffen))&amp;#10;&amp;#10;&amp;#10;The French II Corps under General Frossard had a good position, a fortified line between Spicheren and Forbach, and tried to block the Prussian troops under General Karl Friedrich von Steinmetz. Their retreat was ill-prepared and caused the rest of the Lorraine army to retreat to the walls of Metz.&amp;#10;&amp;#10;(sources : rulebook and description from the Publisher)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="270"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="270"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="46" value="No necessary in-game text" numvotes="0"/>
+        <result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="50" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10138" value="Les Grandes Batailles de Napoleon III"/>
+    <link type="boardgamefamily" id="9825" value="Magazine: Vae Victis"/>
+    <link type="boardgamedesigner" id="2780" value="Luc Olivier"/>
+    <link type="boardgameartist" id="3290" value="Pascal da Silva"/>
+    <link type="boardgamepublisher" id="31598" value="Cérigo Editions"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="7.03333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.16142"/>
+        <median value="0"/>
+        <owned value="70"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="9"/>
+        <numweights value="2"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

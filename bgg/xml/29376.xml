@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29376">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/oDFtvG0fncNgxVlZA2OJ6TFfvTA=/fit-in/200x150/pic1622295.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/z5AleNWtvNjS41oMihh7eiphmWM=/0x0/pic1622295.jpg</image>
+    <name type="primary" sortindex="5" value="The Battle of Adobe Walls"/>
+    <description>Michael Taylor's &amp;quot;Indian Wars of the American West&amp;quot; series starts with Volume I - The Battle of Adobe Walls. (Vol. II - Rosebud and Vol. III Battle of the Little Bighorn, will both being re-released from their original DTP versions as boxed games with EasyPunch die-cut counters.)&amp;#10;&amp;#10;Also known as the First Battle of Adobe Walls (November 26, 1864), it was one of the largest battles between U.S. and Great Plains Indians.   Kit Carson was given command of the US forces, and his mission was to find the Comanche and Kiowa winter camps and eliminate this threat to the settlers that were moving into and through this area of the Texas panhandle.&amp;#10;&amp;#10;Adobe Walls shares many similarities with Little Bighorn.  The battle features a famous US leader in Kit Carson, attacking a large Indian camp along a river with a much smaller US force. He is also temporarily separated from the pack train, and the size of the Indian force was greatly underestimated.&amp;#10;&amp;#10;Adobe Walls adds a new weapon to the series, the Mountain Howitzer. Although short in range it was a very powerful weapon and it had a huge psychological impact on the Indian warriors who faced it.&amp;#10;&amp;#10;The game features:&amp;#10;&amp;#10;&amp;bull;     Kit Carson and Chief Dohausen&amp;#10;&amp;bull;     Mountain Howitzers&amp;#10;&amp;bull;     Comanches and Kiowas&amp;#10;&amp;bull;     Infantry, Cavalry, and Scouts&amp;#10;&amp;bull;     2 separate Indian camps&amp;#10; Game scale&amp;#10;Each combat unit represents:&amp;#10; - one US Cavalry company&amp;#10; - approximately 100 Indians&amp;#10; - individual leader&amp;#10;Each hex equals 1/4 mile across.&amp;#10;Each game turn represents 20 minutes.&amp;#10;&amp;#10;This game is part of a series: The Battle of Rosebud Creek, The Battle of the Little Bighorn, and The Battle of Adobe Walls.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="71" value="No necessary in-game text" numvotes="0"/>
+        <result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="75" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1055" value="American West"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="22165" value="Indian Wars of the American West"/>
+    <link type="boardgamedesigner" id="6231" value="Michael Taylor (I)"/>
+    <link type="boardgameartist" id="36911" value="Randy Lein"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="9512" value="Legion Wargames LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="39"/>
+        <average value="7.71282"/>
+        <bayesaverage value="5.5581"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8535" bayesaverage="5.5581"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1436" bayesaverage="5.88599"/>
+        </ranks>
+        <stddev value="1.38567"/>
+        <median value="0"/>
+        <owned value="221"/>
+        <trading value="7"/>
+        <wanting value="20"/>
+        <wishing value="52"/>
+        <numcomments value="25"/>
+        <numweights value="7"/>
+        <averageweight value="2.7143"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

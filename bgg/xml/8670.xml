@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8670">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/LbISs-Nvcbp-OZA_dIiJnELEVqM=/fit-in/200x150/pic1144965.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ZK94PaJ9_H9B8LECe3R4oVz7FVg=/0x0/pic1144965.jpg</image>
+    <name type="primary" sortindex="5" value="Der Herr der Ringe: Die Rückkehr des Königs"/>
+    <description>Lord of the Ring - The return of the King (the game to the movie)is the 3rd installment for the series from Kosmos.&amp;#10;&amp;#10;The players have the common goal of defeating Sauron. A play round consists of the two phases &amp;quot;army buildup&amp;quot; and &amp;quot;movements and fighting&amp;quot;. In the army phase the players receive new army and hero cards as well as useful action cards. Then, each player in turn moves their units to adjacent spaces.  If enemy units are on the space they do battle.  If you win, you gain points and can continue the battle.  If you lose, the next player continues the fight.  Play ends if the player armies can breach the Black Gate which gives the most points.   Alternatively, the players win if Frodo and SAM reach the last field of the mount doom. But if Gollum gets there before SAM and Frodo, all players lose.&amp;#10;&amp;#10;Like the previous 2 big box games in this series, it will likely be released only in Germany.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="3"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="4263" value="Tolkien Games"/>
+    <link type="boardgamedesigner" id="6" value="Martin Wallace"/>
+    <link type="boardgameartist" id="12380" value="Bernd Wagenfeld"/>
+    <link type="boardgamepublisher" id="37" value="KOSMOS"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="43"/>
+        <average value="5.6693"/>
+        <bayesaverage value="5.50217"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14187" bayesaverage="5.50217"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2682" bayesaverage="5.52924"/>
+        </ranks>
+        <stddev value="1.40522"/>
+        <median value="0"/>
+        <owned value="99"/>
+        <trading value="3"/>
+        <wanting value="7"/>
+        <wishing value="15"/>
+        <numcomments value="8"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17134">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/MCe1cJfnV6OfmeGOlfyiwBg2H3g=/fit-in/200x150/pic3703102.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/F2czWt4WJMbbL7j5LjwVr8_OrmY=/0x0/pic3703102.jpg</image>
+    <name type="primary" sortindex="1" value="London Rules Wargames Section American Civil War 1863c"/>
+    <description>Based upon an 'article submission' within the pages of &amp;quot;Miniature Warfare&amp;quot; Magazine Vol. 1 #-7, and part of a 'Series' for &amp;quot;Miniatures Wargaming&amp;quot;. This 'Booklet' has a YELLOW 'front &amp;amp; back' plasticized-'looking' outside covers, with BLACK print on the front and plastic 'binding' for the pages. It contains '20'-pages of RULES in a 'half-page'~SIZED format, and covers the 'Basics' of &amp;quot;minis gaming&amp;quot; within this. It details the use of 'BOUNDS'~written 'Orders' and simultaneously revealing them, for its 'mechanism' of PLAY. You will NEED to provide *SPECIAL* 6-sided-'DICE' numbered as follows: &amp;quot; 2, 3, 3, 4, 4, 5 &amp;quot;, as well as some regular 'D-6's, various other 'sundry' items associated with this 'genre' as required, and some 'Markers' of the same SIZE as the 'Units' that they will represent in the 'Game'. These 'Markers' can even be 'used' for DECOY 'Units' where applicable, and you would have to obtain additional DATA on 'specifics' for individual 'Battles, Troops, &amp;amp; Leaders' prior to commencing PLAY for this. Calculations for creating 'Casualties' are based upon a 'percentages' and &amp;quot;DIE rolls&amp;quot; method being employed for resolving 'Conflicts'. These seem to be the 'easiest' and 'quickest' RULES devised at the time, for recreating the many epic &amp;quot;Confrontations&amp;quot; that were to 'define' the &amp;quot;American WAR for Reunification!&amp;quot; in the 'period' covered by this 'Rules SET'.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1970"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="17446" value="Cities: London"/>
+    <link type="boardgamedesigner" id="8070" value="John Tunstill"/>
+    <link type="boardgamepublisher" id="3847" value="London Wargames Section"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

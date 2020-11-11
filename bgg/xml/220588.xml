@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="220588">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/CaOVBwDJXK0t2Ftr7h8vurl-IvU=/fit-in/200x150/pic4545781.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/aAoZTQnCXtA4TyTSWL1pLprt0Nc=/0x0/pic4545781.jpg</image>
+    <name type="primary" sortindex="1" value="Gandhi: The Decolonization of British India, 1917 – 1947"/>
+    <description>Gandhi: The Decolonization of British India, 1917&amp;ndash;1947 is Volume IX in GMT&amp;rsquo;s acclaimed COIN Series. Exploring one of the world&amp;rsquo;s most prominent experiments with nonviolent resistance, Gandhi takes us to the subcontinent of India, the jewel in the crown of the British Empire, for a detailed look at the final decades of the British Raj. 1 to 4 players compete to determine the future of India; will the transition to home rule be a peaceful one, will India be split apart by partition or civil war, or will it remain firmly in the grip of empire?&amp;#10;&amp;#10;Gandhi offers a fresh perspective on the history of insurgency with the addition of a new type of faction to the COIN Series, the Nonviolent (NV) faction, while retaining the multi-faction, asymmetrical, card-assisted system of earlier titles in the COIN Series. COIN veterans will be able to jump right in.&amp;#10;&amp;#10;Other features include:&amp;#10;&amp;#10;     Gandhi as the game&amp;rsquo;s sole leader piece.&amp;#10;     Nonviolent operations and special activities.&amp;#10;     Nonviolent activists that are always active, but generally immune from Raj actions until engaged in protests (or caught up in post-terror reprisals).&amp;#10;     Protests that erode support but leave activists vulnerable to arrest by Raj forces.&amp;#10;     A Hindu-Muslim Unity track that measures tensions between these two communities, affecting resources, operations, and victory.&amp;#10;     A British Rule track that reflects shifts in colonial policy in response to events on the map, from resolve to restraint, affecting the cost of several actions.&amp;#10;     British Viceroys who come and go with each passing campaign and have their own unique effects on each faction.&amp;#10;     An out-of-play jail space that holds nonviolent forces arrested during martial law. Pieces can be kept in jail over several campaigns, but at a cost to the Raj.&amp;#10;     Independent Princely States that are never controlled by any faction, yet offer a haven for violent and nonviolent insurgents alike.&amp;#10;     Short and medium-length scenarios that allow for the study of different periods of the struggle against British rule in India.&amp;#10;     Support for solitaire, 2-player, 3-player, and 4-player games.&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;In Gandhi, players will face a range of difficult and interesting strategic choices. Following in the innovative footsteps of previous COIN titles, Gandhi weaves together historical, political, and cultural threads and offers an opportunity to study nonviolent and violent resistance in one of the most significant colonial possessions from the age of European imperialism. Civil disobedience and non-cooperation, protests and terror, imperialism and constructive programme, growing unrest, negotiation, agitation, assassination, persuasion, boycotts, martial law, and many other options await.&amp;#10;&amp;#10;&amp;ldquo;Gandhi made it impossible for us to go on ruling India, but at the same time he made it possible for us to abdicate without rancor and without dishonour.&amp;rdquo;&amp;#10;&amp;mdash; British Historian Arnold Toynbee&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="240"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="176" value="No necessary in-game text" numvotes="0"/>
+        <result level="177" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="178" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="179" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="180" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2079" value="Variable Phase Order"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="9961" value="Country: India"/>
+    <link type="boardgamefamily" id="18749" value="GMT COIN Series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="55815" value="Bruce Mansfield"/>
+    <link type="boardgameartist" id="11322" value="Knut Grünitz"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="124"/>
+        <average value="8.28427"/>
+        <bayesaverage value="5.73645"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3946" bayesaverage="5.73645"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="382" bayesaverage="6.54925"/>
+        </ranks>
+        <stddev value="1.50425"/>
+        <median value="0"/>
+        <owned value="766"/>
+        <trading value="9"/>
+        <wanting value="96"/>
+        <wishing value="358"/>
+        <numcomments value="86"/>
+        <numweights value="12"/>
+        <averageweight value="4.0833"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

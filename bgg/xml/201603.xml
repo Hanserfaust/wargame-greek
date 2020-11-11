@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="201603">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/UqoDpuQ1RKjTkvctd7UleyPe83E=/fit-in/200x150/pic3051560.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/0kCQWijjwrcBHqHgbjUat-NsxZ4=/0x0/pic3051560.jpg</image>
+    <name type="primary" sortindex="1" value="Nemesis: The Battle of Abbey Ardenne, June 7 1944"/>
+    <name type="alternate" sortindex="1" value="Nemesis"/>
+    <description>Nemesis: The Battle of Abbey Ardenne, June 7, 1944,  The battle of Abbey Ardenne was marked by a level of ferocity and savagery that would be continued for the rest of the war whenever these combatants met. The massacre of Canadian prisoners by the SS, who viewed such measures as rather common-place when they fought on the Eastern Front, was never forgotten or forgiven by the Canadians. The conduct of the fanatical 12th SS Hitlerjugend unit made it very clear what the war on the western front would become, and what the stakes were in this conflict.&amp;#10;&amp;#10;Each copy of Nemesis  is comprised of the following:&amp;#10;&amp;#10;--One 11 by 17 inch hex map with game charts and tables &amp;#10;--52 double-sided, un-mounted counters &amp;#10;--4 pages of rules with designer notes&amp;#10;&amp;#10;Players use a standard deck of playing cards to activate their units and resolve some game events. A six-sided die is also needed to play the game. A complete game takes about 1.5 to 2 hours to complete. Designed for two players, Nemesis is very interactive, and is also very solitaire friendly. The game is designed by Paul Rohrbaugh with graphics by Bruce Yearian.&amp;#10;&amp;#10;A cardset for Nemesis, that replaces the standard deck of playing cards called for in the rules, is also available. It features appropriate graphics and rules reminders on pertinent cards.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="2"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="6"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

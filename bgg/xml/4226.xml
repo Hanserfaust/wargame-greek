@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4226">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mO2i_8rGsYAX8_AzUA4R8LcCaDk=/fit-in/200x150/pic13300.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/EkQlE02U3YbKGEEFt9L-LWAnT5s=/0x0/pic13300.jpg</image>
+    <name type="primary" sortindex="1" value="Victory at Midway"/>
+    <name type="alternate" sortindex="1" value="Midway Campaign"/>
+    <description>Victory at Midway simulates the historical World War 2 naval battle between Japan and the United States of America.&amp;#10;&amp;#10;Players take up the roles of the naval commanders and make their plans on their own maps in a &amp;quot;double-blind&amp;quot; turn-based system.  Without knowledge of their opponent's fleet position, they move their ships, conduct aerial reconnaissance (calling out hexes and waiting for their opponent's response, as in Battleship), and designate areas for air strikes.  The strikes are revealed and resolved before proceeding with other naval engagements (ship-to-ship combat, bombardment and invasion of land targets).  Battles are resolved by comparing a die roll to the unit's strength for successful hits instead of referring to charts.&amp;#10;&amp;#10;The game ends in 25 turns or if one side has been totally eliminated.  If both sides remain till the end, the victor is the player with the most Victory Points, which are awarded for enemy losses or control of Midway atoll.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="76" value="No necessary in-game text" numvotes="1"/>
+        <result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="80" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="21633" value="Magazine: Command"/>
+    <link type="boardgamedesigner" id="181" value="Ben Knight"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="161"/>
+        <average value="7.2"/>
+        <bayesaverage value="5.6815"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4630" bayesaverage="5.6815"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="586" bayesaverage="6.32817"/>
+        </ranks>
+        <stddev value="1.40782"/>
+        <median value="0"/>
+        <owned value="554"/>
+        <trading value="12"/>
+        <wanting value="29"/>
+        <wishing value="57"/>
+        <numcomments value="111"/>
+        <numweights value="27"/>
+        <averageweight value="2.2593"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

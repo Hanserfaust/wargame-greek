@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="15187">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4bbPfvryB52fQ74HcMJ4n0AZZJQ=/fit-in/200x150/pic79644.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/JwxKMvFkWR2qq0oAS5ylWaIjDCc=/0x0/pic79644.jpg</image>
+    <name type="primary" sortindex="1" value="Heroika"/>
+    <description>Heroika is a game system for Napoleonic battles, with a modular board, and designed to support miniatures. It is provided with many hexes, some cardboard figures, a scenario list with 4 battles from Napoleon's campaigns, and a rulebook with 3 level of rules.&amp;#10;&amp;#10;The game focuses on unit formations, general movement, and unit elimination through the removal of figures in the unit. There are also a few bonus cards to increase a few attacks or movements during the game.&amp;#10;&amp;#10;The game includes:&amp;#10;- The rulebook&amp;#10;- 4 scenarios: Valmy, Jemmapes, Fleurus, Arcole&amp;#10;- More than 100 hexagons&amp;#10;- 106 Soldier figures&amp;#10;- 72 cards for weather, bonuses, fortifications and bridges&amp;#10;- 1 8-sided die&amp;#10;&amp;#10;</description>
+    <yearpublished value="1989"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamedesigner" id="4673" value="Georges Chloupek"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="10406" value="Heroika Tentations Rek"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.60286"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.52841"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="0"/>
+        <wanting value="5"/>
+        <wishing value="2"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

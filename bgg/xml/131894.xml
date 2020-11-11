@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="131894">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/cCdU0P0cSEoo-KxbBbe_ZkRCH8I=/fit-in/200x150/pic1444525.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HZ_DoJk2wjw6vH8pRE0MhMLyPNI=/0x0/pic1444525.jpg</image>
+    <name type="primary" sortindex="1" value="Vietnam Battles: Snoopy's Nose &amp; Iron Triangle"/>
+    <description>From the editor's website:&amp;#10;&amp;#10;For some time, there had been reports that a large area of dense jungle northwest of Saigon was a staging base for the Viet Cong. Ideally situated near Cambodia, a nexus point of the Ho Chi Minh Trail, and proximal to the capital city of Saigon itself, the area that became known as the &amp;ldquo;Iron Triangle&amp;rdquo; allowed the Viet Cong to conduct well-organized and well-supplied operations into the very heart of South Vietnam. In the meantime, a hundred miles to the south, a US riverine force, comprised primarily of the newly-arrived 9th Infantry Division, began to penetrate into the hinterland of the Mekong Delta, and even into the overgrown rivulets where only &amp;lsquo;Charlie&amp;rsquo; had ever operated before. In the first in the Vietnam Battles series, two games are included, Iron Triangle and Snoopy&amp;rsquo;s Nose (named after a distinctive curve in one of the distributaries leading to the Mekong River). Both games utilize the very popular Fire &amp;amp; Movement combat system, and is easy to play.&amp;#10; Units in the game are typically companies and some battalions and occasional brigade equivalents. The full spectrum of the war in Vietnam in 1967 is featured with everything from riverine craft to helicopters. Each hex represents about a half mile, and each game turn represents from about a half a day to several days of operations.&amp;#10; The game includes one map (22x34&amp;rdquo;) and 200 counters.&amp;#10;&amp;#10;Modern War #7, Sep-Oct 2013&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10618" value="Country: Vietnam"/>
+    <link type="boardgamefamily" id="19593" value="Fire &amp; Movement combat system"/>
+    <link type="boardgamefamily" id="20084" value="Magazine: Modern War"/>
+    <link type="boardgamedesigner" id="3878" value="Eric R. Harvey"/>
+    <link type="boardgameartist" id="3878" value="Eric R. Harvey"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="25"/>
+        <average value="7.232"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.84493"/>
+        <median value="0"/>
+        <owned value="180"/>
+        <trading value="4"/>
+        <wanting value="4"/>
+        <wishing value="13"/>
+        <numcomments value="32"/>
+        <numweights value="7"/>
+        <averageweight value="2.7143"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

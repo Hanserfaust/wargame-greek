@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="160099">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/wONNlLrUJUw0HbivEqAAjxq9bCQ=/fit-in/200x150/pic2899512.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/IcQsBbzz-qugTU--6w8aIgB5i7M=/0x0/pic2899512.jpg</image>
+    <name type="primary" sortindex="1" value="Alfred the Great: The Great Heathen Army 871AD"/>
+    <description>A two player,or solitaire  Hex, dice and counter game with complexity on the lower end of the  scale that has the Vikings invading Wessex in 871AD,players will have to consider when and where to fight, re-supply and other challenging factors to win the game.&amp;#10;&amp;#10;Players have Warriors, Earls/Jarls and Kings to do battle with and will have to make strategic and tactical choices to win the game. &amp;#10;A turn chart of 15 moves commences in January 871AD and goes through to May 871AD.Distributed by High Flying Dice Games   http://www.hfdgames.com/alfred.htmls&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5613" value="Vikings"/>
+    <link type="boardgamedesigner" id="75717" value="Mark H. Sheppard"/>
+    <link type="boardgameartist" id="75954" value="Alen Jablanovic"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <link type="boardgamepublisher" id="27467" value="Red King Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="7.63333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.895669"/>
+        <median value="0"/>
+        <owned value="29"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="7"/>
+        <numcomments value="7"/>
+        <numweights value="2"/>
+        <averageweight value="1.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

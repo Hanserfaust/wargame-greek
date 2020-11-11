@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29309">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/i3lZwfbc9HCewKtCSMojrA7k4DI=/fit-in/200x150/pic206746.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jp4KZz3kLp_dMYDiX9nxv7wC9XE=/0x0/pic206746.jpg</image>
+    <name type="primary" sortindex="1" value="Troops, Weapons &amp; Tactics"/>
+    <description>Platoon level World War 2 miniature wargames rules.&amp;#10;&amp;#10;Troops, Weapons &amp;amp; Tactics (TW&amp;amp;T) is not just a rule set. With 108 pages, 40 of which are in full colour, the gamer gets the rules, stats for Britain, Germany, the USSR and the USA for the 1944 and '45 period, a scenario and force generation system along with an introduction to the forces as they were historically organised and the tactics that they used.&amp;#10;&amp;#10;TW&amp;amp;T, like its stablemate I Ain't Been Shot Mum (IABSM), uses a card driven system that produces a variable turn sequence. Unlike IABSM each squad leader is represented along with the platoon officer and Sergeant. These leaders use a system of Tactical Initiatives to motivate and activate their men on the battlefield.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Rock the Casbah&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="19146" value="Too Fat Lardies Skirmish Games"/>
+    <link type="boardgameexpansion" id="41159" value="B'Maso!"/>
+    <link type="boardgameexpansion" id="148542" value="In the Name of Roma"/>
+    <link type="boardgameexpansion" id="37451" value="Rock the Casbah"/>
+    <link type="boardgamedesigner" id="6649" value="Richard Clarke"/>
+    <link type="boardgamepublisher" id="5109" value="Too Fat Lardies"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="6.92308"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.49159"/>
+        <median value="0"/>
+        <owned value="32"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="3"/>
+        <numweights value="3"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

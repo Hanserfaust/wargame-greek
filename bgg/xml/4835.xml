@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4835">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KdBERGbHvnffgXqHBc7XE0ItNao=/fit-in/200x150/pic1835924.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RTojlBRevPp2XG0DB29MC2MU63M=/0x0/pic1835924.jpg</image>
+    <name type="primary" sortindex="1" value="Pusan Perimeter"/>
+    <name type="alternate" sortindex="1" value="Pusan Perimeter: Fire On The Naktong, Summer 1950"/>
+    <description>This is an operational level 2 player game of the events in Southern Korea from early August to mid September, 1950. One player represents the North Korean People's Army (NKPA) and the other player the United Nations (UN).&amp;#10;&amp;#10;This is the North Koreans last chance to unify Korea under their communist rule. A defeat for the US dominated UN force, before MacArthur conducts his Inchon operation, will spell the end of the UN and probably a loss of the Cold War.&amp;#10;&amp;#10;COMPONENTS&amp;#10;&amp;#10;     11x17 inch map representing the region around the Perimeter in southern Korea.&amp;#10;     120 double sided counters show the forces available to both players.&amp;#10;     One Player's Aid sheet shows the charts and tables required during play.&amp;#10;     One rulebook.&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1091" value="Korean War"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1678" value="Brian Train"/>
+    <link type="boardgamepublisher" id="424" value="Schutze Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="7.5625"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.82752"/>
+        <median value="0"/>
+        <owned value="48"/>
+        <trading value="2"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="9"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

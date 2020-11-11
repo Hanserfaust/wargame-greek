@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2720">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/14EPjl8A24vW-MJO40vSt9D82Uw=/fit-in/200x150/pic6994.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/u2kq_6TVUams4KondjjVakMZpEA=/0x0/pic6994.jpg</image>
+    <name type="primary" sortindex="1" value="Shooting Stars"/>
+    <description>&amp;quot;A tactical game of fighter combat in space&amp;quot; beginning in the &amp;quot;near future&amp;quot;.  Scenarios range from the first U.S.-Soviet Space War, to Asteroid Pirates (the title of a later Yaquinto game), to Alien Invaders.  Inertial, vector-based movement provides some realism (there are even some three-dimensional optional rules).  Detailed energy management between fifteen ship functions (including cloaks, shields, scanners and so on) and a myriad of weapons provide even more playing pleasure.  Eight ship designs are included, with more easily designed.  This is almost a miniatures game, as some weapons come with effect templates.  Pieces are provided for larger ships, a space station and asteroids.  Hidden movement is possible using the advanced optional rules.  Turns are simultaneous, with the players using the familiar Yaquinto shields to adjust their ship displays hidden from view.&amp;#10;&amp;#10;(In this game's credits, we learn that Michael S. Matheny is Michael Scott Matheny)&amp;#10;&amp;#10;Asteroid Pirates is a simplified version of this game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamedesigner" id="1101" value="Michael S. Matheny"/>
+    <link type="boardgamedesigner" id="733" value="J. Stephen Peek"/>
+    <link type="boardgameartist" id="42557" value="Micha"/>
+    <link type="boardgamepublisher" id="154" value="Yaquinto"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="54"/>
+        <average value="6.2963"/>
+        <bayesaverage value="5.52566"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11540" bayesaverage="5.52566"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2244" bayesaverage="5.66061"/>
+        </ranks>
+        <stddev value="1.43862"/>
+        <median value="0"/>
+        <owned value="186"/>
+        <trading value="14"/>
+        <wanting value="12"/>
+        <wishing value="24"/>
+        <numcomments value="27"/>
+        <numweights value="8"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

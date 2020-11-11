@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="149520">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qjRt2-8ayW71k_-aQw_w6suNfRM=/fit-in/200x150/pic2064907.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/6TOsjusqPNLhjvzwX1SH6XjBQFM=/0x0/pic2064907.jpg</image>
+    <name type="primary" sortindex="1" value="Hindenburg's War: Decision in the Trenches, 1918"/>
+    <description>Hindenburg&amp;rsquo;s War: Decision in the Trenches, 1918 (HW) is a strategic-level, two-player wargame of low complexity that covers the fighting on World War I&amp;rsquo;s western front during that final year of the war, from the start of the first German offensive on 21 March through Armistice Day on 11 November. The game&amp;rsquo;s sub-systems are crafted to present a supreme-commander&amp;rsquo;s-eye-view of the war: it is therefore almost fully strategic in its perspective, with only the most pastel of operational undertones added to enhance historical tone and texture.&amp;#10; Each hex on the map represents 9.31 miles (15 km) when measured from side to opposite side. Each full turn of play, other than the first and last, represents half-a-month. Every combat unit in the game represents one division of infantry or one brigade of tanks.&amp;#10;&amp;#10;Components: Two 22&amp;quot; x 34&amp;quot; map &amp;amp; 456 counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgameartist" id="10894" value="Lionel Liron"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="20"/>
+        <average value="7.3"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.47817"/>
+        <median value="0"/>
+        <owned value="130"/>
+        <trading value="5"/>
+        <wanting value="3"/>
+        <wishing value="8"/>
+        <numcomments value="25"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29444">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rhIj_9UOlEQByBjK_sd2Tyu3nro=/fit-in/200x150/pic210569.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LYNnmIpNmrsfWP-DQAukhhF-u-o=/0x0/pic210569.jpg</image>
+    <name type="primary" sortindex="1" value="Across the Wide Missouri"/>
+    <description>Across the Wide Missouri is a collection of three Civil War battles in Missouri and Arkansas - Wilson's Creek, Pea Ridge and Prairie Grove. Prairie Grove and Wilson's Creek can be played in three to four hours. Pea Ridge is a two day battle with hidden initial deployments, and can take up to 8 hours. Various alternative history options are included.&amp;#10;&amp;#10;Wilson's Creek and Prairie Grove are solitaire friendly.  Pea Ridge requires hidden units and maneuver, so some sort of randomized battle plan is needed. Multiple personality disorder or a cooperative friend a plus.&amp;#10;&amp;#10;Components:&amp;#10;One 11&amp;quot;x17&amp;quot; Map (Wilson's Creek); One 12&amp;quot;x18&amp;quot; Map (Prairie Grove), One 17&amp;quot;x22&amp;quot; Map (Pea Ridge) &amp;#10;432 9/16&amp;quot; pieces, representing historical combat units and unit or formation status markers. &amp;#10;One Game Reference card for each player with Terrain Effects and Combat Results Charts &amp;#10;28 page color booklet of rules, play illustrations and detailed historical commentary. &amp;#10;1 Six-sided Die&amp;#10;&amp;#10;Currently Shipping (15 September 2007)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="8121" value="Battles of the American Civil War"/>
+    <link type="boardgamefamily" id="43659" value="States: Missouri"/>
+    <link type="boardgamedesigner" id="8712" value="Lawrence Duffield"/>
+    <link type="boardgamepublisher" id="6863" value="LPD Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="7.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.968246"/>
+        <median value="0"/>
+        <owned value="25"/>
+        <trading value="0"/>
+        <wanting value="9"/>
+        <wishing value="14"/>
+        <numcomments value="4"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

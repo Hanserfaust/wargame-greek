@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="76462">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7gcfl-qmLy3vBt-qDCT2E_M7vgQ=/fit-in/200x150/pic982152.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/vbkwXHT2_abtJHKsjZgQ7yxt92g=/0x0/pic982152.png</image>
+    <name type="primary" sortindex="1" value="Second World War at Sea: Combined Fleet"/>
+    <description>(from the APL website :)&amp;#10;&amp;#10;During the late spring and early summer of 1942, the Imperial Japanese Navy launched a series of aggressive operations. Barely taking time to refuel, Japanese carriers and cruisers struck the Dutch East Indies and Ceylon. Committing a basic error of dividing their forces, the Japanese then split their fleet carriers into two groups for Operations MO and MI, which resulted in the Battles of Midway and the Coral Sea.&amp;#10;&amp;#10;Combined Fleet is a 64-page book supplement to the Second World War at Sea series, focusing on Japanese and American plans and options for these two climactic battles. There are 20 scenarios, or separate game situations, based on both actual actions and potential battles that could have taken place with the forces that both sides either could have committed or discussed sending to the battle zone.&amp;#10;&amp;#10;This module is not playable by itself, but requires ownership of Coral Sea and Midway to enjoy most of he scenarios, with some pieces also drawn from Bismarck, Bomb Alley, Strike South and Eastern Fleet.&amp;#10;&amp;#10;&amp;#10;http://www.avalanchepress.com/gameCombinedFleet.php&amp;#10;&amp;#10;System Description at http://www.avalanchepress.com/line_WWIISea.php&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="0"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="10" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="45" value="Second World War at Sea"/>
+    <link type="boardgameexpansion" id="36623" value="Second World War at Sea: Coral Sea" inbound="true"/>
+    <link type="boardgameexpansion" id="13254" value="Second World War at Sea: Midway" inbound="true"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="6.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.89497"/>
+        <median value="0"/>
+        <owned value="66"/>
+        <trading value="0"/>
+        <wanting value="6"/>
+        <wishing value="17"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

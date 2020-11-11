@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11480">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sWqMnMCEK8vDd6S3-j9D_FtnNvI=/fit-in/200x150/pic231482.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Q9g7yXVkpaKCDe1Lkp5Bkt0GTLs=/0x0/pic231482.jpg</image>
+    <name type="primary" sortindex="1" value="Albuera &amp; Vittoria"/>
+    <description>The Wargamer Magazine issue 8 included Albuera and Vittoria. They were later released in a boxed form.&amp;#10;&amp;#10;&amp;quot;Albuera is a simulation of the Peninsular War battle of that name. The game is for two players. One commands the French forces and the other the Allied troops of the Spanish, British and Portuguese. Each player in turn maneuvers his troops on the map according to the restrictions of terrain, leadership, and morale, trying to cause or avoid combat between adjacent units at the end of each movement phase. Artillery can bombard at a distance, with range and target density effects, and a new game-system shows the difference between the traditional arms of cavalry and infantry. The infantry commands slug it out at close musket attrition while the cavalry looks for broken or demoralized targets for their 'death or glory' charges.&amp;quot;&amp;#10;&amp;#10;One 17&amp;quot; x 22&amp;quot; blue on tan map, 26 red British, 16 white Spanish, and 29 blue French units, played in 14 turns.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="150"/>
+    <minplaytime value="150"/>
+    <maxplaytime value="150"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="2827" value="Bob Latter"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="2176" value="Simulation Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="6.47333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.30561"/>
+        <median value="0"/>
+        <owned value="87"/>
+        <trading value="2"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="20"/>
+        <numweights value="2"/>
+        <averageweight value="4.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3240">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZwW7fMkTN5xQsTBxxdcvCHxtLEA=/fit-in/200x150/pic124263.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ot8x2rEiDPljYjVGcVfuS0FVKxs=/0x0/pic124263.jpg</image>
+    <name type="primary" sortindex="1" value="Victory at Sea"/>
+    <description>I think this is basically War at Sea (second edition). &amp;#10;After getting reinforcements, the Axis player moves all the Italian fleet in the Mediterranean, then the Allied player moves their ships.  The Axis player may withdraw the Italian fleet if they like and then commit the German fleet.  The Axis play also has U-boats that can also be placed.&amp;#10;&amp;#10;Combat is very straightforward.  One assigns targets for all ships and then rolls a die for each combat factor a ship has.  A 6 is a hit and a 5 forces the target ship to retreat.  Combat is finished when each area of the board has only one side present.  Victory points are awarded for the turn and the game continues.  The game finishes after 9 turns.  There are some other things like convoys, a little air support and damage repair, but that is basically it.&amp;#10;&amp;#10;This is light and fun with lots of dice rolling.  It should take well under an hour and would be a good intro-level war game.  The rules are more verbose than needed and could be cross reffed so on the odd occasion you need to refer back to them you can.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamefamily" id="6379" value="War at Sea"/>
+    <link type="boardgamedesigner" id="600" value="John Edwards"/>
+    <link type="boardgamepublisher" id="1338" value="Jedko Games"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="7.06176"/>
+        <bayesaverage value="5.53283"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10730" bayesaverage="5.53283"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2063" bayesaverage="5.71108"/>
+        </ranks>
+        <stddev value="1.27164"/>
+        <median value="0"/>
+        <owned value="94"/>
+        <trading value="2"/>
+        <wanting value="8"/>
+        <wishing value="13"/>
+        <numcomments value="14"/>
+        <numweights value="9"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

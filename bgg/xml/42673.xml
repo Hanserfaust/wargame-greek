@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="42673">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Iyfb3fAxsZc0Ju2p5DLh-pVdAOU=/fit-in/200x150/pic1063957.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/mF755TplQGbA5qiHmZZcK7eNzoA=/0x0/pic1063957.jpg</image>
+    <name type="primary" sortindex="1" value="Field Commander: Napoleon"/>
+    <description>Welcome to Field Commander: Napoleon, the third in our series of Field Commander games. The goal in designing this game system was to make the careers of some of history&amp;rsquo;s great commanders accessible in an easy to learn, fast playing game format. We decided on solitaire, because it had the proper feel. Commanders have staff and advisors, but in the end, they alone make the hard decisions that affect lives, change the course of campaigns, and decide the fate of nations.&amp;#10;&amp;#10;In this game, you make all the decisions needed to command your Forces. The game rules, charts, and die rolls dictate the actions of the opposing forces.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+      <results numplayers="1">
+        <result value="Best" numvotes="21"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="10"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="5"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="3277" value="Field Commander Series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="428" value="Dan Verssen"/>
+    <link type="boardgameartist" id="35046" value="Aaron Anderson"/>
+    <link type="boardgameartist" id="11821" value="Wan Chiu"/>
+    <link type="boardgameartist" id="42654" value="Jacques-Louis David"/>
+    <link type="boardgameartist" id="14627" value="Miguel Santos"/>
+    <link type="boardgameartist" id="428" value="Dan Verssen"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="755"/>
+        <average value="7.72204"/>
+        <bayesaverage value="6.28549"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1368" bayesaverage="6.28549"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="84" bayesaverage="7.20186"/>
+        </ranks>
+        <stddev value="1.36576"/>
+        <median value="0"/>
+        <owned value="1962"/>
+        <trading value="66"/>
+        <wanting value="180"/>
+        <wishing value="624"/>
+        <numcomments value="268"/>
+        <numweights value="89"/>
+        <averageweight value="2.7865"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

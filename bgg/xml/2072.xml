@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2072">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KJ2btBR3qkpmPLOBFxGRJu9ntEs=/fit-in/200x150/pic56448.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/c-XgKNRROv5lbDHKxDIUCLEUQTU=/0x0/pic56448.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Command"/>
+    <description>Panzer Command is a tactical level simulation of armored combat, recreating the battles that raged across the steppes of the Soviet Union during the middle years of World War II.&amp;#10;&amp;#10;Each of two players commands the 40 to 60 company-sized units of a German armored division or Soviet tank corps, maneuvering forces across treacherous terrain to engage the enemy in a life or death struggle.  &amp;#10;The challenge of battlefield command is yours in the thought-provoking, exciting game experience of Panzer Command.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="681" value="Eric Lee Smith"/>
+    <link type="boardgameartist" id="15063" value="Ted Koller"/>
+    <link type="boardgamepublisher" id="123" value="Victory Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="172"/>
+        <average value="7.19913"/>
+        <bayesaverage value="5.68056"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4647" bayesaverage="5.68056"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="603" bayesaverage="6.31195"/>
+        </ranks>
+        <stddev value="1.5497"/>
+        <median value="0"/>
+        <owned value="579"/>
+        <trading value="24"/>
+        <wanting value="28"/>
+        <wishing value="53"/>
+        <numcomments value="99"/>
+        <numweights value="23"/>
+        <averageweight value="3.0435"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5382">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mqHcKEWLyeiHTTc0_R7qUqO9IBs=/fit-in/200x150/pic64712.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FkiFshOY67Hw-k7E9RR4sQzODfc=/0x0/pic64712.jpg</image>
+    <name type="primary" sortindex="1" value="Oil War"/>
+    <description>Oil War - American Intervention in the Persian Gulf, is a brigade/squadron-level simulation of a hypothetical attempt by the United States and various other nations to take over the oil-producing areas of the Middle East. The simulation is primarily of land and air conflict. The game covers an arbitrary period of conflict (sixteen days), in which the issue would be decided. A total of three scenarios are available from which the players may choose.&amp;#10;&amp;#10;In addition to appearing in Strategy &amp;amp; Tactics magazine #52, Oil War was also released as folio edition as well as a boxed edition.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10628" value="Country: Iran"/>
+    <link type="boardgamefamily" id="41412" value="Country: Qatar"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamefamily" id="21419" value="Middle Eastern Theme"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="166"/>
+        <average value="5.65572"/>
+        <bayesaverage value="5.50492"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13905" bayesaverage="5.50492"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2715" bayesaverage="5.51765"/>
+        </ranks>
+        <stddev value="1.50585"/>
+        <median value="0"/>
+        <owned value="527"/>
+        <trading value="29"/>
+        <wanting value="0"/>
+        <wishing value="7"/>
+        <numcomments value="103"/>
+        <numweights value="29"/>
+        <averageweight value="2.3448"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

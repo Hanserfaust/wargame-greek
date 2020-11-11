@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="69409">
+    <name type="primary" sortindex="1" value="Soldat II"/>
+    <description>Soldat is a set of rules for simulating squad level infantry combat during the early and mid Twentieth Century. The rules concentrate on the World Wars, but can also be used for Korea, Indochina and the early Arab-Israeli wars. &amp;#10;Unlike the great majority of wargame rules for this period, Soldat concentrates on the role of the infantryman. Combat in both World Wars rapidly became a series of vicious, small unit actions, a classic confrontation at close quarters with no holds barred. As in most wars, the dirty business of winning battles fell to the infantryman. Despite the vast array of sophisticated and deadly weapons available to all sides, success or failure ultimately depended upon the ability of the foot soldier to take or hold ground.&amp;#10;&amp;#10;http://smpartizans.com/index.html&amp;#10;&amp;#10;http://games.groups.yahoo.com/group/SMPress/&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="50487" value="Tim Goodlet"/>
+    <link type="boardgamepublisher" id="14804" value="lulu.com"/>
+    <link type="boardgamepublisher" id="12026" value="SMPress"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

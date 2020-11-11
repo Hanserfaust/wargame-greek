@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36351">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nfqNm2ub9vhRKLvlRldnyU0e7ms=/fit-in/200x150/pic329921.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wnpf29jC-Hx9GE3BCQ3Qfr9odRk=/0x0/pic329921.jpg</image>
+    <name type="primary" sortindex="1" value="Rolling Thunder"/>
+    <description>A solitaire pencil and paper game which simulates an American Rolling Thunder Bombing Mission during the Vietnam War, circa 1966.&amp;#10;&amp;#10;The player's force consists of 16 F-105 bombers (Thuds), 8 F-105 Wild Weasels, 10 F-4 Phantom fighters, and 2 EB-66 jamming aircraft. The attack force must locate and attack targets. When a target is located, the player decides how many bombers will attack it. Each bomber can only make one bombing run per game. The force will also encounter hostile SAM (surface to air missile) sites and MiG-21 fighters.&amp;#10;&amp;#10;Victory is determined by Objective Points. Points are gained for every target bombed, SAM site destroyed, and enemy MiG fighter shot down. Points are lost for each American plane lost.&amp;#10;&amp;#10;The game is played with a six-sided die (or two), a pencil, and the game sheet. The game lasts twenty-five turns.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="810" value="Lloyd Krassner"/>
+    <link type="boardgameartist" id="10513" value="Mike Marinos"/>
+    <link type="boardgamepublisher" id="873" value="Warp Spawn Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="14"/>
+        <average value="5.14286"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.41961"/>
+        <median value="0"/>
+        <owned value="27"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="7"/>
+        <numcomments value="10"/>
+        <numweights value="4"/>
+        <averageweight value="1.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="32234">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/toUevoOWD-EzehC1jk84w8x9nKA=/fit-in/200x150/pic288837.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/pxUe68tP7BMrEFHK2XbP1wfyUWA=/0x0/pic288837.jpg</image>
+    <name type="primary" sortindex="5" value="The War At Sea (first edition)"/>
+    <description>From &amp;quot;The Object of the Game&amp;quot;:&amp;#10;To control the seas as much as possible during the period of the war. The winner is the player with the most &amp;quot;Points of Control&amp;quot; after 8 turns.&amp;#10;&amp;#10;The game represents surface action between capital ships in WWII.&amp;#10;&amp;#10;The mapboard is an abstract rendering of Europe/Eastern USA/Brazil and surrounding sea zones, divided into large movement zones. Individual counters represent single capital ships, U-boats, convoys and airstikes. Capital ship fire is simulated with dice rolls directed from and to individual ships, with damage being accrued and marked with counters until the target ship is sunk.&amp;#10;&amp;#10;117 counters&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="11"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="6379" value="War at Sea"/>
+    <link type="boardgameimplementation" id="1431" value="War at Sea (second edition)"/>
+    <link type="boardgamedesigner" id="600" value="John Edwards"/>
+    <link type="boardgamepublisher" id="1338" value="Jedko Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="18"/>
+        <average value="6.58333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29368"/>
+        <median value="0"/>
+        <owned value="50"/>
+        <trading value="3"/>
+        <wanting value="3"/>
+        <wishing value="5"/>
+        <numcomments value="11"/>
+        <numweights value="4"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5727">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rhfr_PKTkHHueDYWwz557K2X5-I=/fit-in/200x150/pic21388.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/bBPb3CspoBAMn_5-SaVwPZtN2qk=/0x0/pic21388.jpg</image>
+    <name type="primary" sortindex="1" value="Europe at War"/>
+    <description>Europe at War simulates the complete war in Europe using only three pages of rules and uses the same basic game system as the introductory level War at Sea (second edition), John Edwards expanded the design to fight the entire war.&amp;#10;&amp;#10;The game consists of a large three panel area map of Europe, counters for each of the participants (basic troops, armor, aircraft, naval units, and leaders), and dice.&amp;#10;&amp;#10;Control of certain map areas is important for production, which is the first action done in the sequence of play.  Players then alternate moving units, in a strict order, and have combat.&amp;#10;&amp;#10;Combat is simultaneous.  One die is rolled for each attacking and defending unit... each roll of 6 scores a 'hit'.  Losing player chooses either an aircraft/armour unit or rolls a die for army/leader losses.&amp;#10;&amp;#10;The winner is the player who is first to eliminate the opposition's top two leaders. (Allies: Churchill, Stalin; Axis: Hitler, Goering)&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="50153" value="Continent: Europe"/>
+    <link type="boardgamedesigner" id="600" value="John Edwards"/>
+    <link type="boardgamepublisher" id="1338" value="Jedko Games"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="59"/>
+        <average value="6.24068"/>
+        <bayesaverage value="5.52749"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11339" bayesaverage="5.52749"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2245" bayesaverage="5.66061"/>
+        </ranks>
+        <stddev value="1.29027"/>
+        <median value="0"/>
+        <owned value="189"/>
+        <trading value="11"/>
+        <wanting value="9"/>
+        <wishing value="13"/>
+        <numcomments value="45"/>
+        <numweights value="15"/>
+        <averageweight value="1.8667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

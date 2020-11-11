@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="21321">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FbGVDOohew1Ov_qVi0mAQBbrSE8=/fit-in/200x150/pic257612.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/GeArIdgl6nmhOphZiZJCmDsPfCY=/0x0/pic257612.jpg</image>
+    <name type="primary" sortindex="1" value="Hell's Bridgehead"/>
+    <name type="alternate" sortindex="1" value="Hells's Bridgehead"/>
+    <description>Advanced Squad Leader accessory scenario and map pack concerning aspects of the great tank battle of Kursk in 1943.&amp;#10;&amp;#10;Krasny Oktabyr-Kliuchi, Russia, 11 July 1943: After a long night of struggling to secure little more than a tentative hold on the north bank of the Psel, the Totenkopf&amp;rsquo;s Panzer Regiment received orders to expand the bridgehead and explore the Russian defensive positions in the region. Unbeknownst to them, the reinforced 95th Guards Rifle Division was moving into positions overlooking the village of Krasny Oktabyr. As the Germans moved up from the river&amp;rsquo;s edge, the two forces collided under a summer squall, mutual surprise giving way to ferocious fighting. The Russians charged through the rain into the midst of the German force. Fighting was at point blank range; tanks often shot each other at less than one hundred meters. Both sides lost several vehicles before they each fell back. The Germans aimed themselves at Hill 226.6, which clearly dominated the local landscape. This fight was only the first of several fought this day as the Russians struggled to hold them back...&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameexpansion" id="108571" value="Critical Hit! - Volume 6, No. 4"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="3352" value="David Lamb"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="7.63462"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.36971"/>
+        <median value="0"/>
+        <owned value="133"/>
+        <trading value="3"/>
+        <wanting value="1"/>
+        <wishing value="3"/>
+        <numcomments value="14"/>
+        <numweights value="2"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

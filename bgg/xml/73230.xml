@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="73230">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0tt_-3_lSPS_k3mQJmJ7hFw7UlU=/fit-in/200x150/pic749050.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/PJ3UBjDsgiPXj4-ocFC7uv5vk9E=/0x0/pic749050.jpg</image>
+    <name type="primary" sortindex="1" value="Showdown: The Coming Indo-Pakistani War"/>
+    <description>From the Decision Games' website:&amp;#10;&amp;#10;When Pakistan declared itself independent from India, the enmity that had long existed between the two cultures erupted into open war. Since 1947, Pakistan and India have been military rivals and have fought several wars. Those wars, however, have been inconclusive. Since 1998, both nations have become nuclear powers and, consequently, the next Indo-Pakistani war could potentially become nuclear. Indeed, another war between Pakistan and India may be the final showdown.&amp;#10;&amp;#10;Showdown utilizes the new Fire &amp;amp; Movement combat system that's designed so players can augment their units with &amp;quot;support fire&amp;quot; during the course of the turn. From attack helicopters to self-propelled artillery, units can receive support to engage enemy positions and formations, allowing combat to develop at all levels. Showdown also introduces a new and disconcerting element: tactical nuclear weapons. Both Pakistan and India now have sizeable nuclear arsenals, and thus what begins as a conventional war may erupt into a nuclear exchange.&amp;#10;&amp;#10;In Showdown, the attritional design of the new Combat Results Table simulates the true nature of modern warfare. Units are typically two-sided formations that can incur casualties, accurately replicating the realities of combat and the high losses likely to be sustained during another Indo-Pakistani war. Winning the battle is thus a matter of maneuver, firepower and asset management, particularly with regard to nuclear weapons.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10624" value="Country: Pakistan"/>
+    <link type="boardgamefamily" id="5858" value="Decision Games Folio Series"/>
+    <link type="boardgamefamily" id="19593" value="Fire &amp; Movement combat system"/>
+    <link type="boardgamedesigner" id="3878" value="Eric R. Harvey"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="32"/>
+        <average value="6.44219"/>
+        <bayesaverage value="5.52259"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11886" bayesaverage="5.52259"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2316" bayesaverage="5.63962"/>
+        </ranks>
+        <stddev value="1.59742"/>
+        <median value="0"/>
+        <owned value="148"/>
+        <trading value="6"/>
+        <wanting value="9"/>
+        <wishing value="13"/>
+        <numcomments value="27"/>
+        <numweights value="5"/>
+        <averageweight value="2.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

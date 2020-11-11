@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="22457">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/oy43cSr_etg9_CK0Ghpif763MT4=/fit-in/200x150/pic290688.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/DvdJ02vRSHaRMOoE7LJpZptqDk0=/0x0/pic290688.jpg</image>
+    <name type="primary" sortindex="1" value="Axis &amp; Allies: Battle of the Bulge"/>
+    <name type="alternate" sortindex="1" value="Axis and Allies: Battle of the Bulge"/>
+    <description>From Avalonhill web site:&amp;#10;&amp;#10;German tanks thunder into the snow-covered Ardennes forest, opposed only by a few unsuspecting divisions of exhausted American troops. As Axis forces plunge into the countryside, Allied troops must struggle to hold the front line in order to repel the all-out offensive. Axis &amp;amp; Allies: Battle of the Bulge challenges you to control territory and contend with supply shortages, while directing infantry, artillery, tanks, and aircraft in one of the most decisive conflicts of World War II.&amp;#10;&amp;#10;Scheduled for release in November, 2006, Axis &amp;amp; Allies Battle of the Bulge will feature detailed game components including a new truck piece, a hex-based game board with new original artwork, and original artwork commissioned exclusively for the Battle of the Bulge game box. Other elements of this new Axis &amp;amp; Allies variant include crucial elements that were key factors in the historical battle, such as supply shortages and late-battle air support, mechanics for overland vs. road movement and randomized casualties of war&amp;#10;&amp;#10;Axis &amp;amp; Allies depicts Wacht am Rhein (Watch on the Rhein), the German code name for this counteroffensive that took place toward the end of World War II. The objective: to capture the port city of Antwerp. It was expected that the capture of Antwerp would cause a great disruption in the flow of Allied supplies, and also have the effect of breaking apart the great Anglo-American alliance.&amp;#10;&amp;#10;One player controls Germany, whose massive build up of forces have gone undetected by the Allies and are poised to unleash all their fury on the Allies. The other player controls the forces of the United Kingdom and the United States and they must stem the tide of German armor and hold their positions until reinforcements arrive.&amp;#10;&amp;#10;Axis &amp;amp; Allies Battle of the Bulge is designed for two players and can be played in three to four hours. Axis &amp;amp; Allies Battle of the Bulge is the fourth Axis &amp;amp; Allies variant, following the successful Axis &amp;amp; Allies D-Day, Axis &amp;amp; Allies Europe and Axis &amp;amp; Allies Pacific versions. Axis &amp;amp; Allies Battle of the Bulge is available on November 17th, 2006.&amp;#10;&amp;#10;Box Dimension: 15.8 x 10.5 x 3&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="12"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="2"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="34" value="Axis &amp; Allies"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgamedesigner" id="575" value="Larry Harris, Jr."/>
+    <link type="boardgameartist" id="28510" value="Blake Beasley"/>
+    <link type="boardgameartist" id="19124" value="Leon Cortez"/>
+    <link type="boardgameartist" id="13324" value="Tommy Lee Edwards"/>
+    <link type="boardgamepublisher" id="4871" value="Avalon Hill Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="757"/>
+        <average value="6.741"/>
+        <bayesaverage value="5.91735"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2613" bayesaverage="5.91735"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="482" bayesaverage="6.44227"/>
+        </ranks>
+        <stddev value="1.50931"/>
+        <median value="0"/>
+        <owned value="1709"/>
+        <trading value="79"/>
+        <wanting value="46"/>
+        <wishing value="166"/>
+        <numcomments value="287"/>
+        <numweights value="92"/>
+        <averageweight value="2.6522"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="66718">
+    <name type="primary" sortindex="1" value="Pusan Perimeter Pack"/>
+    <description>Produced by the Kansas City Irregulars and distributed at the 2007 March Madness ASL Tournament. Not available commercially, 50 copies of this pack were handed out at the tournament, and is the 2nd scenario pack designed by the Kansas City Irregulars.&amp;#10;&amp;#10;Contents:&amp;#10;6 scenarios&amp;#10;custom Bazooka counters&amp;#10;&amp;#10;PuP1: Super Bazooka&amp;#10;Nonsan-Kongju Road Junction, 1/2 mile west of Taegu, 20 July '50&amp;#10;&amp;#10;PuP2: Hey, That Ain't a ROK!&amp;#10;Near Hadong, South Korea, 27 July '50&amp;#10;&amp;#10;PuP3: Bullets For Breakfast&amp;#10;Chindong-ni, 8KM west of Masan, 3 August '50&amp;#10;&amp;#10;PuP4 The Grist Mill&amp;#10;Soesil, 2 miles Southeast of Ohang ferry crossing, 6 Aug. '50&amp;#10;&amp;#10;PuP5: A Line Too Thinly Held&amp;#10;Kihang Ferry Crossing, Agok, South Korea, 31 Aug. '50&amp;#10;&amp;#10;Pup6: The Road to Waegwan&amp;#10;Hill 121, 1 mile south of Waegwan, 19 Sep. '50&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="9416" value="Kansas City Irregular ASL Club"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

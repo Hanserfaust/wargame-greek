@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3202">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/5MaOEI8CNkiFBvQMd96y5YWnWXc=/fit-in/200x150/pic80789.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D_sJHITosAyYZpXByrGJdAvEFf0=/0x0/pic80789.jpg</image>
+    <name type="primary" sortindex="1" value="RAF"/>
+    <description>This solitaire game of the Battle of Britain is card-driven with card decks covering Events, Attacking Forces and suspected targets. Game mechanisms deal with Radar warning(and lack of), weather and observer corps. The cardstock map covers southern England with graphics for airfields, industrial sites and ports.&amp;#10;&amp;#10;From the back of the box:&amp;#10;You control British, Commonwealth, Polish and Czech Air Force Squadrons, positioning the day's patrols where you believe the Nazis will strike. Day after bloody day, the RAF must rise to battle the modern fighters of Luftflotte 2 and 3 while Nazi bombers pound England into ruin - and submission. You must intercept German bombers, sacrificing dwindling men and equipment to halt the German war machine.&amp;#10;&amp;#10;The game system controls the Luftwaffe, directing a coherent bombing campaign against targets vital to British survival. A unique card system hides the strengths, compositions, and targets of the German strikes until after you've decided where your squadrons will patrol, and which raids you'll intercept. You make the decisions that could save democracy.&amp;#10;&amp;#10;RAF offer three scenarios. The Hardest Days, The Thin Blue Line, and The Battle of Britain cover the entire struggle from beginning to end. The game is playable in as few as 3 hours or as many as 10.&amp;#10;&amp;#10;RAF includes:&amp;#10;&amp;#10;     One full-color 22&amp;quot; x 34&amp;quot; map of southern England&amp;#10;     160 full-color counters&amp;#10;     134 target, event, and force cards (the rules correctly indicate 134 playable and numbered cards. There are 3 blanks in each set that are not used in the game bringing the physical count to 143 - 144 including dummy &amp;quot;title&amp;quot; card.)&amp;#10;     16-page rules book&amp;#10;     One six-sided die&amp;#10;     Counter tray with lock-on lid&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Game scale is Gruppen and Squadrons with one-day turns.&amp;#10;For one player.&amp;#10;Three to ten hours to play.&amp;#10;Ages 12 and up.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+      <results numplayers="1">
+        <result value="Best" numvotes="11"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="21" value="No necessary in-game text" numvotes="0"/>
+        <result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="25" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamefamily" id="17056" value="Country: United Kingdom"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="40209" value="RAF: The Battle of Britain 1940"/>
+    <link type="boardgamedesigner" id="679" value="John H. Butterfield"/>
+    <link type="boardgameartist" id="16474" value="Kevin Wilkins"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="40" value="West End Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="576"/>
+        <average value="7.35168"/>
+        <bayesaverage value="6.06444"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1976" bayesaverage="6.06444"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="169" bayesaverage="6.94356"/>
+        </ranks>
+        <stddev value="1.4504"/>
+        <median value="0"/>
+        <owned value="1287"/>
+        <trading value="68"/>
+        <wanting value="70"/>
+        <wishing value="202"/>
+        <numcomments value="288"/>
+        <numweights value="80"/>
+        <averageweight value="3.125"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

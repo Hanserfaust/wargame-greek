@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="37737">
+    <name type="primary" sortindex="1" value="Bismark"/>
+    <description>Bismark [sic] is a low priced 2 player strategy board game covering the epic naval confrontation between the German battleship (actually known as the Bismarck, with a 'c') and the British Royal Navy.&amp;#10;&amp;#10;In may of 1941, the German navy has sent is greatest battleship out to begin hunting British commerce, trying to disrupt the British naval supply lines and otherwise distract the British while the bulk of Germany's armed forces were heading eastward. In this game the German player must take the Battleship Bismark and the heavy cruiser Prinz Eugen out to sea and north of the British isles past the Denmark Straits and out into the Atlantic where it can prey upon and sink vital British convoys.&amp;#10;&amp;#10;The British must sink the Bismark at all costs. Failure to do so will mean a menace upon their shipping they can ill afford. The might of the Royal Navy is surely capable of the task, but the real challenge will be, how long will it take and what will be the costs. Victory in Bismark will depend on how much shipping the Germans are able to sink before the Brits are able to sink the Bismark.&amp;#10;&amp;#10;Game Components:&amp;#10;1 22x17 inch Full Color Map in 2 pieces&amp;#10;1 D10&amp;#10;Rules&amp;#10;Over 90 full color cut out units on adhesive paper&amp;#10;Cardboard to stick counters on&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="652" value="Bruce P. Dowrie"/>
+    <link type="boardgamepublisher" id="343" value="Guild of Blades"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="1"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

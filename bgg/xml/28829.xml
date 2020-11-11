@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="28829">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7hDbA-evyidXpgD6Szo8H4ZUQd8=/fit-in/200x150/pic1096391.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3nNIwSR97Y7h4L5Amtfx3HPhIZw=/0x0/pic1096391.jpg</image>
+    <name type="primary" sortindex="1" value="Field Commander: Rommel"/>
+    <description>Rommel was designed by Dan Verssen and is the first game in the &amp;quot;Field Commander&amp;quot; solitaire series of historical strategy board games. The player takes command of General Erwin Rommel's forces in 3 exciting WWII campaigns: France 1940, North Africa 1941, and D-Day 1944. An easy-to-use game system of &amp;quot;Battle Plan&amp;quot; and &amp;quot;Operation Plan&amp;quot; chits manages the Allied movement, combat, and reinforcements.&amp;#10;&amp;#10;Each campaign comes with a list of historical options that the player can modify to adjust its difficulty level and improve replay value.  Also, as units win battles, stats increase to affect ensuing battles and movement.  The game comes with &amp;quot;Career&amp;quot; rules that allow the player to link campaigns, so that the outcome of one campaign affects the start-up conditions for the next campaign.&amp;#10;&amp;#10;Game Information:&amp;#10;Game Time: Each campaign can be played in 2 hours.&amp;#10;Complexity: Moderate&amp;#10;Players: 1&amp;#10;Games by player age|Ages 12 and up&amp;#10;&amp;#10;Components:&amp;#10;3 Full Color Campaign Maps (11&amp;quot; x 17&amp;quot;)&amp;#10;176 Full Color (both sides) 5/8&amp;quot; counters&amp;#10;1 6-sided die&amp;#10;1 Campaign Log Sheet&amp;#10;Rulebook&amp;#10;&amp;#10;See also: Field Commander: Alexander&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+      <results numplayers="1">
+        <result value="Best" numvotes="28"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="17"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="6"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="13">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="11"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="3277" value="Field Commander Series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="428" value="Dan Verssen"/>
+    <link type="boardgameartist" id="428" value="Dan Verssen"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="863"/>
+        <average value="6.97337"/>
+        <bayesaverage value="6.07575"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1941" bayesaverage="6.07575"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="307" bayesaverage="6.66417"/>
+        </ranks>
+        <stddev value="1.34269"/>
+        <median value="0"/>
+        <owned value="1908"/>
+        <trading value="86"/>
+        <wanting value="117"/>
+        <wishing value="410"/>
+        <numcomments value="351"/>
+        <numweights value="138"/>
+        <averageweight value="2.4638"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

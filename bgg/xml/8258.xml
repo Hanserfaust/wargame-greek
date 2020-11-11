@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8258">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/hNbGhLabq0ebvtTtO4W6NlsJx_c=/fit-in/200x150/pic2241702.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/49ynr0D4F1EPkKemvFRQXDMe0MM=/0x0/pic2241702.jpg</image>
+    <name type="primary" sortindex="1" value="Solomons Campaign (first edition)"/>
+    <description>Historical simulation of the Air-Sea-Land campaign waged on and around Guadalcanal in 1942. Game begins with US invasion and portrays the subsequent Japanese attempts to retake this strategic area and the American efforts to hold it.&amp;#10;&amp;#10;Each Turn simulates a week of real time, during which players deploy, have combat and attempt to achieve objectives. Has a simultaneous movement system, in which players secretly plan their movement. 200 counters&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="41" value="No necessary in-game text" numvotes="0"/>
+        <result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="45" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="13255" value="Country: Solomon Islands"/>
+    <link type="boardgameimplementation" id="38286" value="The Solomons Campaign (second edition)"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="45"/>
+        <average value="7.38889"/>
+        <bayesaverage value="5.54901"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9192" bayesaverage="5.54901"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1634" bayesaverage="5.83222"/>
+        </ranks>
+        <stddev value="1.6017"/>
+        <median value="0"/>
+        <owned value="190"/>
+        <trading value="5"/>
+        <wanting value="16"/>
+        <wishing value="20"/>
+        <numcomments value="34"/>
+        <numweights value="12"/>
+        <averageweight value="3.8333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

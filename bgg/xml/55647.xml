@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="55647">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HfF61Zwwi1yBdfS5fkFeKuTeD3A=/fit-in/200x150/pic551823.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jMochRYkdoLeOFshUYrdqAtxfwI=/0x0/pic551823.jpg</image>
+    <name type="primary" sortindex="1" value="Gergovie"/>
+    <description>This game is a simulation of the assault on Gergovia, Caesar's failed attempt to wipe out the threat of a large Gallic uprising by isolating and defeating a gathering of several Gallic contingents, under Vercingetorix.&amp;#10;&amp;#10;66 counters&amp;#10;One hex = 180 meters&amp;#10;10 pages rules book (+scenarios and historical background)&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="3928" value="Simulations Cornejo"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.24722"/>
+        <median value="0"/>
+        <owned value="9"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

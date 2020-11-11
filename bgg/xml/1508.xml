@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1508">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/gBUfIv42kkFQHwi3jkCldp0Ctp0=/fit-in/200x150/pic505369.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/d9AhHVM9bZNuJY04f0a2bvNT6gE=/0x0/pic505369.jpg</image>
+    <name type="primary" sortindex="1" value="Broadside"/>
+    <name type="alternate" sortindex="1" value="American Heritage Broadside"/>
+    <name type="alternate" sortindex="1" value="Command Decision: Broadside"/>
+    <description>Broadside is an American Heritage game from the &amp;quot;Command Decision&amp;quot; series published by Milton Bradley circa 1962. Players take turns maneuvering their frigates and other ships to gain position so as to fire their cannons and destroy the masts on the enemy ships. Not for hardcore gamers, Broadside is an introductory wargame of early naval combat on the high seas. Some ports are guarded by land based cannons and players risk losing ships by straying too close. Rules are easy to learn and like &amp;quot;Dogfight&amp;quot; the game includes some great plastic miniatures to play with.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1962"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="2"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="3161" value="American Heritage Games"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgameartist" id="38441" value="Thomas Birch"/>
+    <link type="boardgamepublisher" id="661" value="John Sands Pty Ltd"/>
+    <link type="boardgamepublisher" id="20" value="Milton Bradley"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="373"/>
+        <average value="6.15067"/>
+        <bayesaverage value="5.62913"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5681" bayesaverage="5.62913"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1508" bayesaverage="5.86814"/>
+        </ranks>
+        <stddev value="1.40324"/>
+        <median value="0"/>
+        <owned value="771"/>
+        <trading value="63"/>
+        <wanting value="39"/>
+        <wishing value="77"/>
+        <numcomments value="193"/>
+        <numweights value="47"/>
+        <averageweight value="1.7447"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

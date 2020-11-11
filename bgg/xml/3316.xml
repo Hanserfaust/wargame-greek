@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3316">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/6X1U8O69kUIFmGDfa9D9oEsoK-k=/fit-in/200x150/pic865882.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FJax9tmQwBGKoGmQuR-boYoIzqA=/0x0/pic865882.jpg</image>
+    <name type="primary" sortindex="1" value="Prussia's Glory"/>
+    <description>Four battles featuring Frederick the Great in the Seven Years War: Rossbach, Leuthen, Zorndorf and Torgau. Short Battle Scenarios use the historical deployments, while Main Scenarios allow alternate history. Simple turn sequence, low unit counts. Mechanisms include CRT, Zone of Control. Rules emphasize the role of artillery, with a wide variety of ordnance.&amp;#10;&amp;#10;TIME SCALE  One hour per turn  &amp;#10;MAP SCALE  500 yards per hex  &amp;#10;UNIT SCALE  Brigade level with some Regiments and Battalions&amp;#10;&amp;#10;Contents:&amp;#10;704 5/8&amp;quot; full-color die-cut counters &amp;#10;Two 22&amp;quot;x34&amp;quot; full-color back-printed mapsheets  &amp;#10;32-page Rulebook &amp;#10;2 11x17&amp;quot; Player Aid Cards &amp;#10;2 6-sided dice&amp;#10;&amp;#10;DEVELOPERS Joshua Buergel, Dick Vohlers, Andy Lewis &amp;#10;MAP ART Mark Simonitch &amp;#10;COUNTER ART Mark Simonitch and Rodger B. MacGowan&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamedesigner" id="1363" value="Bob Kalinowski"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="158"/>
+        <average value="6.66139"/>
+        <bayesaverage value="5.62218"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5837" bayesaverage="5.62218"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="979" bayesaverage="6.06476"/>
+        </ranks>
+        <stddev value="1.4045"/>
+        <median value="0"/>
+        <owned value="516"/>
+        <trading value="13"/>
+        <wanting value="21"/>
+        <wishing value="47"/>
+        <numcomments value="79"/>
+        <numweights value="26"/>
+        <averageweight value="2.8462"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

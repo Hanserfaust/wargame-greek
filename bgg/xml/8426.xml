@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8426">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HD8lseZ8xhLOyutnSoTp2tUQDWM=/fit-in/200x150/pic35160.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SswLnhTEaSddq_hgxL8PirXeb2g=/0x0/pic35160.jpg</image>
+    <name type="primary" sortindex="1" value="Man to Man"/>
+    <description>&amp;quot;Steve Jackson's Man to Man: Fantasy Combat from GURPS.&amp;quot;&amp;#10;&amp;#10;&amp;quot;Man to Man is the combat system for GURPS - the Generic Universal Role Playing System . . . Man to Man makes an excellent stand-alone boardgame! Man to Man is intended to be a highly realistic, yet fast-moving, simulation of pre-gunpowder combat. It is presented in two levels - Basic and Advanced. It can be used in a variety of ways . . . non-role players will enjoy Man to Man as a combat boardgame. The advanced game provides a wealth of tactical detail - but it moves quickly enough to be fun. The tactics that work in real life will work here.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="22" value="Steve Jackson (I)"/>
+    <link type="boardgameartist" id="13114" value="Denis Loubet"/>
+    <link type="boardgameartist" id="14629" value="Kyle Miller"/>
+    <link type="boardgamepublisher" id="19" value="Steve Jackson Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="42"/>
+        <average value="6.21429"/>
+        <bayesaverage value="5.51995"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12175" bayesaverage="5.51995"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2420" bayesaverage="5.61162"/>
+        </ranks>
+        <stddev value="1.4232"/>
+        <median value="0"/>
+        <owned value="92"/>
+        <trading value="4"/>
+        <wanting value="2"/>
+        <wishing value="12"/>
+        <numcomments value="23"/>
+        <numweights value="6"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

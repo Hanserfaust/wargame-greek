@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="164073">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iRwvgS8XEvRDFLffkurikcr5hNc=/fit-in/200x150/pic2562341.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/5QbtA6iuY_iJk4-LhHzsyiKLcuw=/0x0/pic2562341.jpg</image>
+    <name type="primary" sortindex="1" value="Patton's Third Army"/>
+    <description>Patton&amp;rsquo;s Third Army is a solitaire game system where the player takes command of General George Patton&amp;rsquo;s Third Army during the campaign across France in 1944. The game begins immediately following the Falaise Battle and continues through to 15 December, at which point Third Army was sent to fight In the Battle of the Bulge. Your goal as a player is to surpass Patton&amp;rsquo;s original record, thereby possibly forestalling Germany&amp;rsquo;s Ardennes Offensive and thereby gaining glory as a great general.&amp;#10;&amp;#10;In the game, you control US and other Allied units assigned to the Third Army. The game system plays the Germans. You will have to deal with a wide variety of situations, from battling against fierce panzer counterattacks, to figuring out ways to extend your lines of supply. Your objective: Germany!&amp;#10;&amp;#10;The game has two levels: the Standard Rules, which gives a quick wargame, and the Optional Rules, which give more realism for more complexity.&amp;#10;&amp;#10;While Patton&amp;rsquo;s Third Army is a solitaire game, multiple players can play as the US team, making decisions by consensus, or each managing operations along one of the &amp;ldquo;Axes of Advance&amp;rdquo;. However, one player should always be the Commander of Third Army, and his decision is final!&amp;#10;&amp;#10;Patton's Third Army FAQ&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamefamily" id="3244" value="Magazine: World at War"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="3878" value="Eric R. Harvey"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="7.34062"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.28199"/>
+        <median value="0"/>
+        <owned value="116"/>
+        <trading value="3"/>
+        <wanting value="7"/>
+        <wishing value="23"/>
+        <numcomments value="22"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

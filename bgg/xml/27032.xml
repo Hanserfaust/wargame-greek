@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="27032">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/AnfbgjhFWnn0xZIlUWOfM6jcqY4=/fit-in/200x150/pic180943.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/q7VAx0yAH6gQ7KfaX1swZhKFOJE=/0x0/pic180943.jpg</image>
+    <name type="primary" sortindex="1" value="Meatgrinder Battle of Xuan Loc April 1975"/>
+    <description>This is a redux to Perry Moore's original game. Defiance: The Battle of Xuan Loc (Swedish Games).&amp;#10;&amp;#10;Covers the Battle of Xuan Loc April 1975. Basically ARVN defenders backed up by air power vs. hordes of NVA with tanks and heavy artillery. This was the last stand of the South Vietnamese Army against all odds (which is why it may become an ATO issue game). The ARVN 18th division armed with M-48 Tanks and Cluster bombs conduct themselves in a heroic manner, so much so, that it becomes noticed by the outside world media press. The battle involved large amounts of aircraft and tanks. The ARVN defiant stand stunned the three NVA Divisions assigned to take the town. The two sides clashed for 10 days-it became a battle of honor! This game is a much improved version of Perry's earlier 1982 game.&amp;#10;&amp;#10;System is similar to Perry Moore's Nanawa: Verdun in the Chaco War, July 1933.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgamepublisher" id="4366" value="Firefight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6.66667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.471405"/>
+        <median value="0"/>
+        <owned value="25"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="5"/>
+        <numcomments value="4"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16923">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/nk-6iQP7PHllrcfbvzJoBHatzmE=/fit-in/200x150/pic71545.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LlLcV88CrUT5GhYMZelnzfO_X1w=/0x0/pic71545.jpg</image>
+    <name type="primary" sortindex="1" value="Romance of the Three Kingdoms"/>
+    <name type="alternate" sortindex="1" value="三国志演義"/>
+    <description>This is a Japanese wargame set during the time of the Romance of the Three Kingdoms era in Chinese history.&amp;#10;&amp;#10;the game is a first attempt to this theme in wargame format in Japan.&amp;#10;And very famous one for its own sake.&amp;#10;At game starts, players pick three character counters randomly.&amp;#10;Yes, this is the &amp;quot;Oath at Peach Garden&amp;quot; for each player.&amp;#10;Game include over 100 characters.&amp;#10;So, the game is basically a &amp;quot;Grow fast&amp;quot; type multi players game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamefamily" id="9470" value="Asian Theme"/>
+    <link type="boardgamefamily" id="22883" value="Romance of the Three Kingdoms"/>
+    <link type="boardgamefamily" id="10794" value="World War Game series"/>
+    <link type="boardgameexpansion" id="85879" value="Romance of the Three Kingdoms Expansion Kit"/>
+    <link type="boardgamedesigner" id="4567" value="Sho Kawakita"/>
+    <link type="boardgamepublisher" id="1392" value="Epoch"/>
+    <link type="boardgamepublisher" id="912" value="Sho-Kikaku"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="5.55"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.12191"/>
+        <median value="0"/>
+        <owned value="20"/>
+        <trading value="0"/>
+        <wanting value="5"/>
+        <wishing value="6"/>
+        <numcomments value="1"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="40682">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/uyJXR9RKBXeY8luiyAV7bg8vu6s=/fit-in/200x150/pic437749.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iEsVDzsnAOs0O1PRkgPYs0iY3ko=/0x0/pic437749.jpg</image>
+    <name type="primary" sortindex="1" value="Solar Marine"/>
+    <description>Counter Strike: Solar Marine&amp;#10;&amp;#10;THE TWENTY FIRST CENTURY&amp;#10;From the shadow of Jupiter, Taskforce Bravo approaches Io.  Spaceships release a bombardment of nuclear warheads triggering a response of plasma bolts from the planetary defenses.  Landing craft carrying the 124th Special Forces battalion make their final descent.  Dust rises, hatches blow, and a thousand marines break out.  Flying at one hundred kilometres per hour, these soldiers skim the surface firing laser and particle weapons as they approach the hardened defenses surrounding the European colony complex.  Solar Marine is a science fiction game simulating ground combat in the future.  Players are given troops armed with various weapons that may be developed in the future and fight on the various landscapes in the Solar System.&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;* Full color rule book&amp;#10;    * 288 die-cut counters&amp;#10;    * 3 color hex map&amp;#10;    * Charts &amp;amp; Tables&amp;#10;    * 2 dice&amp;#10;&amp;#10;Complexity: Medium&amp;#10;&amp;#10;Map Scale: 500 metres/hex&amp;#10;&amp;#10;Unit Scale: Squads of 10-12 Soldiers or 1 vehicle&amp;#10;&amp;#10;Time Scale: 1 minute per turn&amp;#10;&amp;#10;Players: 2&amp;#10;&amp;#10;Re-implements Marine: 2002.&amp;#10;&amp;#10;The game can be combined with The Final Frontier.  Solar Marine includes rules for breaking down the Final Frontier space vessels, military companies, planetary defenses, and mining facilities/colonies into the equivalent Solar Marine units.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameimplementation" id="2757" value="Marine: 2002" inbound="true"/>
+    <link type="boardgamedesigner" id="1124" value="Kerry Anderson"/>
+    <link type="boardgameartist" id="1124" value="Kerry Anderson"/>
+    <link type="boardgameartist" id="14632" value="Ed Bourelle"/>
+    <link type="boardgameartist" id="15291" value="Claudio Pozas"/>
+    <link type="boardgameartist" id="17864" value="David Sourwine"/>
+    <link type="boardgamepublisher" id="2537" value="Fiery Dragon Productions"/>
+    <link type="boardgamepublisher" id="931" value="Microgame Design Group"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="7.4"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.85472"/>
+        <median value="0"/>
+        <owned value="58"/>
+        <trading value="5"/>
+        <wanting value="11"/>
+        <wishing value="24"/>
+        <numcomments value="10"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

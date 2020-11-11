@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="232047">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/EHZuZfvIlW2O-Esr7OhHqCOxXcA=/fit-in/200x150/pic3674697.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kit5JszCHtBScEBg18ePyO3b1P4=/0x0/pic3674697.jpg</image>
+    <name type="primary" sortindex="1" value="Horse &amp; Musket: Sport of Kings"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;Horse and Musket: Sport of Kings is the first expansion to Horse &amp;amp; Musket: Dawn of an Era. This volume will cover warfare from 1721-1748, when linear musket combat approached its apogee. Large armies of well drilled infantry used volley fire and bayonet charges in set piece battles. Horsemen were used almost exclusively for charges, and artillery was increasingly mobile. Great commanders such as Nader Shah and Maurice de Saxe left their stamp on military history. The period also saw the emergence of Frederick II of Prussia, known to most as Frederick the Great.&amp;#10;&amp;#10;The battles include...&amp;#10;&amp;#10;Gulnabad - March 8, 1722  &amp;ndash; Zenith of the the Hotak Dynasty&amp;#10;&amp;#10;Mehmandost - September 29, 1729 &amp;ndash; Safavid Restoration&amp;#10;&amp;#10;Samarra - July 19, 1733 &amp;ndash; The Fate of Baghdad&amp;#10;&amp;#10;San Pietro - June 29, 1734 &amp;ndash; The Blurred Line Between Bold and Reckless&amp;#10;&amp;#10;Guastalla - September 19, 1734 &amp;ndash; The Day the World Lost&amp;#10;&amp;#10;Ogoula Tchetoka - March 25, 1736 &amp;ndash; Father Senat&amp;rsquo;s Hymn&amp;#10;&amp;#10;Ackia - May 26, 1736 &amp;ndash; Bienville&amp;rsquo;s Blunder&amp;#10;&amp;#10;Karnal - February 24, 1739 &amp;ndash; Death Knell of the Mughal Empire&amp;#10;&amp;#10;Grocka - July 22, 1739 &amp;ndash; The Treaty of Belgrade&amp;#10;&amp;#10;Stavuchany - August 17, 1739 &amp;ndash; St&amp;#196;&amp;#131;nile&amp;#197;&amp;#159;ti Avenged&amp;#10;&amp;#10;Fort San Lazaro - April 20, 1741 &amp;ndash; &amp;ldquo;To Admiral Vernon, the scourge of Spain&amp;rdquo;&amp;#10;&amp;#10;Mollwitz - April 14, 1741 &amp;ndash; &amp;ldquo;We'll retreat over the bodies of our enemies.&amp;rdquo;&amp;#10;&amp;#10;Chotusitz - May 17, 1742 &amp;ndash; Frederick II's First Victory&amp;#10;&amp;#10;Fontenoy - May 11, 1745 &amp;ndash; &amp;ldquo;Gentlemen of the French Guards, fire.&amp;rdquo;&amp;#10;&amp;#10;Hohenfriedberg - June 4, 1745 &amp;ndash; Der Hohenfriedberger Marsch&amp;#10;&amp;#10;Prestonpans - September 21, 1745 &amp;ndash; Accidental Cannae&amp;#10;&amp;#10;Soor - September 30, 1745 &amp;ndash; &amp;ldquo;God is against us.&amp;rdquo;&amp;#10;&amp;#10;Kesselsdorf - December 15, 1745 &amp;ndash; &amp;ldquo;O Lord God, let me not be disgraced in my old days.&amp;rdquo;&amp;#10;&amp;#10;Culloden - April 16, 1746 &amp;ndash; Tragedy on the Moors&amp;#10;&amp;#10;Lauffeld - July 2, 1747 &amp;ndash; Ligonier&amp;rsquo;s Charge&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="43374" value="Horse &amp; Musket"/>
+    <link type="boardgameexpansion" id="257085" value="Horse &amp; Musket: Annual Number 1"/>
+    <link type="boardgameexpansion" id="280556" value="Horse &amp; Musket: Annual Number 2"/>
+    <link type="boardgameexpansion" id="182982" value="Horse &amp; Musket: Dawn of an Era" inbound="true"/>
+    <link type="boardgamedesigner" id="52118" value="Sean Chick"/>
+    <link type="boardgameartist" id="85503" value="Ilya Kudriashov"/>
+    <link type="boardgameartist" id="50619" value="Tom Russell"/>
+    <link type="boardgamepublisher" id="33711" value="Hollandspiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="8.6875"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.91643"/>
+        <median value="0"/>
+        <owned value="80"/>
+        <trading value="1"/>
+        <wanting value="10"/>
+        <wishing value="19"/>
+        <numcomments value="12"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="64778">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/uHX_Fr4ZQ6y-_ZI1G6GpY52qQ00=/fit-in/200x150/pic640403.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BhBarTif73OjHygJ6x_BBPXkhxg=/0x0/pic640403.jpg</image>
+    <name type="primary" sortindex="1" value="Giant Monster Rampage (third edition)"/>
+    <description>Have you ever wondered what it would be like to step into your favorite giant monster suit and go on a rampage? Well now's your chance! Giant Monster Rampage is a turn based combat game for two or more players set in a world where giant monsters really exist. The game allows players to create and control one of several different types of monsters, from mutant animals to alien robots and everything in between. Giant Monster Rampage is unique in that it gives players complete control over the creation of their monster. Players can create an existing monster from popular media or one from their own imagination. The possibilities are endless. The object of the game is simply to cause as much damage and destruction as possible.&amp;#10;&amp;#10;Giant Monster Rampage is a stand alone game that can also be used as an expansion for any other Toy Battle System&amp;trade; game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="2"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1024" value="Horror"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1036" value="Prehistoric"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="24569" value="Kaiju"/>
+    <link type="boardgamefamily" id="5615" value="Monsters"/>
+    <link type="boardgamedesigner" id="3824" value="Ken Lewis"/>
+    <link type="boardgamepublisher" id="9844" value="Radioactive Press"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="7.72727"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.48965"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="0"/>
+        <wanting value="6"/>
+        <wishing value="8"/>
+        <numcomments value="1"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

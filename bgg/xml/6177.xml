@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6177">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kD_7PXPwO7GdYMsQqdrT0OHthSQ=/fit-in/200x150/pic23516.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ww6P0_VTmZ2v4kWcut-EIDWWuts=/0x0/pic23516.jpg</image>
+    <name type="primary" sortindex="1" value="Summonaria"/>
+    <description>Summonaria is a game of tactical combat and resource management that pits players and their magical armies against each other as they try to seize control of five island strongholds.&amp;#10;&amp;#10;On the island are five magic towers that have drawn the interest of the most powerful Master Summoners in the world.  They each want to fight for control of the towers and the power they contain. The object of the game is to move your armies in and seize control of a majority of the towers on the island.  Each player takes on the role of one of the five Master Summoners, who each have their own strengths and weaknesses and can summon different combat units to the island.  They do this by managing four magical resources that they have available to them.  As units are summoned onto the island, they are moved about where they have a number of options available to them:  visiting temples where they can be blessed, traveling through four different domains, attacking other players' units, and occupying the different towers to attempt to maintain control over them.&amp;#10;&amp;#10;The first player to garrison a unit in the correct number of towers and hold them for a turn against his sieging enemies wins!&amp;#10;&amp;#10;Summonaria has been re-released with a new fully illustrated battle board and variant rules to further customize gameplay and this new version is available now.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="11"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamemechanic" id="2008" value="Trading"/>
+    <link type="boardgamedesigner" id="2217" value="Josh Fry"/>
+    <link type="boardgamedesigner" id="2218" value="Chad Scott"/>
+    <link type="boardgameartist" id="67412" value="Travis Hanson"/>
+    <link type="boardgamepublisher" id="1407" value="Salamander Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="4.97647"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.58787"/>
+        <median value="0"/>
+        <owned value="70"/>
+        <trading value="10"/>
+        <wanting value="3"/>
+        <wishing value="11"/>
+        <numcomments value="7"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

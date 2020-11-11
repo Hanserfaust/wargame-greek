@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7637">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/zjwOg8WjFqozpXqE7oeXHEyGf6k=/fit-in/200x150/pic262422.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3NuIf9mm1jdDn5StBt4Xa3DVRrs=/0x0/pic262422.jpg</image>
+    <name type="primary" sortindex="5" value="The Fall of France"/>
+    <name type="alternate" sortindex="1" value="フランス崩壊"/>
+    <description>The Fall of France is a two-player game recreating the German Blitzkrieg in France and the Low Countries in the spring of 1940.&amp;#10;&amp;#10;At 16 miles per hex, the maps cover France, the Low Countries, southern England, Switzerland, northern Italy, and western Germany. Each player controls the air and ground forces committed to the invasion or defense of the west.  Naval units are not used in the game and are included for Europa purposes. Air units are based on groups of about 40 aircraft; naval units represent flotillas of destroyers and individual capital ships and cruisers; ground units are scaled at divisions, brigades, regiments, and battalions.&amp;#10;&amp;#10;The rules use the basic Europa game mechanics as a framework, with specialized rules covering the historical situation in detail such as movement, combat, air power, supply, fortifications, gliders, naval evacuation, and the Maginot Line.&amp;#10;&amp;#10;Game Components:&amp;#10;&amp;#10;    Two 21&amp;quot; x 27&amp;quot; Maps (Europa maps 16 &amp;amp; 17)&amp;#10;    2040 Die-cut Counters (Counter Sheets 23-30, and 31 [which is a half-sheet])&amp;#10;    A Complete Set of Rules&amp;#10;    One Chart Set:&amp;#10;        French Order of Battle&amp;#10;        British Order of Battle&amp;#10;        Belgian Order of Battle&amp;#10;        Dutch Order of Battle&amp;#10;        Swiss Order of Battle&amp;#10;        German Order of Battle&amp;#10;        Italian Order of Battle&amp;#10;        French Unit ID Chart&amp;#10;        Turn Record/Replacement Chart&amp;#10;        Europa Corps Marker Display (x3)&amp;#10;        French Unit Breakdown Chart&amp;#10;        German Unit Breakdown Chart&amp;#10;        CRT/Terrain Effects Chart (x2)&amp;#10;    &amp;#10;    One Europa VIII Supplement:&amp;#10;        French mobilization and reinforcements&amp;#10;        British forces on the continent&amp;#10;        Belgian mobilization and reinforcements&amp;#10;        Dutch mobilization and reinforcements&amp;#10;        Swiss armed forces and reinforcements&amp;#10;        French Unit Breakdown Chart&amp;#10;    &amp;#10;    One Die&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1981"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamefamily" id="104" value="Europa Series"/>
+    <link type="boardgameexpansion" id="187282" value="Fall Gelb"/>
+    <link type="boardgameexpansion" id="62783" value="Fortress Holland (Europa Battle Scenario #4)"/>
+    <link type="boardgameexpansion" id="28394" value="Hearts Of Oak"/>
+    <link type="boardgameexpansion" id="33585" value="Master Europa 103: Western Front – Blitzkrieg"/>
+    <link type="boardgameexpansion" id="62807" value="Operation Saar: The French First Strike (Europa Battle Scenario #5)"/>
+    <link type="boardgameexpansion" id="7633" value="Spain and Portugal"/>
+    <link type="boardgamedesigner" id="373" value="John Astell"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="109"/>
+        <average value="6.81239"/>
+        <bayesaverage value="5.58554"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7075" bayesaverage="5.58554"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1199" bayesaverage="5.96337"/>
+        </ranks>
+        <stddev value="1.62454"/>
+        <median value="0"/>
+        <owned value="403"/>
+        <trading value="15"/>
+        <wanting value="9"/>
+        <wishing value="26"/>
+        <numcomments value="72"/>
+        <numweights value="17"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

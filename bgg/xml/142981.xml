@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="142981">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BvvHwZNiB7FtwMEz0cTxXQ5Q8jI=/fit-in/200x150/pic1975101.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/PLr8U_qHGg3vn_ohOC78110rv7I=/0x0/pic1975101.jpg</image>
+    <name type="primary" sortindex="5" value="The Greek Civil War, 1947-49"/>
+    <description>The Greek Civil War, 1947-49 is a game for two players simulating the 1947-49 conflict between the government of Greece and the DSE (Dimokratikos Stratos Elladas, or &amp;ldquo;Greek Democratic Army&amp;rdquo;), the fighting organization controlled by the Greek Communist Party.  During the game, the DSE Player tries to erode the power of the Greek authorities and replace their governing structures with his own, while the Government player tries to contain this threat to civil society with civilian police and the servicemen and reservists of the Greek National Army (GNA).&amp;#10;&amp;#10;Central to play of the game is the Political Index (PI). Both players maintain each maintain their own PI during the game. A player&amp;rsquo;s PI is a quantification of the level of support or commitment the Greek &amp;ldquo;man in the taverna&amp;rdquo; is willing to give him (as opposed to other political movements or methods) as an agent of social change &amp;ndash; or guarantor of security. For the Government player, his PI is also a measure of the stability of the political regime. PIs are measured in Political Points (PP) and recorded on the Record Track. PIs change constantly during the course of the game depending on events and who controls various territory. The highest level is 99, and the lowest is 0. If either player's PI reaches 0 at any point in the game, he is deemed to have reached the point of political collapse for his side, and the game ends.&amp;#10;&amp;#10;The game map shows mainland Greece, divided into Regions, and parts of the adjoining countries to the north (Albania, Yugoslavia, Bulgaria).&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="240"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="20084" value="Magazine: Modern War"/>
+    <link type="boardgamedesigner" id="1678" value="Brian Train"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="35"/>
+        <average value="6.59429"/>
+        <bayesaverage value="5.52659"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11425" bayesaverage="5.52659"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2169" bayesaverage="5.68357"/>
+        </ranks>
+        <stddev value="1.42306"/>
+        <median value="0"/>
+        <owned value="180"/>
+        <trading value="9"/>
+        <wanting value="6"/>
+        <wishing value="19"/>
+        <numcomments value="33"/>
+        <numweights value="6"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

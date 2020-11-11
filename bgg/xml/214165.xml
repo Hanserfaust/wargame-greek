@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="214165">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/3EJmzaWW67LaVj0ZTz9uXheuFOs=/fit-in/200x150/pic3781947.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ReM54l06f9m3WOtz5gnkUNkAtDI=/0x0/pic3781947.jpg</image>
+    <name type="primary" sortindex="1" value="Escape Hell's Gate: Korsun Pocket 1944"/>
+    <description>Escape Hell&amp;rsquo;s Gate, Korsun Pocket 1944. The battle of Korsun began on the 25th January with an attack by the Soviet 2nd Ukrainian Fronts forces spearheaded by the 5th Guards Tank Army from the eastern side of the Korsun salient; followed a day later by a second attack form western side of the salient by 1st Ukrainian Fronts forces. The forces of the two Soviet Fronts met each other near Zvenigorodka three days later. The Pocket that Soviets thus created, centered on the airfield at Korsun, encircled most of the units of two German Corps and was the largest encirclement the Soviets had achieved since the Battle of Stalingrad in November 1942.&amp;#10;&amp;#10;Escape Hell&amp;rsquo;s Gate covers the final attempt of the German 3rd Panzer Corps formations to reach those German units that were encircled within the Korsun Pocket between 10th and the 17th February 1944. Hell&amp;rsquo;s Gate is a two-player game using the standard Fire and Movement rules and a set of exclusive rules that model the actual campaign. The game presents some unique challenges to both the German and Soviet player as the German relief forces attempt to break thru to the pocket, while the German forces within the pocket struggle to survive the Soviet onslaught. The Soviet player will be faced with moving his forces to block the relief attempt while making a final attempt to reduce the pocket. Both players will be fighting two battles and how well each player allocates his forces will determine the victor.&amp;#10;Components: 22x34 inch map, 280 die-cut counters.&amp;#10;&amp;#10;World at War #57, December 2017 to January 2018 edition.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="19593" value="Fire &amp; Movement combat system"/>
+    <link type="boardgamefamily" id="3244" value="Magazine: World at War"/>
+    <link type="boardgamedesigner" id="106135" value="Doug Johnson"/>
+    <link type="boardgameartist" id="3878" value="Eric R. Harvey"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="4.31818"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.68243"/>
+        <median value="0"/>
+        <owned value="69"/>
+        <trading value="1"/>
+        <wanting value="5"/>
+        <wishing value="5"/>
+        <numcomments value="15"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

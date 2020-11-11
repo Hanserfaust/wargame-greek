@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="182982">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Rz7G0H1IQJjVgIoUCsDzS3Rc0LU=/fit-in/200x150/pic3477964.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/yzwNV3iBZyq95bjGGPzlFtRiOAw=/0x0/pic3477964.jpg</image>
+    <name type="primary" sortindex="1" value="Horse &amp; Musket: Dawn of an Era"/>
+    <description>Horse and Musket: Dawn of an Era is a simple tactical game system that covers the development of musket warfare from Vienna in 1683 and Sedgemoor in 1685 to Appomattox in 1865. Volume I will cover warfare in the west from 1683-1720, when the bayonet replaced the pike.&amp;#10;&amp;#10;The battles included are...&amp;#10;&amp;#10;Vienna           - September 12, 1683 &amp;ndash; &amp;ldquo;We came, we saw, and God Conquered.&amp;rdquo;&amp;#10;&amp;#10;Sedgemoor     - July 6, 1685 &amp;ndash; The Bloody Assizes&amp;#10;&amp;#10;Killiecrankie - July 27, 1689 &amp;ndash; Slaughter at Sundown&amp;#10;&amp;#10;Fleurus          - July 1, 1690 &amp;ndash; The French Cannae&amp;#10;&amp;#10;Aughrim       - July 22, 1691 &amp;ndash; Bloody Hollow&amp;#10;&amp;#10;La Prairie    - August 11, 1691 &amp;ndash; Double Ambush&amp;#10;&amp;#10;Neerwinden    - July 29, 1693 &amp;ndash; Le Tapissier de N&amp;ocirc;tre Dame&amp;#10;&amp;#10;Marsaglia     - October 4, 1693 &amp;ndash; The Massed Bayonet Charge is Born&amp;#10;&amp;#10;Narva           - November 30, 1700 &amp;ndash; Charles XII Smashes the Russian Army&amp;#10;&amp;#10;Chiari          - September 1, 1701 &amp;ndash; Catinat&amp;rsquo;s Last Battle&amp;#10;&amp;#10;Klissow       - July 19, 1702 &amp;ndash; Charles XII Invades Poland&amp;#10;&amp;#10;Blenheim      - August 13, 1704 &amp;ndash; &amp;ldquo;A Famous Victory&amp;rdquo;&amp;#10;&amp;#10;Fraustadt     - February 13, 1706 &amp;ndash; The Swedish Cannae&amp;#10;&amp;#10;Turin           - September 7, 1706 &amp;ndash; Eugene&amp;rsquo;s Greatest Victory&amp;#10;&amp;#10;Almansa       - April 25, 1707 &amp;ndash; Battle of the Exiles&amp;#10;&amp;#10;Poltava       - July 8, 1709 &amp;ndash; The Student Surpasses the Master&amp;#10;&amp;#10;Malplaquet    - September 11, 1709 &amp;ndash; Mort et convoi de l'invincible Malbrough&amp;#10;&amp;#10;Villaviciosa  - December 10, 1710 &amp;ndash; A Bourbon on the Spanish Throne&amp;#10;&amp;#10;Sheriffmuir   - November 13, 1715 &amp;ndash; Confusion on the Moors&amp;#10;&amp;#10;Glen Shiel    - June 10, 1719 &amp;ndash; Rob Roy&amp;rsquo;s Last Battle&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="0"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="2725" value="Pike and Shot"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="43374" value="Horse &amp; Musket"/>
+    <link type="boardgameexpansion" id="268916" value="Horse &amp; Musket: Age of Napoléon"/>
+    <link type="boardgameexpansion" id="257085" value="Horse &amp; Musket: Annual Number 1"/>
+    <link type="boardgameexpansion" id="280556" value="Horse &amp; Musket: Annual Number 2"/>
+    <link type="boardgameexpansion" id="233357" value="Horse &amp; Musket: Crucible of War"/>
+    <link type="boardgameexpansion" id="257087" value="Horse &amp; Musket: Horse &amp; Matchlock"/>
+    <link type="boardgameexpansion" id="232047" value="Horse &amp; Musket: Sport of Kings"/>
+    <link type="boardgameexpansion" id="268917" value="Horse &amp; Musket: Sunset of an Era"/>
+    <link type="boardgameexpansion" id="268915" value="Horse &amp; Musket: Tides of Revolution"/>
+    <link type="boardgamedesigner" id="52118" value="Sean Chick"/>
+    <link type="boardgameartist" id="85503" value="Ilya Kudriashov"/>
+    <link type="boardgameartist" id="86165" value="Caleb Lunt"/>
+    <link type="boardgameartist" id="50619" value="Tom Russell"/>
+    <link type="boardgameartist" id="86168" value="Lauren Stahler"/>
+    <link type="boardgamepublisher" id="33711" value="Hollandspiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="52"/>
+        <average value="8.25673"/>
+        <bayesaverage value="5.5732"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7608" bayesaverage="5.5732"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1170" bayesaverage="5.97467"/>
+        </ranks>
+        <stddev value="1.17273"/>
+        <median value="0"/>
+        <owned value="159"/>
+        <trading value="2"/>
+        <wanting value="33"/>
+        <wishing value="99"/>
+        <numcomments value="33"/>
+        <numweights value="6"/>
+        <averageweight value="2.1667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

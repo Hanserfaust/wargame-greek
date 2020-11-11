@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2975">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/6Hywljwr-BB05p9_hiXJpJFrD4M=/fit-in/200x150/pic175880.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RSQK4998E83LjYgzVIIrDxJ5ZAo=/0x0/pic175880.jpg</image>
+    <name type="primary" sortindex="1" value="Origins of World War II"/>
+    <name type="alternate" sortindex="1" value="Diplomatie"/>
+    <description>Origins of World War II is an Avalon Hill bookcase game. A game in which the players take the roles of the major powers of World War II in the 1930s. Each attempts to achieve its diplomatic objectives while preventing the other players from gaining theirs. If Germany or the USSR win World War II starts, if one of the allied powers wins the war would have been prevented.&amp;#10;&amp;#10;The game is played in a series of six turns (the final one being December 1939), actions are resolved via the diplomatic conflict table by comparing the diplomatic points of the attacker vs. those of the defender in each given area (Poland, Romania, etc).&amp;#10;&amp;#10;Several different &amp;quot;What if&amp;quot; policies are available such as Strong Franco-British alliance, Aggressive French policy and the Anti-Bolshevik Crusade.&amp;#10;&amp;#10;Includes a good chronology of the actual diplomatic moves made by each of the major powers leading up to the second world war.&amp;#10;&amp;#10;Avalon Hill Complexity rating - 1&amp;#10;&amp;#10;The german Schmidt Spiele edition &amp;quot;Diplomatie&amp;quot; was published as a game of the Schmidt Spiele-Bar series in book case format.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1971"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="8"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="26" value="No necessary in-game text" numvotes="0"/>
+        <result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="30" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1026" value="Negotiation"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2012" value="Auction/Bidding"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="18205" value="Origins"/>
+    <link type="boardgamefamily" id="18583" value="Spiele-Bar Serie"/>
+    <link type="boardgameexpansion" id="34032" value="Pacific Origins"/>
+    <link type="boardgameimplementation" id="17967" value="Origins of World War I" inbound="true"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgamedesigner" id="589" value="Thomas N. Shaw"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <link type="boardgamepublisher" id="38" value="Schmidt Spiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="396"/>
+        <average value="5.93349"/>
+        <bayesaverage value="5.58088"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7244" bayesaverage="5.58088"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1928" bayesaverage="5.74623"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1805" bayesaverage="5.57028"/>
+        </ranks>
+        <stddev value="1.71537"/>
+        <median value="0"/>
+        <owned value="1128"/>
+        <trading value="95"/>
+        <wanting value="10"/>
+        <wishing value="51"/>
+        <numcomments value="235"/>
+        <numweights value="59"/>
+        <averageweight value="2.1186"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18967">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/57TzCKanc7LwEjyju2yx4FrX1kA=/fit-in/200x150/pic150080.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SKy80z73GkpDW5ySgDptK_KtMyE=/0x0/pic150080.jpg</image>
+    <name type="primary" sortindex="1" value="Brandy Station"/>
+    <description>Just after Chancellorsville, the biggest cavalry engagement occurred on June 9, 1863. Reorganized Union forces under Pleasanton engaged JEB Stuart's Confederate Cavalry. This game was recently published in the new Panzerschreck issue #14. This is a 9 turn game on a small map with 10 units per side. Should play quickly. The game has initiative, disruption, counterattacks, event chits (which modify a rule or condition). Victory is determined by comparing (at the end of the game) the randomly drawn Victory Chit (by the Union player) with the status at the end of the game. The Confederate player does not know what goal the Union player has. The CRT is relatively bloodless, but you accumulate Disruption Markers which represent losses and reduced combat/maneuver abilities (sort of a step loss system).&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6221" value="Magazine: Panzerschreck"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgameartist" id="3095" value="Art Lupinacci"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="7.46154"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.39314"/>
+        <median value="0"/>
+        <owned value="72"/>
+        <trading value="2"/>
+        <wanting value="3"/>
+        <wishing value="5"/>
+        <numcomments value="10"/>
+        <numweights value="3"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

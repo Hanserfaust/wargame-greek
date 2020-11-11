@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="37867">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/XWDhS7QjZhsDtpiTRhHMPX0SL_E=/fit-in/200x150/pic365504.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OEKgf2ik7CIVG7GTN7npoByw9HU=/0x0/pic365504.jpg</image>
+    <name type="primary" sortindex="1" value="Into The Rubble"/>
+    <description>From the publisher:&amp;#10;&amp;#10;Into The Rubble (ITR) offers players the opportunity to do cardboard battle in cities and railroad yards. The scenarios range from 1938 to 1945 with a variety of forces including American, Chinese, German/SS, Hungarian, Japanese, Nationalist Spanish, Republican Spanish, Romanian and Russian.&amp;#10;&amp;#10;The Battlepack includes the following:&amp;#10;&amp;#10;8 Action-Packed Scenarios. &amp;#10;Two 8&amp;quot;x22&amp;quot; Geomorphic mapboards, printed on heavy card stock, depicting city and railroad yard terrain (BFP A, BFP B). &amp;#10;One 8&amp;quot;x12&amp;quot; geomorphic Rubbled City overlay (RC-1), 1 large Factory overlay and 1 sheet of Debris overlays. &amp;#10;Rules pages describing new terrain, including Railroad Factories. &amp;#10;The Rubbled City overlay (RC-1) fits on other official ASL (MMP) city boards: 1, 20, 21, 22, 45, 49, and 51. &amp;#10;Ownership of the following Multiman Publishing products are required to play all 8 of the included scenarios: Beyond Valor&amp;copy;, Yanks&amp;copy;, Doomed Battalions&amp;copy;, Armies of Oblivion&amp;copy;, Red Barricades&amp;copy;. Ownership of the following Heat of Battle products are required to play 1 of the included scenarios: Recon By Fire 4&amp;copy;.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Beyond Valor: ASL Module 1&amp;#10;    Yanks: ASL Module 3&amp;#10;    Doomed Battalions: ASL Module 11&amp;#10;    Armies of Oblivion: ASL Module 12&amp;#10;    Red Barricades: ASL Historical Module 1&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="41" value="No necessary in-game text" numvotes="0"/>
+        <result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="45" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="11040" value="Armies of Oblivion: ASL Module 12" inbound="true"/>
+    <link type="boardgameexpansion" id="5287" value="Beyond Valor: ASL Module 1" inbound="true"/>
+    <link type="boardgameexpansion" id="9498" value="Doomed Battalions: ASL Module 11" inbound="true"/>
+    <link type="boardgameexpansion" id="8611" value="Red Barricades: ASL Historical Module 1" inbound="true"/>
+    <link type="boardgameexpansion" id="5289" value="Yanks: ASL Module 3" inbound="true"/>
+    <link type="boardgameimplementation" id="221210" value="Into the Rubble 2"/>
+    <link type="boardgamedesigner" id="11474" value="Klaus Fischer"/>
+    <link type="boardgamedesigner" id="8311" value="Scott Holst"/>
+    <link type="boardgamedesigner" id="6211" value="Chas Smith"/>
+    <link type="boardgameartist" id="11475" value="Bruce Kirkaldy"/>
+    <link type="boardgameartist" id="9325" value="Sam Tyson"/>
+    <link type="boardgamepublisher" id="7407" value="Bounding Fire Productions"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="39"/>
+        <average value="7.73077"/>
+        <bayesaverage value="5.56469"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56469"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.91682"/>
+        </ranks>
+        <stddev value="1.1813"/>
+        <median value="0"/>
+        <owned value="184"/>
+        <trading value="3"/>
+        <wanting value="7"/>
+        <wishing value="9"/>
+        <numcomments value="16"/>
+        <numweights value="6"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

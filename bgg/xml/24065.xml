@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="24065">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iP6Ce9_FECoPm0BjoyzB6wkg5gY=/fit-in/200x150/pic131546.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gA37rsUeoe1LmnXQiFoHyEs4AD4=/0x0/pic131546.jpg</image>
+    <name type="primary" sortindex="1" value="Napoleon's Russian Campaign"/>
+    <description>Napoleon's Russian Campaign is part of a trilogy that includes Napoleon's Italian Campaigns and Napoleon's Peninsula Campaign. The games can be played separately, or combined with some expansion modules to simulate the Napoleonic Wars.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgameexpansion" id="62381" value="Napoleon's Campaigns: Expansion Set 2"/>
+    <link type="boardgamedesigner" id="1276" value="Joe Angiolillo"/>
+    <link type="boardgameartist" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="4758" value="GTD"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="4.9375"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.73993"/>
+        <median value="0"/>
+        <owned value="40"/>
+        <trading value="3"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="8"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

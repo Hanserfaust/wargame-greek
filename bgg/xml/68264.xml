@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="68264">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/GICzEv3SEI58ZclugFBgfiIVXcE=/fit-in/200x150/pic1019831.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3gl44k0Zt2OMmF1WIxLMvJRWeuM=/0x0/pic1019831.jpg</image>
+    <name type="primary" sortindex="1" value="No Retreat! The Russian Front"/>
+    <description>(from GMT's website:)&amp;#10;&amp;#10;No Retreat: The Russian Front is a new deluxe edition of the  two-player Victory Point Games 2008 CSR Award Nominee wargame that retells the story of the titanic struggle between the invading armies of Nazi Germany versus Communist Russia during WW2 at a player-friendly and manageable level of scope and difficulty.  This edition combines both the original game and its two extensions (Na Berlin! and No Surrender!) using deluxe components of &amp;ldquo;Twilight Struggle Deluxe Edition&amp;rdquo; quality. With only 40 Army/Front sized counters for the Tournament game, and 70 for the whole campaign, and with very low stacking, it&amp;rsquo;s a quick-playing yet realistic affair that favours the strategic and offensive-minded player.&amp;#10;&amp;#10;Each turn is alight with intriguing on-board challenges plus the surprise of card hand Events as players vie to win in one of three different ways.&amp;#10;&amp;#10;In a skillfully blended collation of classic hex-based wargaming and modern card-driven simulations, No Retreat: The Russian Front  stays truly story-centric, providing the proper feel of sweeping maneuvers, exploitation and encirclements across the vast steppes and forests of Russia. With a simple-yet-innovative economic model, players will also feel the growing might and sophistication of the Russian&amp;rsquo;s Red Army, and the degradation of the once-invincible German Wehrmacht, over the epic four year sweep of time that this merciless campaign was fought.&amp;#10;&amp;#10;Neither side can afford the disgrace of yielding an inch of ground to their hated foe, so your orders are: &amp;ldquo;No Retreat!&amp;rdquo;&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;     One Standard size mounted map&amp;#10;     Two Counter Sheets&amp;#10;     One deck of 55 Playing Cards&amp;#10;     Rule booklet&amp;#10;     Scenario booklet&amp;#10;     Player Aid Cards&amp;#10;     Two 6-sided dice (1 black and 1 white)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;TIME SCALE: 2 months per turn&amp;#10;MAP SCALE: 100km / 60 miles per hex&amp;#10;UNIT SCALE: Armies and Fronts&amp;#10;NUMBER OF PLAYERS: 2&amp;#10;&amp;#10;DESIGNER: Carl Paradis&amp;#10;DEVELOPER: Alan Emrich &amp;amp; Carl Paradis&amp;#10;COUNTER ART: Mark Simonitch &amp;amp; Carl Paradis&amp;#10;MAP ART: Mark Simonitch&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="19"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="26"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="16"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="6"/>
+        <result value="14" numvotes="4"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="11062" value="No Retreat series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="42104" value="Na Berlin!" inbound="true"/>
+    <link type="boardgameimplementation" id="38877" value="No Retreat!" inbound="true"/>
+    <link type="boardgameimplementation" id="59064" value="No Surrender!" inbound="true"/>
+    <link type="boardgamedesigner" id="11119" value="Carl Paradis"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="35928" value="Banana Games"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1309"/>
+        <average value="7.84775"/>
+        <bayesaverage value="6.64402"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="731" bayesaverage="6.64402"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="27" bayesaverage="7.53327"/>
+        </ranks>
+        <stddev value="1.46469"/>
+        <median value="0"/>
+        <owned value="2864"/>
+        <trading value="72"/>
+        <wanting value="155"/>
+        <wishing value="652"/>
+        <numcomments value="549"/>
+        <numweights value="155"/>
+        <averageweight value="3.1226"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

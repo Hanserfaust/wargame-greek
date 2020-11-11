@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4214">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KPr0ggCEuGadzLG-F0qAEd1Xpt0=/fit-in/200x150/pic195079.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hG52NQvOGvfDf7c348ED5VGcMxU=/0x0/pic195079.jpg</image>
+    <name type="primary" sortindex="1" value="Stonewall in the Valley"/>
+    <description>This is the fourth game in the Great Campaigns of the American Civil War series. It covers the Shenandoah Valley campaign.&amp;#10;&amp;#10;&amp;#10;(from the back of the box:)&amp;#10;&amp;#10;Stonewall in the Valley is the fourth volume in Avalon Hill's series on the Great Campaigns of the American Civil War. Most other Civil War simulations portray specific battles, but Stonewall in the Valley concentrates on the full campaign in the Shenandoah from March to June 1862. The Union player's objective is to maintain control over the key regions of the Valley; the goal of the Confederate player is to drive the Federals out.&amp;#10;&amp;#10;Stonewall in the Valley is easy to learn and several scenarios can be played to completion in an hour. The game contains three beautiful hand-painted maps, which are based on original Civil War period maps of the Shenandoah Valley. All topographical features affecting military operations are portrayed, including roads, pikes, trails, railroads, villages, mountains, and waterways. In the game, players control Union and Confederate military units in turns repr esenting one day of real time, The game's interactive game system assures that each scenario will be unpredictable, exciting, and competitive. An extensive historical article detailing the day-to-day activities of the real campaign is included.&amp;#10;&amp;#10;You do not need to own any of the three earlier volumes of the series (Stonewall Jackson's Way, Here Come the Rebels!, and Roads to Gettysburg) to play Stonewall in the Valley. However, owners of those games can link their maps to the Stonewall in the Valley maps to portray virtually the entire eastern theater of the Civil War.&amp;#10;&amp;#10;CONTENTS&amp;#10;2 260-piece Counter Sheets &amp;#10;3 22&amp;quot; x 32&amp;quot; Map Sheets &amp;#10;1 Rules Booklet &amp;#10;2 Charts and Tables Cards&amp;#10;1 Display Card &amp;#10;1 Ammunition Pad &amp;#10;2 6-sided Dice &amp;#10;1 Counter Tray&amp;#10;&amp;#10;Time Scale: One day per turn&amp;#10;Map Scale: One mile per hex &amp;#10;Unit Scale: Brigades and regiments (with district leaders)&amp;#10;Players:  One, two, or teams&amp;#10;Playing Time: One hour for introductory scenarios, 2 to 14 hours for other scenarios&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="102" value="Great Campaigns of the American Civil War"/>
+    <link type="boardgameexpansion" id="197100" value="Sheridan in the Valley"/>
+    <link type="boardgameexpansion" id="94214" value="The Skirmisher #1"/>
+    <link type="boardgamedesigner" id="673" value="Joseph M. Balkoski"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="288"/>
+        <average value="7.67828"/>
+        <bayesaverage value="5.86971"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2869" bayesaverage="5.86971"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="216" bayesaverage="6.83078"/>
+        </ranks>
+        <stddev value="1.31951"/>
+        <median value="0"/>
+        <owned value="1030"/>
+        <trading value="22"/>
+        <wanting value="33"/>
+        <wishing value="75"/>
+        <numcomments value="129"/>
+        <numweights value="39"/>
+        <averageweight value="3.4103"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

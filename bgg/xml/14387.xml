@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="14387">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/NSh4-Uw0p-mCfnJDW4R8VuEbMYM=/fit-in/200x150/pic3316357.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/n380WXy_MxWj-2pTVnFVsJXEzus=/0x0/pic3316357.jpg</image>
+    <name type="primary" sortindex="1" value="Duel for Kharkov"/>
+    <name type="alternate" sortindex="1" value="Duell bei Charkow"/>
+    <description>Duel for Kharkov is a simulation of the battles that raged between the Donets and Dnepr Rivers in the late winter of 1943.  Each game turn is two days in length, hexes are 3 miles across and units vary from divisions to companies.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1985"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="18685" value="Cities: Kharkov"/>
+    <link type="boardgamedesigner" id="1927" value="David Bolt"/>
+    <link type="boardgamedesigner" id="1599" value="Jack Radey"/>
+    <link type="boardgameartist" id="49876" value="Ina Clausen"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="4118" value="CoSi"/>
+    <link type="boardgamepublisher" id="2352" value="People's War Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="51"/>
+        <average value="7.20392"/>
+        <bayesaverage value="5.55486"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8773" bayesaverage="5.55486"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1553" bayesaverage="5.85895"/>
+        </ranks>
+        <stddev value="1.33636"/>
+        <median value="0"/>
+        <owned value="267"/>
+        <trading value="19"/>
+        <wanting value="15"/>
+        <wishing value="24"/>
+        <numcomments value="55"/>
+        <numweights value="11"/>
+        <averageweight value="3.5455"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="43557">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iVAiVEbLnLbuhkW_7WdKb6A7_rw=/fit-in/200x150/pic663454.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3WM6TEy63LU8V_B1Enp6lIUC9cQ=/0x0/pic663454.jpg</image>
+    <name type="primary" sortindex="1" value="1775: Invasion of Canada"/>
+    <description>(from the introduction:)&amp;#10;&amp;#10;&amp;quot;1775: Invasion of Canada is a two-player game covering the American invasion of Canada which occurred from September 1775 to February 1776.&amp;quot;&amp;#10; &amp;#10;The game lasts six turns. Pieces are units, leaders and supply. In a turn  Americans move and then have combat, then the British. Both sides then roll for reinforcements and events, the latter represented by supply. ZOCs inhibit enemy movement, must move into an enemy hex for combat. Combat is by differential CRT, modifiers come from leaders and supply. If all enemy units are not destroyed, victory is determined by control of cities on the map.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1075" value="American Revolutionary War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgamefamily" id="10168" value="Country: Canada"/>
+    <link type="boardgamefamily" id="12671" value="Magazine: Panzer Digest"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.24722"/>
+        <median value="0"/>
+        <owned value="21"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="6"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

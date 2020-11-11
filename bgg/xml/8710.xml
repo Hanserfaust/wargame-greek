@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="8710">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/gmn89jq5nYxxUBrQwz8ufLLsx6Q=/fit-in/200x150/pic36302.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sjp11wuQqrmFxmLjn95oQyAXc_k=/0x0/pic36302.jpg</image>
+    <name type="primary" sortindex="1" value="Landships! Tactical Weapons Innovations 1914-1918: Infernal Machines"/>
+    <description>A Landships! Tactical Weapons Innovations 1914-1918 Expansion Game for 1915-1933&amp;#10;&amp;quot;Infernal Machines is the first expansion kit for Clash of Arms' Landships! game. You must own Landships! to play Infernal machines. Designed by Perry Moore, Infernal Machines retells the story of man versus machines in 20 new scenarios. These range from the technological fantasies of the Great War through the gritty Russian Civil War, to the deserts of Morocco and the high altitude Chaco.&amp;#10;With two new double-sided map panels and 280 counters, Infernal machines is fully compatible with Landships! and provides new vehicle and terrain rules to improve the basic game. The infantryman's war is not neglected either. The first mortars, SMGs, body armor, and light machine guns all make their deadly appearance. For artillery (the real killer in action), Infernal Machines explores the ticklish intricacies of single creeping and double creeping barrage lines, interdiction fire, counter battery and suppression fire.&amp;quot;&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Landships! Tactical Weapons Innovations 1914-1918&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameexpansion" id="8711" value="Landships! Tactical Weapons Innovations 1914-1918" inbound="true"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="45"/>
+        <average value="7.10444"/>
+        <bayesaverage value="5.54592"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54592"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.80712"/>
+        </ranks>
+        <stddev value="1.37031"/>
+        <median value="0"/>
+        <owned value="278"/>
+        <trading value="10"/>
+        <wanting value="8"/>
+        <wishing value="11"/>
+        <numcomments value="33"/>
+        <numweights value="7"/>
+        <averageweight value="2.1429"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

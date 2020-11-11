@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="160077">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sbzD_-_OiUG3BxEDw1uzOode14o=/fit-in/200x150/pic2056580.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1jrtTubqj6e8q0ExpQ52xClRDz8=/0x0/pic2056580.jpg</image>
+    <name type="primary" sortindex="1" value="RC 4, la route de la mort"/>
+    <description>&amp;quot;RC4, La Route de la Mort&amp;quot; is a solitary game simulating the September/October 1950 combats along the RC4 road during the Indochina war (1946-1954). In this game, the player is the French commander that must prevent Vietminh progression while evacuating the area.&amp;#10;&amp;#10;The map displays the Tonkin highlands, from Cao Bang to Lang Son, near the Chinese border. The scale is approx. 1 inch to 1 kilometer. A turn represent 5 days, and the game lasts 10 turns.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="22762" value="First Indochina war"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="10894" value="Lionel Liron"/>
+    <link type="boardgameartist" id="10894" value="Lionel Liron"/>
+    <link type="boardgamepublisher" id="25023" value="Les Jeux du Griffon"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="7.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.29904"/>
+        <median value="0"/>
+        <owned value="17"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="11"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

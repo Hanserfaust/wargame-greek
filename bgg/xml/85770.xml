@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="85770">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/K6lY6y2rgeycDi-ghvRHPabQLj8=/fit-in/200x150/pic1405973.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LiblsQmJ1gw6MnWvkt84o-IpAaU=/0x0/pic1405973.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer: Game Expansion Set, Nr 1 – The Shape of Battle on the Eastern Front 1943-45"/>
+    <description>Source: GMT Games&amp;#10;&amp;#10;This first expansion set for Panzer includes detailed TO&amp;amp;Es for the German and Soviet forces covering the entire war period from 1940 through 1945. It also includes a focus on what many consider to be the most intense tank battle in history, Kursk, with OBs for both forces and TO&amp;amp;Es for four of the most notable German divisions at the moment they saw action during that historic conflict Grossdeutschland Panzer Grenadier Division, and the 1st, 2nd and 3rd SS Panzer Grenadier Divisions. &amp;#10; This first expansion set also includes the first four double-sided geomorphic mapboards. With them, players can recreate any number of tactical battles reminiscent of those actions fought out of the seemingly endless steppes of Russia.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="126" value="No necessary in-game text" numvotes="0"/>
+        <result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="130" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="2630" value="Panzer game system"/>
+    <link type="boardgameexpansion" id="85769" value="Panzer (second edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="1922" value="James M. Day"/>
+    <link type="boardgameartist" id="3290" value="Pascal da Silva"/>
+    <link type="boardgameartist" id="1922" value="James M. Day"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="92"/>
+        <average value="8.20652"/>
+        <bayesaverage value="5.66499"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.66499"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.42991"/>
+        </ranks>
+        <stddev value="1.46916"/>
+        <median value="0"/>
+        <owned value="767"/>
+        <trading value="11"/>
+        <wanting value="30"/>
+        <wishing value="39"/>
+        <numcomments value="35"/>
+        <numweights value="15"/>
+        <averageweight value="3.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

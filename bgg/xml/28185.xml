@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="28185">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bTZgP_-XCCWOzYXCouKjxy4I9b8=/fit-in/200x150/pic512074.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9bjyOE54JIVEL3dXsVfcVpeVb3E=/0x0/pic512074.jpg</image>
+    <name type="primary" sortindex="5" value="The Kaiser's Pirates"/>
+    <description>THE KAISERS PIRATES&amp;trade; is a fast-paced card game of gripping adventure on the high seas set during World War One. Players control some of Kaiser Wilhelm&amp;rsquo;s ace German converted commerce-raiders and light cruisers. Air patrols were in their infancy and it was still easy to disappear into the vast expanses of the high seas only to re-emerge on another key sea lane. Players use their raiders in the traditions of the privateers and pirates of old to sink or capture as many Allied and neutral merchantmen as possible. Danger lurks everywhere but, in a desperate pinch, these ships can shoot it out with the British hunters.&amp;#10;&amp;#10;In its unique game play system each player commands both the German and British Forces as they scour the sea-lanes in search of their next merchant prize. No opponent available or just looking to sharpen game-play strategies? THE KAISERS PIRATES&amp;trade; solitaire game system has everything needed.&amp;#10;&amp;#10; THE KAISERS PIRATES&amp;trade; includes:&amp;#10;&amp;#10;&amp;#10;     One 20-Card German Raider/Warship Deck: Historic German commerce raiders&amp;#10;     One 60-Card Merchantman Deck: Historic victims of the German raiders&amp;#10;     One 100-Card Action Deck: The cards used in attacking and defending the ship cards. GMT Games release includes the expansion cards&amp;#10;     One 20-Card Solitaire Action Deck: The cards used when playing the game solitaire&amp;#10;     Eight dice, 2 x 4/8-sided, 2 x 6-sided, 2 x 8-sided and 2 x 10-sided, along with 16 wooden markers&amp;#10;     Action Card summary foldout&amp;#10;     The Complete Rules of Play, all in color and profusely illustrated&amp;#10;     Number of Players: One to four&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="10"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="9"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="4"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="26" value="No necessary in-game text" numvotes="0"/>
+        <result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5"/>
+        <result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="30" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamefamily" id="10643" value="Country: Germany"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgameexpansion" id="33206" value="Kaiser's Pirates: Expansion Pack"/>
+    <link type="boardgamedesigner" id="1922" value="James M. Day"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="50008" value="Ward Morgan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="1533" value="Lost Battalion Games"/>
+    <link type="boardgamepublisher" id="7490" value="StrikeNet Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="520"/>
+        <average value="6.46804"/>
+        <bayesaverage value="5.74845"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3834" bayesaverage="5.74845"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="816" bayesaverage="6.15016"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1436" bayesaverage="5.76612"/>
+        </ranks>
+        <stddev value="1.54424"/>
+        <median value="0"/>
+        <owned value="1051"/>
+        <trading value="55"/>
+        <wanting value="55"/>
+        <wishing value="153"/>
+        <numcomments value="242"/>
+        <numweights value="79"/>
+        <averageweight value="2.2911"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

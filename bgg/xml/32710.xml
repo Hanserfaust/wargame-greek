@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="32710">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4cwHghIZvmwY1dGhkRt_zr59SqI=/fit-in/200x150/pic482877.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/5921JLCge66fEXBq8KeZ1yUSQyY=/0x0/pic482877.jpg</image>
+    <name type="primary" sortindex="1" value="Attack"/>
+    <description>The object is to attack, capture and destroy enemy camp or ammunition dump by placing a shell, bomb tank or men within them.&amp;#10;&amp;#10;Play is started by placing men &amp;amp; mortars in camps; guns and tanks in ammunition dumps, airplanes at home airdromes.  Mine locations are secretly noted.  Units are moved 1 at a time within the allowed movement range.  Units can capture multiple enemy units simply by entering their square or they can shoot and destroy a single unit per turn.  First player to capture or destroy an enemy dump or camp wins the game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1943"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1009" value="Abstract Strategy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2035" value="Roll / Spin and Move"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamedesigner" id="9597" value="R. E. Van Wagenen"/>
+    <link type="boardgamepublisher" id="3609" value="Gano Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

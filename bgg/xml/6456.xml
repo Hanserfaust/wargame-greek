@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6456">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/VwJbZeJlAy6Rw0p6075p4zzH4W4=/fit-in/200x150/pic38520.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/X-9vdtY004KxMNTsNqqPfuXBJM4=/0x0/pic38520.jpg</image>
+    <name type="primary" sortindex="1" value="Lodz 1914: First Blitzkrieg"/>
+    <description>LODZ 1914: FIRST BLITZKRIEG is an operational simulation of the clash between German and Russian armies in Poland during November and December of 1914. The game is intended for two players, one taking each side, but is suited for team or solitaire play as well. The German side represents the forces of 9th Army, and the Russian side represents the forces of Northwest Front. Lodz 1914 is a detailed study of this battle presenting a realistic combat system, Army, Corps, and Division HQs, artillery, engineers, reserve movement, reconnaissance and more.&amp;#10;A wargame very mobile and giving both sides enough opportunities for attack and defend.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgameimplementation" id="8252" value="Lods 1914: Blitzkrieg in the East" inbound="true"/>
+    <link type="boardgamedesigner" id="2307" value="Ulrich Blennemann"/>
+    <link type="boardgamedesigner" id="1927" value="David Bolt"/>
+    <link type="boardgamepublisher" id="1488" value="Admiralty House Publications"/>
+    <link type="boardgamepublisher" id="539" value="Moments in History"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="6.91923"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.81172"/>
+        <median value="0"/>
+        <owned value="140"/>
+        <trading value="3"/>
+        <wanting value="3"/>
+        <wishing value="6"/>
+        <numcomments value="12"/>
+        <numweights value="8"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

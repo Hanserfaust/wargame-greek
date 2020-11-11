@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4316">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/w9URSSGfL2H3CZIpAWFeP4EeLq0=/fit-in/200x150/pic136054.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/APqrWvvmOFoy-GvKpF7onDobIvE=/0x0/pic136054.jpg</image>
+    <name type="primary" sortindex="1" value="Belter: Mining the Asteroids, 2076"/>
+    <description>Economic SF wargame set in the asteroid belt in the year 2076. In the basic game, two, three, or four players control mining companies that mine asteroids for ore, gas, and highly dangerous shards of CT (contra-terrene matter -- a name for antimatter lifted from the Seetee novels of Jack Williamson). These commodities are traded for credits at the three major planetoid stations. Vicious fights can break out over control of particularly lucrative asteroids. The players have to agree on the winning conditions: The winner is either the first player to one million, ten million, or a hundred million credits, or the wealthiest player after a set timespan elapses. (The playing time is, accordingly, completely arbitrary; two hours is probably too short, but seems like a sane number.)&amp;#10;&amp;#10;In the advanced game, an additional player plays the Peace Keeping Force (PKF), whose role is ironically not to stop the fighting, but to suppress revolts and other conflicts just enough to keep prices of ore and gas low. The PKF player achieves partial victory if the price of either commodity is below 200 credits at the end of the game, or decisive victory if the prices of both commodities are below 200 credits.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="0"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1088" value="Industry / Manufacturing"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="19296" value="Asteroids"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgamedesigner" id="754" value="Marc W. Miller"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="73"/>
+        <average value="6.07534"/>
+        <bayesaverage value="5.52229"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11917" bayesaverage="5.52229"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2372" bayesaverage="5.62551"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1866" bayesaverage="5.52167"/>
+        </ranks>
+        <stddev value="1.62319"/>
+        <median value="0"/>
+        <owned value="278"/>
+        <trading value="17"/>
+        <wanting value="19"/>
+        <wishing value="40"/>
+        <numcomments value="39"/>
+        <numweights value="18"/>
+        <averageweight value="3.2222"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

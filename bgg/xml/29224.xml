@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="29224">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/GrCxbOcpRcb1b1MniWDxG_xCx7w=/fit-in/200x150/pic241971.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/meLO6QGpZOhdUGx-vUxdcUfvKjU=/0x0/pic241971.jpg</image>
+    <name type="primary" sortindex="1" value="Operación Barbarroja"/>
+    <description>Operaci&amp;oacute;n Barbarroja (Operation Barbarossa) is a strategic wargame that portrays the Eastern Front during World War II. The game recreates the combats between the German and Soviet armies between 1941 - 1945.&amp;#10;&amp;#10;In 1987 NAC released a series of mini-wargames consisting in this and two other titles (&amp;quot;Infanter&amp;iacute;a&amp;quot; and  &amp;quot;La carga de la brigada ligera&amp;quot;). Their boxes, boards and pieces were obviously of a smaller size than NAC&amp;acute;s regular games, and also their prices (I seem to recall that I paid about 700 pesetas by then).&amp;#10;&amp;#10;Contents were: a 24x38 cms board, 112 counters, a tray for them, a special die, sheets and rules.&amp;#10;&amp;#10;The game was conceived for two players, being its duration from about 30 to 120 minutes and its difficulty 5 in the NAC scale (high).&amp;#10;&amp;#10;Counters could be organized in groups. The pieces within them were put aside on the grouping sheets, and numbered group counters were moved on the board. This was the first time I saw this method in a NAC game. They were really getting better and more &amp;quot;serious&amp;quot; comparing to the first ones they published...&amp;#10;&amp;#10;</description>
+    <yearpublished value="1987"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1682" value="Nike and Cooper Española, S.A."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="4.62"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.77471"/>
+        <median value="0"/>
+        <owned value="17"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="3"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

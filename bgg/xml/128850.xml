@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="128850">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/51LWKyth1K-es7slChK0huNyAUU=/fit-in/200x150/pic2378559.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1zg_-RKCcW1h6CZzP0LrBeSQPhE=/0x0/pic2378559.jpg</image>
+    <name type="primary" sortindex="1" value="Angels One Five"/>
+    <description>From the introduction -&amp;#10;&amp;#10;&amp;quot;This is a simple grand tactical simulation game of the interception of an escorted formation of multiengine daylight bombers during World War Two. Two players or teams direct the actions of the escorting and intercepting fighters as they seek to inflict losses on the opposing aircraft while minimising their own losses. In team play, each player controls one or more specific fighter units, depending on the number of players and the amount of time available.&amp;quot;&amp;#10;&amp;#10;The counters come in four different sizes, with each larger size corresponding to the next higher altitude band (hence giving an intuitive representation of height, since higher units appear closer and so larger from an overhead perspective).&amp;#10;&amp;#10;One of the games in Philip Sabin's book &amp;quot;Simulating War&amp;quot;, with counters and map downloadable from his website.&amp;#10;&amp;#10;This game has now been published in a deluxe edition by Victory Point games, with full colour components and added historical scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="60"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="6341" value="Philip Sabin"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="6.86667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.16142"/>
+        <median value="0"/>
+        <owned value="110"/>
+        <trading value="8"/>
+        <wanting value="7"/>
+        <wishing value="31"/>
+        <numcomments value="9"/>
+        <numweights value="4"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

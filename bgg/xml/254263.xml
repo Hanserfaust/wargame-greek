@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="254263">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ONaQqFmUaW2TElORC3suDqe0BiY=/fit-in/200x150/pic4329701.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/KMM_iIOygPHDzVmB5epU4E8ePOY=/0x0/pic4329701.png</image>
+    <name type="primary" sortindex="1" value="Avec Honneur et Panache: Volume 1 – Turenne"/>
+    <description>A wargame covering two battles lead by Turenne: Rethel 1650 and Les Dunes 1658.&amp;#10;Original system by Ben Hull, also used by Avec Infini Regret series.&amp;#10;&amp;#10;&amp;bull; Rethel 1650 &amp;ndash; 15 December 1650, With Mazarin having imprisoned the Prince of Cond&amp;eacute; at the beginning of the year for fear of his growing influence, the troops supporting the Prince rallied behind Turenne who had recently gone to the Fronde&amp;rsquo;s side. Turenne operated in the northeast of France to join the troops of the Duc de Lorraine and the Spanish with hopes of regaining control of all the fortresses acquired in Cond&amp;eacute;&amp;rsquo;s cause.&amp;#10;Sensing the danger of having such a great captain against him, Mazarin entrusted the command of the armies of Flanders and Champagne to the Comte de Plessis-Praslin (meanwhile beginning secret negotiations with the other camp). Plessis-Praslin lay siege to Rethel and, despite having given his word, the governor of Rethel surrendered a few days before Turenne&amp;rsquo;s arrival. The commander of the Frondeur army was therefore required to combat the entire Royalist army.&amp;#10;After his defeat (which would be the last one), Turenne joined the king&amp;rsquo;s camp in exchange for amnesty, a few titles and, most importantly, the command of the French armies. He would be a loyal servant of the king until his death on the battlefield 25 years later.&amp;#10;&amp;#10;&amp;bull; The Dunes 1658 &amp;ndash; 14 June 1658, The alliances had evolved since the end of the Thirty Years&amp;rsquo; War. The Lorraine soldiers had gone over to the French camp after their duke was imprisoned by the Spanish. Mazarin convinced King Louis XIV to sign a military alliance with Cromwell who sent a strong English contingency to the continent, thereby forcing King Charles II and Princes James and Henry to join the Spanish with their meagre troops. Exiled with those loyal to him for nearly six years, Cond&amp;eacute; was also on the side of Juan of Austria, the commander in chief of the Spanish forces.&amp;#10;When Turenne lay siege to the fortress of Dunkirk, Juan of Austria decided to give battle right away. Cond&amp;eacute; declared to James &amp;ldquo;Sir, today you will see how to lose a battle&amp;rdquo;.&amp;#10;As a result of this French victory, the Treaty of the Pyrenees and other related agreements were signed, putting an end to the Franco-Spanish War, to some extent the Fronde, and the English Civil War . The sun of Louis XIV could begin to shine.&amp;#10;&amp;#10;The game includes :&amp;#10;&amp;bull; Two 59 x 41 cm maps (one sheet back printed)&amp;#10;&amp;bull; 270 double-sided, pre-cut counters and markers&amp;#10;&amp;bull; A book of rules and scenarios&amp;#10;&amp;bull; A colour player aid&amp;#10;&amp;#10;(Description from the publisher)&amp;#10;&amp;#10;&amp;#10;Lire la description en fran&amp;#195;&amp;#167;ais&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2725" value="Pike and Shot"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamefamily" id="44428" value="Avec Infini Regret"/>
+    <link type="boardgamefamily" id="124" value="Musket &amp; Pike Battle Series"/>
+    <link type="boardgameimplementation" id="161820" value="Avec Infini Regret" inbound="true"/>
+    <link type="boardgamedesigner" id="7344" value="Florent Coupeau"/>
+    <link type="boardgameartist" id="3290" value="Pascal da Silva"/>
+    <link type="boardgamepublisher" id="31598" value="Cérigo Editions"/>
+    <link type="boardgamepublisher" id="540" value="Vae Victis"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="14"/>
+        <average value="7.32143"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.33105"/>
+        <median value="0"/>
+        <owned value="91"/>
+        <trading value="3"/>
+        <wanting value="5"/>
+        <wishing value="7"/>
+        <numcomments value="9"/>
+        <numweights value="4"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="57691">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/LJlHyIGT75Qv-J4DFt5wTKAG01s=/fit-in/200x150/pic1094999.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/KW0xQKUZOXTNXiiVRb3nKete8Oc=/0x0/pic1094999.jpg</image>
+    <name type="primary" sortindex="1" value="800 Heroes: Defense of Sihang Warehouse"/>
+    <name type="alternate" sortindex="1" value="八百壯士-死守四行倉庫"/>
+    <description>&amp;ldquo;800 Heroes: Defense of Sihang Warehouse&amp;quot; is a postcard wargame about the defense of Shihang Warehouse during Oct.27 to Nov.1 in 1937.&amp;#10;See wikipedia article.&amp;#10;&amp;#10;Lieutenant Colonel Xie Jinyuan led over 400 soldiers to fight against the invasion of Imperial Japanese Army and covered the retreating of the Chinese force at the end of the Shanghai Battle. This successful defense provided a morale-lifting consolation to the Chinese army and drew the international support to Chinese government. Those brave soldiers have been called &amp;quot;800 Heroes&amp;quot;.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="71" value="No necessary in-game text" numvotes="0"/>
+        <result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="75" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="4661" value="Magazine: Battles"/>
+    <link type="boardgamefamily" id="5780" value="Magazine: Board wargame"/>
+    <link type="boardgamedesigner" id="22269" value="Wei-Cheng Cheng"/>
+    <link type="boardgameartist" id="22269" value="Wei-Cheng Cheng"/>
+    <link type="boardgameartist" id="26106" value="Daniel Herbera"/>
+    <link type="boardgameartist" id="8457" value="Olivier Revenu"/>
+    <link type="boardgamepublisher" id="9369" value="Battles Magazine"/>
+    <link type="boardgamepublisher" id="10325" value="Formosa Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="59"/>
+        <average value="6.82542"/>
+        <bayesaverage value="5.55502"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8762" bayesaverage="5.55502"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1706" bayesaverage="5.8128"/>
+        </ranks>
+        <stddev value="1.31415"/>
+        <median value="0"/>
+        <owned value="209"/>
+        <trading value="5"/>
+        <wanting value="5"/>
+        <wishing value="11"/>
+        <numcomments value="40"/>
+        <numweights value="19"/>
+        <averageweight value="1.7368"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

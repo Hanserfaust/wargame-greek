@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="19537">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ceVfukR2FOoMoAlNB0N_NUmeAac=/fit-in/200x150/pic1052000.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/72mpETRIeZyp9WVw6aOPg9whk-Q=/0x0/pic1052000.jpg</image>
+    <name type="primary" sortindex="1" value="Sun of York"/>
+    <description>From the back of the game:&amp;#10;&amp;#10;The Wars of the Roses (1453-1485) were the result of the struggle for the English crown between the Houses of Lancaster and York ... both descended from the Plantagenet line ... both with equal claim to the throne.  By the end of the bloody struggle, both houses would be extinct and the crown grasped by the first of the Tudors.&amp;#10;&amp;#10;Sun of York is a card game depicting the tactical battles fought between the two royal houses.  Represented by the cards are all the day's major leaders, including King Henry VI (too weak a leader to maintain control of the kingdom), Margaret of Anjou (Henry's strong-willed and manipulative queen), King Edward IV (organizational genius and longest holder of the Crown), King Richard III (charismatic leader of questionable morals) and Richard Neville, Earl of Warwick (the &amp;quot;King Maker&amp;quot;).  Troop cards include Levies, Longbowmen, Knights, Cavalry, and mercenaries from the Continent, among others.  Terrain features and Special event cards are also included.&amp;#10;&amp;#10;Every major engagement (and a few minor ones) is included in Sun of York, for a total of eighteen scenarios in all!  Rules for randomly generated scenarios are included as is a campaign system allowing players to fight out the Wars to their bloody conclusion.&amp;#10;&amp;#10;Components include 200 cards, two player aid sheets, and one sheet of 234 status markers.  &amp;#10;[This is a desktop published game.  Players are required to assemble all game components.]&amp;#10;&amp;#10;Now also available (August 2011) through GMT Games as a boxed set!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="141" value="No necessary in-game text" numvotes="0"/>
+        <result level="142" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="143" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="144" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="145" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="20248" value="Cities: York (England)"/>
+    <link type="boardgamefamily" id="14759" value="Country: England"/>
+    <link type="boardgamefamily" id="20249" value="Wars of the Roses"/>
+    <link type="boardgameintegration" id="235980" value="Saint-Omer to Saint Crispin: Tactical Battles of the Hundred Years War"/>
+    <link type="boardgamedesigner" id="2961" value="Mike Nagel"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="1991" value="Relative Range"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="157"/>
+        <average value="6.43797"/>
+        <bayesaverage value="5.59282"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6756" bayesaverage="5.59282"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1388" bayesaverage="5.89662"/>
+        </ranks>
+        <stddev value="1.47647"/>
+        <median value="0"/>
+        <owned value="583"/>
+        <trading value="39"/>
+        <wanting value="16"/>
+        <wishing value="56"/>
+        <numcomments value="94"/>
+        <numweights value="20"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

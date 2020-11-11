@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="29560">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-7rgKcew_HeBwgRsmb3kbxN3EZw=/fit-in/200x150/pic257579.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/JnDIoit-aHiImzoti5dbv79W6pU=/0x0/pic257579.jpg</image>
+    <name type="primary" sortindex="1" value="Jatkosota: Finland's Continuation War for ASL"/>
+    <description>A 12 page historical background booklet, one page of Chapter H notes, 36 unmounted counters, including a Maj. Tapio, and 8 scenarios.  Six of the scenarios are Finnish-Russian, one German-Russian, and one Finnish-German.&amp;#10;&amp;#10;8 scenarios:&amp;#10;1) Toast Victory with Vodka: Petrozavodsk, Russia, 1 October 1941&amp;#10;2) At the Gates of Viipuri: Viipuri, Finland, 20 June 1944&amp;#10;3) Back to the V-T Line: Kuuterselka, Finland, 14 June 1944&amp;#10;4) The Gods of War: Kuuterselka, Finland, 13 June 1944&amp;#10;5) Forests of the North: 20 miles southwest of Louhki, Russia, 11 August 1941&amp;#10;6) Mannerheim's Cross: Karhumakea, Finland, 5 December 1941&amp;#10;7) Brothers in Arms: Tornio, Finland 5 October 1944&amp;#10;8) Artic Strongpoint: East of the Litsa River, Northern Finland, 1 February 1944&amp;#10;&amp;#10;</description>
+    <yearpublished value="1996"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgamefamily" id="10316" value="Country: Finland"/>
+    <link type="boardgameexpansion" id="32117" value="Total Axis Pack I: Eastern Front Firestorm"/>
+    <link type="boardgameexpansion" id="40378" value="Total Axis Pack II"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamecompilation" id="149717" value="ASL Comp: Fire and Ice"/>
+    <link type="boardgamedesigner" id="8748" value="Peter Mudge"/>
+    <link type="boardgamedesigner" id="8749" value="Tommi Syrjanen"/>
+    <link type="boardgamedesigner" id="1592" value="Ray Tapio"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="21"/>
+        <average value="6.28571"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.75643"/>
+        <median value="0"/>
+        <owned value="120"/>
+        <trading value="3"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="6"/>
+        <numweights value="3"/>
+        <averageweight value="4.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

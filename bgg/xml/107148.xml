@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="107148">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RKcH5htBvV-iMdxB1B3qEH2q28I=/fit-in/200x150/pic1257685.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wnw-cujhShHcnOhLNsWktcQV8ug=/0x0/pic1257685.jpg</image>
+    <name type="primary" sortindex="1" value="Wings of Glory: WW2 Starter Set"/>
+    <description>Wings of Glory: WW2 Starter Set is a tactical air combat game set in WW2 that uses cards and miniatures.&amp;#10;&amp;#10;This first set is a complete game that features four airplanes for the WW2 game series: the American P40, the Russian Yak-1, the Japanese Ki-61 and the Italian Re-2001 Falco. Other components include maneuver decks for each airplane and a rule book that includes Basic, Standard and Advanced Rules, Optional Rules, and Scenarios. A full assortment of counters, tokens, rulers, and airplane console boards complete the set, which can be expanded with additional WW2 Airplane Packs to allow for larger battles with different airplanes.&amp;#10;&amp;#10;Part of the Wings of War series&amp;#10;&amp;#10;Reimplements: &amp;#10;&amp;#10;    Wings of War: The Dawn of World War II&amp;#10;    Wings of War: WW2 Deluxe set&amp;#10;    Wings of War: WW2 Airplane Packs&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;See also:&amp;#10;&amp;#10;    Wings of War: Fire from the Sky&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="55" value="Wings of Glory / Wings of War"/>
+    <link type="boardgameexpansion" id="183704" value="Wings of Glory: World War 2 – Avro Lancaster B Mk.III"/>
+    <link type="boardgameexpansion" id="194432" value="Wings of Glory: World War 2 – B-17"/>
+    <link type="boardgameexpansion" id="194898" value="Wings of Glory: World War 2 – Bristol Beaufighter"/>
+    <link type="boardgameexpansion" id="194676" value="Wings of Glory: World War 2 – Douglas SBD-5 Dauntless"/>
+    <link type="boardgameexpansion" id="183994" value="Wings of Glory: World War 2 – Fiat CR.42 Falco"/>
+    <link type="boardgameexpansion" id="192689" value="Wings of Glory: World War 2 – FW-190 D-9/D-13"/>
+    <link type="boardgameexpansion" id="183993" value="Wings of Glory: World War 2 – Gloster Gladiator Mk.I"/>
+    <link type="boardgameexpansion" id="246846" value="Wings of Glory: World War 2 – Hawker Hurricane Mk.I Squadron Pack"/>
+    <link type="boardgameexpansion" id="194582" value="Wings of Glory: World War 2 – Heinkel He.111"/>
+    <link type="boardgameexpansion" id="240109" value="Wings of Glory: World War 2 – Junkers Ju.87 B–2 &quot;Stuka&quot;"/>
+    <link type="boardgameexpansion" id="194548" value="Wings of Glory: World War 2 – Kawasaki Ki-61 Hien"/>
+    <link type="boardgameexpansion" id="246847" value="Wings of Glory: World War 2 – Messerschmitt Bf. 109 E–3 Squadron Pack"/>
+    <link type="boardgameexpansion" id="194654" value="Wings of Glory: World War 2 – Messerschmitt Bf.109 K-4"/>
+    <link type="boardgameexpansion" id="195280" value="Wings of Glory: World War 2 – Messerschmitt Bf.110"/>
+    <link type="boardgameexpansion" id="194904" value="Wings of Glory: World War 2 – Messerschmitt Bf.110 C"/>
+    <link type="boardgameexpansion" id="194064" value="Wings of Glory: World War 2 – Nakajima Ki-84 Hayate"/>
+    <link type="boardgameexpansion" id="194581" value="Wings of Glory: World War 2 – North American B-25 Mitchell"/>
+    <link type="boardgameexpansion" id="192691" value="Wings of Glory: World War 2 – P-51D Mustang"/>
+    <link type="boardgameexpansion" id="183700" value="Wings of Glory: World War 2 – Reggiane Re.2001 Falco II"/>
+    <link type="boardgameexpansion" id="194653" value="Wings of Glory: World War 2 – Republic P-47D Thunderbolt"/>
+    <link type="boardgameexpansion" id="195107" value="Wings of Glory: World War 2 – Spitfire Mk. IX"/>
+    <link type="boardgameexpansion" id="246849" value="Wings of Glory: World War 2 – Supermarine Spitfire Mk.I Squadron Pack"/>
+    <link type="boardgameexpansion" id="183702" value="Wings of Glory: World War 2 – Yakovlev Yak-1"/>
+    <link type="boardgameexpansion" id="194652" value="Wings of Glory: World War 2 – Yokosuka D4Y Suisei"/>
+    <link type="boardgameexpansion" id="247651" value="Wings of Glory: WW II – Curtiss P40 Warhawk"/>
+    <link type="boardgameexpansion" id="121042" value="Wings of Glory: WW2 Airplane Packs"/>
+    <link type="boardgameexpansion" id="125679" value="Wings of Glory: WW2 Special Packs"/>
+    <link type="boardgameexpansion" id="246641" value="Wings of War Miniatures: Hawker Hurricane"/>
+    <link type="boardgameexpansion" id="246638" value="Wings of War Miniatures: Junkers Ju.87"/>
+    <link type="boardgameexpansion" id="246842" value="Wings of War WW II: Grummann F4F"/>
+    <link type="boardgameexpansion" id="246845" value="Wings of War WW II: Mitsubishi A6M2 Reisen"/>
+    <link type="boardgameexpansion" id="246512" value="Wings of War: The Dawn of World War II – Aichi D3A1 Val"/>
+    <link type="boardgameexpansion" id="246312" value="Wings of War: World War 2 – Dewoitine D520"/>
+    <link type="boardgameexpansion" id="246642" value="Wings of War: World War 2 – Supermarine Spitfire"/>
+    <link type="boardgameexpansion" id="246836" value="Wings of War: WW2 – Messerschmitt Bf 109"/>
+    <link type="boardgameintegration" id="216710" value="Wings of Glory: WW2 Battle of Britain Starter Set"/>
+    <link type="boardgameimplementation" id="131183" value="Wings of Glory: WW2 Rules and Accessories Pack"/>
+    <link type="boardgameimplementation" id="42306" value="Wings of War: WW2 Deluxe set" inbound="true"/>
+    <link type="boardgamedesigner" id="546" value="Andrea Angiolino"/>
+    <link type="boardgamedesigner" id="547" value="Pier Giorgio Paglia"/>
+    <link type="boardgameartist" id="12475" value="Vincenzo Auletta"/>
+    <link type="boardgameartist" id="12474" value="Dario Calì"/>
+    <link type="boardgameartist" id="20670" value="Fabio Maiorana"/>
+    <link type="boardgamepublisher" id="17917" value="Ares Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="253"/>
+        <average value="7.37115"/>
+        <bayesaverage value="5.78053"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3525" bayesaverage="5.78053"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="574" bayesaverage="6.33704"/>
+        </ranks>
+        <stddev value="1.55388"/>
+        <median value="0"/>
+        <owned value="536"/>
+        <trading value="11"/>
+        <wanting value="39"/>
+        <wishing value="189"/>
+        <numcomments value="49"/>
+        <numweights value="21"/>
+        <averageweight value="2.619"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

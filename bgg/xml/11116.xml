@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11116">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZMnpWYyCpZ4zIPL9_QCK3HXLSJg=/fit-in/200x150/pic115203.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BHAweEfECnx11_z-ifErvOHEih0=/0x0/pic115203.jpg</image>
+    <name type="primary" sortindex="1" value="Yarmuk"/>
+    <description>Command magazine Issue #45, along with Operation Sea Lion.&amp;#10;&amp;#10;Yarmuk is a game on the epic battle for the Holy Land in 636 AD.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1844" value="Adrian McGrath"/>
+    <link type="boardgamedesigner" id="9047" value="Chris Smith"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="35"/>
+        <average value="5.97714"/>
+        <bayesaverage value="5.50685"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13677" bayesaverage="5.50685"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2624" bayesaverage="5.54751"/>
+        </ranks>
+        <stddev value="1.44994"/>
+        <median value="0"/>
+        <owned value="225"/>
+        <trading value="11"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="32"/>
+        <numweights value="9"/>
+        <averageweight value="2.5556"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

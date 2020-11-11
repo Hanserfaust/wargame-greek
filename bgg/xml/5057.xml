@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5057">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Wpgb-EVAGVe7udo0NjgTrYEvzeA=/fit-in/200x150/pic16956.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/uDFo94mVG97twa94xJdETuup0p8=/0x0/pic16956.jpg</image>
+    <name type="primary" sortindex="1" value="Never Call Retreat"/>
+    <description>Never Call Retreat - The First Day at Gettysburg, July 1,1863. This game re-creates the first day's action between the Northern forces of the Army of the Potomac and the Southern forces of the Army of Northern Virginia during their classic three day confrontation at Gettysburg.&amp;#10;&amp;#10;Published in The Wargamer Magazine issue 25.&amp;#10;&amp;#10;Boxed Edition Component List:&amp;#10;&amp;#10;1 Box&amp;#10;2 Counter Sheets&amp;#10;1 Die&amp;#10;2 Board Sections&amp;#10;1 8-Page Rulebook&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="1926" value="George Schandel"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="5.82368"/>
+        <bayesaverage value="5.50612"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13778" bayesaverage="5.50612"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2641" bayesaverage="5.54168"/>
+        </ranks>
+        <stddev value="1.54075"/>
+        <median value="0"/>
+        <owned value="212"/>
+        <trading value="16"/>
+        <wanting value="1"/>
+        <wishing value="3"/>
+        <numcomments value="38"/>
+        <numweights value="7"/>
+        <averageweight value="2.8571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

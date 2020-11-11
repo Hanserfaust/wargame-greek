@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="23343">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Lvp-YIMSzwmcd5-JuCQc289zoEQ=/fit-in/200x150/pic124883.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LKY55BqutjCV37-A2dMP2euSyDQ=/0x0/pic124883.jpg</image>
+    <name type="primary" sortindex="5" value="The Barbarossa Campaign"/>
+    <description>From Panzerschreck Magazine #3 (Fall 1999).&amp;#10;&amp;#10;Barbarossa Campaign (solitaire, strategic level WW2 east front).&amp;#10;&amp;#10;Components:  8.5&amp;quot; x 11&amp;quot; map, 186 counters, Economic Display, Reference Sheet, Initiative Index Track, Time Record sheet, 30 Event cards, 51 Economic chits, rules.&amp;#10;&amp;#10;Description: The player (Axis) launches &amp;quot;Operation Barbarossa&amp;quot; in this strategic level game (quarterly turns, army sized units) that emphasizes economics.  The game covers 1941-45.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6221" value="Magazine: Panzerschreck"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="62972" value="The Barbarossa Campaign"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="5.75"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.829156"/>
+        <median value="0"/>
+        <owned value="28"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="5"/>
+        <numweights value="2"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="207398">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Eb-DmFIZCsUkyVIFqKSad1lvAD0=/fit-in/200x150/pic3149942.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sVeJdd561_HSWmteU4GsQDvHkMM=/0x0/pic3149942.jpg</image>
+    <name type="primary" sortindex="1" value="Hungarian Rhapsody"/>
+    <description>Hungarian Rhapsody depicts the Soviet drive into Hungary which led the Red Army into the Vienna  basin. Rumania's defection in August 1944 allowed the Soviets to outflank well defended Axis positions in the Carpathian Mountains through the South. In the process, the German 6th Army was almost destroyed, losing most of its heavy equipment (which explains the relative weakness of the German artillery at the start  of  the campaign). The game begins on 5 October 1944 with the 2nd Ukrainian Front and the 4th Ukrainian Front launching an offensive to isolate the German 8th Army which is still defending an area off-map to the East in the Carpathian Mountains.&amp;#10;&amp;#10;Hungarian Rhapsody allows players to play the two  major Soviet offensives and several smaller scenarios covering the German counter offensives.&amp;#10;&amp;#10;Hungarian Rhapsody is the next game in the award winning Operational Combat System. Players control units ranging from battalions through divisions, making key decisions on the use, objectives, and means of war. The series is based on modern concepts of maneuver warfare and allows players a far more insightful look into how campaigns (large and small) really work.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: Half Week&amp;#10;Hex: 5 miles / 8 Km&amp;#10;Units: Battalion to Division&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10636" value="Country: Hungary"/>
+    <link type="boardgamefamily" id="80" value="Operational Combat Series"/>
+    <link type="boardgamedesigner" id="94390" value="Stéphane Acquaviva"/>
+    <link type="boardgamedesigner" id="406" value="Dean Essig"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="7.64286"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.78663"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="9"/>
+        <wishing value="50"/>
+        <numcomments value="7"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

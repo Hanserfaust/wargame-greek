@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="39243">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rSs7Wf0jjlC5bI2q_gQ1VkTfwr8=/fit-in/200x150/pic392954.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ZVkq1OEu_eBVHpZ5umaO51Y4uzk=/0x0/pic392954.jpg</image>
+    <name type="primary" sortindex="1" value="Ambush Alley: Lawyers, Guns &amp; Money"/>
+    <description>In conjunction with Ambush Alley Games, Rebel Minis is releasing another great scenario: Lawyers, Guns &amp;amp; Money!&amp;#10;&amp;#10;The scenarios in Lawyers, Guns &amp;amp; Money form a campaign of three interlocking scenarios which focus on a VIP protection detail performed by the fictional Private Military Contractor (PMC), Aegis Group in the equally fictitious city of Dawala&amp;#10;&amp;#10;Lawyers, Guns &amp;amp; Money contains an exclusive mini-campaign written by the Ambush Alley Team!&amp;#10;&amp;#10;This is a pdf booklet that can also be purchased as an attachment to &amp;quot;Lawyers, Guns &amp;amp; Money! Battle Box&amp;quot;, that contains the 15mm miniatures to play the scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameexpansion" id="32150" value="Ambush Alley" inbound="true"/>
+    <link type="boardgamedesigner" id="9867" value="Shawn Carpenter"/>
+    <link type="boardgamepublisher" id="7510" value="Ambush Alley Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="16"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="2"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

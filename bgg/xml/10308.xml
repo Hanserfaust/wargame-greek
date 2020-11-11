@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10308">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Y0RYT4MYAJ2470vmMTmO3rbtD8s=/fit-in/200x150/pic43025.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3itIwlxiHAV1ZXxIlCI1nYfkJtg=/0x0/pic43025.jpg</image>
+    <name type="primary" sortindex="5" value="The Campaigns of Frederick the Great"/>
+    <description>The Campaigns of Frederick the Great recreates the incredible war of maneuver in which Prussia rose to the rank of first-rate power, and its warrior-king gained the title &amp;quot;Great&amp;quot;.  Fought between 1756 and 1762, the Seven Years War was one of parry and thrust, rather than frontal assault.  In a period of shifting alliances and evolving military techniques, leadership was the key factor.&amp;#10;&amp;#10;The Campaigns of Frederick the Great uses innovative command and combat systems, and an interactive game system, to mirror the subtleties of 18th Century Warfare.  Features include troop commitment, cavalry pursuit, sieges, forced marches, and more.  No game will ever be won by sheer numbers - only by skill.&amp;#10;&amp;#10;(from back of Game box)&amp;#10;&amp;#10;&amp;#10;&amp;#10;Components:&amp;#10;34&amp;quot; x 22&amp;quot; map, 400 counters, 12 page rulebook, 12 pages of charts and tables.&amp;#10;&amp;#10;The map is very similar to SPI's/AH's Frederick the Great game, but with roads added.  Seven yearly scenarios plus campaign.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1993"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamedesigner" id="2282" value="Robert G. Markham"/>
+    <link type="boardgameartist" id="43283" value="Antoine Pesne"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="58"/>
+        <average value="6.30345"/>
+        <bayesaverage value="5.52985"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11061" bayesaverage="5.52985"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2154" bayesaverage="5.68726"/>
+        </ranks>
+        <stddev value="1.38003"/>
+        <median value="0"/>
+        <owned value="209"/>
+        <trading value="12"/>
+        <wanting value="0"/>
+        <wishing value="12"/>
+        <numcomments value="28"/>
+        <numweights value="9"/>
+        <averageweight value="2.4444"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

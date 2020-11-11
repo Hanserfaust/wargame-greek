@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3042">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/45VL85TVK9qgRczzKVkBTiXq3I4=/fit-in/200x150/pic4879239.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SmApfUCLxFxW8uwiLVDHDmYOP74=/0x0/pic4879239.jpg</image>
+    <name type="primary" sortindex="1" value="Survival / The Barbarian"/>
+    <description>This is a Task Force Games Double Game, consisting of two complete games within one package. Both games originally appeared in White Dwarf magazine, and were later released together as one of their pocket games.&amp;#10;&amp;#10;Survival! is a science fiction game depicting the struggle of Jardine, a crashed Scout, to reach safety. Along the trek he will meet and fight various vicious animals. While Survival is an excellent solitaire game, there are scenarios for up to six players.&amp;#10;&amp;#10;The Barbarian is a fantasy game for one or two players, depicting the quest of Vaarn the Barbarian to locate and recover the lost sword and shield of the Old Fathers.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11307" value="Magazine: White Dwarf"/>
+    <link type="boardgamefamily" id="21630" value="Task Force Games: Pocket Games series"/>
+    <link type="boardgamecompilation" id="67792" value="The Barbarian" inbound="true"/>
+    <link type="boardgamecompilation" id="159818" value="Survival!" inbound="true"/>
+    <link type="boardgamedesigner" id="33" value="Ian Livingstone"/>
+    <link type="boardgamedesigner" id="1249" value="Bob McWilliams"/>
+    <link type="boardgameartist" id="13288" value="Alvin Belflower"/>
+    <link type="boardgameartist" id="1249" value="Bob McWilliams"/>
+    <link type="boardgamepublisher" id="26" value="Games Workshop Ltd."/>
+    <link type="boardgamepublisher" id="352" value="Task Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="55"/>
+        <average value="5.03455"/>
+        <bayesaverage value="5.47545"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.47545"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.33041"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="Not Ranked" bayesaverage="5.44566"/>
+        </ranks>
+        <stddev value="1.76163"/>
+        <median value="0"/>
+        <owned value="185"/>
+        <trading value="14"/>
+        <wanting value="6"/>
+        <wishing value="18"/>
+        <numcomments value="38"/>
+        <numweights value="5"/>
+        <averageweight value="1.2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

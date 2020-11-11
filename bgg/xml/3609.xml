@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="3609">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BLujOStRp3Gf_VkTE6zLEPB7tR4=/fit-in/200x150/pic262503.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/paPV65-9kyjXCQpTaD7UYFrLw_4=/0x0/pic262503.jpg</image>
+    <name type="primary" sortindex="1" value="Crescendo of Doom"/>
+    <description>An expansion gamette for the Squad Leader series, concentrating on early WWII (1939-1942) and the units and countries most involved during that time (Poland, Belgium, France, etc).&amp;#10;&amp;#10;Thirty six page rulebook is presented in programmed instruction format to introduce its twelve new scenarios.  Two new 8&amp;quot; X 22&amp;quot; mapboards, and over 1300 counters.&amp;#10;&amp;#10;Avalon Hill Complexity rating - 10&amp;#10;&amp;#10;Mapboard: 6, 7&amp;#10;Scenarios: 21 to 32&amp;#10;&amp;#10;&amp;#10;(From the back of the box:)&amp;#10;&amp;#10;From the Nazi invasion of Poland, through the heroic defense of tiny Finland against the Russian behemoth, the blitzkrieg conquests of Norway and the Low Countries, the Battle of France, and the seizure of Greece the player is struck by the despair of men and nations alike as seen by the soldiers who vainly sacrificed their lives against a more powerful aggressor. This is Crescendo of Doom... a gripping game of tactical combat set against the seemingly invincible juggernauts of war-torn Europe. Setting the scene for the colossal struggle of the titans which will follow, Crescendo is, nonetheless, far more than a simple prelude to Barbarossa. While fur&amp;shy;ther refining the innovations brought forth in its highly successful predecessors Squad Leader and Cross of Iron, Crescendo breaks yet even more ground in the realm of realistic tactical combat without disturbing the underlying basic simplicity of a universally acclaimed game system. Crescendo is a welcome extension for the Squad Leader enthusiast even before he contemplates a single new counter.&amp;#10;&amp;#10;But Crescendo of Doom offers far more than that. Complete armor, ordnance, and infantry units are provided for Poland, Belgium, Finland. and a host of other minor neutrals including Elite, Line, and Reservist formations for all nationalities. In graphic detail far superior to any narrative account, you will see for yourself how the outnumbered German panzers defeated the superior armor of the French tanks. Experience personally the French frustrations brought on by radioless AFVs and one man turrets. There are no Panthers or T-34s... here it is the Mk III vs. the Char B, Somua, or Matilda.&amp;#10;&amp;#10;And Crescendo of Doom need not end in 1942 with our 32nd scenario, The entire British Order of Battle is presented for the whole of WWII enabling fans of the Western Desert, Italian, or Normandy camnpaigns to design their own scenarios for those periods. Crescendo of Doom is more than just a game. When combined with Squad Leader and Cross of Iron, it provides the ultimate in a tactical gaming system which can be used to portray any company or battalion level action. Be forewarned! Crescendo is not an easy game. Do not attempt it unless you have first mastered Squad Leader and Cross of Iron.&amp;#10;&amp;#10;In each game you get: &amp;#10;&amp;#10;     520 double-printed 112&amp;quot; die-cut counters representing the men and weapons that comprised the combatants of the Western Front; 1939&amp;middot;1942. &amp;#10;     704 double-printed 5/8&amp;quot; die-cut counters representing the complete vehicular and ordnance Order of Battle for the British. French. Polish, and Belgian Armies. &amp;#10;     Two additional 8&amp;quot; x 22&amp;quot; geomorphic map board sections Increasing the possible terrain configurations and adding several new terrain types (map 6 &amp;amp; 7)&amp;#10;     Comprehensive, Illustrated 36 page Programmed instruction rule book. &amp;#10;     Illustrated scenario cards for situations 21-32. &amp;#10;     Two expanded Quick Reference Data Cards. &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="5"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="3246" value="Squad Leader Series"/>
+    <link type="boardgameexpansion" id="1035" value="Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="76" value="Don Greenwood"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="669"/>
+        <average value="7.23683"/>
+        <bayesaverage value="6.06643"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.06643"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.86675"/>
+        </ranks>
+        <stddev value="1.37216"/>
+        <median value="0"/>
+        <owned value="1973"/>
+        <trading value="56"/>
+        <wanting value="20"/>
+        <wishing value="37"/>
+        <numcomments value="289"/>
+        <numweights value="99"/>
+        <averageweight value="4.2525"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

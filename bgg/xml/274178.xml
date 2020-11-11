@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="274178">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KvaSJWOVVdGHr3EnJrIKLxmMIhA=/fit-in/200x150/pic4860655.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/AenZovhaPYg7g7dM7f6emM8z9Nc=/0x0/pic4860655.jpg</image>
+    <name type="primary" sortindex="1" value="Poland Defiant: The German Invasion, September 1939"/>
+    <description>Poland Defiant was originally produced in limited quantities as &amp;ldquo;Plan West&amp;rdquo; by 3 Crown Games. Revolution Games has updated the game with new art, testing, and development.&amp;#10;&amp;#10;Poland Defiant covers the first 10 days of the Polish campaign, September 1st to 10th, 1939. This was the period when the Polish armies met the German forces on the open terrain of Poland and the mobility and firepower of mechanized warfare was first demonstrated on a large scale. The Poles must hold on to key cities and the Germans must keep to a rapid time schedule, so the game is both balanced and tense.&amp;#10;&amp;#10;Poland Defiant uses the same chit pull system and basic rules as Konigsberg with a few variations for the differences for this campaign. For example, the Germans have air interdiction and ground attack aircraft can launch attacks on units rather then just adding shifts to combat. Each turn is 1 day and game play time is 6 to 10 hours.&amp;#10;&amp;#10;Designed by Stefan Ekstr&amp;ouml;m&amp;#10;&amp;#10;-description from publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="480"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="480"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10317" value="Country: Poland"/>
+    <link type="boardgameimplementation" id="68716" value="Plan West" inbound="true"/>
+    <link type="boardgamedesigner" id="3549" value="Stefan Ekström"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="18698" value="Revolution Games (II)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="8.2"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.15181"/>
+        <median value="0"/>
+        <owned value="89"/>
+        <trading value="2"/>
+        <wanting value="7"/>
+        <wishing value="32"/>
+        <numcomments value="7"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

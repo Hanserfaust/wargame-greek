@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="154875">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/M7bxHnvoW2-e3zkXJd9G8cy3wkk=/fit-in/200x150/pic2635114.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wrZ2zcIsEGmdM6Yph15XBEkR0PA=/0x0/pic2635114.png</image>
+    <name type="primary" sortindex="1" value="Silent Victory: U.S. Submarines in the Pacific, 1941-45"/>
+    <description>Silent Victory is a solitaire tactical level game placing you in command of an American submarine during WWII in the Pacific. Your mission is to destroy as much Japanese shipping and as many warships as possible while advancing your crew quality and decorations - all while remembering you have to make it home.&amp;#10;&amp;#10;Silent Victory is purposely designed to deliver a brisk yet intensive gaming experience that forces many decisions upon you as you take command of one of the major U.S. Fleet submarine types in service. Patrols will take you to differing parts of the Pacific as time progresses in the war. The most successful commanders will be those that can manage the risks they take while prosecuting as many targets as possible.&amp;#10;&amp;#10;The game engine is built upon the successful Hunters design and has proven to be a solid, playable experience. All the major U.S. Fleet boat types are accounted for with every level of detail including period of service, armaments, crew makeup, damage capacity, and more.&amp;#10;&amp;#10;Game contents will comprise:&amp;#10;&amp;#10;     One &amp;frac12;&amp;rdquo; full-color counter sheet&amp;#10;     One &amp;frac34;&amp;rdquo; wide full-color counter sheet&amp;#10;     Rules booklet with designer's notes&amp;#10;     Five player aid cards, 2-sided&amp;#10;     Submarine patrol logsheet, 2-sided&amp;#10;     Five submarine Display Mats, 2-sided&amp;#10;     Eight Captain Cards&amp;#10;     Two Submarine Patrol Maps&amp;#10;     Submarine Combat Mat&amp;#10;     Three 6-sided, two 10-sided dice, and one 20-sided die&amp;#10;     Boxed&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="121" value="No necessary in-game text" numvotes="0"/>
+        <result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="125" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2661" value="Press Your Luck"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="7969" value="Underwater War"/>
+    <link type="boardgamedesigner" id="55910" value="Gregory M. Smith"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="36639" value="Ian Wedge"/>
+    <link type="boardgamepublisher" id="6348" value="Consim Press"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="433"/>
+        <average value="8.04162"/>
+        <bayesaverage value="6.04684"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2049" bayesaverage="6.04684"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="130" bayesaverage="7.06227"/>
+        </ranks>
+        <stddev value="1.37392"/>
+        <median value="0"/>
+        <owned value="1287"/>
+        <trading value="34"/>
+        <wanting value="97"/>
+        <wishing value="401"/>
+        <numcomments value="166"/>
+        <numweights value="34"/>
+        <averageweight value="2.9706"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="218735">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bp2y_p_WzKu3MuHzv9CHR0onRIc=/fit-in/200x150/pic3453601.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Apvsld4kglvtXE17TAGnemZqY7U=/0x0/pic3453601.jpg</image>
+    <name type="primary" sortindex="1" value="Northampton 1460"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;Northampton 1460 is a 1-2 player game of the Battle of Northampton that took place on the 10th July 1460. It is a play-at-home version of the very popular participation game of the same name used by the Northampton Battlefield Society on its display stand at game shows and conventions.&amp;#10;&amp;#10;The games has similar mechanisms to W1815 but with added non-military options. The players take alternate turns using one of their character cards. These enable the players to take historically plausible decisions whilst still retaining the ability to influence events to go in a different direction to the historical outcome.&amp;#10;&amp;#10;The game enables the players to develop a clear narrative of the course of the battle , understanding the options available to the commanders, why the battle turned out as it did and how it might have had a different result. The victory point system also gives an explanation of how history would have changed if the battle had ended differently.&amp;#10;&amp;#10;The game usually plays in less than 30 minutes and it is expected that players will alternate roles and compare their relative performances. It has been published in a book format, with the playing board and pieces as card inserts that are removed and prepared for playing by the owner.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="15"/>
+    <maxplaytime value="30"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1094" value="Educational"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamedesigner" id="60751" value="Graham Evans"/>
+    <link type="boardgameartist" id="60751" value="Graham Evans"/>
+    <link type="boardgamepublisher" id="35198" value="Northampton Battlefields Society"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="7.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.5"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

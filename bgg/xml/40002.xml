@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="40002">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/XvehE3sj6lnbYGJHjHdVBmPp4Ug=/fit-in/200x150/pic485734.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tCoCvdgITViood_bMo36IdjHe2A=/0x0/pic485734.jpg</image>
+    <name type="primary" sortindex="5" value="The Kris And The Flame"/>
+    <description>Adaptation of The Sword and the Flame for the conflict between the British and the pirates of the South China Sea in the middle of the 19th century.&amp;#10;&amp;#10;&amp;quot;Being a set of playable, entertaining and enjoyable skirmish-level Wargame rules that will recreate the exciting Land and Sea Battles between the Trading Powers of the World and the Pirates of the South Seas.&amp;quot;&amp;#10;&amp;#10;The peoples of Borneo and other nearby islands did a lot of fishing, which gave them opportunity for occasional informal piracy for millennia, until the British showed up and took umbrage. This lead to many small battle between British troops and the Dyak, Malay, Illunan, and even Chinese. Ultimately British adventurer James Brooke's alliance with the Sultan of Brunei lead to his creation as the &amp;quot;White Raja of Sarawak&amp;quot; as he ruled part of Borneo while fighting the pirates.&amp;#10;&amp;#10;Includes movement and combat rules for European sailing ships, junks, and various war canoes, grappling, and bombs, as well as the various tribes and special &amp;quot;Bravado&amp;quot; morale rules for the Dyak and Malay, who fight better with Gongs, insults, and enemy casualties.&amp;#10;&amp;#10;Twenty-two  pages including reference.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="20307" value="The Sword and the Flame"/>
+    <link type="boardgameexpansion" id="4292" value="The Sword and the Flame" inbound="true"/>
+    <link type="boardgamedesigner" id="3809" value="Chris Feree"/>
+    <link type="boardgamepublisher" id="6949" value="Sergeants 3"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="2"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

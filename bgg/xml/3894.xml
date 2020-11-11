@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3894">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Ac5Zz_5P-MLLfhT9iDMpmDt-vD4=/fit-in/200x150/pic789139.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OwHMFwVUelm1YWSfEPJoo6Y4UuE=/0x0/pic789139.jpg</image>
+    <name type="primary" sortindex="1" value="Brilliant Lances"/>
+    <description>From the Box:&amp;#10;In space combat, you never see your opponent until it's all over, if even then.  With acquisition and tracking ranges measured in tens of thousands of kilometers, to human eyes the people that are trying to kill you are not even a speck.  But they can hurt you, even though you can't see them.  Precise laster arrays and big particle accelerators, honed by centuries of engineering, can reach out without warning to slit your hull like the belly of a fish, spilling life--oxygen, heat, and fuel--into the hard vacuum.  That's why space combat is a game of cat and mouse.  Keep yourself wrapped in the mantle of space--cold, dark, silent.  Keep your thrust burns to a minimum--they blaze like miniature suns for all to detect.  Rig your passive sensors to greedily absorb data, but remain quiet yourself--give nothing away.  Keep your weapons ready, in case&amp;hellip; There!  A faint trace of mid-wavelength infrared betrays a meneuver drive.  Bring up the ladar dishes while the big passive array builds up a targeting solution.  The moments seem endless while every crewmember shares the same thought: &amp;quot;Have they seen us?&amp;quot; It is the unseen enemy at this moment doing the same thing that you are?  You might never know the answer.  If you beat him, maybe you'll find out.  But what if you hadn't seen him first?  Some questions must remain unasnwered when death, unbidden, comes scorching toward you as silent, brilliant lances.&amp;#10;&amp;#10;From the box:&amp;#10;Brilliant Lances - Traveller Starship Combat&amp;#10;Brilliant Lances includes:&amp;#10;-Vector-based movement&amp;#10;-Detailed hit location and damage resolution&amp;#10;-Lasers, particle accelerators, meson guns, detonation laser missiles, and the systems that defend against them&amp;#10;-Extensive ship ratings, including New Era and pre-Collapse warships, from the swift Rampart fighter up to large naval and merchant vessels&amp;#10;-Complete starship design rules, usable both with this game and with Traveller: The New Era roleplaying game&amp;#10;&amp;#10;</description>
+    <yearpublished value="1993"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="7757" value="From RPG books to board games"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgamedesigner" id="1567" value="David Nilsen"/>
+    <link type="boardgameartist" id="15140" value="Rob Caswell"/>
+    <link type="boardgameartist" id="13850" value="Robert Lazzaretti"/>
+    <link type="boardgameartist" id="13785" value="Kirk Wescom"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="50"/>
+        <average value="5.58"/>
+        <bayesaverage value="5.50195"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14211" bayesaverage="5.50195"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2753" bayesaverage="5.5"/>
+        </ranks>
+        <stddev value="1.54713"/>
+        <median value="0"/>
+        <owned value="221"/>
+        <trading value="14"/>
+        <wanting value="2"/>
+        <wishing value="10"/>
+        <numcomments value="29"/>
+        <numweights value="11"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

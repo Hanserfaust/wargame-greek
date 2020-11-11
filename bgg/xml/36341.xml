@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="36341">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0HCDERKrTlxN7K_YapKwAvTBhqw=/fit-in/200x150/pic859742.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/QubVRkgBSCRljHrWDYO77A-lv18=/0x0/pic859742.jpg</image>
+    <name type="primary" sortindex="1" value="SPQR: The Battle of the Tagus River"/>
+    <description>The Battle of the Tagus River (220 BC) is GMT's Battle Scenario for SPQR, published in RBM's C3i Magazine Nr. 18.&amp;#10;&amp;#10;It depicts Hannibal's first battle in Spain 220 BC. After laying siege on the Vaccei's cities of Hermandica and Arbocala, Hannibal sacked the towns within a short time. On his way back to New Carthago he travelled full of booty offering the Spanish tribes the chance to strike back against Hannibal's Carthaginian force.&amp;#10;&amp;#10;After Hannibal realized that the Spanish tribes comprise a 100,000 men force following him, he slipped out of the situation by using a maneuver he copied used by his father Hamilcar during a battle in Tunis 241 BC. He raced his army south, simulating a rout, crossing the Tagus River and suddenly turning back towards the Spanish force, just wading through the river. The rest turned to be a smashing victory...&amp;#10;&amp;#10;Expansion module for the Great Battles of History (GBoH) series game SPQR.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="120" value="Great Battles of History"/>
+    <link type="boardgamefamily" id="21567" value="Magazine: C3i"/>
+    <link type="boardgameexpansion" id="1444" value="SPQR" inbound="true"/>
+    <link type="boardgameexpansion" id="21551" value="SPQR (Deluxe Edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgamedesigner" id="7975" value="Dan Fournie"/>
+    <link type="boardgamedesigner" id="152" value="Mark Herman"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="9367" value="RBM Studio"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="7.15882"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.03643"/>
+        <median value="0"/>
+        <owned value="117"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="11"/>
+        <numcomments value="12"/>
+        <numweights value="5"/>
+        <averageweight value="3.4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

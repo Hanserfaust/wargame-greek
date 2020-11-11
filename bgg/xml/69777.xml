@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="69777">
+    <name type="primary" sortindex="1" value="Probing For The Hotton Bridge"/>
+    <description>A two-player Advanced Squad Leader scenario designed by Eric Bongiovanni. Players can choose to represent elements of the German KG Bayer, 116th Panzer Division, or American elements of 23rd Engineers Regiment,&amp;#10;&amp;#10;This hex-and-counter wargame scenario recreates the actions of German and American troops in Hotton, Belgium, 21 December 1944 as the Germans attempt to take the Hotton Bridge and the Americans defend it as part of the Battle of the Bulge.&amp;#10;&amp;#10;Victory Conditions:&amp;#10;The Germans win at game end if they have more Victory Points than the Americans. Victory Points are accorded as follows: 1 Victory Point for each good order squad (only) equivalent / mobile Armored Fighting Vehicle on the north bank at&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="5287" value="Beyond Valor: ASL Module 1" inbound="true"/>
+    <link type="boardgameexpansion" id="38063" value="Sudden Full Contact: The Battle of the Bulge 1944" inbound="true"/>
+    <link type="boardgameexpansion" id="5289" value="Yanks: ASL Module 3" inbound="true"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <link type="boardgamepublisher" id="12042" value="ASL Open Source"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

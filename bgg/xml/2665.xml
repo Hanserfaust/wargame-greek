@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2665">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ce1wdL_2H0gZ-Bm0ghtJh9zNZD8=/fit-in/200x150/pic510762.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Stp8Ghupq_w9QbVF4F6y1-BvaNI=/0x0/pic510762.jpg</image>
+    <name type="primary" sortindex="1" value="Russian Civil War 1918-1922 (first edition)"/>
+    <description>Part of SPI's Power Politics series, the historical simulation of the military and political conflict of 1918-1921 which abolished the Czarist regime and created the foundation of the Soviet Union.  Each player controls one or more factions drawn from the revolutionary, counter-revolutionary, nationalist and interventionist forces which historically participated.  For this reason, players may even find it advantageous to attack their own forces.  Victory depends first on the side one wants (either revolutionary or counter-revolutionary) winning the war and second on being the  player most successful defeating the forces of the losing side.&amp;#10;&amp;#10;Special rules cover the Politburo Central Committee, Purges, the Czar and the Imperial Gold.  Optional rules permit any number of players, as well as solitaire.  A large number of named leader counters are included.  Also there are historical notes, design notes and a 2-page summary of the rules.&amp;#10;&amp;#10;Re-implemented by: &amp;#10;&amp;#10;    Russian Civil War 1918-1922 (second edition)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1976"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="44377" value="Interwar"/>
+    <link type="boardgamefamily" id="32025" value="Russian Civil War"/>
+    <link type="boardgamefamily" id="44795" value="SPI Power Politics"/>
+    <link type="boardgameimplementation" id="92759" value="Russian Civil War 1918-1922 (second edition)"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="172"/>
+        <average value="6.95509"/>
+        <bayesaverage value="5.66052"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4997" bayesaverage="5.66052"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="776" bayesaverage="6.18243"/>
+        </ranks>
+        <stddev value="1.32138"/>
+        <median value="0"/>
+        <owned value="404"/>
+        <trading value="20"/>
+        <wanting value="30"/>
+        <wishing value="63"/>
+        <numcomments value="83"/>
+        <numweights value="31"/>
+        <averageweight value="3.1613"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="39383">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4qfwnNU0Yp6M9P5z_gCw-p2WhLs=/fit-in/200x150/pic1046606.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gs13wPANCpdTU--numPG-IJAsLs=/0x0/pic1046606.jpg</image>
+    <name type="primary" sortindex="1" value="Frontline: D-Day"/>
+    <description>From publisher web site&amp;#10;&amp;#10;Assault the Beaches of D-Day and Beyond!&amp;#10;&amp;#10;Frontline is a tactical WWII ground combat card game for 1 to 4 players. The game covers small unit action during the D-Day beach assaults and the steady stream of conflicts as the Allied troops advanced toward Germany.&amp;#10;&amp;#10;Each player commands a squad of 5 to 12 British, American, or German soldiers and vehicles. Each card represents one soldier or vehicle. Each unit has inherent actions each turn including moving and attacking with different modes of fire. An action card deck enhances basic actions, and provides units with spur of the moment options.&amp;#10;&amp;#10;The game uses counters to illustrate vital game information such as wounds, range, ammo, command, and morale. The range system is easy to use and simulates the movement of forces on the battlefield.&amp;#10;&amp;#10;Frontline can also be played solitaire using the enemy Tactic cards. These cards give general, specific, and conditional orders to the enemy troops based on the current battlefield situation.&amp;#10;&amp;#10;You can create battles by purchasing your starting forces, playing pre-made scenarios, or using the balanced randomized engagement rules.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="428" value="Dan Verssen"/>
+    <link type="boardgameartist" id="11821" value="Wan Chiu"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="335"/>
+        <average value="6.66973"/>
+        <bayesaverage value="5.7335"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3972" bayesaverage="5.7335"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="740" bayesaverage="6.2112"/>
+        </ranks>
+        <stddev value="1.51248"/>
+        <median value="0"/>
+        <owned value="732"/>
+        <trading value="84"/>
+        <wanting value="43"/>
+        <wishing value="172"/>
+        <numcomments value="178"/>
+        <numweights value="60"/>
+        <averageweight value="2.4667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

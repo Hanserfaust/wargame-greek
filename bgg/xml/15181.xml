@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="15181">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fynfurTsyl7s7CKOGtrNX-bpYnA=/fit-in/200x150/pic63075.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hmAjz1-aJECCbnBl1YinZ_y2re0=/0x0/pic63075.jpg</image>
+    <name type="primary" sortindex="1" value="Civil War in Ancient Japan"/>
+    <name type="alternate" sortindex="1" value="Civil War 672"/>
+    <name type="alternate" sortindex="1" value="Jinshin No Ran"/>
+    <name type="alternate" sortindex="1" value="壬申の乱"/>
+    <description>This is a game on a Civil War in ancient Japan circa 672 BC.&amp;#10;&amp;#10;This game has 250 counters and is a battle between quantity versus quantity.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="480"/>
+    <minplaytime value="480"/>
+    <maxplaytime value="480"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10634" value="Country: Japan"/>
+    <link type="boardgamedesigner" id="4668" value="Shunichi Takanashi"/>
+    <link type="boardgamepublisher" id="3315" value="Ad Technos"/>
+    <link type="boardgamepublisher" id="3358" value="Game Journal"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.5"/>
+        <median value="0"/>
+        <owned value="26"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="0"/>
+        <numweights value="3"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

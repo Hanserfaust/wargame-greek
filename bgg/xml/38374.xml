@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="38374">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/yoDC2i1jkePBV_WTidrxuN1nBGk=/fit-in/200x150/pic1597485.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BXG0N0ZunFOi6wTcoELQ0QL7CGA=/0x0/pic1597485.jpg</image>
+    <name type="primary" sortindex="1" value="Fighter Pilot"/>
+    <description>Fighter Pilot is a World War II aerial combat game utilizing metal fighter plane miniatures. The rules feature historically-accurate aircraft capabilities and fighter pilot ratings.&amp;#10;&amp;#10;Consists of a 32-page softcover digest.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1976"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameimplementation" id="7034" value="Deluxe Fighter Pilot"/>
+    <link type="boardgamedesigner" id="2492" value="Gary Sipes"/>
+    <link type="boardgamepublisher" id="1157" value="Little Soldier Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

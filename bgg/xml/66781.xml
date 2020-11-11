@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="66781">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/saiQEsUPQd4pviLmGKnfo_P9anQ=/fit-in/200x150/pic995811.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NRPffzLfuWeQIyaC6T1D9oX5x-g=/0x0/pic995811.jpg</image>
+    <name type="primary" sortindex="1" value="Space Infantry"/>
+    <description>Official website&amp;#10;&amp;#10;http://zak965.it/spaceinfantry/index.html&amp;#10;&amp;#10;Summary&amp;#10;&amp;#10;Space Infantry (SI) is a solitaire game of squad-level combat in the future. In Space Infantry you control a team of 4/8 soldiers on a series of missions that can be played individually or as a campaign. &amp;#10;Each mission takes about 20 minutes to be completed.&amp;#10;&amp;#10;SI is a modular game; the overall structure of SI will make it possible to easily add new features to the game (missions, enemies, equipment): this means that in the future additional components will add new options to the existing missions, increasing the lifetime of SI.&amp;#10;&amp;#10;SI started as a free game, and has now been published by Lock'n Load games&amp;#10;&amp;#10;Game Includes:&amp;#10;&amp;#10;&amp;#10;     Rulebook&amp;#10;     4 Mission Maps (double-sided)&amp;#10;     12 Hive Sector Tiles&amp;#10;     18 Unit Cards&amp;#10;     4 Enemy Sheets/Time Tracks (double-sided)&amp;#10;     2 Squad Rosters&amp;#10;     2 Campaign Logs&amp;#10;     158 Die-cut Counters&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="9"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="20"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="133581" value="Line of Fire #13"/>
+    <link type="boardgameexpansion" id="122702" value="Space Infantry: New Worlds"/>
+    <link type="boardgamedesigner" id="3893" value="Gottardo Zancani"/>
+    <link type="boardgameartist" id="85732" value="Blackwell Hird"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="6025" value="Lock 'n Load Publishing, LLC."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="310"/>
+        <average value="6.95226"/>
+        <bayesaverage value="5.76414"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3679" bayesaverage="5.76414"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="602" bayesaverage="6.31338"/>
+        </ranks>
+        <stddev value="1.39519"/>
+        <median value="0"/>
+        <owned value="727"/>
+        <trading value="35"/>
+        <wanting value="106"/>
+        <wishing value="470"/>
+        <numcomments value="161"/>
+        <numweights value="42"/>
+        <averageweight value="2.1667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

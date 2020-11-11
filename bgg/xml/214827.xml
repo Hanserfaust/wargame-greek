@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="214827">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/x7bJy5Ut4rXep2L1j069yBd-9fE=/fit-in/200x150/pic4410808.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BmyfpDOQ99lQheh8zskIdbx6q2A=/0x0/pic4410808.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer: Game Expansion Set, Nr 4 – France 1940"/>
+    <description>IMPORTANT NOTE: In order to play this expansion, you will need a copy of the Panzer base game; ownership of Panzer Expansions 1, 2 or 3 is NOT required.&amp;#10;&amp;#10;This expansion set includes the most significant French forces that saw action on the Western front in 1940. Also included are the German forces that invaded France and the Low Countries, flanked the Maginot Line, and finally pushed on into France. The playbook includes rules for special units, new optional rules for Staggered Initiative, Command Span, and others, 12 riveting scenarios (including 2 historical scenarios depicting the fierce battle for Stonne, and two solitaire scenarios), and unit summaries for the French and German units.&amp;#10;&amp;#10;One new feature is the solitaire rules. In addition to all the other features included in this expansion, there are two new exciting extras. The Panzer Leader rules and the respective 7/8&amp;rdquo; Leader counters of various enlisted and commissioned ranks for all forces &amp;ndash; French, German, US, British, and Soviet; and the unique hull and turret damage rules and the respective 5/8&amp;rdquo; counters.&amp;#10;&amp;#10;Ownership of Expansions 1, 2 or 3 is not required to field the German forces, they are all here including the STuG IIIA and Hs 123A-1 aircraft, which were not previously available. This expands on those German units included in the first three expansions &amp;ndash; no unit IDs are duplicated. Combine the German units from all of the expansions to create customized scenarios on either the Western or Eastern Front.&amp;#10;&amp;#10;The TO&amp;amp;Es booklet includes details for the French and German forces covering the 1940 period, including the five major divisions from the cavalry and infantry arms of the French Army, including the Mechanized Light Division (DLM &amp;ndash; Division L&amp;eacute;g&amp;egrave;re M&amp;eacute;chanique) and the Armored Division (DCR &amp;ndash; Division Cuirass&amp;eacute;e de R&amp;eacute;serve). German forces include panzer, motorized infantry and infantry divisions, as well as the Grossdeutschland (mot) Infantry Regiment.&amp;#10;&amp;#10;Finally, this expansion includes the next 4 double-sided geomorphic mapboards, modeling the terrain found in the French countryside including 2 historical maps depicting the terrain in and around Stonne. Add these to the geomorphic mapboards from expansions 1, 2 &amp;amp; 3 for added play and many possible battle combinations.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="0"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="106" value="No necessary in-game text" numvotes="0"/>
+        <result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="110" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2689" value="Action / Movement Programming"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="2630" value="Panzer game system"/>
+    <link type="boardgameexpansion" id="85769" value="Panzer (second edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="1922" value="James M. Day"/>
+    <link type="boardgamedesigner" id="115968" value="Fernando Sola Ramos"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="25"/>
+        <average value="8.68"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.15966"/>
+        <median value="0"/>
+        <owned value="258"/>
+        <trading value="5"/>
+        <wanting value="10"/>
+        <wishing value="31"/>
+        <numcomments value="18"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

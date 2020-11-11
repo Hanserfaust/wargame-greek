@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="145974">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/1d87_IqgUafuF2aX8orgRmrKddg=/fit-in/200x150/pic3163917.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nFjruBZ8ZFyijUE8tqO0QFSF40c=/0x0/pic3163917.jpg</image>
+    <name type="primary" sortindex="1" value="Bloody April, 1917: Air War Over Arras, France – Eagle of Lille"/>
+    <description>The Eagle of Lille expansion to Bloody April (Air War over Arras France 1917) expands the air war to follow the career of Immelmann and some of the other early aces such as Oswald Boelcke and Lanoe Hawker. Seven new scenarios cover the period from August 1915 to early 1917 while including tables which randomize taskings and add replayability to the scenarios. 16 new Aircraft Data Cards are in this expansion.  They include German single seat scout aeroplanes; Fokker Eindecker E.1, Eindecker E.II/E.III and Fokker D.III. German two-seater aeroplanes; Albatros C.I, Albatros C.III, Aviatik C.1 and LVG C.II as well as flying battle plane the AEG G.II with a crew of four. The British get a bevy of new aeroplanes; Bristol Scout C, B.E.12, RE.7 and Vickers FB5 Gun Bus as well as French made Nieuport 16, Morane-Saulnier N, L and BB.&amp;#10;&amp;#10;A new 8&amp;rdquo; x 11&amp;rdquo; map extension adds the off-map aerodrome of Treizennes and Merville as a now playable area to fly. A 25 1/2&amp;quot;x 11&amp;quot; map extension shows the German and Allies aerodrome east of Amiens. New Advanced rules for Bloody April such as Aeroplane Quick Turn and new rules for Eagle of Lille have been added.  Two new counter sheets of aeroplanes and informational markers are included to round out this folio expansion.  Take to the skies over France like never before and relive the battles that started air warfare as we know it today.&amp;#10;&amp;#10;Ownership of Bloody April is required to play this expansion.&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;    Rulebook &amp;amp; Playbook (28 pages)&amp;#10;    2 countersheets&amp;#10;    1 8 1/2 x 11&amp;quot; map (map 'N')&amp;#10;    1 25 1/2 x 11&amp;quot; map (map 'S')&amp;#10;    8 German Aircraft data card&amp;#10;    8 British Aircraft data card&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;(source: GMT webside &amp;amp; user's description)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameexpansion" id="69136" value="Bloody April, 1917: Air War Over Arras, France" inbound="true"/>
+    <link type="boardgamedesigner" id="7741" value="Terry Simo"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="36639" value="Ian Wedge"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="26"/>
+        <average value="7.79038"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.1614"/>
+        <median value="0"/>
+        <owned value="246"/>
+        <trading value="6"/>
+        <wanting value="5"/>
+        <wishing value="11"/>
+        <numcomments value="19"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16466">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OlRgampXIufHwmLXTpScEVikdOg=/fit-in/200x150/pic104956.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kz1v-JHVctqQshevS_ntXmN47R8=/0x0/pic104956.jpg</image>
+    <name type="primary" sortindex="1" value="Across the Pacific"/>
+    <description>(from the Pacific Rim website:)&amp;#10;&amp;#10;Across the Pacific portrays the entire Pacific War in five-month turns with units that range from armies to regiments, air fleets to destroyer flotillas. The game system is interactive so that each player is involved at every moment of play. The heart of the game's mechanics is a series of strategic and tactical phases &amp;mdash; 5 per player per turn &amp;mdash; that are sequenced by a chit draw so that each player will know his and his opponents possible actions, but not the order in which they will be undertaken. This brings about continual strategic and operational opportunity as players plan their actions in response to the lifting for of war.&amp;#10;&amp;#10;Across the Pacific provides a manageable and fast-paced wargame that has a high level of detail and operational flavor while retaining the strategic scope of the ebb and flow of the Pacific War&amp;#10;&amp;#10;Across the Pacific contains:&amp;#10;&amp;#10;    36 by 48 inch map of the Pacific Basin from Pearl Harbor to Imphal, Dutch Harbor to Brisbane&amp;#10;    960 die-cut backprinted 5/8 inch counters&amp;#10;    24-page rules booklet&amp;#10;    24-page Designer's Notes, Historical Commentary, and Examples of Play booklet&amp;#10;    two 11 by 17 inch color backprinted Order of Battle charts &amp;mdash; one Japanese, one Allied&amp;#10;    two 8-1/2 by 11 inch Unit and Carrier Air Groups Display charts &amp;mdash; one Japanese, one Allied&amp;#10;    two 8-1/2 by 11 inch Task Force Dispay charts&amp;#10;    two 8-1/2 by 11 inch Charts and Tables card&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="121" value="No necessary in-game text" numvotes="0"/>
+        <result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="125" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="4945" value="Michael Myers"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="1102" value="Pacific Rim Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="7.90789"/>
+        <bayesaverage value="5.55756"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8573" bayesaverage="5.55756"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1457" bayesaverage="5.88028"/>
+        </ranks>
+        <stddev value="1.94617"/>
+        <median value="0"/>
+        <owned value="142"/>
+        <trading value="5"/>
+        <wanting value="28"/>
+        <wishing value="86"/>
+        <numcomments value="39"/>
+        <numweights value="9"/>
+        <averageweight value="3.1111"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="202845">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4skhRaxLg5m-PFbKJNNRNcaraUA=/fit-in/200x150/pic3073299.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1rNWzYssv6EQZkCw4bgsG8zb3Io=/0x0/pic3073299.jpg</image>
+    <name type="primary" sortindex="1" value="Heroes' Crossroads: The Battle of Lausdell, December 17-18, 1944"/>
+    <description>From the publisher:&amp;#10;&amp;ldquo;Our victory stands behind the last battle!&amp;rdquo; &amp;ndash;Excerpt from General Gerd von Rundstedt&amp;rsquo;s message to the German troops on the eve of the Wacht am Rhine offensive.&amp;#10;&amp;#10;When the German offensive in the Ardennes opened, speed was of the essence for them to win. The capture of the crossroads at Lausdell in the first days of the attack was crucial, as this would allow the 1st SS Panzer division to breakthrough. Holding the critical road juncture were the 1st Battalion, 9th Regiment of the 2nd Infantry Division, with support from Company A, 741st Tank Battalion and elements of the 99th Infantry Division, who had fallen back in the face of the overwhelming opening attacks the day before at Lanzerath. Behind this small force there was literally nothing to stop the Germans. Tasked with seizing the Lausdell crossroad was the 12th SS, Hitler Youth Division. One of the war&amp;rsquo;s truly epic fights was about to begin.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="4"/>
+    <minplaytime value="2"/>
+    <maxplaytime value="4"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="85503" value="Ilya Kudriashov"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4.5"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

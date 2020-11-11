@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="255516">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PvgmigzwjC0R_rVqnFVRYHq9tko=/fit-in/200x150/pic4188105.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9zrt9z2uqtGjp99pf_F-bFRuSG0=/0x0/pic4188105.jpg</image>
+    <name type="primary" sortindex="1" value="Brave Little Belgium"/>
+    <description>After Archduke Franz Ferdinand was shot dead by a Serbian nationalist in Sarajevo, a series of events propelled the great nations of Europe to prepare for war.  By August 3rd, Germany had declared war on both Russia and France and was preparing to invade France through neutral Belgium.&amp;#10;&amp;#10;In Brave Little Belgium, you assume the role of either the Germans or the Allies (Belgians, French, and British) at the start of World War I.  As the Germans, can you quickly smash through Belgium without committing too many atrocities? As the Allies, can you slow down the German advance and halt their plans to capture France?&amp;#10;&amp;#10;This quick-playing wargame uses a point to point map and a chit pull mechanism to simulate the beginning of World War I on the western front.  The game takes place over the period of time between August 4 and August 27, 1914.  Each turn represents three days. In each turn, you pull chits representing the different generals and armies in the battle.  A pulled chit allows you to move that army and battle opposing armies.  Random event chits are also included and when you pull and activate them, you can use them to help you or hurt the other player.&amp;#10;&amp;#10;If you are the German player, you must try to get through Belgium as quickly as possible while also destroying the two major forts at Liege and Namur.  If you can do so quicker than it historically occurred, you win the game.  Anything less than this is a draw or a win for the Allies.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="110426" value="Ryan Heilman"/>
+    <link type="boardgamedesigner" id="110380" value="Dave Shaw (II)"/>
+    <link type="boardgameartist" id="50619" value="Tom Russell"/>
+    <link type="boardgameartist" id="81197" value="Ania B. Ziolkowska"/>
+    <link type="boardgamepublisher" id="33711" value="Hollandspiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="45"/>
+        <average value="8.06711"/>
+        <bayesaverage value="5.57287"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7631" bayesaverage="5.57287"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1182" bayesaverage="5.9701"/>
+        </ranks>
+        <stddev value="1.31028"/>
+        <median value="0"/>
+        <owned value="103"/>
+        <trading value="2"/>
+        <wanting value="31"/>
+        <wishing value="166"/>
+        <numcomments value="35"/>
+        <numweights value="6"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

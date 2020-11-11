@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="22180">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/2Onaw6YG3IHQT_cKiM86TWHytmQ=/fit-in/200x150/pic2683658.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BsWNUxuN717hSwkfOtgercm98Oo=/0x0/pic2683658.jpg</image>
+    <name type="primary" sortindex="1" value="ATS Wake: Pacific Alamo"/>
+    <description>Early on the morning of 11 December 1941 the garrison of Wake Island, with the support of the four remaining Wildcats, repelled the first Japanese landing attempt by the South Seas Force, which included the light cruisers Yubari, Tenryu, and Tatsuta; the destroyers Yayoi, Mutsuki, Kisaragi, Hayate, Oite, and Asanagi; two Momi-class destroyers converted to patrol boats (Patrol Boat No. 32 and Patrol Boat No. 33), and two troop transport ships containing 450 Special Naval Landing Force troops. This encounter began the battle that is both famous beyond fame and depicted in ATS WAKE: GALLANT STAND.&amp;#10;&amp;#10;You get a stirring map of the embattled atoll, plus all the combat counters you need to play, are included in this substantial module. Marines in early war uniforms, Japanese naval troops, new aircraft, rafts, and patrol boats. Also included are color, 3-hole punched rules and notes, and all scenarios in color format.&amp;#10;&amp;#10;But this module means so much more! It has never been gamed at this scale and is not planned to be. Strike that! It IS HERE and you can nail it NOW. The counter collection provides ALL of the combat counters you need to play and is a diverse and colorful collection with new art including those Japanese naval troops, also construction worker volunteers, naval personnal ... just bring your ATS Rulebook 2014 and markers and get your hands on a good book about the battle. Then lay out the looong island map (it will fit on a standard six foot gaming table ... and when you hover above that map, covered in counters .... we think you will enjoy the spectacle!)&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="112" value="Advanced Tobruk System"/>
+    <link type="boardgameexpansion" id="3992" value="Advanced Tobruk" inbound="true"/>
+    <link type="boardgamedesigner" id="4975" value="Dan Dolan"/>
+    <link type="boardgamedesigner" id="1592" value="Ray Tapio"/>
+    <link type="boardgamedesigner" id="7363" value="Larry Winslow"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="13"/>
+        <trading value="0"/>
+        <wanting value="5"/>
+        <wishing value="4"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

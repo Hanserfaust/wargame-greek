@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="244026">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/5UhlNaJzp6O-Q2w_LBcdDBJFjSc=/fit-in/200x150/pic3958091.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NP0szDjwJJbdVMPpzBtzPGDOdJM=/0x0/pic3958091.jpg</image>
+    <name type="primary" sortindex="4" value="La Guerra di Gradisca 1615-1617"/>
+    <description>In the early 17th century the Republic of Venice had predominance in the Adriatic Sea, which for centuries had been subject to its jurisdiction and called the Gulf of Venice, but the Archduke of Austria, a Habsburg who ruled with great autonomy Styria, Carinthia, Carniola, part of the Friuli and many other imperial possessions, did not miss a chance to challenge it. When the raids of the Uskoks, corsars of Catholic faith in service of the Habsburgs, from the Kvarner Gulf to the Venetian routes became more insistent, Venice reacted by triggering a long and bloody war on its eastern borders and in Istria with the idea of putting an end to the raids, defeat the Austrian challenge and to regain the fortress once founded and then lost, Gradisca. Saint Mark's lion roared still ...&amp;#10;&amp;#10;The War of Gradisca 1615-1617 is a simulation game of that ancient conflict, which saw the confrontation of two powers of the era in a political and military context that anticipated the long period of the Thirty Years War.&amp;#10;The game mechanic allows activating units in an unpredictable sequence, enabling uncertainty about campaign outcomes and replayability. Cards introduce political and historical events and allow the development of custom strategies.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="240"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2725" value="Pike and Shot"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="17740" value="Cities: Venice"/>
+    <link type="boardgamefamily" id="11515" value="Country: Italy"/>
+    <link type="boardgamedesigner" id="6914" value="Nicola Contardi"/>
+    <link type="boardgameartist" id="6914" value="Nicola Contardi"/>
+    <link type="boardgamepublisher" id="5442" value="Europa Simulazioni"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="22"/>
+        <average value="7.48636"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.1371"/>
+        <median value="0"/>
+        <owned value="97"/>
+        <trading value="3"/>
+        <wanting value="6"/>
+        <wishing value="26"/>
+        <numcomments value="15"/>
+        <numweights value="6"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

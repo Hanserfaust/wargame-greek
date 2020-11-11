@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18059">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kzUJqaoajteLlBVC8mnlBnyUHlA=/fit-in/200x150/pic80816.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_e9tTKPTfAQ_VXb-pq0edVc9X6E=/0x0/pic80816.jpg</image>
+    <name type="primary" sortindex="1" value="LEGO Wars"/>
+    <name type="alternate" sortindex="1" value="BrickWars"/>
+    <name type="alternate" sortindex="1" value="Butthead Toy Company Wars"/>
+    <name type="alternate" sortindex="1" value="Legowars II"/>
+    <description>Lego Wars was the first of the &amp;quot;brick powered&amp;quot; wargames. It is the ancestor of Brikwars and inspiration for many of the other Lego wargames out there.&amp;#10;&amp;#10;An excellent game if you have a lot of Legos lying around. Easy to customize your own army.&amp;#10;&amp;#10;Lego Pirate Wars&amp;mdash;written by Stephen W. Gabriel&amp;mdash;had it's rules published as magazine articles in 1995/1996.&amp;#10;&amp;#10;     &amp;quot;Legoland Pirate Wars&amp;quot; &amp;ndash; Shadis (Issue 19 - May 1995), pages 43&amp;ndash;52&amp;#10;     &amp;quot;Lego Pirate Wars: Optional Rules&amp;quot; &amp;ndash; Shadis (Issue 24 - Feb 1996), pages 20&amp;ndash;23&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1991"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="15"/>
+    <minplaytime value="15"/>
+    <maxplaytime value="15"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="19254" value="Brick Wars"/>
+    <link type="boardgamefamily" id="5882" value="LEGO"/>
+    <link type="boardgameimplementation" id="7623" value="BrikWars"/>
+    <link type="boardgamedesigner" id="5384" value="E. O'Dell"/>
+    <link type="boardgamedesigner" id="5385" value="T. Ogrin"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="9"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18531">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_jWAEi0o6sDD4baH15FIJSTale4=/fit-in/200x150/pic82551.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/koC81EaiY7cce9uEEIbHgNMD-1c=/0x0/pic82551.jpg</image>
+    <name type="primary" sortindex="5" value="The Complete Book of Wargames"/>
+    <description>This book contains complete information and reviews of over 150 of the most popular wargames on the market in 1980. Included are data on publishers, prices, playing time, packaging, game scale, size, balance, key features, playability, rules, realism and degree of complexity for over 150 wargames.&amp;#10;&amp;#10;The book features an introductory wargame: Kassala.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="5582" value="Jon Freeman"/>
+    <link type="boardgamepublisher" id="3207" value="Simon &amp; Schuster, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="51"/>
+        <average value="6.7451"/>
+        <bayesaverage value="5.54513"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9518" bayesaverage="5.54513"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1799" bayesaverage="5.78552"/>
+        </ranks>
+        <stddev value="1.67558"/>
+        <median value="0"/>
+        <owned value="146"/>
+        <trading value="8"/>
+        <wanting value="3"/>
+        <wishing value="15"/>
+        <numcomments value="43"/>
+        <numweights value="5"/>
+        <averageweight value="2.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

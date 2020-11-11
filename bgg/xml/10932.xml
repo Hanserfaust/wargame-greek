@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10932">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mFtdu1bx5mohTEK1B49w85yQ5xY=/fit-in/200x150/pic45996.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hsOOTCAH2Jh2gIngwzAEgJgxBp0=/0x0/pic45996.jpg</image>
+    <name type="primary" sortindex="1" value="Vimy Ridge"/>
+    <description>From the MDG website:&amp;#10;&amp;#10;At 5:30 AM, April 9, 1917, the artillery of British First Army unleashed the greatest barrage to that date. Half an hour later, 48,000 Canadian soldiers left their trenches to assault the impregnable Vimy Ridge. The French and the British had previously tried to capture the ridge but to no avail. On this battlefield the Canadians were to prove themselves. At 2:00 PM the Canadian troops held the ridge.&amp;#10;&amp;#10;Vimy Ridge is a simulation of the Canadian attack. The game covers the battle from the initial barrage to the final objectives reached by 1st Division.&amp;#10;&amp;#10;Vimy Ridge is the re-release of the game Vimy Ridge: 1917 formerly published by Pacific Rim. There are minimal changes in the rules but the graphics have been substantially changed.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="0+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamedesigner" id="1124" value="Kerry Anderson"/>
+    <link type="boardgamepublisher" id="931" value="Microgame Design Group"/>
+    <link type="boardgamepublisher" id="1102" value="Pacific Rim Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="6.71875"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.13149"/>
+        <median value="0"/>
+        <owned value="110"/>
+        <trading value="5"/>
+        <wanting value="3"/>
+        <wishing value="15"/>
+        <numcomments value="12"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

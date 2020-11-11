@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="202707">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/uU7E26Ejh6Aa-QNZRAwmLwLyNac=/fit-in/200x150/pic3075371.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/GQcvbssdaXQ9J2QL5_opXc70Qrg=/0x0/pic3075371.jpg</image>
+    <name type="primary" sortindex="5" value="The Great War: Whippet Tanks"/>
+    <description>The Great War Whippet tank pack adds 3 Whippet tanks that can be used together with the base set and the Tank expansion.&amp;#10;&amp;#10;- contains 3 x assembled and basic painted 1/100th scale (15mm) Whippet tank models.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="90"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamefamily" id="50" value="Commands &amp; Colors"/>
+    <link type="boardgameexpansion" id="173105" value="The Great War" inbound="true"/>
+    <link type="boardgamedesigner" id="25" value="Richard Borg"/>
+    <link type="boardgamepublisher" id="29198" value="PSC Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="44"/>
+        <average value="7.38864"/>
+        <bayesaverage value="5.55253"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.55253"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.83913"/>
+        </ranks>
+        <stddev value="1.60811"/>
+        <median value="0"/>
+        <owned value="343"/>
+        <trading value="6"/>
+        <wanting value="9"/>
+        <wishing value="14"/>
+        <numcomments value="15"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="26154">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/5EbgUY8OrJY8WKYHJxeSfttmHKk=/fit-in/200x150/pic160932.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hbIZmrxQah40_d0H5B-BwXzl1eM=/0x0/pic160932.jpg</image>
+    <name type="primary" sortindex="1" value="Nanawa: Verdun in the Chaco War, July 1933"/>
+    <description>(from the Firefight Games website)&amp;#10;&amp;#10;Nawana was a turning point battle. It was here, a Bolivian Army led by German General Kundt, armed with new weapons (tanks, flame-throwers, fighter-bombers) assaulted the Paraguayan defenses not from Paraguay's capitol. Kundt had been led to believe the defenses were weak, that the tanks would break through and that once Nanawa fell, the road would be open to Paraguay&amp;rsquo;s capital. This was in fact true, however, that was the only thing which was true. The Paraguayan forces had been issued special antitank ammo and built well defended trenches with mines. Their lines were not weak and numerically almost as strong as the Bolivian! The Paraguayans had proved themselves many times during this war as a very dangerous foe even when outnumbered. After three days of fighting and a combined body count of over 4000 men with little real gain, the Bolivians halted.&amp;#10;&amp;#10;Components:&amp;#10;1 11x17 inch map&amp;#10;280 counters, &amp;#10;Player aids&amp;#10;&amp;#10;Scale:&amp;#10;Company-level&amp;#10;1 hex=250 yards&amp;#10;1 turn=8 hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="27484" value="Cities: Verdun"/>
+    <link type="boardgamefamily" id="13252" value="Country: Bolivia"/>
+    <link type="boardgamefamily" id="10650" value="Country: Paraguay"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgamepublisher" id="4366" value="Firefight Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="4.28333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.08243"/>
+        <median value="0"/>
+        <owned value="13"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="9"/>
+        <numcomments value="6"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

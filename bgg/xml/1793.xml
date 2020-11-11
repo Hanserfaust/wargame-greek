@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1793">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KEZKOz6oG4DYxQykt4PmpP2L9RA=/fit-in/200x150/pic715166.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_cbZSPNhPRZpjuYpqXr1ssiewAA=/0x0/pic715166.jpg</image>
+    <name type="primary" sortindex="1" value="VI Against Rome"/>
+    <name type="alternate" sortindex="1" value="Six Against Rome"/>
+    <description>Using a point-to-point map similar to the game We the People, this game is a series of scenarios pitting various enemy nations against Rome at the strategic level:&amp;#10;&amp;#10;Brennus the Gaul, 390 B.C.&amp;#10;The Samnite Wars, 326-295 B.C.&amp;#10;Alexander the Great, 318 B.C. (hypothetical)&amp;#10;Pyrrhus, 280-275 B.C.&amp;#10;Hannibal, 218-203 B.C.&amp;#10;Belisarius, 535-553 A.D.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1994"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamedesigner" id="767" value="John Sutcliffe"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="37"/>
+        <average value="6.17027"/>
+        <bayesaverage value="5.5183"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12386" bayesaverage="5.5183"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2373" bayesaverage="5.62518"/>
+        </ranks>
+        <stddev value="1.26381"/>
+        <median value="0"/>
+        <owned value="147"/>
+        <trading value="16"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="15"/>
+        <numweights value="6"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="41627">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/opsxBySA1yIaR5lOHH2qMtY4TgI=/fit-in/200x150/pic1476731.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7b8om9QsLrFyrPdLb2w1KnbW2us=/0x0/pic1476731.jpg</image>
+    <name type="primary" sortindex="1" value="Zulus on the Ramparts!"/>
+    <name type="alternate" sortindex="1" value="Zulus on the Ramparts! (Second Edition)"/>
+    <name type="alternate" sortindex="1" value="Zulus on the Ramparts!: The Battle of Rorke's Drift, 22-23 January 1879"/>
+    <description>ZULUS ON THE RAMPARTS! is the battle cry of those defending the Mission Station at Rorke&amp;rsquo;s Drift. It is 22 January 1879, and the British invasion column moving into Zululand was disastrously defeated that morning at nearby Isandlwana. Now, fresh troops from the victorious Zulu iMpi (army) are advancing on your position. With your 140 British soldiers and auxiliaries, you must survive the repeated attacks of 4000+ crack Zulu warriors.&amp;#10;&amp;#10;This States of Siege&amp;trade; game puts you squarely in command of a desperate defense. As events unfold and heroes emerge, can you build up the barricades and fill the breaches before the camp is overrun? As the Zulus relentlessly charge wielding their deadly spears and as British rifles overheat, can you keep cool and make the command decisions necessary to hold your position and repel the onrush of fierce braves until the Relief Column arrives?&amp;#10;&amp;#10;The Battle of Rorke&amp;rsquo;s Drift saw more Victoria Crosses awarded than any other before or since. Can you write an equally glorious page in history as you confront these ZULUS ON THE RAMPARTS! ?&amp;#10;&amp;#10;Game Data:&amp;#10;&amp;#10;Complexity: 3 on a 9 scale&amp;#10;Solitaire Suitability: 9 on a 9 scale&amp;#10;Scale: Each unit is one Zulu iButho (Regiment); each turn is about 15-45 minutes of real time.&amp;#10;&amp;#10;Polybag Game Components:&amp;#10;&amp;#10;&amp;bull;    One 40-page, color Game Rules booklet&amp;#10;&amp;bull;    82 thick, multi-shaped, laser-cut game pieces (some assembly required)&amp;#10;&amp;bull;    50 Action cards&amp;#10;&amp;bull;    One 11&amp;rdquo; x 17&amp;rdquo; color game map&amp;#10;&amp;bull;    Four six-sided 5mm dice&amp;#10;&amp;#10;What's In The Box?:&amp;#10;&amp;#10;&amp;bull;    One 40-page, color Game Rules booklet&amp;#10;&amp;bull;    82 thick, multi-shaped, laser-cut game pieces (some assembly required)&amp;#10;&amp;bull;    50 Action cards&amp;#10;&amp;bull;    One 11&amp;rdquo; x 17&amp;rdquo; color game map&amp;#10;&amp;bull;    Four six-sided 12mm dice&amp;#10;&amp;bull;    One 11&amp;quot; x 17&amp;quot; mounted, jigsaw-cut game map&amp;#10;&amp;bull;    One bright red, 9 1/4&amp;quot; x 5 7/8&amp;quot; Standard cardboard VPG game box&amp;#10;&amp;bull;    One beautiful box cover sleeve&amp;#10;&amp;bull;    One &amp;quot;Wipes-A-Lot&amp;quot; napkin&amp;#10;&amp;bull;    One charcoal dessicant packet&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+      <results numplayers="1">
+        <result value="Best" numvotes="16"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="10"/>
+      </results>
+    </poll>
+    <playingtime value="25"/>
+    <minplaytime value="25"/>
+    <maxplaytime value="25"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="5"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="1"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+      <results>
+        <result level="251" value="No necessary in-game text" numvotes="0"/>
+        <result level="252" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="253" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="254" value="Extensive use of text - massive conversion needed to be playable" numvotes="7"/>
+        <result level="255" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="27383" value="Continent: Africa"/>
+    <link type="boardgamefamily" id="11521" value="Country: South Africa"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="3245" value="Victory Point Games States of Siege Series"/>
+    <link type="boardgameexpansion" id="48697" value="Zulus on the Ramparts!: Expansion Kit"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="709" value="Alan Emrich"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="802"/>
+        <average value="7.37038"/>
+        <bayesaverage value="6.19136"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1594" bayesaverage="6.19136"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="176" bayesaverage="6.92209"/>
+        </ranks>
+        <stddev value="1.16305"/>
+        <median value="0"/>
+        <owned value="1780"/>
+        <trading value="61"/>
+        <wanting value="141"/>
+        <wishing value="478"/>
+        <numcomments value="360"/>
+        <numweights value="79"/>
+        <averageweight value="2.1266"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

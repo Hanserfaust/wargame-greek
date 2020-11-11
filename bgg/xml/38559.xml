@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="38559">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/f0t-bJf6Oo-5nKzRkU9Y72bJNpI=/fit-in/200x150/pic391994.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/N5ZQeJ-KElzMF7TejrrpCxyjxM4=/0x0/pic391994.jpg</image>
+    <name type="primary" sortindex="1" value="Operation Compass &amp; Wavell's 30,000 (Special Edition Critical Hit Magazine)"/>
+    <description>Critical Hit's long awaited SPECIAL EDITION of CH Magazine, the Operation Compass &amp;amp; Wavell's 30,000 issue. How did the 'Desert Rats' of O'Connor's Western Desert Force, consisting of 7th Armoured Division (minus a brigade), a support group of two regiments of Royal Horse Artillery, and two motor battalions, do it? The story is laid before you, from the Italian invasion of Egypt to the dramatic ambush at Beda Fomm in the pages of Critical Hit Magazine's Operation Compass &amp;amp; Wavell's 30,000 SPECIAL EDITION. In one of the most memorable campaigns of World War II the British defeated the Italians in Egypt, Libya and Cyrenaica in the last weeks of 1940 and early 1941. The magazine includes a full historical map and 22 scenarios.&amp;#10;&amp;#10;Note: the map edition of the magazine is sold out and out of print. The magazine is available with 19 scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9856" value="Magazine: Critical Hit"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="11178" value="Pat Hair"/>
+    <link type="boardgamedesigner" id="11179" value="Fred Hair"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="6.7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.93907"/>
+        <median value="0"/>
+        <owned value="63"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="8"/>
+        <numweights value="1"/>
+        <averageweight value="5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

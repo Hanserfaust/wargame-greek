@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16706">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_xSNK8Xu-l8omCr2KdJ2NRbyfhM=/fit-in/200x150/pic202612.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2Ub6gXMkpq0IjNca8HEqwkM3F20=/0x0/pic202612.jpg</image>
+    <name type="primary" sortindex="1" value="Firewall 2136AD"/>
+    <description>From the publisher:&amp;#10;&amp;#10;2136AD... The future is a dark, grim and violent place. Amongst the conurbs of the English Republic, criminals, corporations and para-military law enforcement teams battle each other in a never ending struggle to make a quick E-Cred. Technology and science are used to provide the edge - whether through a new weapon, an implanted cybernetic enhancement or a non-recreational drug. Life is cheap on the streets of 22nd century England. Just make sure it&amp;#239;&amp;#191;&amp;#189;s someone else's life...&amp;#10;&amp;#10;firewall 2136AD is a set of science fiction skirmish wargames rules, designed to allow gamers to fight out battles in a cyberpunk inspired future, using any of the wide ranges of excellent 25/28mm scale models available from a wide variety of manufacturers.&amp;#10;&amp;#10;So for all fans of William Gibson, Blade Runner and even Akira, here's firewall 2136AD...&amp;#10;&amp;#10;Written by Matthew Hartley and Michael Baumann, firewall 2136AD lets players create teams of criminals, police and corporate security teams, arm them, cybernetically enhance them and even drug them up, before letting them loose on the tabletop to gain hegemony in their own fictional cyberpunk world.&amp;#10;&amp;#10;The rules not only cover infantry combat on the streets but also include full vehicle rules, how to fight inside buildings and one of the most impressive arsenals of tabletop firepower, protection and cybernetic enhancements seen in a set of skirmish wargames rules.&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="2"/>
+    <minplaytime value="2"/>
+    <maxplaytime value="2"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="5006" value="Michael Baumann"/>
+    <link type="boardgamedesigner" id="5005" value="Matthew Hartley"/>
+    <link type="boardgamepublisher" id="3235" value="Wessex Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.816497"/>
+        <median value="0"/>
+        <owned value="4"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

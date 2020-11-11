@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7787">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RMwIlLKSwls7oEkiza4IXseJ8BM=/fit-in/200x150/pic31746.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4htGJgAsdqzCzbTde3mBw8z2qtA=/0x0/pic31746.jpg</image>
+    <name type="primary" sortindex="1" value="Air Aces"/>
+    <description>An early set of air combat miniatures rules for recreating plane to plane combat in World War II, for two or more players. The designer acknowledges that the game does not use a defined time and space scale, but is instead intended to demonstrate the &amp;quot;relative capabilities&amp;quot; of the various aircraft. The rules were designed for use with 1/100 to 1/365 scale models. Game statistics are given for 8 famous fighter aircraft.&amp;#10;&amp;#10;According to the author's introduction, he had worked on the game design since 1967. In the early seventies, the game was used by Spartan International at competitive events, and the game was printed in the Spartan Journal in 1972. One interesting note in the introduction: &amp;quot;When Lou Zocchi saw this game he flipped! He had been working on the same dimensional problems for years, but to no avail. He quickly adopted the 'break-throughs' offered by this game to use in one of his own.&amp;quot;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamedesigner" id="2720" value="Russell Powell"/>
+    <link type="boardgamepublisher" id="1829" value="International Gamers Association"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="6"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

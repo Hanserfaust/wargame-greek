@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6929">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/v20dfklR0GWijJ8AYJWGovJP9y8=/fit-in/200x150/pic32108.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_aIhPj5hZmFwpSABaolmnRnW9sU=/0x0/pic32108.jpg</image>
+    <name type="primary" sortindex="1" value="Ranger"/>
+    <description>Ranger is a tactical, role-playing simulation of a Ranger patrol on a combat mission. The game places the player in the role of the patrol&amp;rsquo;s leader. It allows the player to experience some of the decisions that face a Ranger patrol leader.&amp;#10;&amp;#10;From the Designer's Notes: &amp;quot;In designing Ranger, I have attempted to do two things. First, I wanted to give the wargamer a realistic simulation of Ranger operations. Second, I felt the need to keep the game playable. Most tactical games have hundreds of complicated rules to memorize, but bear no relation to actual field maneuvers . . . Patrolling suits solitaire gaming fairly well. While conventional operations are the result of the efforts of numerous commanders and staff officers, patrols generally depend entirely on the patrol leader's actions . . . I made every attempt to present the tactical situations as the patrol leader would experience them. I wanted the game system to avoid excessive administrative bookkeeping and rules memorization . . . I tried to simulate patrolling from my own experiences and not be tied to more standard wargame conventions . . . The element of chance throughout Ranger is by design. No patrol leader can control his environment. He can only plan for as many possibilities as he has time and be alert and prepared to implement these contingency plans if necessary. Even the most experienced player making all the correct decisions will occasionally be destroyed. Combat is always dangerous, but even more so when forward of friendly lines.&amp;quot;&amp;#10;&amp;#10;Components: Rules of Play booklet, Patrolling Tactics booklet, Tactical Events booklet, laminated game map, laminated Patrol Record Log, plastic Tactical Template, Glossary folder, Combat Results Card, Tactical Reference Card, Extended Patrolling Card, 18 Mission Cards, 2 six-sided dice, China marker pencil.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1984"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="0"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="3"/>
+        <result level="10" value="Unplayable in another language" numvotes="2"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="158447" value="Ranger: Actions at the Objective Expansion Kit"/>
+    <link type="boardgameexpansion" id="7856" value="Ranger: AO Sierra Expansion Kit"/>
+    <link type="boardgameexpansion" id="7857" value="Ranger: AO Victor Expansion Kit"/>
+    <link type="boardgameimplementation" id="176948" value="Ranger"/>
+    <link type="boardgamedesigner" id="2463" value="Bill Gibbs"/>
+    <link type="boardgamepublisher" id="962" value="Omega Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="142"/>
+        <average value="6.92465"/>
+        <bayesaverage value="5.61485"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6060" bayesaverage="5.61485"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1044" bayesaverage="6.0306"/>
+        </ranks>
+        <stddev value="1.46289"/>
+        <median value="0"/>
+        <owned value="479"/>
+        <trading value="25"/>
+        <wanting value="67"/>
+        <wishing value="219"/>
+        <numcomments value="93"/>
+        <numweights value="16"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

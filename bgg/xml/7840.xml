@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7840">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/GIjzkS6BlPXomROjH2myDyJTSKg=/fit-in/200x150/pic590297.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/e-QoTx-uXZDtAE_chRg3F9BngxY=/0x0/pic590297.jpg</image>
+    <name type="primary" sortindex="5" value="The Defense of Rorke's Drift"/>
+    <name type="alternate" sortindex="5" value="The Boer War"/>
+    <name type="alternate" sortindex="5" value="The Defense of Rorke's Drift and The Boer War"/>
+    <description>This is basically two games in one The Defense of Rorke's Drift (as per the film Zulu) and it can also be used to play The Boer War.  The basic premise is a skirmish type game where one counter represent one British soldier or a group of Zulus, using a turn-based structure.  &amp;#10;  1. British move&amp;#10;  2. Zulu move and place reinforcements&amp;#10;  3. British rifle fire&amp;#10;  4. Zulu rifle fire and spear throw attacks&amp;#10;  5. Zulu melee followed by British melee&amp;#10;There are a number of different scenarios included, one of which is suitable for Solo gaming&amp;#10;&amp;#10;</description>
+    <yearpublished value="1991"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="106" value="No necessary in-game text" numvotes="0"/>
+        <result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="110" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamedesigner" id="1601" value="Peter Bertram"/>
+    <link type="boardgamedesigner" id="2183" value="Eric Faust"/>
+    <link type="boardgamedesigner" id="8803" value="Lew Fisher"/>
+    <link type="boardgameartist" id="16893" value="Alphonse-Marie-Adolphe de Neuville"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="2055" value="Excalibre Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="94"/>
+        <average value="6.69628"/>
+        <bayesaverage value="5.56576"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8020" bayesaverage="5.56576"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1520" bayesaverage="5.86497"/>
+        </ranks>
+        <stddev value="1.26045"/>
+        <median value="0"/>
+        <owned value="425"/>
+        <trading value="25"/>
+        <wanting value="7"/>
+        <wishing value="26"/>
+        <numcomments value="58"/>
+        <numweights value="12"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

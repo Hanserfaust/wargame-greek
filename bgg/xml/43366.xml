@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="43366">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/h9XB_YJdFzsSlaasZjhUe66Rf0A=/fit-in/200x150/pic548699.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7TQCofHaIweFLrHKXnkqHSlsz_I=/0x0/pic548699.jpg</image>
+    <name type="primary" sortindex="1" value="Downtown Air War Expansion Module: Dragon's Jaw"/>
+    <description>Along with new US and Royal Australian Air Force counters, and the Thanh Hoa map extension for Route Package 4, this Downtown Module presents two new air war scenarios plus variants for hypothetical RAAF missions flown by Canberras and Mirages into North Vietnam.  A cardstock ADC for the new aircraft is included.&amp;#10;&amp;#10;Published through C3i Magazine, issue 18.&amp;#10;&amp;#10;Expands Downtown: Air War over Hanoi.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgameexpansion" id="6613" value="Downtown: Air War Over Hanoi, 1965-1972" inbound="true"/>
+    <link type="boardgamedesigner" id="2370" value="Lee Brimmicombe-Wood"/>
+    <link type="boardgameartist" id="2370" value="Lee Brimmicombe-Wood"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="18"/>
+        <average value="7.66667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.28019"/>
+        <median value="0"/>
+        <owned value="162"/>
+        <trading value="1"/>
+        <wanting value="8"/>
+        <wishing value="21"/>
+        <numcomments value="11"/>
+        <numweights value="4"/>
+        <averageweight value="4.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

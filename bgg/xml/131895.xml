@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="131895">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/f8uuqR0pHsHyTz5_qia2-1-oGSM=/fit-in/200x150/pic1583699.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tNty1A-N_i8jQAh9_0egIbCbSbg=/0x0/pic1583699.jpg</image>
+    <name type="primary" sortindex="1" value="Holy Land: The Next Arab-Israeli War"/>
+    <description>From the editor's website:&amp;#10;&amp;#10;The premise of Holy Land is that there is a revitalization of the militant Arab world. They then challenge the Israelis, using not only conventional military forces, but also the full spectrum of conflict, including insurgency and terrorism. The game includes several possible scenario options for different types of conflict. Holy Land game shows some of the major factors involved. The Holy Land game system is based upon Decision: Iraq; there are two players in Holy Land, various Arab powers and foreign fighters, the latter possibly including Al Qaeda and Iranian support, among others, and the Israelis, with possible coalition support.&amp;#10; Both players have a set of pieces that represent both conventional and unconventional forces. Players move their pieces across the spaces on the map and engage in various kinds of conflict in order to destroy enemy forces, seize critical objectives, and change the Netwar Index, which is an index used to indicate how successful each side has been in meeting their goals. Furthermore, one unique feature of the Holy Land is that as units engage in combat, their effectiveness may increase or decrease as they gain experience in fighting, or become demoralized.&amp;#10; The game map shows Israel and adjoining countries, divided into large rectangular boxes known as regions, representing the general geography of the area. Players deploy their units into region boxes, into the &amp;ldquo;Open&amp;rdquo; area. Each region box&amp;#10; The game includes two maps (22x34&amp;rdquo;) and 352 counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="20084" value="Magazine: Modern War"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="24"/>
+        <average value="5.99583"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.38609"/>
+        <median value="0"/>
+        <owned value="146"/>
+        <trading value="5"/>
+        <wanting value="6"/>
+        <wishing value="14"/>
+        <numcomments value="23"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

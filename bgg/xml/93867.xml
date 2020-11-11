@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="93867">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FaptMu8gjIJ-sTy7jGDgt9ERer0=/fit-in/200x150/pic931385.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/KNxc7cW028xoMLwPiWPtloEjzcM=/0x0/pic931385.jpg</image>
+    <name type="primary" sortindex="3" value="A Dash of Peiper"/>
+    <description>This is the seventh game in the Pocket Battle Games series from LPS, Inc.&amp;#10;&amp;#10;This game is issued free by ATO and other wargaming companies and recreates 1st SS Panzer Division's westward dash during the Battle of the Bulge.  A deck of cards is used to determine the number of activations each player gets as well as combat results.&amp;#10;&amp;#10;The game features bridge demolition, off board artillery, terrain effects and supply.&amp;#10;&amp;#10;The game lasts 5 turns and the German player wins by exiting 4 units off of the west map edge, otherwise the American player wins.&amp;#10;&amp;#10;(Owners may request a die-cut set of counters free with a purchase at the Against the Odds website.)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="30"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="61" value="No necessary in-game text" numvotes="1"/>
+        <result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="65" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="30906" value="Peiper Postcards"/>
+    <link type="boardgamefamily" id="3227" value="Pocket Battle Games"/>
+    <link type="boardgameexpansion" id="131874" value="The Peiper Dream"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="32"/>
+        <average value="5.9375"/>
+        <bayesaverage value="5.51105"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13208" bayesaverage="5.51105"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2537" bayesaverage="5.57536"/>
+        </ranks>
+        <stddev value="1.4564"/>
+        <median value="0"/>
+        <owned value="191"/>
+        <trading value="10"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="37"/>
+        <numweights value="15"/>
+        <averageweight value="1.5333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="24800">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/eknVnjkMU_dV-2gyyLjrO08_9J8=/fit-in/200x150/pic2674714.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/R0hsnwr_A51guiKwKWCjKyCUjKw=/0x0/pic2674714.jpg</image>
+    <name type="primary" sortindex="1" value="Conflict of Heroes: Awakening the Bear! – Russia 1941-42"/>
+    <name type="alternate" sortindex="1" value="Angriff! Teil 1: Ostfront, 1941/42"/>
+    <description>Conflict of Heroes is a fast-paced tactical board game series that follows the development of modern day squad and platoon level tactics, starting with World War II and continuing all the way through modern day Bosnia, Iraq, and Afghanistan. The first game in the series, Awakening the Bear! &amp;ndash; Russia 1941-1942, takes you to the eastern front during Operation Barbarossa, the German invasion of Russia. Many consider this time period to be the birth of modern warfare tactics that continue to be used and perfected by today's modern armies.&amp;#10;&amp;#10;Conflict of Heroes merges the elegance of streamlined Eurogame rules with deep strategic wargames. The series was designed to create a tense and highly interactive game play experience. You must manage multiple command resources to move, attack, and take other actions with your units. This gives you great flexibility in executing your battle plans, but makes constant caution necessary as unit activations on either side can happen at any time.&amp;#10;&amp;#10;Much effort went into distinguishing the units in the game by highlighting their historical strengths and weaknesses. For example, each tank defense rating takes into account relative armor thickness, armor slope deflection percentage, speed, size, targeting mechanics, and crew training. All these factors are represented in an easy to learn target number system.&amp;#10;&amp;#10;The included firefights, most of which you can play in about an hour, are designed to depict the pivotal points in a given battle. You can learn enough of the game to play the first scenario in ten minutes thanks to the programmed instruction approach used in the full-color rulebook.&amp;#10;&amp;#10;The game also features three- and four-player firefights and optional rules for solitaire play.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="80">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="24"/>
+        <result value="Not Recommended" numvotes="21"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="63"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="11"/>
+        <result value="Not Recommended" numvotes="19"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="30"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="32"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="38">
+      <results>
+        <result value="2" numvotes="2"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="2"/>
+        <result value="10" numvotes="15"/>
+        <result value="12" numvotes="10"/>
+        <result value="14" numvotes="4"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="2"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="33">
+      <results>
+        <result level="296" value="No necessary in-game text" numvotes="2"/>
+        <result level="297" value="Some necessary text - easily memorized or small crib sheet" numvotes="20"/>
+        <result level="298" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6"/>
+        <result level="299" value="Extensive use of text - massive conversion needed to be playable" numvotes="3"/>
+        <result level="300" value="Unplayable in another language" numvotes="2"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="2626" value="Conflict of Heroes"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="38216" value="Conflict of Heroes Expansion Pack: Map Board #6 – The Marsh"/>
+    <link type="boardgameexpansion" id="132027" value="Conflict of Heroes: Monster Tanks of the Eastern Front"/>
+    <link type="boardgameexpansion" id="45132" value="Conflict of Heroes: Price of Honour – Poland 1939"/>
+    <link type="boardgameexpansion" id="132026" value="Conflict of Heroes: Wrecks and Destruction on the Eastern Front"/>
+    <link type="boardgameimplementation" id="286343" value="Conflict of Heroes: Awakening the Bear – Operation Barbarossa 1941 (Third Edition)"/>
+    <link type="boardgameimplementation" id="132028" value="Conflict of Heroes: Awakening the Bear! – Operation Barbarossa 1941 (second edition)"/>
+    <link type="boardgamedesigner" id="7457" value="Uwe Eickert"/>
+    <link type="boardgameartist" id="11866" value="Steve Paschal"/>
+    <link type="boardgamepublisher" id="7747" value="Academy Games, Inc."/>
+    <link type="boardgamepublisher" id="8450" value="Phalanx Games Deutschland"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2909"/>
+        <average value="7.53741"/>
+        <bayesaverage value="6.87357"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="475" bayesaverage="6.87357"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="63" bayesaverage="7.31205"/>
+        </ranks>
+        <stddev value="1.51563"/>
+        <median value="0"/>
+        <owned value="3793"/>
+        <trading value="225"/>
+        <wanting value="193"/>
+        <wishing value="955"/>
+        <numcomments value="1002"/>
+        <numweights value="467"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

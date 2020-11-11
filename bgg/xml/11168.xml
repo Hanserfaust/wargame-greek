@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11168">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KQTvtFR2CsHHkFkvid-bfIL_0Qg=/fit-in/200x150/pic142488.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nF16xloIZ9gJyW7ObOgKEBIZMcg=/0x0/pic142488.jpg</image>
+    <name type="primary" sortindex="1" value="Flames of War: The World War II Miniatures Game"/>
+    <description>Flames of War is a World War II tabletop game where you use armies represented by painted miniature tanks, soldiers, artillery, and aircraft against another similar opponent's force.&amp;#10;&amp;#10;To begin all you need is the Flames of War book/rules and a starting force of miniatures depending on what type of army you want to collect.&amp;#10;&amp;#10;The game uses 15mm scale (around 1:100) miniatures, allowing miniatures from other manufacturers to be used.  The game aspires to provide  a good balance between playability and simulation and has a typical game running under 2 hours.&amp;#10;&amp;#10;The Second Edition Rulebook launched in August 2006, took a lot of advice from the players and integrated a lot of the FAQ material previously written to cover First Edition.&amp;#10;&amp;#10;Flames of War current rulebook range&amp;#10;&amp;#10;Introduced by:&amp;#10;&amp;#10;&amp;#10;    Flames of War: Open Fire&amp;#10;    Flames of War: Achtung!&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="13"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="13"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="10"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="5"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="2"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1044" value="Collectible Components"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures"/>
+    <link type="boardgamefamily" id="5772" value="Flames of War"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="20475" value="Avanti Savoia: Intelligence Handbook on Italian Armoured and Infantry Forces"/>
+    <link type="boardgameexpansion" id="17343" value="Desert Rats"/>
+    <link type="boardgameexpansion" id="17342" value="Diving Eagles"/>
+    <link type="boardgameexpansion" id="38784" value="Flames of War Firestorm Campaign: Operation Bagration"/>
+    <link type="boardgameexpansion" id="69814" value="Flames of War Firestorm Campaign: Operation Market Garden"/>
+    <link type="boardgameexpansion" id="163465" value="Flames of War Great War: World War One Battles"/>
+    <link type="boardgameexpansion" id="67302" value="Flames of War: A Bridge Too Far – The Battles for Oosterbeek and Arnhem"/>
+    <link type="boardgameexpansion" id="24014" value="Flames of War: Afrika"/>
+    <link type="boardgameexpansion" id="187701" value="Flames of War: Atlantik Wall – The German Defence of France June-September 1944"/>
+    <link type="boardgameexpansion" id="176805" value="Flames of War: Barbarossa – Germany's Invasion of the Soviet Union, June-Decemeber 1941"/>
+    <link type="boardgameexpansion" id="193349" value="Flames of War: Berlin – The Soviet Assault on the German Capital, April-May 1945"/>
+    <link type="boardgameexpansion" id="83281" value="Flames of War: Blitzkrieg – The German Invasion of Poland and France 1939-1940"/>
+    <link type="boardgameexpansion" id="130231" value="Flames of War: Blood, Guts, &amp; Glory – Tank Battles in the Lorraine, September 1944-January 1945"/>
+    <link type="boardgameexpansion" id="29953" value="Flames of War: Bloody Omaha"/>
+    <link type="boardgameexpansion" id="176501" value="Flames of War: Bridge At Remagen"/>
+    <link type="boardgameexpansion" id="163111" value="Flames of War: Bridge by Bridge – The German Defence of Holland, September, November 1944"/>
+    <link type="boardgameexpansion" id="113237" value="Flames of War: Burning Empires – The Battle for the Mediterranean"/>
+    <link type="boardgameexpansion" id="99966" value="Flames of War: Cassino"/>
+    <link type="boardgameexpansion" id="38808" value="Flames of War: Cobra"/>
+    <link type="boardgameexpansion" id="26658" value="Flames of War: D Minus 1"/>
+    <link type="boardgameexpansion" id="29276" value="Flames of War: D-Day"/>
+    <link type="boardgameexpansion" id="99353" value="Flames of War: Das Book"/>
+    <link type="boardgameexpansion" id="130234" value="Flames of War: Devil's Charge – The German Offensive – Battle of the Bulge, December 1944"/>
+    <link type="boardgameexpansion" id="95504" value="Flames of War: Dogs &amp; Devils"/>
+    <link type="boardgameexpansion" id="99719" value="Flames of War: Earth and Steel – The German Defence of France June-September 1944"/>
+    <link type="boardgameexpansion" id="99298" value="Flames of War: Eastern Front 1942-1943"/>
+    <link type="boardgameexpansion" id="149138" value="Flames of War: Fate of a Nation"/>
+    <link type="boardgameexpansion" id="25786" value="Flames of War: Festung Europa (Late War 1944)"/>
+    <link type="boardgameexpansion" id="260848" value="Flames of War: Fighting First – US Forces in North Africa 1942-43"/>
+    <link type="boardgameexpansion" id="40473" value="Flames of War: Fortress Europe"/>
+    <link type="boardgameexpansion" id="130228" value="Flames of War: Grey Wolf – Axis Forces on the Eastern Front, January 1944-February 1945"/>
+    <link type="boardgameexpansion" id="72455" value="Flames of War: Hammer and Sickle"/>
+    <link type="boardgameexpansion" id="61479" value="Flames of War: Hell's Highway"/>
+    <link type="boardgameexpansion" id="108425" value="Flames of War: Hellfire and Back! – Early War Battles in North Africa, 1940-1941"/>
+    <link type="boardgameexpansion" id="130233" value="Flames of War: Know Your Enemy – Late War"/>
+    <link type="boardgameexpansion" id="141820" value="Flames of War: Market Garden – The Allied Invasion of Holland, September-November 1944"/>
+    <link type="boardgameexpansion" id="72078" value="Flames of War: Mid-War Monsters 1942-1943"/>
+    <link type="boardgameexpansion" id="34279" value="Flames of War: Monty's Meatgrinder"/>
+    <link type="boardgameexpansion" id="221062" value="Flames of War: Nachtjager – The Battle for Northern Germany March-May 1945"/>
+    <link type="boardgameexpansion" id="136802" value="Flames of War: Normandy Battles – Wargaming D-Day and Beyond"/>
+    <link type="boardgameexpansion" id="47038" value="Flames of War: North Africa – and the Mediterranean 1942-1943"/>
+    <link type="boardgameexpansion" id="133475" value="Flames of War: NUTS – The Siege of Bastogne – Battle of the Bulge, December 1944"/>
+    <link type="boardgameexpansion" id="24016" value="Flames of War: Ostfront"/>
+    <link type="boardgameexpansion" id="187702" value="Flames of War: Overlord – The Allied Invasion of France"/>
+    <link type="boardgameexpansion" id="130230" value="Flames of War: Red Bear – Allied Forces on the Eastern Front, January 1944-February 1945"/>
+    <link type="boardgameexpansion" id="260849" value="Flames of War: Rising Sun – Russia's Wars with Japan and Finland 1939-1940"/>
+    <link type="boardgameexpansion" id="72453" value="Flames of War: River of Heroes"/>
+    <link type="boardgameexpansion" id="99718" value="Flames of War: Stalin's Europe"/>
+    <link type="boardgameexpansion" id="39076" value="Flames of War: Stalin's Onslaught"/>
+    <link type="boardgameexpansion" id="17340" value="Flames of War: Stalingrad – Intelligence Handbook on Soviet and German Infantry Forces"/>
+    <link type="boardgameexpansion" id="160285" value="Flames of War: Tour of Duty"/>
+    <link type="boardgameexpansion" id="100277" value="Flames of War: Tropic Lightning"/>
+    <link type="boardgameexpansion" id="99722" value="Flames of War: Turning Tide – The Allied Invasion of France June-September 1944"/>
+    <link type="boardgameexpansion" id="32881" value="Flames of War: Villers-Bocage"/>
+    <link type="boardgameexpansion" id="17751" value="For King &amp; Country: Intelligence Handbook on British and Empire Infantry Forces"/>
+    <link type="boardgameexpansion" id="17339" value="Stars and Stripes: Intelligence Handbook on US Armored and Infantry Forces"/>
+    <link type="boardgameexpansion" id="20637" value="Za Stalina: Handbook on Soviet Armoured and Cavalry forces"/>
+    <link type="boardgameimplementation" id="190700" value="Team Yankee"/>
+    <link type="boardgameimplementation" id="226841" value="Team Yankee: Potecknov's Bears – Soviet Breakthrough Force"/>
+    <link type="boardgamedesigner" id="3609" value="Phil Yates"/>
+    <link type="boardgameartist" id="28351" value="David Pentland"/>
+    <link type="boardgameartist" id="37663" value="Vincent Wai"/>
+    <link type="boardgamepublisher" id="2476" value="Battlefront Miniatures Ltd"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="807"/>
+        <average value="7.09649"/>
+        <bayesaverage value="6.05886"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2000" bayesaverage="6.05886"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="339" bayesaverage="6.61725"/>
+        </ranks>
+        <stddev value="1.80579"/>
+        <median value="0"/>
+        <owned value="1436"/>
+        <trading value="39"/>
+        <wanting value="34"/>
+        <wishing value="118"/>
+        <numcomments value="247"/>
+        <numweights value="105"/>
+        <averageweight value="3.2762"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

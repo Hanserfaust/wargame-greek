@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3673">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/IX1xywYsU41amM1cCVbEVvZ5mMg=/fit-in/200x150/pic1070885.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/rYKijuYMJRpno8QDtLnq3YQTTXk=/0x0/pic1070885.jpg</image>
+    <name type="primary" sortindex="1" value="Hot Spot"/>
+    <description>Microgame #15 in the Metagaming Microgames series is a tactical game about the Technocrat raid on Chiros. The Ziegler Corporations maintains fragile, floating platforms called crustals that move through the molten rock. The crustals are defended by infantry and hovercraft. The Technocrat attackers are strong, but they must capture crustals quickly, before their units melt into the lava.&amp;#10;&amp;#10;Contents include a playing map, an illustrated rules booklet, and counters for both the crustals and combat units&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6256" value="Metagaming Microgames series"/>
+    <link type="boardgamedesigner" id="1492" value="W. G. Armintrout"/>
+    <link type="boardgameartist" id="19809" value="Pat Hidy"/>
+    <link type="boardgamepublisher" id="356" value="Metagaming"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="72"/>
+        <average value="5.16111"/>
+        <bayesaverage value="5.48136"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15812" bayesaverage="5.48136"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2887" bayesaverage="5.39015"/>
+        </ranks>
+        <stddev value="1.47722"/>
+        <median value="0"/>
+        <owned value="298"/>
+        <trading value="21"/>
+        <wanting value="6"/>
+        <wishing value="12"/>
+        <numcomments value="47"/>
+        <numweights value="5"/>
+        <averageweight value="1.4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1713">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/uTT4CHvZG5XcPIT-qV8NmlWKM9o=/fit-in/200x150/pic244571.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tecNSPtv-fKkJDEDHslTUZQ5Ab8=/0x0/pic244571.jpg</image>
+    <name type="primary" sortindex="1" value="Maharaja"/>
+    <name type="alternate" sortindex="1" value="Maharadjah"/>
+    <description>Based on the highly successful Britannia, which dealt with the migrations of peoples into the British Isles from the Romans to the Normans, Maharaja employs much the same system, transferred to a different geography and time period.  The map depicts the Indian sub-continent from the foothills of the Himalayas to the island of Sri Lanka (aka Ceylon, Serendib). The time period covered runs  from the Aryan invasions of 1500 BC to the establishment of the British Raj in the mid-1800s.&amp;#10;&amp;#10;Re-published in French as Maharadjah by Descartes (with new box cover).&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Britannia&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1994"/>
+    <minplayers value="3"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="0"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="10" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="9470" value="Asian Theme"/>
+    <link type="boardgamefamily" id="18284" value="Britannia game-system"/>
+    <link type="boardgamefamily" id="9961" value="Country: India"/>
+    <link type="boardgamedesigner" id="724" value="Rex A. Martin"/>
+    <link type="boardgamedesigner" id="729" value="Craig Sandercock"/>
+    <link type="boardgameartist" id="12257" value="Stephen Langmead"/>
+    <link type="boardgameartist" id="11872" value="Kurt Miller"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <link type="boardgamepublisher" id="41" value="Descartes Editeur"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="431"/>
+        <average value="6.14805"/>
+        <bayesaverage value="5.65611"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5079" bayesaverage="5.65611"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1330" bayesaverage="5.91333"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1560" bayesaverage="5.69651"/>
+        </ranks>
+        <stddev value="1.37454"/>
+        <median value="0"/>
+        <owned value="1025"/>
+        <trading value="73"/>
+        <wanting value="21"/>
+        <wishing value="36"/>
+        <numcomments value="190"/>
+        <numweights value="51"/>
+        <averageweight value="2.8039"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

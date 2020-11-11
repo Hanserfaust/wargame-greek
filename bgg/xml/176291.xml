@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="176291">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/e27bhCTj6N87qhc4s_H4hv3GBf4=/fit-in/200x150/pic3008947.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-FpQp-CqeJ7oyXQYyJzbkztwwhc=/0x0/pic3008947.jpg</image>
+    <name type="primary" sortindex="1" value="Alfred the Great: War in the West Country 876AD"/>
+    <description>Mark Sheppard extends his coverage of this famous monarch with his game on Alfred&amp;rsquo;s decisive 876 campaign. Not only were the Saxon king and his followers contending with more Viking incursions, but with a rebellion among the native Britons, who sought to take advantage of the King&amp;rsquo;s woes by seeking to carve out their independence amidst the mayhem. Players familiar with the first volume of the series will be able to quickly get into this game. Each copy of Alfred the Great, Volume II is composed of the following:&amp;#10;&amp;#10;One 11 by 17 inch hex map&amp;#10;Two sheets of 286 single-sided, un-mounted counters&amp;#10;Three cardstock Battle Boards (one Briton, one Saxon, one Viking)&amp;#10;One Players&amp;rsquo; Aid Sheet&amp;#10;8 pages of rules&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5613" value="Vikings"/>
+    <link type="boardgamedesigner" id="75717" value="Mark H. Sheppard"/>
+    <link type="boardgameartist" id="75954" value="Alen Jablanovic"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <link type="boardgamepublisher" id="27467" value="Red King Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="7.2"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.24962"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="0"/>
+        <wanting value="6"/>
+        <wishing value="10"/>
+        <numcomments value="4"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

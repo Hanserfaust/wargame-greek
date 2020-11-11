@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2457">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7wJaUXpg4DazQq_9-NdMrm0_E-8=/fit-in/200x150/pic6138.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1vDoRh4seBtRil-0FTCJ_V7tJog=/0x0/pic6138.jpg</image>
+    <name type="primary" sortindex="1" value="Torpedo Run!"/>
+    <name type="alternate" sortindex="1" value="Operation Torpilles!"/>
+    <name type="alternate" sortindex="1" value="Torpedos fuera"/>
+    <name type="alternate" sortindex="1" value="¡Torpederos!"/>
+    <description>This huge box (88 x 44 x 7 cm) was part of MB's Floor Wars Series.  Indeed, it is playable only on a floor --unless you have something large to put it on, like Ping-Pong tables.&amp;#10;&amp;#10;This game is an introduction to naval miniatures of sorts; each player has four very large miniatures of WWII vintage ships (a battleship with its three escort ships) which manoeuvre about the large board.  The players also have a &amp;quot;torpedo launcher&amp;quot; shaped like a submarine which fires discs that glide along the playing surface.  The players aim at specific places along the ship waterlines.  There, slots allow the discs to slide under the ship and trip a rubber-band mechanism which sends part of the ship's superstructure (or gun turrets) flying, simulating damage.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="8"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="1"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="51" value="No necessary in-game text" numvotes="2"/>
+        <result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="55" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1032" value="Action / Dexterity"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1037" value="Real-time"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="4089" value="Falomir Juegos"/>
+    <link type="boardgamepublisher" id="20" value="Milton Bradley"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="205"/>
+        <average value="6.08024"/>
+        <bayesaverage value="5.56739"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7928" bayesaverage="5.56739"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2640" bayesaverage="5.54275"/>
+          <rank type="family" id="4665" name="childrensgames" friendlyname="Children's Game Rank" value="230" bayesaverage="5.70214"/>
+        </ranks>
+        <stddev value="1.53912"/>
+        <median value="0"/>
+        <owned value="311"/>
+        <trading value="30"/>
+        <wanting value="51"/>
+        <wishing value="81"/>
+        <numcomments value="102"/>
+        <numweights value="27"/>
+        <averageweight value="1.2963"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

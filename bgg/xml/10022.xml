@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10022">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/CWlFSEOijHkpmko29dh5VMeYUx0=/fit-in/200x150/pic1815928.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/St88rcREBBycjjQadDqPpyb9Nu4=/0x0/pic1815928.jpg</image>
+    <name type="primary" sortindex="4" value="La Révolution française: La patrie en danger 1790-1796"/>
+    <name type="alternate" sortindex="4" value="La Patrie en Danger 1793"/>
+    <name type="alternate" sortindex="4" value="La Revolution Francaise"/>
+    <description>(from the rulebook:)&amp;#10;&amp;#10;The game starts in October 1791, when the Legislative Assembly is installed.  It ends in September 1795. The game mechanics are mainly diplomacy and negotiations.  Each player represents a &amp;quot;Political Current&amp;quot; (or simply a Current), because at this time, there was no permanent political party, but only shifting groups of politicians.  Each Current acts to strengthen its position and increase its fame.  The game uses also elements under no player's control, but which react to the players' actions.&amp;#10;&amp;#10;A game can end in several ways, depending on the current political regime, and depending on each player's victory points.  In the real world, the end was the installation of the Directorate in September 1795.&amp;#10;&amp;#10;One interesting feature of the game is the strict seating arrangement: Players are seated from left to right depending on the political stance of their &amp;quot;Current&amp;quot; (Sans-Culottes on the left, Royalists on the right, and everyone else in between).  One cannot leave the room to conduct negotiations, but one can whisper--thus it's easier to secretly negotiate with one's neighbor than with someone on the &amp;quot;other side of the aisle&amp;quot;.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="4"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="106" value="No necessary in-game text" numvotes="0"/>
+        <result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="110" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="3315" value="Jean-Philippe Caillat"/>
+    <link type="boardgamedesigner" id="3535" value="Jean-Pierre Coureil"/>
+    <link type="boardgamedesigner" id="3533" value="Charles-Jean Gérard"/>
+    <link type="boardgamedesigner" id="3534" value="Robin Goyon"/>
+    <link type="boardgamedesigner" id="3316" value="Olivier Marcé"/>
+    <link type="boardgamedesigner" id="3317" value="Jean-Marie Roso"/>
+    <link type="boardgamedesigner" id="3532" value="Lionel Ruelle"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <link type="boardgamepublisher" id="195" value="Azure Wish Enterprise (AWE)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="66"/>
+        <average value="7.15909"/>
+        <bayesaverage value="5.57471"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7518" bayesaverage="5.57471"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1223" bayesaverage="5.95448"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1741" bayesaverage="5.59854"/>
+        </ranks>
+        <stddev value="1.66551"/>
+        <median value="0"/>
+        <owned value="166"/>
+        <trading value="3"/>
+        <wanting value="49"/>
+        <wishing value="95"/>
+        <numcomments value="26"/>
+        <numweights value="11"/>
+        <averageweight value="3.7273"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

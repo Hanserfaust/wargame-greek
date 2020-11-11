@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="14117">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7GGwnKYakDewQVifsf1tvPLQphU=/fit-in/200x150/pic120628.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/q3X86c05Yx2O_SYNQ91_fWAkeYY=/0x0/pic120628.jpg</image>
+    <name type="primary" sortindex="1" value="Soldier Raj"/>
+    <description>Between 1767 and 1846, war and intrigue dominated the Indian sub-continent. War constantly flared between the Indian kingdoms, both against one another and against the British and French interlopers. The Europeans, meanwhile, also busily fought each other.&amp;#10;&amp;#10;Rob Markham's Soldier Raj builds on the highly successful model of Soldier Emperor to portray these conflicts. Over a dozen scenarios cover these wars, from Hyder Ali's defeat of the British in the First Mysore War in 1767 to Britain's final conquest of the Sikhs in 1846. Colorful leaders of the time are all present: Hyder Ali and Tippoo of Mysore. Sir Arthur Wellesley, the &amp;quot;sepoy general&amp;quot; who would become Duke of Wellington. The brilliant Madhav Rao of the Marathas. France's Admiral Suffren. Zaman Shah of Afghanistan, and the Sikh ruler Ranjit Singh. These and more lead your armies.&amp;#10;&amp;#10;The playing pieces are the decadently thick tiles seen in Soldier Emperor and Granada: The Fall of Moslem Spain. Artist Terry Moore Strickland has gone well beyond those games; pieces like the Mysore Tiger Soldier or the Maratha War Elephant are tiny works of art.&amp;#10;&amp;#10;As in Soldier Emperor, successful card play is a key to victory. Soldier Raj features high-quality playing cards, and includes a new deck of these for use in Soldier Emperor when playing the two games together.&amp;#10;&amp;#10;Soldier Raj can also be played together with Soldier Emperor. Players can either add more seats at the table, or assign the Indian kingdoms to players with only European holdings. Britain becomes both more powerful in the combined game, and more vulnerable.&amp;#10;&amp;#10;As in Soldier Emperor, players command their nation's military, political and economic destiny. The map is a painting of South Asia, with a network of areas and routes between them laid over it. Generals move their armies along these routes, attempting to conquer territory for their nation. Fleets control the seas around India; the locals have very little seapower, and Britain outnumbers France on the seas.&amp;#10;&amp;#10;Combat is resolved by dice rolls, with larger armies casting more dice. Good generalship is even more crucial in India than in Europe. Players win by taking the most territory, or by destroying their nation's enemies.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="9961" value="Country: India"/>
+    <link type="boardgamefamily" id="6392" value="Gunpowder Strategy"/>
+    <link type="boardgameimplementation" id="191528" value="Soldier Emperor: Indian Empires"/>
+    <link type="boardgamedesigner" id="2282" value="Robert G. Markham"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="37"/>
+        <average value="6.27568"/>
+        <bayesaverage value="5.51206"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13068" bayesaverage="5.51206"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2504" bayesaverage="5.58447"/>
+        </ranks>
+        <stddev value="1.38318"/>
+        <median value="0"/>
+        <owned value="235"/>
+        <trading value="26"/>
+        <wanting value="3"/>
+        <wishing value="12"/>
+        <numcomments value="38"/>
+        <numweights value="9"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

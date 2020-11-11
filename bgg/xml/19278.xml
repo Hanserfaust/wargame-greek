@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="19278">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4HpVCzVxsvEUOR-cIdhuR8cgtV0=/fit-in/200x150/pic124266.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-e6RcIdrcB6nY5M9O-2ciHS-QXk=/0x0/pic124266.jpg</image>
+    <name type="primary" sortindex="1" value="Almansa 1707"/>
+    <description>Simulates the battle on 25 April 1707 between Franco-Spanish troops under the Duke of Berwick and an Anglo-Dutch-Portuguese force in the War of the Spanish Succession (1700-14).&amp;#10;&amp;#10;Includes 200 counters which need mounting, a 58x42cm map and a Player Aid Chart. There are 8 pages of low-complexity rules, simulating basic chains of command, facing, fire and shock combat.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5614" value="Country: Portugal"/>
+    <link type="boardgamefamily" id="10310" value="Country: Spain"/>
+    <link type="boardgamedesigner" id="1477" value="Javier Romero"/>
+    <link type="boardgamepublisher" id="4396" value="Soldados y Estrategia"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="5.45455"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.30479"/>
+        <median value="0"/>
+        <owned value="41"/>
+        <trading value="2"/>
+        <wanting value="0"/>
+        <wishing value="2"/>
+        <numcomments value="7"/>
+        <numweights value="3"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

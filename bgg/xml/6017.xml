@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6017">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/hrS6xXZf-dQ2Y74gCCEU9dN2fLA=/fit-in/200x150/pic27298.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/dJZDkFuWNTE9_Erb1FmEsq1Qk6Y=/0x0/pic27298.jpg</image>
+    <name type="primary" sortindex="1" value="Blitzkrieg '41"/>
+    <description>Blitzkrieg `41 is a two-player strategic level wargame of the German invasion of the Soviet Union in 1941.&amp;#10;&amp;#10;The game includes a 20 page rulebook, 200 counters, and a 22&amp;quot; x 34&amp;quot; mapsheet which contains a map plus charts and tables for both players.&amp;#10;&amp;#10;Victory conditions are quite extensive (over a page of rules) and, because of the great number of draws that the game will produce (the historical result), the designer recommends playing multiple games for total points.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1989"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="21633" value="Magazine: Command"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="64"/>
+        <average value="6.52656"/>
+        <bayesaverage value="5.54486"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9547" bayesaverage="5.54486"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1834" bayesaverage="5.77697"/>
+        </ranks>
+        <stddev value="1.46311"/>
+        <median value="0"/>
+        <owned value="364"/>
+        <trading value="18"/>
+        <wanting value="4"/>
+        <wishing value="11"/>
+        <numcomments value="68"/>
+        <numweights value="14"/>
+        <averageweight value="2.6429"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

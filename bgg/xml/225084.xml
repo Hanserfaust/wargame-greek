@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="225084">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/eLFWKiRVffQbr0pMwBHRGvlBamg=/fit-in/200x150/pic3558175.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ZXGs6YhDYf_xaLHR3Qe31Jxg3sE=/0x0/pic3558175.jpg</image>
+    <name type="primary" sortindex="1" value="Winged Victory"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;A NEW DIMENSION IN PLANE-TO-PLANE SIMULATIONS &amp;#10;Manage your plane&amp;rsquo;s energy and altitude while maneuvering and dogfighting against the enemy. A true 3D world, thanks to the side-view where you can see your aircraft losing altitude while turning and exploit environmental elements such as the sun and clouds to surprise your opponent.&amp;#10;&amp;#10;35 HISTORICAL PLANES TO COVER THE ENTIRE WWI Fly 35 different and accurately simulated aircraft from the early D.H.2 and Fokker E.III to the late Snipe and Siemens-Schuckert. Push your aircraft to the limit exploiting your opponent&amp;rsquo;s flaws, just like a real combat pilot. Jump into the cockpit and easily fly and fight without checking any annoying tables using our Alea Struggle Combat System; any game test is just a die roll away.&amp;#10;&amp;#10;MODULAR MAPS &amp;#10;The beautiful modular maps allow you to create several missions ranging from recons over the front, to combat air patrols just behind enemy lines and even strategic bombing missions deep in the enemy sector.&amp;#10;&amp;#10;SINGLE PLANES, NOT FORMATIONS &amp;#10;This is not a cold wargame of aerial formation combat: you will experience the thrill of fighting in a single plane perfectly recreated in its flying behavior, feel the oil droplets on your face, the chilling airflow, and the stress of the Gs while hard-turning your plane.&amp;#10;&amp;#10;HIGH LONGEVITY Single scenario, random missions, and Squadron career: three different game styles to entertain you for just one mission or for the entire war.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="180"/>
+    <minage value="15"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="58070" value="Carlo Amaddeo"/>
+    <link type="boardgameartist" id="58070" value="Carlo Amaddeo"/>
+    <link type="boardgamepublisher" id="22624" value="WBS Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="8.58667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.54655"/>
+        <median value="0"/>
+        <owned value="46"/>
+        <trading value="2"/>
+        <wanting value="7"/>
+        <wishing value="21"/>
+        <numcomments value="11"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

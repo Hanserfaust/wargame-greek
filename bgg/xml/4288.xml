@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4288">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/t0gbLedPkcA3A_QMp0ppnUkgIzQ=/fit-in/200x150/pic1444385.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/J6MzY2VED5MEea66V-aETD1eing=/0x0/pic1444385.png</image>
+    <name type="primary" sortindex="1" value="Panzer (first edition)"/>
+    <name type="alternate" sortindex="1" value="Panzer"/>
+    <description>(from the box:)&amp;#10;&amp;#10;Panzer is a tactical-level game of ground combat on the Eastern Front in World War II. The strengths and weaknesses of the German and Russian units involved are accurately and playably duplicated by forty-nine data cards that display all information needed to move and fight. The system easily incorporates myriad details such as armor thicknesses at various points, shots from various angles, heights, and altitudes, and the effects of terrain. The rules cover the important aspects of small unit tactics - armor piercing shots, small arms fire, artillery barrages, air support, communications, gun depression, mines, roadblocks, barbed wire, smoke, and much more. The scenarios cover a variety of combat situations that are resolved on the three piece geomorphic mapboard, which also features movable terrain pieces. The types of units include counters for infantry, anti-tanks guns, Panthers, Tigers, STG IIIs, Hetzers, T-34s, Stalins, SU-100s, SU-152, and much, much more.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="81" value="No necessary in-game text" numvotes="0"/>
+        <result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="85" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2630" value="Panzer game system"/>
+    <link type="boardgameexpansion" id="34226" value="Solitaire Scenarios for Use with Panzer, Armor, and 88"/>
+    <link type="boardgameimplementation" id="85769" value="Panzer (second edition)"/>
+    <link type="boardgamedesigner" id="1922" value="James M. Day"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="2055" value="Excalibre Games, Inc."/>
+    <link type="boardgamepublisher" id="154" value="Yaquinto"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="124"/>
+        <average value="7.22944"/>
+        <bayesaverage value="5.64142"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5400" bayesaverage="5.64142"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="746" bayesaverage="6.20762"/>
+        </ranks>
+        <stddev value="1.51043"/>
+        <median value="0"/>
+        <owned value="398"/>
+        <trading value="29"/>
+        <wanting value="16"/>
+        <wishing value="31"/>
+        <numcomments value="75"/>
+        <numweights value="24"/>
+        <averageweight value="3.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

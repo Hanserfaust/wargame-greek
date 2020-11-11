@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9909">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BURdx2SQdFcPV9rAgnJHQyCIpkQ=/fit-in/200x150/pic55242.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/hU8gTVmuv0N8PneXsVn-hvHivEo=/0x0/pic55242.jpg</image>
+    <name type="primary" sortindex="1" value="Crète 1941: Opération Merkur"/>
+    <description>Vae Victis issue 22.  This game covers the German airborne invasion of Crete, and provides both two-player and solitaire rules.  This game has some of Vae Victis's more complicated rules governing combat, but the rules still clock in at just over six pages.  The scale of the game is relatively small, with turns representing eight hours and counters representing infantry batallions and armored platoons.&amp;#10;&amp;#10;As with all Vae Victis games, the counters need to be cut out and mounted.  The rules are entirely in French, although translations are available online.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="86" value="No necessary in-game text" numvotes="0"/>
+        <result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="90" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="10640" value="Country: Greece"/>
+    <link type="boardgamefamily" id="27503" value="Islands: Crete"/>
+    <link type="boardgamefamily" id="9825" value="Magazine: Vae Victis"/>
+    <link type="boardgamedesigner" id="3294" value="Franck Yeghicheyan"/>
+    <link type="boardgameartist" id="42958" value="Didier Bourgeois"/>
+    <link type="boardgameartist" id="42946" value="Christophe Camilotte"/>
+    <link type="boardgamepublisher" id="540" value="Vae Victis"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="29"/>
+        <average value="6.74138"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.30398"/>
+        <median value="0"/>
+        <owned value="203"/>
+        <trading value="5"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="24"/>
+        <numweights value="6"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

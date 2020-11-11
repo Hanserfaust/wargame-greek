@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6845">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PyX1pP0jG1XjKnApW7YpOXd6ITI=/fit-in/200x150/pic2007238.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4elyRtFtDHOuratvFRML0YIdx8U=/0x0/pic2007238.jpg</image>
+    <name type="primary" sortindex="1" value="Alien Armada"/>
+    <description>Alien Armada pits human defenders of the far future in a desperate struggle against an invading fleet of alien ships and the alien's clone soldiers. Using an easy-to-learn, but subtle game system, Alien Armada presents an infinite variety of strategic and tactical options to all of its one to four players. In addition to its two-player scenario, there are solitaire and multi-player scenarios. The game contains a full-color 22&amp;quot;x34&amp;quot; game map, 300 back-printed, mounted playing pieces, a die and a twelve page rules book with separate player record sheets.&amp;quot;&amp;#10;&amp;#10;--From a Centvrion Games brochure&amp;#10;&amp;#10;Note: the approximate playing time is a guess, as I have not played this game, and the rules do not give any estimate.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1113" value="Space Exploration"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5679" value="Aliens"/>
+    <link type="boardgamedesigner" id="2439" value="Michael E. Crane, Jr."/>
+    <link type="boardgamedesigner" id="2440" value="James M. Goss"/>
+    <link type="boardgamedesigner" id="2441" value="John J. Lesko"/>
+    <link type="boardgamepublisher" id="2348" value="Centurion Games"/>
+    <link type="boardgamepublisher" id="1587" value="Jersey Devil Game Company, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.30384"/>
+        <median value="0"/>
+        <owned value="31"/>
+        <trading value="5"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="7"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

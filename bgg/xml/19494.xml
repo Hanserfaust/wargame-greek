@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="19494">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/H7krw5avahx1MbrFsomer2Rm35w=/fit-in/200x150/pic94645.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/YXmEBRICbahK98Jo8DRXoG694Ns=/0x0/pic94645.jpg</image>
+    <name type="primary" sortindex="1" value="Federation &amp; Empire: Planetary Operations"/>
+    <name type="alternate" sortindex="1" value="Federation and Empire: Planetary Operations"/>
+    <description>Planetary Operations is about more than just planets!&amp;#10;Expand your Federation &amp; Empire campaign with these new ships, rules, and capabilities.&amp;#10;&amp;#10;     Police Carriers, Police Flagships, Monitor PF pallets, Troop Pod counters&amp;#10;     Special Raids can now use drones, fighters, spies, and commandos.&amp;#10;     Four scenarios provide alternate starts to the General War.  In Crosswinds, the Klingons and Lyrans each fight their own enemy.  In Backdraft, the Kzintis launch a pre-emptive attack.  In Fire in the East, the Klingons attack the Federation first!   And in Demon of the Eastern Wind, the Gorns and Romulans start the General War!&amp;#10;     Cloaked decoys, Megafighters, Tholian pinwheels, Blockade Running, and more!&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Of course, we do have Planet rules as well, including:&amp;#10;&amp;#10;     Colonies allow you to &amp;quot;build a planet' anywhere!  Planetary docks repair ships.&amp;#10;     Marine Major Generals lead planetary invasions.  Over 400 new playing pieces.&amp;#10;     Build new shipyards to expand production or replace losses.&amp;#10;     Depot repairs return destroyed ships, conversion during repair, combat repairs.&amp;#10;     Deficit spending, allowable substitutions, annexing provinces, and WYN Trade routes. &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="25" value="Federation &amp; Empire"/>
+    <link type="boardgamefamily" id="95" value="Star Fleet Universe"/>
+    <link type="boardgamefamily" id="7392" value="Star Trek"/>
+    <link type="boardgameexpansion" id="36" value="Federation &amp; Empire" inbound="true"/>
+    <link type="boardgamedesigner" id="675" value="Stephen V. Cole"/>
+    <link type="boardgameartist" id="12902" value="Ted Geibel"/>
+    <link type="boardgamepublisher" id="25" value="Amarillo Design Bureau, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="22"/>
+        <average value="7.63636"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.63889"/>
+        <median value="0"/>
+        <owned value="90"/>
+        <trading value="1"/>
+        <wanting value="12"/>
+        <wishing value="16"/>
+        <numcomments value="4"/>
+        <numweights value="2"/>
+        <averageweight value="4.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

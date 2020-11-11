@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7158">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Ssk1MRbCMuu1ZpfiZCgZ8VOXXdA=/fit-in/200x150/pic29852.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/94llt24FQ3TPbLTjC9SqOgU67K0=/0x0/pic29852.jpg</image>
+    <name type="primary" sortindex="1" value="Great Board Games"/>
+    <name type="alternate" sortindex="1" value="Boer en Rooinek"/>
+    <name type="alternate" sortindex="1" value="Brettspielstars"/>
+    <description>Great Board Games. Over 40 games that you can play. 1895-1955. Complete with rules and counters.&amp;quot;&amp;#10;&amp;#10;Similar to the author's earlier &amp;quot;Play the Game&amp;quot; book, &amp;quot;Great Board Games&amp;quot; is a collection of 43 vintage games that you can play. There is a color photo of the board for each game, rules, and a few sheets of game pieces to be cut out.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="6"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1009" value="Abstract Strategy"/>
+    <link type="boardgamecategory" id="1022" value="Adventure"/>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1041" value="Children's Game"/>
+    <link type="boardgamecategory" id="1031" value="Racing"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecompilation" id="171658" value="Game of Goosey Gander" inbound="true"/>
+    <link type="boardgamedesigner" id="2525" value="Brian Love"/>
+    <link type="boardgamepublisher" id="14458" value="argos press"/>
+    <link type="boardgamepublisher" id="5815" value="H. Proost &amp; Cie"/>
+    <link type="boardgamepublisher" id="37" value="KOSMOS"/>
+    <link type="boardgamepublisher" id="1673" value="Macmillan Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="6.375"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4665" name="childrensgames" friendlyname="Children's Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.856957"/>
+        <median value="0"/>
+        <owned value="50"/>
+        <trading value="3"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="8"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

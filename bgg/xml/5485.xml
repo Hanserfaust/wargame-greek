@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5485">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dXMEQpoaoEpFGSfkdDwrMwLypn8=/fit-in/200x150/pic315481.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WwBPczRkit5b7KMQWwpgJBeqJAs=/0x0/pic315481.jpg</image>
+    <name type="primary" sortindex="1" value="Atlantic Wall"/>
+    <name type="alternate" sortindex="1" value="大西洋の壁"/>
+    <description>6 June 1944: While German Troops battled for their lives on the Eastern Front, all remained quiet in the West.  The long anticipated allied invasion seemed particularly unlikely along this portion of French Coast known as Normandy.  But this was D-Day, and the unlikely was soon to become reality.  As the vast Allied armada came into view, as Allied munitions began to burst upon the quiet French beach and among the German strong-points, the greatest drama in military history began to unfold.&amp;#10;&amp;#10;This game simulates this historical conflict on a five-section map representing the actual area, across which cardboard playing pieces move and engage through an hexagonal grid, which functions like the squares of a chessboard in the outcome of each combat and the success of failure of various game operations.&amp;#10;&amp;#10;Atlantic Wall is a battalion-level game of the D-Day invasion.  This is a monster game as it comes with five 34&amp;quot; x 22&amp;quot; maps and over 2000 counters.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1978"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="46" value="No necessary in-game text" numvotes="2"/>
+        <result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="50" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="673" value="Joseph M. Balkoski"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgameartist" id="38154" value="Shin Ueda"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="142"/>
+        <average value="6.76444"/>
+        <bayesaverage value="5.61247"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6133" bayesaverage="5.61247"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1011" bayesaverage="6.04866"/>
+        </ranks>
+        <stddev value="1.54749"/>
+        <median value="0"/>
+        <owned value="445"/>
+        <trading value="19"/>
+        <wanting value="19"/>
+        <wishing value="46"/>
+        <numcomments value="89"/>
+        <numweights value="25"/>
+        <averageweight value="4.08"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7003">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/VnyxE4PdvI9fMN2izb4ZGla-nA4=/fit-in/200x150/pic3656079.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kyQwtc-Xm9lP-8L1CGcKj7OsV5k=/0x0/pic3656079.jpg</image>
+    <name type="primary" sortindex="5" value="The Battle of Britain"/>
+    <description>The Battle of Britain is based on the great air campaign between the German Luftwaffe and the British Royal Air Force Fighter Command in August and September of 1940 . . . in this game, YOU may be able to reverse history!&amp;#10;&amp;#10;The first operational air combat game, and perhaps the first commercial air combat wargame. Each counter represented a formation of one or more aircraft (as assigned by the players). A turn lasted ten minutes and each hex on the mapboard was ten miles across.&amp;#10;&amp;#10;This game also had one of the first seperately available Play By Mail kits! Now finally added to the Geek.  Battle of Britain Play by Mail Kit.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1968"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1485" value="Lou Zocchi"/>
+    <link type="boardgamepublisher" id="843" value="Gamescience"/>
+    <link type="boardgamepublisher" id="12354" value="Renwal"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="48"/>
+        <average value="6.54979"/>
+        <bayesaverage value="5.53308"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10706" bayesaverage="5.53308"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2124" bayesaverage="5.69619"/>
+        </ranks>
+        <stddev value="1.73666"/>
+        <median value="0"/>
+        <owned value="162"/>
+        <trading value="21"/>
+        <wanting value="4"/>
+        <wishing value="5"/>
+        <numcomments value="47"/>
+        <numweights value="6"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

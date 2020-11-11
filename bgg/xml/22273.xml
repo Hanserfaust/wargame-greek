@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="22273">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OTAyH8wA9ZC6O4O0iTZTDiJ_ixE=/fit-in/200x150/pic115085.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LCMg4ChKI3BF080yghT3OXhIcRE=/0x0/pic115085.jpg</image>
+    <name type="primary" sortindex="1" value="Infantry Combat: The Rifle Platoon"/>
+    <description>&amp;quot;Infantry Combat: The Rifle Platoon&amp;quot; is &amp;quot;an interactive exercise in small-unit tactics and leadership&amp;quot; written by John F. Antal, the commanding officer of a tank battalion in Korea.&amp;#10;&amp;#10;A pair of six-sided dice are required to play this solitaire game which is a variation on the Choose Your Own Adventure game book genre.&amp;#10;&amp;#10;In Infantry Combat, you take on the role of a U.S. Army second lieutenant. &amp;quot;Your light infantry battalion has been airlifted into the Middle East on short notice, and now your platoon must defend Wadi Al Sirree against the superior might of an advancing enemy mechanized force . . . The scenario is highly realistic and is supported by maps and appendices with detailed specifications of the equipment and forces involved.&amp;quot;&amp;#10;&amp;#10;John Antal wrote three books which used this system: Armor Attacks, Infantry Combat, and Combat Team.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1094" value="Educational"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="6722" value="John F. Antal"/>
+    <link type="boardgamepublisher" id="5171" value="Presidio Press"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="6.35"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.09659"/>
+        <median value="0"/>
+        <owned value="28"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="3"/>
+        <numcomments value="5"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

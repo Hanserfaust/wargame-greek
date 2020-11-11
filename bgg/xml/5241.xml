@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5241">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ShhXglF_9hokh49KgeihrU4GePg=/fit-in/200x150/pic4698048.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/GSDCu8ydbVTT4fvtDqr6BoFSeoU=/0x0/pic4698048.jpg</image>
+    <name type="primary" sortindex="1" value="Sinai"/>
+    <description>From the rear cover:&amp;#10;&amp;#10;This game is a simulation of real-world events. It is played on a map that is a simplified terrain reproduction of the actual battlefield. A grid of hexagons printed over the map is used to regulate movement and position such as the squares on a chess board. The pieces in the game represent the actual military units that took part in the historical conflict. The large numbers on the pieces indicate the relative strength of these units. Each Player maneuvers his pieces on the map to engage those of the enemy. Battles take place when units are adjacent to enemy units. The total relative strengths of the involved units are compared. The attacking Player consults a simple probability table (the Combat Results Table) to determine the outcome of each battle. First one Player moves his units and conducts attacks, and then the other. The game proceeds this way (for a specified number of turns) as the Players try to achieve the historical objectives set forth in the rules. The final outcome of the game can be very different from the actual historical result. This gives Players a chance to &amp;quot;change history.&amp;quot; No prior knowledge of history or military tactics is required to play the game - just a little ingenuity and common sense.&amp;#10;&amp;#10;CONTENTS:&amp;#10;&amp;#10;22&amp;quot; x 34&amp;quot;, mounted terrain map&amp;#10;255 die-cut cardboard playing pieces&amp;#10;One rules folder&amp;#10;One plastic storage tray&amp;#10;One plastic die&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="66" value="No necessary in-game text" numvotes="0"/>
+        <result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="70" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10630" value="Country: Israel"/>
+    <link type="boardgamefamily" id="27582" value="Yom Kippur War"/>
+    <link type="boardgameexpansion" id="274340" value="WWIII"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="201"/>
+        <average value="6.1491"/>
+        <bayesaverage value="5.57166"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7680" bayesaverage="5.57166"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1696" bayesaverage="5.81585"/>
+        </ranks>
+        <stddev value="1.40467"/>
+        <median value="0"/>
+        <owned value="649"/>
+        <trading value="38"/>
+        <wanting value="10"/>
+        <wishing value="25"/>
+        <numcomments value="105"/>
+        <numweights value="31"/>
+        <averageweight value="2.8065"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

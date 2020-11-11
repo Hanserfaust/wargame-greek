@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="20774">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/MZ_Fx1M-av0OJORSA1BUURRPUlc=/fit-in/200x150/pic2902432.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/uOT5tmBonjGiD9anoVQtPmvEYBw=/0x0/pic2902432.jpg</image>
+    <name type="primary" sortindex="5" value="The Battle of the Little Bighorn"/>
+    <description>Reprint of the CSR Award Winner: Best Desktop Published Wargame, 2007.&amp;#10;&amp;#10;The Battle of the Little Bighorn, also known as Custer's Last Stand, was the epic fight between a massive combined force of Plains Indian tribes and the 7th United States Cavalry under the command of Lt. Col. George Armstrong Custer. The battle was the most famous event in the Indian Wars and was a crushing victory for the Indians. Custer, already famous for his Civil War exploits, became an American folk legend. Little Bighorn was the last great victory for the Sioux and Cheyenne. Defiant and proud, they were determined to preserve their way of life but within a year they were broken and defeated by a nation swept up in the emotions of the Centennial and bent on revenge for the death of an American hero.&amp;#10;&amp;#10;The Battle of the Little Bighorn is the third game in the Indian Wars of the American West series.  This game also includes the Montana column led by Col. Gibbons.  This column was the third column in the field within General Terry&amp;rsquo;s campaign plan.  Crook&amp;rsquo;s Wyoming column was the other part of this campaign, and included in Volume II of the series, The Battle of Rosebud Creek.&amp;#10;The Montana column includes Col. Gibbon, the 7th Infantry, 2nd Cavalry, and Low&amp;rsquo;s Artillery Battery of Gatling guns(?) and a 12 lb howitzer.  Players may now explore the possibilities and capabilities of these guns, and what effect these forces could have had on the outcome of the battle.  Scenarios included the historical game, the Montana columns arrival, assigning the Gatling guns or the 2nd cavalry with Custer. Is this last line correct?&amp;#10;The new expanded maps (from the original DTP version), allows for the relocation of the Indian village, the arrival of the Montana column, and if Custer had waited for Terry or was delayed because he took the Gatling guns.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="150"/>
+    <minplaytime value="150"/>
+    <maxplaytime value="150"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1055" value="American West"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="14835" value="Country: USA"/>
+    <link type="boardgamefamily" id="22165" value="Indian Wars of the American West"/>
+    <link type="boardgamedesigner" id="6231" value="Michael Taylor (I)"/>
+    <link type="boardgameartist" id="11322" value="Knut Grünitz"/>
+    <link type="boardgameartist" id="43155" value="Edgar S. Paxson"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="2031" value="Khyber Pass Games"/>
+    <link type="boardgamepublisher" id="9512" value="Legion Wargames LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="33"/>
+        <average value="7.76364"/>
+        <bayesaverage value="5.54442"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9583" bayesaverage="5.54442"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1773" bayesaverage="5.79188"/>
+        </ranks>
+        <stddev value="1.40342"/>
+        <median value="0"/>
+        <owned value="239"/>
+        <trading value="4"/>
+        <wanting value="19"/>
+        <wishing value="54"/>
+        <numcomments value="38"/>
+        <numweights value="5"/>
+        <averageweight value="3.2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

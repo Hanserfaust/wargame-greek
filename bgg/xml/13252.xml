@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="13252">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/i_ptPjlfRYs6mPBvh0RUKBODyR8=/fit-in/200x150/pic53787.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2bIQZoWib3XTHTLA5xfZHpFlxMc=/0x0/pic53787.jpg</image>
+    <name type="primary" sortindex="1" value="Naval Warfare: World War 1"/>
+    <description>NWS: NW-WW1 is a continuation of the NWS: Naval Warfare series of next generation comprehensive naval wargames covering entire time periods of naval combat. Easy to learn yet fun to play and detailed for the scale represented thus giving quality combat results. NWS: NW-WW1 is designed to cover many of the major navies that fought during WW1 and includes submarines, seaplane carriers, aircraft, dreadnoughts, pre-dreadnoughts, battlecruisers, armored cruisers, light cruisers, destroyers, coastal batteries, land units, and much more! Data cards show the combat details of each individual class of ship, sub, and aircraft and are represented with detailed side view graphics for easy recognition. Solitaire and multi-player rules are  included. Future expansion packs will include even more units and navies. Free downloadable combat assistance program with sound effects and combat animations!&amp;#10;&amp;#10;&amp;#10;     Nearly 700 gray scale unit data cards representing 196 ship classes, 24 aircraft types, 12 airships, 30 submarine classes, 12 coastal batteries/land units, merchants, raiders, and transports.&amp;#10;     50 page printed rule book with 20 scenarios in 3 ring clasp folder.&amp;#10;     7 Color maps, 2 color combat matrices, and 204 1/2&amp;quot; color counters printed on heavy card stock. &amp;#10;     2 search matrices, 2 play sequence charts and 4 reference charts printed on heavy card stock.&amp;#10;     90 plastic combat markers, and 2 red &amp;amp; 2 blue 6 sided dice.&amp;#10;     Campaigns covering the North, Baltic, and Mediterranean Seas.&amp;#10;     Tactical and strategic battles covering surface combat, aircraft carriers, convoys, submarines, aircraft, amphibious operations, etc..&amp;#10;     200+ B&amp;amp;W ordnance and color marker cards.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamedesigner" id="4138" value="Christopher Dean"/>
+    <link type="boardgamedesigner" id="4137" value="William Miller"/>
+    <link type="boardgamepublisher" id="2358" value="Naval Warfare Simulations"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="7.21429"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.61667"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="2"/>
+        <numcomments value="3"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

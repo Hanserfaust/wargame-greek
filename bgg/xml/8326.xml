@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8326">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/aGXv1-IsLF6zGA7HnqjLonf5yiA=/fit-in/200x150/pic3408039.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/GMpjGH-iU-y9DwNT82YXsKKIvyc=/0x0/pic3408039.jpg</image>
+    <name type="primary" sortindex="5" value="The Fall of Rome"/>
+    <description>A strategic solitaire game of the barbarian invasion of Rome, with the player controlling the Roman forces.&amp;#10;&amp;#10;Published as a magazine game in Strategy &amp;amp; Tactics magazine #39. &amp;#10;In 1997 Decision Games published Joe Miranda's version of the game in Strategy &amp;amp; Tactics magazine #181.&amp;#10;&amp;#10;200 counters = S&amp;amp;T and Flat Tray&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="1925" value="John Young"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="150"/>
+        <average value="5.82767"/>
+        <bayesaverage value="5.52732"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11352" bayesaverage="5.52732"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2331" bayesaverage="5.63692"/>
+        </ranks>
+        <stddev value="1.85283"/>
+        <median value="0"/>
+        <owned value="604"/>
+        <trading value="29"/>
+        <wanting value="19"/>
+        <wishing value="57"/>
+        <numcomments value="141"/>
+        <numweights value="18"/>
+        <averageweight value="2.5556"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

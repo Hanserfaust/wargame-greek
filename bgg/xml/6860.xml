@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6860">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/SlquMJfPKHbmDmxS2H_8R97z9v0=/fit-in/200x150/pic28138.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OwIHHBPmXlTdWKQzsmQUO0Xh_M8=/0x0/pic28138.jpg</image>
+    <name type="primary" sortindex="1" value="River of Death: Battle of Chickamauga, September 19-20, 1863"/>
+    <name type="alternate" sortindex="1" value="River of Death"/>
+    <description>River of Death is the first game to take a regimental look at the last major Confederate victory, the Battle of Chickamauga -- September, 1863. Fought in dense, entangled woods, the battle was a microcosm of good plans going awry, individual units fighting away while not knowing what was happening 100 yards away, and remarkable heroic stands.&amp;#10;&amp;#10;Regimental-level simulation of the Battle of Chickamauga, September 19-20, 1863, using the Great Battles of the American Civil War system. (Version 4.?)&amp;#10;&amp;#10;The game scale is 140 yards per hex, and each strength point is 50 men or 1 gun. Elevations are 50 ft per level, and each turn is 1 hour of real time.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="103" value="Great Battles of the American Civil War"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="64"/>
+        <average value="7.3125"/>
+        <bayesaverage value="5.58556"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7074" bayesaverage="5.58556"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1049" bayesaverage="6.02824"/>
+        </ranks>
+        <stddev value="1.62322"/>
+        <median value="0"/>
+        <owned value="373"/>
+        <trading value="5"/>
+        <wanting value="39"/>
+        <wishing value="60"/>
+        <numcomments value="33"/>
+        <numweights value="16"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

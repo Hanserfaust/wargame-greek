@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="129313">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/u8uqElC51xAZRGBgPnDYSOrAc9g=/fit-in/200x150/pic1393192.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/eCpGtBW5fd7Mq895fph9FjvVy94=/0x0/pic1393192.jpg</image>
+    <name type="primary" sortindex="1" value="Custer's Final Campaign: 7th Cavalry at Little Bighorn"/>
+    <description>From DecisionGames.com:&amp;#10;&amp;#10;&amp;quot;7th Cavalry at Little Bighorn&amp;#10;&amp;#10;In 1876 the US Army engaged the Indians of the northern Great Plains in a campaign that culminated in the destruction of Gen. George Armstrong Custer and most of his command at the Battle of the Little Bighorn. This two-player game covers that entire campaign.&amp;#10;&amp;#10;One player commands Army forces, including the regiments and battalions forming the three commands that participated in the original campaign: Crook&amp;rsquo;s, Gibbon&amp;rsquo;s and Terry&amp;rsquo;s. The other player controls various Indian tribes, each rated for its fighting strength in warriors. The point-to-point map stretches from Fort Abraham Lincoln in the Dakotas to Helena, Montana. In between are famous historic battle sites such as Powder River, the Rosebud, and the Little Bighorn.&amp;#10;&amp;#10;Custer&amp;rsquo;s Final Campaign is part of the Hand of Destiny mini-game series. Each player has a unique deck of Campaign Cards. They generate movement abilities, combat bonuses and historical events. Accessing the right card at the right time lets the player concentrate forces to win that great victory against all odds&amp;mdash;or perhaps go down to inglorious defeat. Some of the cards include: Tribal Raiding, Indians Leave Reservation, and Gary Owen.&amp;#10;&amp;#10;Combat is resolved via a quasi-tactical procedure. There are special rules for: Gatling guns, &amp;ldquo;dog soldiers,&amp;rdquo; Army riverboats, and leaders such as Crazy Horse, Nelson Miles, Sitting Bull and Custer himself.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="19329" value="Decision Games Mini Series"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="46"/>
+        <average value="6.1087"/>
+        <bayesaverage value="5.52107"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12050" bayesaverage="5.52107"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2329" bayesaverage="5.63721"/>
+        </ranks>
+        <stddev value="1.2592"/>
+        <median value="0"/>
+        <owned value="161"/>
+        <trading value="1"/>
+        <wanting value="5"/>
+        <wishing value="16"/>
+        <numcomments value="27"/>
+        <numweights value="10"/>
+        <averageweight value="1.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

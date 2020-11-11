@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="21997">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/m1zWPobcsys-2NuKZvOL52c-oZA=/fit-in/200x150/pic111312.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/oeU_Tu8KJvjheiZLsAjrq_TDf3w=/0x0/pic111312.jpg</image>
+    <name type="primary" sortindex="1" value="Triumph of the Will"/>
+    <description>In this alternate history, Nazi Germany and Japan who won WW II have started WWW III in 1948.&amp;#10;&amp;#10;This games deals with the German Invasion of Japan. The German have super elite troops such as some of the best and most well known panzerdivisions, heavy Maus tank units, US Marines, ME-262 fighters, the Kriegsmarine, Rommel, Guderian and Von Manstein and others, the Japanese have the numbers, but also Samurai divisions, Kamikaze, the Emperor.&amp;#10;&amp;#10;The game uses the rules, map and many units of Samurai Sunset as well as new units and additional rules. It is Operation Olympic launched by Germany instead of by the USA.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1990"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="26464" value="Alternate History"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="7.55"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.01119"/>
+        <median value="0"/>
+        <owned value="80"/>
+        <trading value="3"/>
+        <wanting value="7"/>
+        <wishing value="8"/>
+        <numcomments value="8"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

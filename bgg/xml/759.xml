@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="759">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/feB8xv-w_B4V6475dDIu3IHAV_U=/fit-in/200x150/pic290588.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/rp183e35a2Qcs8TlQjnbNfAH3IU=/0x0/pic290588.jpg</image>
+    <name type="primary" sortindex="1" value="Turning Point: Stalingrad"/>
+    <description>Turning Point: Stalingrad is mid-complexity wargame on the battle of Stalingrad during World War 2. Attackers from the German 6th Army must dislodge the Russian 62nd Army and take the city of Stalingrad before the commencement of Operation Uranus. If the city could be taken, German troops could then be re-deployed to reinforce the Italian and Rumanian formations holding the flanks of along the Volga. The fiasco at Stalingrad can then be prevented.&amp;#10;&amp;#10;The game is an operational level treatment of the actual streetfighting. Each turn is a day comprising of a variable number of daylight and night impulses. Units are battalions and armoured units representing AFVs in platoon and company strength. The map is on a scale of 1 inch to 500 metres, depicting the city of Stalingrad and its western approaches, divided into 74 areas divided according to terrain features, and rated for defensive suitability. Victory is determined by the number of objectives captured by the German player each week. If it exceeds the requirements for the week, he wins. If not the Russian player wins. If it is equal to the victory requirement, the game is extended by another week, with a different(higher) victory objective requirement.&amp;#10;&amp;#10;Game comprises two 22&amp;quot; by 16&amp;quot; mounted mapboards, counters, rules and charts.&amp;#10;&amp;#10;The game uses the area-impulse system used in Storm over Arnhem, Thunder at Cassino and Breakout: Normandy.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1989"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+      <results numplayers="1">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="13"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+    </poll>
+    <playingtime value="1800"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="1800"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="5"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="1"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamefamily" id="18538" value="Avalon Hill area-impulse series"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgameexpansion" id="13612" value="Turning Point: Stalingrad Expansion Kit"/>
+    <link type="boardgamedesigner" id="76" value="Don Greenwood"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="12422" value="George I. Parrish, Jr."/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="671"/>
+        <average value="7.22209"/>
+        <bayesaverage value="6.05838"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2005" bayesaverage="6.05838"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="210" bayesaverage="6.84188"/>
+        </ranks>
+        <stddev value="1.27647"/>
+        <median value="0"/>
+        <owned value="1623"/>
+        <trading value="43"/>
+        <wanting value="60"/>
+        <wishing value="125"/>
+        <numcomments value="282"/>
+        <numweights value="104"/>
+        <averageweight value="3.3269"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

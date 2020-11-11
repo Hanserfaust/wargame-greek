@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="72622">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_9Rk_uAC5lIa4pmQG6bL6Wj2_AA=/fit-in/200x150/pic761940.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/mYwsgud2RgKXQ7Je9JV2OAqQjgk=/0x0/pic761940.jpg</image>
+    <name type="primary" sortindex="1" value="Rattenkrieg"/>
+    <name type="alternate" sortindex="1" value="Rattenkrieg: Assault on the Tracktor Factory"/>
+    <description>This is the first game in the TPS line of the Pocket Battle Games series from LPS, Inc.&amp;#10;&amp;#10;A solitaire postcard game of the intense fighting for the Tractor Factory in the Battle for Stalingrad. The player takes the role of the Germans as he maneuvers panzers, infantry, and elite pioneers into the ruins to hunt down the Soviets. Ambushes, snipers, and tough decisions await the Germans as they push deeper into the city.&amp;#10;&amp;#10;The longer the game lasts the more Soviet Reinforcements infiltrate through the ruins to surround and cut off the attackers. To win the player will have to master warfare in the most brutal of all WWII battlefields&amp;#10;&amp;#10;Rattenkrieg is literally &amp;quot;War of the Rats&amp;quot; and is the name given to irregular and deadly city fighting. Brought published by Turning Point Simulations and designed by Steven Cunliffe who also made The Hell of Stalingrad.&amp;#10;&amp;#10;Rattenkrieg inspired the game Savage Streets, published in Special Ops magazine #1 (2011).&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="20"/>
+    <minplaytime value="20"/>
+    <maxplaytime value="20"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="4"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="3227" value="Pocket Battle Games"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="16723" value="Steven Cunliffe"/>
+    <link type="boardgameartist" id="11882" value="Craig Grando"/>
+    <link type="boardgamepublisher" id="1243" value="LPS, Inc."/>
+    <link type="boardgamepublisher" id="11440" value="Turning Point Simulations"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="90"/>
+        <average value="5.70833"/>
+        <bayesaverage value="5.5149"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12755" bayesaverage="5.5149"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2483" bayesaverage="5.59211"/>
+        </ranks>
+        <stddev value="1.3477"/>
+        <median value="0"/>
+        <owned value="416"/>
+        <trading value="31"/>
+        <wanting value="2"/>
+        <wishing value="17"/>
+        <numcomments value="83"/>
+        <numweights value="30"/>
+        <averageweight value="1.3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

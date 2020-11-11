@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="11514">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/j1QqOx61p-exyzpEx_u15h3EEhc=/fit-in/200x150/pic80995.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LMS9nqPkMG4BXUDPMbfDkpf7FqQ=/0x0/pic80995.jpg</image>
+    <name type="primary" sortindex="1" value="Musket &amp; Pike"/>
+    <description>&amp;ldquo;Musket and Pike is a simulation of the art of warfare in Europe from the introduction of manageable individual-man firearms to the introduction of the socket bayonet in the late Seventeenth Century. The game presents the tactics and possible results of many of these battles during this period. These battles are shown as scenarios giving a mix of units which are moved and engage in combat on the mapsheet.&amp;rdquo;&amp;#10;--from the Introduction of Musket &amp;amp; Pike&amp;#10;&amp;#10;Contents&amp;#10;&amp;#10;one 22&amp;quot; by 29&amp;quot; mapsheet&amp;#10;one set of game rules&amp;#10;400 die-cut counters&amp;#10;one box&amp;#10;one die&amp;#10;&amp;#10;Scenarios Included&amp;#10;&amp;#10;&amp;#10;     Mookerhyde -- 14 April 1574&amp;#10;     Coutras 20 -- October 1587&amp;#10;     Nieuport -- 2 July 1600&amp;#10;     White Mountain -- 8 November 1620&amp;#10;     Fleurus -- 29 August 1622&amp;#10;     Breitenfeld -- 17 September 1632&amp;#10;     Lutzen -- 16 November 1632&amp;#10;     Nordlingen -- 6 September 1634&amp;#10;     Dunkirk Dunes -- 3 June 1658&amp;#10;     Brentford -- 12 November 1642&amp;#10;     Grantham -- 13 May 1643&amp;#10;     Staverton -- 4 July 1643&amp;#10;     Marston Moor -- 1 July 1644&amp;#10;     Aberdeen -- 15 September 1644&amp;#10;     Naseby -- 14 June 1645&amp;#10;     Dunbar -- 3 September 1650&amp;#10;     Szentgotthard -- 1 August 1664&amp;#10;     Killiecrankie -- 27 July 1689&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="91" value="No necessary in-game text" numvotes="0"/>
+        <result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="95" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2725" value="Pike and Shot"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamefamily" id="2656" value="SPI Tactical Series"/>
+    <link type="boardgamedesigner" id="1925" value="John Young"/>
+    <link type="boardgameartist" id="5061" value="Manfred F. Milkuhn"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="70"/>
+        <average value="6.58286"/>
+        <bayesaverage value="5.5559"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8704" bayesaverage="5.5559"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1626" bayesaverage="5.83454"/>
+        </ranks>
+        <stddev value="1.35625"/>
+        <median value="0"/>
+        <owned value="217"/>
+        <trading value="5"/>
+        <wanting value="7"/>
+        <wishing value="15"/>
+        <numcomments value="51"/>
+        <numweights value="12"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

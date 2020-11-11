@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="29870">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iYEatr2P1fCbQEnM_Rq91qinGN8=/fit-in/200x150/pic217339.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Zpe8kZXCqM0GbTg-Azi3XSNELFM=/0x0/pic217339.jpg</image>
+    <name type="primary" sortindex="1" value="Here I Stand: 2-Player Diplomacy Deck"/>
+    <description>The Here I Stand: 2-Player Diplomacy Deck allows two players to go head-to-head as the Papacy and the Protestants, with the four other major powers continuing to influence the game.  19 new cards in this expansion.&amp;#10;The rule adjustments for this variant run about 3 pages. Playing time for experienced players is under 3 hours.&amp;#10;&amp;#10;Issue Nr19 of RBM's C3i Magazine includes the variant. It is the first set of playing cards ever published with the Magazine (other than Rise of the Luftwaffe cards that needed to be cut apart for use).&amp;#10;&amp;#10;This variant is also included in the deluxe edition of Here I Stand.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="12"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="2"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="6" value="No necessary in-game text" numvotes="0"/>
+        <result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="3"/>
+        <result level="10" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1026" value="Negotiation"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1115" value="Religious"/>
+    <link type="boardgamecategory" id="1070" value="Renaissance"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="21567" value="Magazine: C3i"/>
+    <link type="boardgameexpansion" id="17392" value="Here I Stand" inbound="true"/>
+    <link type="boardgamedesigner" id="674" value="Ed Beach"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <link type="boardgamepublisher" id="9367" value="RBM Studio"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="147"/>
+        <average value="7.40918"/>
+        <bayesaverage value="5.68694"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.68694"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.3791"/>
+        </ranks>
+        <stddev value="1.44328"/>
+        <median value="0"/>
+        <owned value="810"/>
+        <trading value="28"/>
+        <wanting value="21"/>
+        <wishing value="65"/>
+        <numcomments value="120"/>
+        <numweights value="37"/>
+        <averageweight value="3.6216"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

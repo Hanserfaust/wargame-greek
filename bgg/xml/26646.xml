@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="26646">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/WyQREROx0DVqUBg5MgSwBKuZbS0=/fit-in/200x150/pic613296.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/oSV7qmMetksneA_L1MkBlxltDt0=/0x0/pic613296.jpg</image>
+    <name type="primary" sortindex="1" value="Battles with the Gringos, Mexico 1846-62"/>
+    <description>For everyone who enjoyed all the battles in GRINGO, as well as any gamer who is looking for small, interesting, unusual and fast-playing battles of any era, here is a module that provides all of that.&amp;#10;&amp;#10;Battles with the Gringos fills in most of the blanks - the important battles we had to leave out - for our coverage of The Mexican War. And, in addition to providing the usual rules clarifications and updates, we have added a rule for using Skirmishers that will be usable in all games in the GBACW system.&amp;#10;&amp;#10;But it's the battles that make the game, and we have four half-map engagements that are each different, each with its own, unusual terrain, each with a set of problems facing both players. And each battle takes only a couple of hours, as well as being very playable solitaire.&amp;#10;&amp;#10;Palo Alto: May 8, 1846. The opening battle of the war, what looks to be a straightforward Napoleonic battle line special but ends up nothing of the sort, thanks to Ringgold's &amp;quot;flying artillery&amp;quot;, grass fires, and a cast of most unusual characters.&amp;#10;&amp;#10;Resaca de la Palma: May 9, 1846. A numerically superior Mexican force in an extremely strong defensive position, mostly hidden from the incoming Americans. One of the most unusual battlefields in gaming, the scenario is given a variety of gaming possibilities as well as two-player hidden deployment.&amp;#10; Contreras: August 20, 1847. An assumedly unassailable and unapproachable Mexican position is trumped by some great scouting work by a young Robert E. Lee, resulting in a Mexican rout. But it did not have to happen that way. Maybe Santa Anna will use his reserves to negate the American attack. Maybe it will turn out completely differently.&amp;#10;&amp;#10;Puebla: May 5, 1862. A venture into another way, for the battle that resulted in the well-known Mexican holiday, Cinco de Mayo. A strong division of veteran French soldiers, fighting for the Emperor Maximilian, attack a nicely-defended Mexican position right outside this important, of-fought-over city. Cavalry charges, assaults on forts, and a rather prescient use of trenches result in a nicely balanced game. &amp;#10;Components&amp;#10;&amp;#10;Two 33&amp;quot;x22&amp;quot; mapsheets (each with 2 battles) &amp;#10;One sheet of counters &amp;#10;Battle Rules&amp;#10;&amp;#10;You will need GRINGO to play the battles herein.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1055" value="American West"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10642" value="Country: Mexico"/>
+    <link type="boardgamefamily" id="103" value="Great Battles of the American Civil War"/>
+    <link type="boardgameexpansion" id="10623" value="Gringo!" inbound="true"/>
+    <link type="boardgamedesigner" id="36912" value="John Alsen"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="20433" value="Martin Scott"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="54"/>
+        <average value="7.31667"/>
+        <bayesaverage value="5.56577"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56577"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.92485"/>
+        </ranks>
+        <stddev value="1.43395"/>
+        <median value="0"/>
+        <owned value="406"/>
+        <trading value="11"/>
+        <wanting value="5"/>
+        <wishing value="17"/>
+        <numcomments value="33"/>
+        <numweights value="14"/>
+        <averageweight value="3.2857"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

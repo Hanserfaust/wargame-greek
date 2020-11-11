@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5835">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/CR0WyVn3rLGieWi3YRdc4GV3OzU=/fit-in/200x150/pic43060.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HhP9xXlWOPLf37jEdHSJz559tl0=/0x0/pic43060.jpg</image>
+    <name type="primary" sortindex="1" value="Command Decision"/>
+    <description>Command Decision is a set of miniatures rules which enables players to refight operational-level combined arms engagements during WWII.&amp;#10;&amp;#10;It shows the importance of each element of the combined arms team and does so in a fast-playing format that uniquely captures the pace and tempo of modern mobile combat.&amp;#10;&amp;#10;Game Components include:&amp;#10;&amp;#10;One rules book&amp;#10;One data chart booklet&amp;#10;One organization booklet&amp;#10;One campaign booklet&amp;#10;One rules summary folder&amp;#10;Four game reference charts&amp;#10;One sheet of markers&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgameexpansion" id="20536" value="Barbarossa 25: Command Decision Series Game"/>
+    <link type="boardgameexpansion" id="20535" value="Bastogne: Command Decision Series Module"/>
+    <link type="boardgameimplementation" id="6700" value="Command Decision II"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgameartist" id="12251" value="Steve Venters"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="90"/>
+        <average value="6.38789"/>
+        <bayesaverage value="5.54913"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9184" bayesaverage="5.54913"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1833" bayesaverage="5.77724"/>
+        </ranks>
+        <stddev value="1.57916"/>
+        <median value="0"/>
+        <owned value="244"/>
+        <trading value="19"/>
+        <wanting value="0"/>
+        <wishing value="7"/>
+        <numcomments value="31"/>
+        <numweights value="11"/>
+        <averageweight value="3.5455"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

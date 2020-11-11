@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="22155">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bczZRW4vb2GICJWgEfgoynNO6Xo=/fit-in/200x150/pic371864.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FIH6a9OxR5e_xz4wQOEICyVgr88=/0x0/pic371864.jpg</image>
+    <name type="primary" sortindex="1" value="Dien Bien Phu ATS Upgrade: French Indochina 1954"/>
+    <name type="alternate" sortindex="1" value="ATS Dien Bien Phu"/>
+    <description>This is a game in the Advanced Tobruk System (ATS) that allows players to recreate squad-level actions in the World War II era (1930s to 1950s).&amp;#10;&amp;#10;A complete ATS game in a ziploc pits French paratroopers against Viet Minh in this famous battle.&amp;#10; IN EACH GAME YOU GET:&amp;#10;- A complete collection of color die-cut counters in 1/2&amp;rdquo;, 5/8&amp;rdquo; and 3/4&amp;rdquo; sizes,&amp;#10;providing the tanks, guns, and men that fought in the battle depicted; &amp;#10;- Detailed game maps on heavyweight stock; &amp;#10;- The latest edition of the ATS rules of play; &amp;#10;- Scenarios and Play Aids printed on separate heavyweight cards;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="112" value="Advanced Tobruk System"/>
+    <link type="boardgamefamily" id="22762" value="First Indochina war"/>
+    <link type="boardgamedesigner" id="3351" value="Carl Nogueira"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="17"/>
+        <average value="7.87059"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.18895"/>
+        <median value="0"/>
+        <owned value="61"/>
+        <trading value="2"/>
+        <wanting value="6"/>
+        <wishing value="6"/>
+        <numcomments value="10"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

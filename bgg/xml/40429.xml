@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="40429">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/lYQnkTUl7GWR7f25c0cDOn-zmEk=/fit-in/200x150/pic4770860.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ukC8DWUbPQs1Qcn0v1Al5LadvBU=/0x0/pic4770860.jpg</image>
+    <name type="primary" sortindex="1" value="Tsushima: Tactical Naval Combat in the Pre-Dreadnought Era, 1890-1906"/>
+    <description>Tsushima is a complete standalone game.  It employs the Battleship Captain game system of swift naval combat, and the rules and components of the two designs are fully compatible.  If you own  Battleship Captain, you already have all the components contained in Tsushima.&amp;#10;&amp;#10;Scenarios include:&amp;#10;&amp;#10;Tsushima&amp;#10;Tsushima (variant)&amp;#10;Britain vs. Germany or France (hypothetical)&amp;#10;Rule Britannia (hypothetical)&amp;#10;Pacific Supremacy (hypothetical)&amp;#10;Design your own&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;Rules booklet&amp;#10;2 sheets of ship counters&amp;#10;one sheet of game markers&amp;#10;Reference Card&amp;#10;scenarios&amp;#10;&amp;#10;Included in:&amp;#10;&amp;#10;&amp;#10;    Battleship Captain&amp;#10;&amp;#10;&amp;#10;Followed by:&amp;#10;&amp;#10;&amp;#10;    Grand Fleet: Tactical Naval Combat in the Dreadnought Era, 1906-1919&amp;#10;    Battlewagons: Tactical Naval Combat in the World War II Era, 1920-1945&amp;#10;&amp;#10;&amp;#10;Includes a complimentary copy of Salvo!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.816497"/>
+        <median value="0"/>
+        <owned value="9"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="3"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

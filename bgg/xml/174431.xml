@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="174431">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bVqTTt75qHTJrsGtV7KW6pF08F4=/fit-in/200x150/pic2438075.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OZNBDdCg7fGngytLmiXbKfFcJd4=/0x0/pic2438075.jpg</image>
+    <name type="primary" sortindex="1" value="Wipers Salient"/>
+    <description>During WWI, Ypres was the centre of intense and sustained battles between German and Allied forces. In the game of Wipers Salient you play the part of the Allies trying to hold back the massive forces of Germany during a series of incessant attacks.&amp;#10;&amp;#10;Wipers Salient is a solitaire deck building game using a deck of 52 specialised cards. You have to gather your resources to maintain your Health and Morale, whilst attacking the enemy to avoid being overwhelmed.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="10"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2664" value="Deck / Pool Building"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="8877" value="Felbrigg Herriot"/>
+    <link type="boardgameartist" id="8877" value="Felbrigg Herriot"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="61"/>
+        <average value="7.16721"/>
+        <bayesaverage value="5.56322"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8177" bayesaverage="5.56322"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1832" bayesaverage="5.77747"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="842" bayesaverage="5.62116"/>
+        </ranks>
+        <stddev value="1.25145"/>
+        <median value="0"/>
+        <owned value="123"/>
+        <trading value="2"/>
+        <wanting value="18"/>
+        <wishing value="71"/>
+        <numcomments value="41"/>
+        <numweights value="6"/>
+        <averageweight value="1.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

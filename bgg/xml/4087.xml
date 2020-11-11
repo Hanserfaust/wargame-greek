@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4087">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fVYz-6nvfPbJEyGUxEH6rT27sbQ=/fit-in/200x150/pic262312.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/yqcTaE2KVwfr0EbbPcLcnGNE3cM=/0x0/pic262312.jpg</image>
+    <name type="primary" sortindex="1" value="1812"/>
+    <description>Two versions are included, using separate maps covering most of Russia. The strategic game is area driven, while the tactical version covers the game scope but using hex mechanics.&amp;#10;&amp;#10;There is an earlier version of the box that is NOT plastic, it is a completely cardboard box. Many of the early SPI games came in these cardboard boxes until someone bright decided that the plastic ones would be cheaper and more easily manipulated for advertising.&amp;#10;&amp;#10;400 Counters&amp;#10;&amp;#10;</description>
+    <yearpublished value="1972"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgamefamily" id="20779" value="SPI Leipzig System"/>
+    <link type="boardgamedesigner" id="206" value="Phil Orbanes Sr."/>
+    <link type="boardgamedesigner" id="1925" value="John Young"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="59"/>
+        <average value="6.7339"/>
+        <bayesaverage value="5.54825"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9246" bayesaverage="5.54825"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1860" bayesaverage="5.76749"/>
+        </ranks>
+        <stddev value="1.17251"/>
+        <median value="0"/>
+        <owned value="203"/>
+        <trading value="7"/>
+        <wanting value="12"/>
+        <wishing value="21"/>
+        <numcomments value="45"/>
+        <numweights value="10"/>
+        <averageweight value="2.2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="31716">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/imZSXEDdLo3mGqyZ77fXoXY2nks=/fit-in/200x150/pic253107.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ytXF95bqXlVDnH7wbaQWWcSrECE=/0x0/pic253107.jpg</image>
+    <name type="primary" sortindex="1" value="Battleship Captain"/>
+    <description>From the publisher's webpage:&amp;#10;&amp;#10;Battleship Captain is a simulation game depicting ship vs ship combat in the era of the battleship.  The game covers warships produced in the pre-dreadnought (1890-1906), dreadnought (1906-1919), and World War II (1920-1945) eras, providing gamers the chance to replay a virtually unlimited number of historical or hypothetical scenarios occurring during the six decade &amp;quot;golden age&amp;quot; of the battleship.&amp;#10;    What's Included:  Over ONE THOUSAND individually rated warships (light cruiser size and larger) from over twenty of the world's navies, from the three eras represented in the game, on twenty-two counter sheets; 150 generic destroyer and merchant ship counters; 56-page comprehensive rulebook containing standard instructions applicable to each major period, plus separate chapters with &amp;quot;era specific&amp;quot; rules, Ship Rating Index, designer's notes, over thirty scenarios; scenario guidelines folder; over 300 color game markers and playing gauges; and three Reference Cards.  This is a full, complete game... nothing else is  needed to recreate surface combat over the entire period!&amp;#10;   Battleship Captain is a &amp;quot;miniatures&amp;quot; game system with scenarios played on the tabletop or floor, using the rules and ship counters provided.  (You may freely substitute metal miniatures if you wish.)   The game emphasized playability, as players maneuver their ships and try to defeat the enemy.  The counters (measuring 2.5&amp;quot; x 5/8ths inch) are printed in black ink on different colored cardstock, and need to be mounted and separated prior to play.  Game scale is seven turns per hour, and 1000 yards per inch.  Ships are rated, right on their counter, in the following categories:  name, nationality, ship type, year, flotation, stern-broadside-bow fire ratings, movement, armor, and nine &amp;quot;special characteristics&amp;quot; ratings, plus an overhead scale view of the ship's deck.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgameexpansion" id="100216" value="Battle of the River Plate"/>
+    <link type="boardgameexpansion" id="121098" value="The Mighty Hood II"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="7.92188"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.647825"/>
+        <median value="0"/>
+        <owned value="46"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="10"/>
+        <numcomments value="15"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

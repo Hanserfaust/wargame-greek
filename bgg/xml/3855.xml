@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3855">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/JUwJjntZXwAZ-riT2qNsAQFsNeQ=/fit-in/200x150/pic14364.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/38Wqj5lp1P6fSiOETppL_0t5gzU=/0x0/pic14364.jpg</image>
+    <name type="primary" sortindex="1" value="Crimson Skies"/>
+    <description>Crimson Skies is a character-based board game of dogfighting and dive bombing in an aviation-dominated world; a simple, fast-playing game of pulp-fiction-style air combat.  It is a game about the men and women who pilot flying nightmares, the metal-sheathed birds of prey that spit death from the sky.&amp;#10;&amp;#10;In Crimson Skies, you are at the top of the aviation food chain - a fighter pilot, one of the fearless men and women who take to the skies each day for honor or profit.  Each player generates a minimum of two characters, a pilot and his or her wingman.  If your characters survive from mission to mission, they gain experience that can translate into better skills, and thus even better chances for future survival and success.  While this is a combat board game, not a roleplaying game, telling tales about your characters will invest the game with action, drama and humor, making the game-playing experience even more enjoyable.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1998"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="8"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="3"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="31" value="No necessary in-game text" numvotes="0"/>
+        <result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="35" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1044" value="Collectible Components"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgameexpansion" id="40901" value="Crimson Skies: Aircraft Manual"/>
+    <link type="boardgameexpansion" id="40201" value="Crimson Skies: Behind the Crimson Veil"/>
+    <link type="boardgameexpansion" id="40902" value="Crimson Skies: Blake Aviation Security"/>
+    <link type="boardgameexpansion" id="40903" value="Crimson Skies: Pride of the Republic"/>
+    <link type="boardgameexpansion" id="40989" value="Crimson Skies: Spicy Air Tales"/>
+    <link type="boardgameexpansion" id="40905" value="Crimson Skies: The Airman's Gazetteer"/>
+    <link type="boardgameexpansion" id="22370" value="Crimson Skies: Wings Over Manhattan"/>
+    <link type="boardgamedesigner" id="757" value="Michael Stackpole"/>
+    <link type="boardgamedesigner" id="411" value="Jordan Weisman"/>
+    <link type="boardgamepublisher" id="1397" value="Fanpro"/>
+    <link type="boardgamepublisher" id="342" value="FASA"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="368"/>
+        <average value="7.06107"/>
+        <bayesaverage value="5.81127"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3251" bayesaverage="5.81127"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="623" bayesaverage="6.29759"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="515" bayesaverage="5.99647"/>
+        </ranks>
+        <stddev value="1.53435"/>
+        <median value="0"/>
+        <owned value="787"/>
+        <trading value="40"/>
+        <wanting value="26"/>
+        <wishing value="66"/>
+        <numcomments value="146"/>
+        <numweights value="45"/>
+        <averageweight value="2.9333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

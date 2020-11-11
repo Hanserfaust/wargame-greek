@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="40455">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/2fxfdlUozhrrgpT7Lv96J81RQ2U=/fit-in/200x150/pic422889.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1eC4cMJCgOEcU_DfhYG5K89JNLg=/0x0/pic422889.jpg</image>
+    <name type="primary" sortindex="1" value="Skirmish Wars: Advance Tactics"/>
+    <name type="alternate" sortindex="1" value="SWAT"/>
+    <description>Skirmish Wars: Advance Tactics is a light - medium weight wargame based on the wildly popular turn-based strategy game Advance Wars released by Nintendo.  It will be a print and play game with a modular game board system for endless variety.   The main objective will be to capture your enemy's HQ or eliminate all enemy threats.  Players will start many scenarios without units and just a handful of money.  By building units and capturing cites, players can raise new capital in order to build bigger armies.&amp;#10;&amp;#10;If the design is successful, the possibility of incorporating armies from newer Advance Wars games will be considered.  This version will include 4 armies, CO's and special powers from the first Advance Wars game released on the Gameboy Advance.&amp;#10;&amp;#10;Microbadge: &amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="76" value="No necessary in-game text" numvotes="3"/>
+        <result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="80" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1086" value="Territory Building"/>
+    <link type="boardgamecategory" id="1101" value="Video Game Theme"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgameexpansion" id="99258" value="Skirmish Wars: Blitz"/>
+    <link type="boardgameimplementation" id="184507" value="Skirmish Wars: Colonize"/>
+    <link type="boardgamedesigner" id="11701" value="Matthew Kloth"/>
+    <link type="boardgamedesigner" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamedesigner" id="11715" value="Andrew Tullsen"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="772" value="(Unpublished)"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="14966" value="Print &amp; Play Productions"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="67"/>
+        <average value="7.41442"/>
+        <bayesaverage value="5.55911"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8467" bayesaverage="5.55911"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2127" bayesaverage="5.69471"/>
+        </ranks>
+        <stddev value="1.73513"/>
+        <median value="0"/>
+        <owned value="122"/>
+        <trading value="5"/>
+        <wanting value="22"/>
+        <wishing value="199"/>
+        <numcomments value="48"/>
+        <numweights value="15"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

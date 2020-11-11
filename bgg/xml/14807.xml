@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="14807">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/cE3CQRPxbbhgHGi6FLabuBPNq6c=/fit-in/200x150/pic160299.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/28zH5zq36xa_ZwMZnPhiIrZcllQ=/0x0/pic160299.jpg</image>
+    <name type="primary" sortindex="1" value="Siege of Leningrad:  Logistics Module I"/>
+    <description>Siege of Leningrad was published as a mini-sim in Issue 9 of Panzerschreck Magazine in 2002/2003.  It is an abstract solitaire game where the player controls the Russian defenders of Leningrad and attempts to survive 300 game turns (30 months).  The game is consists of 8 pages of rules, a 4.25 x 5.5 &amp;quot;map sheet&amp;quot;, an even smaller &amp;quot;scoring track&amp;quot; which records the status of Leningrad and 29 counters.  As with all Panzerschreck mini-sims, the maps and counters need to be copied, mounted on card stock and cut out before use.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1009" value="Abstract Strategy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="18637" value="Cities: St Petersburg / Petrograd / Leningrad"/>
+    <link type="boardgamefamily" id="6221" value="Magazine: Panzerschreck"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.816497"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="7"/>
+        <numcomments value="8"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

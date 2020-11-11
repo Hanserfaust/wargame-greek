@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="218422">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/S_DdIYDd05h7d7RBudnml4AJohk=/fit-in/200x150/pic3867909.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OhaoCIDEFxOSJ4qj7vsM1nLIuok=/0x0/pic3867909.jpg</image>
+    <name type="primary" sortindex="1" value="Wing Leader: Blitz 1939-1942"/>
+    <description>(From GMT's website: )&amp;#10;&amp;#10;Wing Leader: Blitz is the first expansion for GMT&amp;rsquo;s Wing Leader  system. Blitz adds more aircraft and scenarios to play while expanding the game into new theaters of war. Fly Dewoitine D.520 fighters into the cauldron of battle against German Heinkels. Lead Japanese Ki-27s against the Soviets in the skies over Nomonhan. Direct Royal Navy Fulmars and Martlets at Italian torpedo bombers in Operation Pedestal. Launch P-39D Airacobras against Japanese invasion forces approaching New Guinea.&amp;#10;&amp;#10;New Aircraft will also include the Soviet I-16, I-153 and MiG-3, the Curtiss Hawk 75 fighter, and most of the major French fighters including the M.S.406 and MB.152C.&amp;#10;&amp;#10;Players will need a copy of Wing Leader: Victories 1940-1942 to play Wing Leader: Blitz.&amp;#10;&amp;#10;In addition to new aircraft and scenarios, Wing Leader: Blitz features a brand-new campaign system, which recreates air actions in the early weeks of the German invasion of the Soviet Union. The campaign comes with its own 11 x 17&amp;rdquo; campaign map, while special markers for tracking bomb damage are included for the first time. The campaign will confront the German and Soviet players with tough decisions on targeting, attack planning and raid execution in the desperate days of Operation Barbarossa.&amp;#10;&amp;#10;Wing Leader: Blitz brings the major air combats of the Blitzkrieg right to your gaming table.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="39731" value="Wing Leader Series"/>
+    <link type="boardgameexpansion" id="183578" value="Wing Leader: Supremacy 1943-1945" inbound="true"/>
+    <link type="boardgameexpansion" id="160418" value="Wing Leader: Victories 1940-1942" inbound="true"/>
+    <link type="boardgamedesigner" id="2370" value="Lee Brimmicombe-Wood"/>
+    <link type="boardgameartist" id="2370" value="Lee Brimmicombe-Wood"/>
+    <link type="boardgameartist" id="105186" value="Antonis Karidis"/>
+    <link type="boardgameartist" id="36639" value="Ian Wedge"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="47"/>
+        <average value="8.09681"/>
+        <bayesaverage value="5.58472"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58472"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.013"/>
+        </ranks>
+        <stddev value="1.36785"/>
+        <median value="0"/>
+        <owned value="380"/>
+        <trading value="7"/>
+        <wanting value="7"/>
+        <wishing value="23"/>
+        <numcomments value="29"/>
+        <numweights value="2"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

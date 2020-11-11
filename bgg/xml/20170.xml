@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="20170">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/n8SBKwqBWzOxGAlXKmZAa3rZKa0=/fit-in/200x150/pic264622.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/5wiVgtKKmAcr7dXIVnqwBph3WJw=/0x0/pic264622.jpg</image>
+    <name type="primary" sortindex="1" value="Space Orx"/>
+    <description>Space Orx is the second supplement for Injurius Games. This supplement brings the bar way, way down, in more ways than one: the Orx are rude, crude and easy to operate. They are faster on the ground that the Humans, have lots of hit points and powerful weapons. Orx almost never lack for Command Points, and their size and strength make them naturals in melee. These guys are off the wall, and their Skilz and Stuff reflect that: for example, who else eats Brain Candy (you have to be stupid to eat Brain Candy!), or drinks G.I. Coffee (this stuff makes Human coffee look like a hot milk toddy!)? And only Orx have the Tag Team Skill (gang up on a hapless opponent in melee!), and Athletics (Orx make physical fitness their priority).&amp;#10;&amp;#10;Space Orx is not a stand-alone game. You need a copy of Injurious Games to play Space Orx.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Injurius Games&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameexpansion" id="20172" value="Injurius Games" inbound="true"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="4621" value="Red Shirt Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1"/>
+        <median value="0"/>
+        <owned value="1"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

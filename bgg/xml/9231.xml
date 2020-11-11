@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="9231">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/dAnrHPYvN7J4DCx3RsnWP3x20O0=/fit-in/200x150/pic46062.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/AFQpje_qF66Bzi7eQTAaEmmwMM4=/0x0/pic46062.jpg</image>
+    <name type="primary" sortindex="1" value="Harpoon: South Atlantic War"/>
+    <description>The South Atlantic War is a Harpoon source book that outlines the Falklands/Malvinas Conflict of 1982.  &amp;#10;There are:&amp;#10;- 24 Scenarios&amp;#10;- 60 Pre-generated Aircraft and Ship data sheets&amp;#10;- Historical background&amp;#10;- Full orders of battle&amp;#10;&amp;#10;</description>
+    <yearpublished value="1991"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+    <link type="boardgamefamily" id="6359" value="Harpoon Series"/>
+    <link type="boardgamefamily" id="27575" value="Islands: Falkland Islands"/>
+    <link type="boardgameexpansion" id="5928" value="Harpoon (1st &amp; 3rd edition)" inbound="true"/>
+    <link type="boardgameexpansion" id="11432" value="Harpoon 4" inbound="true"/>
+    <link type="boardgamedesigner" id="3133" value="Ed Kettler"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="74"/>
+        <average value="7.53784"/>
+        <bayesaverage value="5.59806"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.59806"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.06003"/>
+        </ranks>
+        <stddev value="1.32662"/>
+        <median value="0"/>
+        <owned value="247"/>
+        <trading value="3"/>
+        <wanting value="7"/>
+        <wishing value="23"/>
+        <numcomments value="35"/>
+        <numweights value="17"/>
+        <averageweight value="3.6471"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

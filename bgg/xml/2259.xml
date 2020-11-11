@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="2259">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Ky17UQ6QOWp6igFX6JWf_QYTfzw=/fit-in/200x150/pic158054.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/H7JSpo4SaOZTKoq-o_SLFGZDnME=/0x0/pic158054.jpg</image>
+    <name type="primary" sortindex="1" value="Afrika Korps"/>
+    <description>Easy and fun historical game of  Rommel&amp;rsquo;s battles with the English in North Africa during WW2. One of the early Avalon Hill beginner war games.&amp;#10;&amp;#10;From the back of the box:&amp;#10;Ever since men began making weapons they have used them to create legends: in early 1941, when his conquest of Europe was embarrassed by the rout of his Italian allies in Africa, Hitler dispatched General Erwin Rommel to forestall a seemingly inevitable Axis defeat. Reorganizing the forces under his command as the Deutsches Afrika Korps (DAK), Rommel immediately launched the first of his legendary desert offensives.&amp;#10;&amp;#10;Now, the legend of &amp;quot;The Desert Fox&amp;quot; is recreated. From April 1941 through the climatic battle at El Alamein in later 1942. Afrika Korps simulates the mobile conflict between Rommel's Panzerarmee Afrika and the British Eighth Army defending Egypt and the Suez Canal. During each monthly game-turn, the initiative may switch from the Germany to the Allied player as both come to understand why Rommel called North Africa &amp;quot;A tactician's paradise; a logistical officer's nightmare.&amp;quot;&amp;#10;&amp;#10;A 2 on Avalon Hill's complexity scale of 1(low) to 10(high). Playing time 2 to 4 hours&amp;#10;&amp;#10;Includes 44&amp;quot; x 14&amp;quot; mounted mapboard of North Africa, set of die-cut Axis and Allied military unit counters, combat results table, time record card, die, and rules.&amp;#10;&amp;#10;Avalon Hill Complexity rating - 2&amp;#10;&amp;#10;</description>
+    <yearpublished value="1964"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="7"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="17"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="10"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="5"/>
+        <result value="12" numvotes="9"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+      <results>
+        <result level="46" value="No necessary in-game text" numvotes="1"/>
+        <result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="7"/>
+        <result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="50" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="666" value="Charles S. Roberts"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="904"/>
+        <average value="6.18597"/>
+        <bayesaverage value="5.72952"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4018" bayesaverage="5.72952"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1178" bayesaverage="5.97208"/>
+        </ranks>
+        <stddev value="1.52168"/>
+        <median value="0"/>
+        <owned value="1980"/>
+        <trading value="114"/>
+        <wanting value="19"/>
+        <wishing value="57"/>
+        <numcomments value="477"/>
+        <numweights value="130"/>
+        <averageweight value="2.2846"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

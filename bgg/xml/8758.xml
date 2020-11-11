@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8758">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/sB6txerERZUYj9DGHj7l2NsSPb0=/fit-in/200x150/pic36382.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/CIwzkCr4dEKhyaGYomam-sDa3Yo=/0x0/pic36382.jpg</image>
+    <name type="primary" sortindex="1" value="Red Sun Rising"/>
+    <description>Red Sun Rising is a brigade/divisional level simulation of the Russo-Japanese War 1904-1905. The game map shows the theater of operations. The playing pieces represent the armed forces, both land and sea, of both belligerents that participated in the conflict.&amp;#10;&amp;#10;Components: one sheet of 400 counters, one sheet of 100 ship counters, one land map/strategic naval map, one tactical naval display, one rules booklet, one Japanese unit assignment Chart, one Russian unit assignment chart.&amp;#10;&amp;#10;Game Design: Frank Davis&amp;#10;Game Development: Mark Herman&amp;#10;Graphic Design: Redmond A. Simonsen&amp;#10;&amp;#10;</description>
+    <yearpublished value="1977"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="339" value="Frank Davis"/>
+    <link type="boardgamedesigner" id="152" value="Mark Herman"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgameartist" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgamepublisher" id="3406" value="Six Angles"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="52"/>
+        <average value="7"/>
+        <bayesaverage value="5.54633"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9423" bayesaverage="5.54633"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1747" bayesaverage="5.80183"/>
+        </ranks>
+        <stddev value="1.59627"/>
+        <median value="0"/>
+        <owned value="214"/>
+        <trading value="9"/>
+        <wanting value="13"/>
+        <wishing value="14"/>
+        <numcomments value="31"/>
+        <numweights value="8"/>
+        <averageweight value="3.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

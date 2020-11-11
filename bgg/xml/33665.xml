@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="33665">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/m0uN9L7ahSz9q6gFFcmhey_umMk=/fit-in/200x150/pic589526.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_u1FB_KKVUcw5JadKncWA3VSAVE=/0x0/pic589526.jpg</image>
+    <name type="primary" sortindex="1" value="Battle Above the Clouds"/>
+    <description>(from MMP's website :)&amp;#10;&amp;#10;Battle Above the Clouds is the 8th game in the award-winning Great Campaigns of the American Civil War (GCACW) series. This is the first game covering a western theater campaign and will serve as the core area for a series of maps covering the entire corridor from Nashville, Tennessee to Atlanta, Georgia. The game includes both the Chickamauga campaign of August/September, 1863 and the Chattanooga campaign of October/November of the same year.&amp;#10;&amp;#10;Battle Above the Clouds uses the same GCACW Standard Basic Game Rules that were first published in MMP's Skirmisher magazine and Grant Takes Command. The game scale remains unchanged for the western campaigns, although two new terrain types (hills and ridges) have been added to properly represent the rugged terrain that dominates the Chattanooga area.&amp;#10;[...]&amp;#10;&amp;#10;Battle Above the Clouds includes a wide variety of engagements in the Basic Game scenarios. The seven actions include two introductory scenarios, a cavalry raid, a fighting withdrawal, a series of operational maneuvers through mountainous terrain, and two large battles:&amp;#10;    -McLemore&amp;rsquo;s Cove (4 turns, September 10-13, 1863)&amp;#10;    -Crossing Chickamauga Creek (1 turn, September 18, 1863)&amp;#10;    -The Battle of Chickamauga (3 turns, September 18-20, 1863)&amp;#10;    -Wheeler&amp;rsquo;s Raid (8 turns, September 29-October 6, 1863)&amp;#10;    -Opening the Cracker Line (1 turn, October 28, 1863)&amp;#10;    -Lookout Mountain &amp;amp; Missionary Ridge (2 turns, November 24-25, 1863)&amp;#10;    -Ringgold Gap (2 turns, November 26-27, 1863)&amp;#10;&amp;#10;The two Advanced Game scenarios cover both major periods of campaigning in the region:&amp;#10;    -The Chickamauga Campaign (32 turns, August 29- September 29, 1863)&amp;#10;    -The Siege of Chattanooga (40 turns, October 28-December 6, 1863)&amp;#10;&amp;#10;The Advanced Game rule set has also been standardized so players will be able to quickly move to new campaigns in the series.&amp;#10;&amp;#10;Game Scale:&amp;#10;Turn: 1 day&amp;#10;Hex: 2000 yards / 1.15 mile&amp;#10;Unit: Regiment to Division&amp;#10;&amp;#10;Battle Above the Clouds contains:&amp;#10;    -GCACW Series Rules Booklet (approx 24 pgs)&amp;#10;    -BATC Specific Rules Booklet (approx 48 pgs including scenarios/designer notes)&amp;#10;    -Two 22&amp;quot;x32&amp;quot; full-color mapsheets&amp;#10;    -A full-color 11&amp;quot;x17&amp;quot; Off-Map Display&amp;#10;    -Two full-color Force Displays&amp;#10;    -Three Countersheets&amp;#10;    -Two 4-page color Charts and Tables&amp;#10;    -Two 6-sided Dice&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="7"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="4"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="102" value="Great Campaigns of the American Civil War"/>
+    <link type="boardgamedesigner" id="674" value="Ed Beach"/>
+    <link type="boardgamedesigner" id="9947" value="Mike Belles"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="44279" value="Mort Künstler"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="246"/>
+        <average value="8.02467"/>
+        <bayesaverage value="5.88886"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2756" bayesaverage="5.88886"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="157" bayesaverage="6.98234"/>
+        </ranks>
+        <stddev value="1.39994"/>
+        <median value="0"/>
+        <owned value="968"/>
+        <trading value="9"/>
+        <wanting value="48"/>
+        <wishing value="153"/>
+        <numcomments value="128"/>
+        <numweights value="35"/>
+        <averageweight value="3.7714"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

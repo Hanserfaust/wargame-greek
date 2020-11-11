@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1631">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OrYsjGZievYOZHeGKyK0Kq8fpBs=/fit-in/200x150/pic66518.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D3LBZ6zAlWPFGzKzvFspZOkYEfM=/0x0/pic66518.jpg</image>
+    <name type="primary" sortindex="1" value="Barbarian Prince"/>
+    <description>From the game box:&amp;#10;&amp;#10;Barbarian Prince is a solitaire game of heroic adventure in a forgotten age of barbarism and sorcery.  No opponent is necessary, as the Event Booklet takes you through a pre-programmed sequence of encounters which is different each time you play the game.  For each event, you, as the Barbarian Prince Cal Arath, must make the decisions which will make your quest successful - or may cost you your life.&amp;#10;&amp;#10;Barbarian Prince is a new concept in Adventure Gaming.  No rules reading is required; the programmed event sequence lets you begin play as soon as you open the box.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1981"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+      <results numplayers="1">
+        <result value="Best" numvotes="14"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="11"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="3"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="3"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="8"/>
+        <result level="5" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1022" value="Adventure"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="21631" value="Dwarfstar Games"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="693" value="Arnold Hendrick"/>
+    <link type="boardgameartist" id="21537" value="Frank Cirocco"/>
+    <link type="boardgameartist" id="34575" value="Cynthia Sims Millan"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="12620" value="Dwarfstar Games"/>
+    <link type="boardgamepublisher" id="368" value="Heritage USA"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="453"/>
+        <average value="6.52053"/>
+        <bayesaverage value="5.72249"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4100" bayesaverage="5.72249"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1026" bayesaverage="6.03884"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="639" bayesaverage="5.8197"/>
+        </ranks>
+        <stddev value="1.5909"/>
+        <median value="0"/>
+        <owned value="911"/>
+        <trading value="11"/>
+        <wanting value="70"/>
+        <wishing value="364"/>
+        <numcomments value="316"/>
+        <numweights value="54"/>
+        <averageweight value="2.4074"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

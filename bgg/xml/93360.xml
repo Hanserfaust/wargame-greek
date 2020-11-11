@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="93360">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KogCRCA50UPGxrzbYl-z_OlV4hQ=/fit-in/200x150/pic935198.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/bCpIQaq56GyoRgQjCW2s-WJk9Fw=/0x0/pic935198.jpg</image>
+    <name type="primary" sortindex="1" value="Battles for a Continent"/>
+    <description>Battles for a Continent is a low-complexity, tactical, print-and-play simulation of two Seven Years War (known as the French and Indian War in the United States) battles fought outside the gates of Quebec City: The Plains of Abraham (1759) and Sainte-Foy (1760). Battle scenario designs and OOB research were done by Dennis L. Bishop. Two sets of counters, one 22&amp;quot; x 17&amp;quot; map. The rules include stack disruption, leader effects, defensive fire against melee attacks and more. Included is a separate bonus game: Braddock's Defeat: The Battle of the Monongahela&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1262" value="Dennis Bishop"/>
+    <link type="boardgamedesigner" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="33438" value="Tom Cundiff"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="5.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.5"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="4"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="275956">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FTRAyj-yhCb_6AuoO3EHTW6x1GQ=/fit-in/200x150/pic4649552.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HKwfapeiJ987EsOZOpVfsmhX5jo=/0x0/pic4649552.jpg</image>
+    <name type="primary" sortindex="1" value="ARMIR. Operacija Malyj Saturn"/>
+    <description>ARMIR (ARMata Italiana in Russia) is a simulation of the December 1942 Soviet Offensive against the VIII Italian Army on the Don river. Unit scales: Divisions for Germans and Soviets, Regiments and battalions for the Italians.&amp;#10;&amp;#10;Issue game in Parabellum magazine V.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="300"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="18581" value="Country: Soviet Union"/>
+    <link type="boardgamefamily" id="10635" value="Country: Ukraine"/>
+    <link type="boardgamefamily" id="51363" value="Magazine: Parabellum"/>
+    <link type="boardgamedesigner" id="10019" value="Piergennaro Federico"/>
+    <link type="boardgameartist" id="108647" value="Sergio Schiavi"/>
+    <link type="boardgamepublisher" id="11378" value="Acies"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="7.875"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.15695"/>
+        <median value="0"/>
+        <owned value="44"/>
+        <trading value="0"/>
+        <wanting value="4"/>
+        <wishing value="6"/>
+        <numcomments value="3"/>
+        <numweights value="2"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

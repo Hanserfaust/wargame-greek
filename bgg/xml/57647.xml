@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="57647">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/qnjDtMcrkz9A7y7_3tDMg3dAuwE=/fit-in/200x150/pic4029204.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/L5jSvYeE-y7L8eN_V2axoJRfnPo=/0x0/pic4029204.jpg</image>
+    <name type="primary" sortindex="1" value="Dog Fight: Starship Edition"/>
+    <description>Do you have what it takes to captain a starship in combat? Check out the fast-paced space ship combat game Dog Fight: Starship Edition.&amp;#10;&amp;#10;This customizable sci-fi tactical/strategy game is as much about moving on the board as it is the cards you choose. You have simple actions to choose from and without the need of an RPG scoresheet you can manage your crew, your weapons, movement and your ship's special abilities. With 52 cards in each starter deck, choose your ship, chase down your opponents and see if you can out Captain the enemy.&amp;#10;&amp;#10;In Dog Fight: Starship Edition each player controls only one ship rather than a fleet of ships or horde of characters. For 2 or more players. Three levels of game play, booster packs available. Each deck set (starter and deluxe) is designed for one player only; your opponents need their own decks.&amp;#10;&amp;#10;Sample Turn:&amp;#10;&amp;#10;Each player performs 3 actions, which are either drawing a card, setting a card face down or passing. Player A has priority in this example.&amp;#10;&amp;#10;Action Phase 1&amp;#10;For this turn Player A sets 3 cards face down, which uses his/her 3 tiers. Player B does the same.&amp;#10;&amp;#10;Action Phase 2&amp;#10;Player A's tier 1 card is flipped face up and resolves. Player B's tier 1 card is flipped face up and resolves. Tiers 2 and 3 continue in this pattern.&amp;#10;&amp;#10;Action Phase 3&amp;#10;All cards played that do not last are discarded to the discard pile.&amp;#10;Priority player may draw 1 card from his/her deck for free.&amp;#10;&amp;#10;End of Round.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="2"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1044" value="Collectible Components"/>
+    <link type="boardgamecategory" id="1037" value="Real-time"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2685" value="Player Elimination"/>
+    <link type="boardgamedesigner" id="9187" value="Michael P. Fox"/>
+    <link type="boardgameartist" id="39039" value="John Hunter Barrie"/>
+    <link type="boardgameartist" id="9187" value="Michael P. Fox"/>
+    <link type="boardgameartist" id="39038" value="Max Shelekhov"/>
+    <link type="boardgamepublisher" id="7292" value="Fox Games"/>
+    <link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="22"/>
+        <average value="6.87273"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.80786"/>
+        <median value="0"/>
+        <owned value="37"/>
+        <trading value="3"/>
+        <wanting value="15"/>
+        <wishing value="45"/>
+        <numcomments value="13"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

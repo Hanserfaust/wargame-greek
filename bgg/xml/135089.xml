@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="135089">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mNNJG1p50yBPz-fIATZAVm0H-tc=/fit-in/200x150/pic1504944.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jXeWSy6Vn8MxuV4gysvdRepNB5E=/0x0/pic1504944.jpg</image>
+    <name type="primary" sortindex="1" value="Till Darkness Goes"/>
+    <description>Till Darkness Goes: The Battle of Tra Binh Dong is a wargame of the a battle fought by 11 Company of the ROK Marines against over 1500 NVA and VC near the Cambodian Border in 1966.&amp;#10;&amp;#10;Till Darkness Goesis an introductory level wargame on the first large-scale fight waged by the forces of the Republic of Korea in Vietnam at Tra Binh Dong. A reinforced battalion of the ROK's 2nd Marine Brigade (Blue Dragons) occupied a fortified, oval shaped redoubt that guarded a crucial crossroads in Quang Ngai province. Frustrated with pursuing the elusive Viet Cong in the surrounding jungle, the Korean Marines set a trap by constructing their position in close proximity to the jungles and away from the roads they were charged with protecting, with them as bait. The Korean commander hoped to lure the VC into attacking their position in order to get the enemy into the open for a conventional fight.&amp;#10;&amp;#10;The Koreans got their wish in the late night hours of February 14th when two full North Vietnamese battalions attacked with Viet Cong support. It was a savage and bloody fight that lasted to nearly 8:00 AM on the 15th that could have gone either way. In the end the Korean Marines emerged victorious, and would go on to dominate the region, garnering a reputation as fierce warriors to be engaged with caution and respect.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="6"/>
+        <average value="7.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.60728"/>
+        <median value="0"/>
+        <owned value="31"/>
+        <trading value="3"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="3"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12211">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/RpbdzJdxLKIARyCasO6MpwZWu7I=/fit-in/200x150/pic55408.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FNG3N7Xbq7XxJf_VHUFS6ZWq2XM=/0x0/pic55408.jpg</image>
+    <name type="primary" sortindex="1" value="Ancients II"/>
+    <description>Ancients II has 32 different scenarios, each covering a battle from the period 1800 B.C. to 1400 A.D. There is a low Complexity Rating and a very high Solitaire Suitability Rating. Adds naval rules and scenarios, and more land-based scenarios.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Ancients&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;    Ancients I&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Ancient Battles Deluxe&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!"/>
+    <link type="boardgameintegration" id="127543" value="King of Kings"/>
+    <link type="boardgameimplementation" id="36596" value="Ancient Battles Deluxe"/>
+    <link type="boardgameimplementation" id="163867" value="Ancients"/>
+    <link type="boardgameimplementation" id="1782" value="Ancients" inbound="true"/>
+    <link type="boardgameimplementation" id="6399" value="Ancients I" inbound="true"/>
+    <link type="boardgamedesigner" id="759" value="William L. Banks"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="86"/>
+        <average value="6.22105"/>
+        <bayesaverage value="5.54814"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9260" bayesaverage="5.54814"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1851" bayesaverage="5.77262"/>
+        </ranks>
+        <stddev value="1.4031"/>
+        <median value="0"/>
+        <owned value="198"/>
+        <trading value="6"/>
+        <wanting value="4"/>
+        <wishing value="5"/>
+        <numcomments value="41"/>
+        <numweights value="13"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

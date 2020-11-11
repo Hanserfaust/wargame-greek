@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9991">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/x_DPheBXt22cs56pqwVJgcwW6oU=/fit-in/200x150/pic173988.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sJwuJcbd37180Cr4CnPOR98K84o=/0x0/pic173988.jpg</image>
+    <name type="primary" sortindex="1" value="Von Manstein: Battles for the Ukraine 1941-1944"/>
+    <description>Von Manstein is an operational level simulation of land warfare in South Russia during the 1941-1944 period. The map covers the Ukraine from Stalingrad west, and parts of Poland and Rumania. Uses a single Combat Results table to determine outcomes of battle. Provides Air War points to be allocated. Units are essentially Division and up. Game contains 8 different scenarios (from 6 to 12 turns). Rules are about 5 pages (with specific additional items in the scenario) and 200 counters&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="10317" value="Country: Poland"/>
+    <link type="boardgamefamily" id="10637" value="Country: Romania"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamefamily" id="10635" value="Country: Ukraine"/>
+    <link type="boardgameimplementation" id="753" value="Panzerkrieg"/>
+    <link type="boardgamedesigner" id="3308" value="Vincent J. Cumbo"/>
+    <link type="boardgamedesigner" id="629" value="Albert A. Nofi"/>
+    <link type="boardgamedesigner" id="226" value="John Prados"/>
+    <link type="boardgameartist" id="12472" value="Al Zygier"/>
+    <link type="boardgamepublisher" id="1163" value="Rand Game Associates"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="6.54615"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.28399"/>
+        <median value="0"/>
+        <owned value="71"/>
+        <trading value="6"/>
+        <wanting value="5"/>
+        <wishing value="5"/>
+        <numcomments value="18"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3576">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/1QxGzWzm-jmRMQBsIJ3qvygcnVU=/fit-in/200x150/pic363535.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Ncae9kSUVzsG_rp9-AsVicGqxno=/0x0/pic363535.jpg</image>
+    <name type="primary" sortindex="1" value="Operation Olympic"/>
+    <description>Operation Olympic is a hypothetical simulation of the planned invasion of Kyushu, the southernmost of the Japanese Home Islands in November 1945. It was designed to secure a base of operations for the follow-up Operation Coronet, which was scheduled to be launched against the principal Home Island of Honshu in March 1946.&amp;#10;&amp;#10;Units are regiments and brigades, hexes are 6.5 kilometers side to side, a game turn represents one week of real time. There are scenarios for solitaire and two-player games.&amp;#10;&amp;#10;Published in Strategy &amp;amp; Tactics #45 (July-August 1974).&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1974"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+      <results numplayers="1">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10634" value="Country: Japan"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgameimplementation" id="120509" value="Operations Olympic &amp; Coronet"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="117"/>
+        <average value="6.31923"/>
+        <bayesaverage value="5.55841"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8507" bayesaverage="5.55841"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1712" bayesaverage="5.8115"/>
+        </ranks>
+        <stddev value="1.43789"/>
+        <median value="0"/>
+        <owned value="461"/>
+        <trading value="8"/>
+        <wanting value="17"/>
+        <wishing value="28"/>
+        <numcomments value="81"/>
+        <numweights value="15"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

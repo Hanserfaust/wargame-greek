@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="235591">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/7uxDFc_NPmKj1mx_FlSffc4_2c8=/fit-in/200x150/pic3742427.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/KM-6z9N4Pz3KLy5LdCBX1uhokdU=/0x0/pic3742427.jpg</image>
+    <name type="primary" sortindex="1" value="History of the World"/>
+    <name type="alternate" sortindex="3" value="A Világ Története"/>
+    <name type="alternate" sortindex="1" value="세계의 역사"/>
+    <description>Take a ride through humankind's history with History of the World, a game of conquest and cunning for three to six players. Expand your empire as you command mighty empires at the height of their power from the dawn of civilization to the twentieth century. Each game offers an epic experience as great minds work toward technological advances, ambitious leaders inspire their citizens, and unpredictable calamities occur while empires rise and fall.&amp;#10;&amp;#10;This remastered edition of History of the World contains a beautifully illustrated board, revised rules to streamline the experience, and everything you need to etch your name in the annals of history.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="3"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="8"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="6"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="180"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="26" value="No necessary in-game text" numvotes="0"/>
+        <result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="30" value="Unplayable in another language" numvotes="1"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1015" value="Civilization"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1070" value="Renaissance"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameimplementation" id="46007" value="A Brief History of the World" inbound="true"/>
+    <link type="boardgamedesigner" id="120" value="Gary Dicken"/>
+    <link type="boardgamedesigner" id="121" value="Steve Kendall"/>
+    <link type="boardgamedesigner" id="631" value="Phil Kendall"/>
+    <link type="boardgameartist" id="121" value="Steve Kendall"/>
+    <link type="boardgamepublisher" id="157" value="Asmodee"/>
+    <link type="boardgamepublisher" id="15605" value="Galápagos Jogos"/>
+    <link type="boardgamepublisher" id="8820" value="Gém Klub Kft."/>
+    <link type="boardgamepublisher" id="30521" value="Mandoo Games"/>
+    <link type="boardgamepublisher" id="538" value="Z-Man Games, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="289"/>
+        <average value="7.46978"/>
+        <bayesaverage value="5.85339"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2972" bayesaverage="5.85339"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="394" bayesaverage="6.53323"/>
+          <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="457" bayesaverage="6.08245"/>
+        </ranks>
+        <stddev value="1.49507"/>
+        <median value="0"/>
+        <owned value="668"/>
+        <trading value="17"/>
+        <wanting value="44"/>
+        <wishing value="300"/>
+        <numcomments value="79"/>
+        <numweights value="11"/>
+        <averageweight value="2.6364"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

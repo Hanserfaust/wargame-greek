@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17430">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZXNqZnh0T7Sd8R6_lcx0DRnMhd8=/fit-in/200x150/pic74981.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/awViUcb4UPH1yUycGBBiqjFuYV8=/0x0/pic74981.jpg</image>
+    <name type="primary" sortindex="5" value="The Old Contemptibles"/>
+    <description>The Old Contemptibles: The Battle of Mons, 1914 is an operational-level simulation of the first major clash between the Germans and British in 1914.  The German Player is on the offensive, attempting to win the game by eliminating or isolating British units and seizing key terrain on the map.  The British Player is on the defensive, first attempting to prevent the German player from achieving that side's objectives, then escaping off the map with the bulk of the BEF still intact.&amp;#10;&amp;#10;Each hexagon on the map represents approximately one mile from side to opposite side.  Each game turn equals about two hours.  The units of maneuver in the game are mostly regiments for the Germans and battalions for the British.  Each full-strength German infantry regiment contained some 4,000 men and three-dozen cannon; each full-strength British battalion had some 2,000 men and 18 cannon.&amp;#10;&amp;#10;Since this battle was fought over only two days, and both sides' forces entered pretty much fully supplied, there are no supply rules.  Similarly, there are no replacements.  And finally, there are no concentric assault rules, since the British were too proud to become scared when they were surrounded, and the Germans wer too inexperienced to know they should be scared when they were surrounded.&amp;#10;&amp;#10;(from section 1.0 of Rules)&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="2202" value="Ron Bell"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgameartist" id="23910" value="Sawshun Yamaguchi"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="46"/>
+        <average value="6.82304"/>
+        <bayesaverage value="5.54395"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9626" bayesaverage="5.54395"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1788" bayesaverage="5.78883"/>
+        </ranks>
+        <stddev value="0.977465"/>
+        <median value="0"/>
+        <owned value="268"/>
+        <trading value="9"/>
+        <wanting value="8"/>
+        <wishing value="15"/>
+        <numcomments value="45"/>
+        <numweights value="8"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

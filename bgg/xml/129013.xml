@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="129013">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fyVxQXo0l1sNXR1OG0VJp7eKyGo=/fit-in/200x150/pic1416141.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3WNBSuvjEpzO3kXt6Rsx-tGxJR4=/0x0/pic1416141.jpg</image>
+    <name type="primary" sortindex="1" value="No Retreat 3: The French Front, May/June 1940"/>
+    <description>Deluxe Series #6&amp;#10;&amp;#10;Following on the success of No Retreat! where the Russian Front of World War II beckons, and then taking the action to the African Front, game designer Carl Paradis and his trusty developer Alan Emrich have teamed up yet again to present the third chapter in this game series, No Retreat 3: The French Front.&amp;#10;&amp;#10;The &amp;ldquo;Phony War&amp;rdquo; ended in May of 1940 as the German Army unleashed blitzkrieg attacks into Holland, Belgium and Luxembourg in preparation for their audacious plan to invade France. Dubbed &amp;ldquo;Case Yellow&amp;rdquo; (Fall Gelb), it relied on a surprise attack with armored forces through the Ardennes Forest that the French had deemed impenetrable. A German staff study proved otherwise, and their panzers were pushed through this broken wooded terrain with deft speed, catching the Allies by surprise with their appearance.&amp;#10;&amp;#10;In No Retreat 3, players command the Allied (French and British) or German forces, operating them in accordance to one of several historical plans (represented by Plan cards). Maneuvering forces over hexes that are approximately 30 kilometers across, over turns that represent 4 days of real time each, the vaunted No Retreat series card-assisted game systems are there to create on-map puzzles around each hex, unit and battle as the tense engagements rage back-and-forth and nothing is entirely predictable.&amp;#10;&amp;#10;Designer Carl Paradis has made an exhaustive study to answer the question, &amp;ldquo;Could France have staved off total defeat in 1940?&amp;rdquo; His research yields a resounding, &amp;ldquo;Yes!,&amp;rdquo; and the simulation elements of &amp;#3;No Retreat 3, combined with its novel gameplay elements, offer a rich and insightful presentation of this controversial military campaign that shaped the trajectory of World War II.&amp;#10;&amp;#10;Game Data:&amp;#10;&amp;#10;Complexity: 5 on a 9 scale&amp;#10;Solitaire Suitability: 3 on a 9 scale&amp;#10;Scale: Each unit is one army: The German forces or the Allied forces (French, British, and Neutrals) Each hex is about 30 kilometers from side to side. Each turn represents four days of real time, except the first turn, which is only two days.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="186" value="No necessary in-game text" numvotes="0"/>
+        <result level="187" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="188" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="189" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="190" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11062" value="No Retreat series"/>
+    <link type="boardgameimplementation" id="150012" value="No Retreat! Polish &amp; French Fronts"/>
+    <link type="boardgamedesigner" id="11119" value="Carl Paradis"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="709" value="Alan Emrich"/>
+    <link type="boardgameartist" id="11119" value="Carl Paradis"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="44"/>
+        <average value="7.25341"/>
+        <bayesaverage value="5.55468"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8788" bayesaverage="5.55468"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1518" bayesaverage="5.86572"/>
+        </ranks>
+        <stddev value="1.36612"/>
+        <median value="0"/>
+        <owned value="147"/>
+        <trading value="11"/>
+        <wanting value="11"/>
+        <wishing value="36"/>
+        <numcomments value="29"/>
+        <numweights value="8"/>
+        <averageweight value="3.125"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="230781">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/he-omf3rWfvZ4xquGOE9tLNGCfI=/fit-in/200x150/pic3641456.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SX9-e_nrIg96ZA54rTpJWp4S0kw=/0x0/pic3641456.jpg</image>
+    <name type="primary" sortindex="1" value="Last Full Measure: The Battle of Gettysburg"/>
+    <description>Last Full Measure is a series of free print-and-play games of battles of the Civil War.&amp;#10;&amp;#10;When we look at battles of the American Civil War, we want to see the regiments.  We don't think about our ancestor serving in some brigade, we know he was in the 10th South Carolina, the 14 Brooklyn, the 2nd Maine Cavalry.&amp;#10;&amp;#10;Last Full Measure is a brigade scale, intermediate level, rules system for Civil War battles.  Instead of &amp;quot;extended-line markers&amp;quot; LFM uses - regiments - without the volume of rules, or the size of a regimental scale game.&amp;#10;&amp;#10;Less than ten pages of rules. Provided are; Player-aid card, Eliminated Units card, Order of Arrival card, and 1018 2-sided counters.&amp;#10;&amp;#10;Gettysburg has set-ups for 5 Scenarios; the full battle; a 1st Day scenario; two 2nd day scenarios, and the Cavalry fight at the Rummel farm (also available as a separate game).&amp;#10;&amp;#10;The 33&amp;quot; x 38&amp;quot; map is based on the 1868 Warren survey, at 250 yards per 3/4&amp;quot; hex.&amp;#10;&amp;#10;Last Full Measure:Gettysburg is available free of charge from Uhlan Games at: http://todd.mainecav.org/lfm/&amp;#10;as are Zun Tzu gameboxes for all LFM battles&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="240"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="44429" value="Last Full Measure Series"/>
+    <link type="boardgamedesigner" id="102268" value="Gerald Todd"/>
+    <link type="boardgameartist" id="102268" value="Gerald Todd"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="36915" value="Uhlan Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="7.83333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.09497"/>
+        <median value="0"/>
+        <owned value="12"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="8"/>
+        <numcomments value="6"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

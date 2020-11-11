@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36241">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/LfzGqUhf9VZSqfuxheNOocUd7Ak=/fit-in/200x150/pic330315.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wPLGVM7NB2uguU6x6UpBWv4vgEA=/0x0/pic330315.jpg</image>
+    <name type="primary" sortindex="1" value="Israeli Independence: The First Arab-Israeli War, 1948-1949"/>
+    <description>From the Publisher:&amp;#10;&amp;#10;Israeli Independence is an introductory level solitaire wargame that tells the rich and engaging story of the First Arab-Israeli War &amp;ndash; Israel&amp;rsquo;s War for Independence. Five Arab armies, poised at the borders of the newly declared state, launch their determined invasions &amp;ndash; and each must be pushed back in turn before any reaches West Jerusalem, the new Israeli capital.&amp;#10;&amp;#10;As the headlines unfold and the vast forces of the Arab League relentlessly press forward, can you successfully allocate the precious few resources of the new Israeli Defense Force (IDF) to conduct daring offensives that will send them reeling back? Can you push the Arab legions back so far that an armistice can be achieved and these threats removed? Or will you be over-whelmed and defeated, seeing Zionist aspirations crushed?&amp;#10;&amp;#10;Wargames recreate situations so that they can be studied and played, and Israeli Independence is particularly well suited to classroom use. The included BATTLESSON (TM) article helps explain this useful and fascinating field of study: wargaming.&amp;#10;&amp;#10;Expanded by: &amp;#10;&amp;#10;    Israeli Independence Expansion Kit&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+      <results numplayers="1">
+        <result value="Best" numvotes="8"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="6"/>
+      </results>
+    </poll>
+    <playingtime value="15"/>
+    <minplaytime value="15"/>
+    <maxplaytime value="15"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="1"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1094" value="Educational"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamefamily" id="10630" value="Country: Israel"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="10258" value="Victory Point Games Battlesson Series"/>
+    <link type="boardgamefamily" id="3245" value="Victory Point Games States of Siege Series"/>
+    <link type="boardgameexpansion" id="38794" value="Israeli Independence: Expansion Kit"/>
+    <link type="boardgamedesigner" id="10535" value="Darin A. Leviloff"/>
+    <link type="boardgameartist" id="21491" value="Vince DeNardo"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="239"/>
+        <average value="6.27824"/>
+        <bayesaverage value="5.61014"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6195" bayesaverage="5.61014"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1385" bayesaverage="5.89697"/>
+        </ranks>
+        <stddev value="1.40206"/>
+        <median value="0"/>
+        <owned value="393"/>
+        <trading value="12"/>
+        <wanting value="38"/>
+        <wishing value="109"/>
+        <numcomments value="116"/>
+        <numweights value="47"/>
+        <averageweight value="1.1489"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6476">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BKLl5_GbqEyCboASSaBi9bcPVKA=/fit-in/200x150/pic132204.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NEtZFdVxrA1RMsxTAFzcN7BWKH0=/0x0/pic132204.jpg</image>
+    <name type="primary" sortindex="1" value="Yalu: The Chinese Counteroffensive in Korea, November 1950 to May 1951"/>
+    <description>Yalu is a game about the Chinese counteroffensive in Korea. Each hex equals 10 miles. Units are from battalion to division level and each game turn represents one week.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Yalu: The Chinese Counteroffensive in Korea: November 1950-May 1951 (second edition)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1977"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1091" value="Korean War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameimplementation" id="43196" value="Yalu: The Chinese Counteroffensive in Korea: November 1950-May 1951 (second edition)"/>
+    <link type="boardgamedesigner" id="986" value="John Hill (I)"/>
+    <link type="boardgameartist" id="2467" value="Rich Banner"/>
+    <link type="boardgamepublisher" id="519" value="Conflict Games"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="51"/>
+        <average value="7.1402"/>
+        <bayesaverage value="5.56149"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8299" bayesaverage="5.56149"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1398" bayesaverage="5.89549"/>
+        </ranks>
+        <stddev value="1.47967"/>
+        <median value="0"/>
+        <owned value="147"/>
+        <trading value="13"/>
+        <wanting value="7"/>
+        <wishing value="9"/>
+        <numcomments value="39"/>
+        <numweights value="10"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

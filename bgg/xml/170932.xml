@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="170932">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/hqENE0qWqP1cmFTq_ZniitL_a8w=/fit-in/200x150/pic2387314.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Wq2oOmh8EAmL4niwbl41ibS8zV8=/0x0/pic2387314.jpg</image>
+    <name type="primary" sortindex="1" value="Second World War at Sea: Sea of Iron"/>
+    <description>From the Avalanche Press website:&amp;#10;&amp;#10;World War II began when the German battleship Schleswig-Holstein opened fire in the early morning hours of 1 September 1939. The war started on the Baltic Sea, and some of its very last actions took place there as well.&amp;#10;&amp;#10;Sea of Iron is a complete Second World War at Sea boxed game based on actions on the Baltic Sea between 1939 and 1945. Thirty-six scenarios track the operations and battles that took place or could have taken place between the fleets and air forces of Germany, Poland, Lithuania, Latvia, Estonia, the Soviet Union, Finland and Sweden. In addition to their complete Baltic Sea orders of battle, the Soviets, Swedes and Finns all have additional ships they planned or began to construct but did not complete. And of course the game includes scenarios for their use.&amp;#10;&amp;#10;There are 140 &amp;ldquo;long&amp;rdquo; ship pieces and 420 standard-sized square ones representing smaller warships, transports, aircraft (many, many aircraft) and a handful of markers. This is a big game, at least in terms of pieces. The map is not so big: the Baltic Sea is pretty small and almost completely land-locked, with ports and airfields in abundance. Aircraft are very potent in this theater, and ships have very little room to hide. The map by Guy Riessen shows the full Baltic on a single 11x17-inch panel.&amp;#10;&amp;#10;The scenarios cover all of the action from the Polish &amp;ldquo;Operation Peking&amp;rdquo; in which three destroyers escaped to England just before the war began, to the planned Swedish invasion of German-held Denmark in May 1945.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="26" value="No necessary in-game text" numvotes="0"/>
+        <result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="30" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="45" value="Second World War at Sea"/>
+    <link type="boardgameexpansion" id="227342" value="Second World War at Sea: Finland's Fantasy Fleet"/>
+    <link type="boardgameexpansion" id="49164" value="Second World War at Sea: Plan Z"/>
+    <link type="boardgameexpansion" id="227341" value="Second World War at Sea: Poland's Fantasy Fleet"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgamedesigner" id="48290" value="James Stear"/>
+    <link type="boardgameartist" id="1269" value="Michael Bennighof"/>
+    <link type="boardgameartist" id="14914" value="Peggy Gordon"/>
+    <link type="boardgameartist" id="11831" value="Guy Riessen"/>
+    <link type="boardgameartist" id="37033" value="Susan Robinson"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="6.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.94746"/>
+        <median value="0"/>
+        <owned value="51"/>
+        <trading value="1"/>
+        <wanting value="7"/>
+        <wishing value="15"/>
+        <numcomments value="5"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

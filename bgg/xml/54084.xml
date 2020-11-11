@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="54084">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/lC-7_sD-SGpFMgmgPmFy01F6lLQ=/fit-in/200x150/pic538732.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/v5c8tBxq5BSuJ9ZzLFWd_zoPqTY=/0x0/pic538732.jpg</image>
+    <name type="primary" sortindex="1" value="Plei Me 1965"/>
+    <description>19 Oct &amp;ndash; 26 Nov 1965&amp;#10;A conflict simulation re&amp;#226;&amp;#128;&amp;#144;enacting the battles of October and November 1965 in the Central Highlands of&amp;#10;Vietnam.&amp;#10;&amp;#10;Plei Me is a two player simulation recreating the actions of the US 1st Cavalry Division (airmobile) in the Pleiku&amp;#10;province of South Vietnam during October and November 1965. The NVA B3 Front had an audacious plan to split&amp;#10;South Vietnam in two with a strike through the central highlands, if it wasn&amp;rsquo;t for the intervention of America&amp;rsquo;s latest&amp;#10;formation in airmobile warfare they could have very well succeeded. The Campaign had many varying types of force&amp;#10;on force engagement; sieges, ambushes, running battles and whole unit encirclements. The simulation is meant to&amp;#10;reflect the uncertainties in jungle fighting and the rapidly changing situations involved with airmobile operations.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="23597" value="Edward Farren"/>
+    <link type="boardgamepublisher" id="6691" value="King’s College"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="12"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="1"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="110643">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/gHCr9R5fo_VgfcAOz--nqwNo2aI=/fit-in/200x150/pic1122871.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/K0E3I2Is9ZrAMS5ImX0Fu85yURU=/0x0/pic1122871.png</image>
+    <name type="primary" sortindex="4" value="Le Retour de l'Empereur"/>
+    <description>Le Retour de l'Empereur is a game on four battles of 1815: Quatre Bras, Ligny, Waterloo and Wavre, using the Vive l'Empereur game system.&amp;#10;&amp;#10;&amp;quot;Vive l&amp;rsquo;Empereur!&amp;quot; is a series of simulation games using a standard rules system and a set of exclusive rules specific to each battle. These particular rules include an historical commentary and the victory conditions for each scenario. The aim of this system is to refight at the regimental scale the numerous battles fought during the Napoleonic Era in Europe, between 1805 and 1815. It uses a map on which the players move counters representing the combat units involved in these battles.&amp;#10;&amp;#10;The present game simulates battles of the campaign of 1815 in Belgium that belongs to the legend. After he returns from Elba, Napol&amp;eacute;on reconstructed an army and landed a preventive strike on the two closest armies, the Prussian army under the old and faithful Bl&amp;uuml;cher, and the Anglo-Allied army under the Duke of Wellington. At first spread over a vast area, these two armies eventually assembled and fought four legendary battles at Quatre Bras and Ligny on the 16th of June, and then two days later at Wavre and of course Waterloo, called Mont St Jean by the French, and La Belle Alliance by the Prussians. This campaign is an impressive collection of missed opportunities on both sides. Now it is your turn to do at least as well, or better...&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;- six 22&amp;quot; x 34&amp;quot; maps (scale 250m/hex)&amp;#10;- 600 counters, including 300 combat units&amp;#10;- 2 rules booklets: the Standard Rules Version 3 and the special rules&amp;#10;- 10 charts and tables, including army losses&amp;#10;- more than 30 scenarios and what-ifs, including a 3-day campaing game&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="8462" value="Vive l'Empereur !"/>
+    <link type="boardgamedesigner" id="4759" value="Didier Rouy"/>
+    <link type="boardgameartist" id="4759" value="Didier Rouy"/>
+    <link type="boardgamepublisher" id="5072" value="Pratzen Editions"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="52"/>
+        <average value="7.94231"/>
+        <bayesaverage value="5.58409"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7128" bayesaverage="5.58409"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1052" bayesaverage="6.02771"/>
+        </ranks>
+        <stddev value="1.38902"/>
+        <median value="0"/>
+        <owned value="208"/>
+        <trading value="3"/>
+        <wanting value="15"/>
+        <wishing value="41"/>
+        <numcomments value="24"/>
+        <numweights value="6"/>
+        <averageweight value="3.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

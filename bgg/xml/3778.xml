@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3778">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/hoj1BL6oFnPHzdlcfxeUhJC-_l8=/fit-in/200x150/pic26980.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/dTsw08V64MKPkrdbUg6ZTs-HYvA=/0x0/pic26980.jpg</image>
+    <name type="primary" sortindex="1" value="Cannae"/>
+    <description>Representing the historic battle of Cannae, this war game is played between the Roman and Carthaginian forces led by Hannibal. It attempts to recreate this famous battle which is arguably Hannibal's greatest victory.&amp;#10;&amp;#10;The game ends when one of the forces is eliminated or a set period of time passes (40 turns). With over 1000 pawns, each representing 30 cavalry or 80 men, it attempts to provide a clear sense of the carnage on the battlefield. The historic battle faced an estimated 50,000 romans against 40,000 Carthaginians.&amp;#10;&amp;#10;The game map is scaled at 1 square for each 25 meters, and each turn of the game equals 15 minutes of battle. During each turn the romans go first, then the Carthaginians, and the turns are broken into phases: movement, defensive placement, offensive placement, confrontation, recovery.&amp;#10;&amp;#10;Units are represented by two values, strength and movement.  Movement indicates the number of spaces that a unit can advance each turn if not engaged in combat. Strength is used in battle to determine combat resolution, in combination with die rolls.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamedesigner" id="5" value="Jean du Poël"/>
+    <link type="boardgamepublisher" id="6" value="Historien Spiele Galerie (Historien Spielegalerie)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="7.07692"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.55472"/>
+        <median value="0"/>
+        <owned value="25"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="2"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

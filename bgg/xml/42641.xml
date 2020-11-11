@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="42641">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/L-QA92dT4Aoh8_gih5DNbqlKvq8=/fit-in/200x150/pic1087241.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xVTOPQ85m7V2n53NKh1BTFdr1gI=/0x0/pic1087241.jpg</image>
+    <name type="primary" sortindex="1" value="Slouch Hats &amp; Eggshells"/>
+    <name type="alternate" sortindex="1" value="Slouch Hats and Eggshells: The Allied Invasion of Syria &amp; Lebanon – 1941"/>
+    <description>Slouch Hats and Eggshells: The Allied Invasion of Syria &amp;amp; Lebanon - 1941, recreates the World War II campaign in French-held Syria and Lebanon, historically from early June 1941 through mid-July 1941. One player will control the Axis forces (Vichy French, French colonial troops, and Germans), while his opponent controls the Allied forces (British, Commonwealth, Free French, etc). The playing pieces represent the actual units that participated in the campaign and the map represents the terrain over which those units fought. The players maneuver their units across the map and conduct combat according to the rules of play. One player wins by capturing certain specified objectives while his opponent wins by avoiding those victory conditions.&amp;#10;&amp;#10;When Free French leader Gen. de Gaulle visited the Middle East in April 1941 he forced a political crisis by demanding the occupation of Syria. As a result London ordered an offensive to place all of Syria and Lebanon under Free French control. Sadly, such posturing caused Allied command staffs to hold unrealistic views of what the ensuing occupation would look like. Certain authorities believed the Vichy French in Syria would offer only token resistance and their defense would collapse like an eggshell. The thinking held that Vichy forces could be won over with wine and coffee along with displays of the Australian slouch hat. Instead, the Vichy-led troops fought ferociously from the start.&amp;#10;&amp;#10;Players should feel free to combine play of this game with that of Rommel's War, published by L2 Design Group. Both games include the same historical moment, have identical scales, and have some of the same historical units. It is natural that players would want to explore more historical alternatives with combined play. To facilitate such game play, this game uses many of the same rules, charts, and tables found in Rommel's War.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: 10 days&amp;#10;Hex: 10 miles / 16 kilometers&amp;#10;Units: Company to Brigade&amp;#10;&amp;#10;Game Inventory:&amp;#10;One 22 x 34&amp;quot; full color map&amp;#10;Two dual-side printed countersheets (96 -  5/8&amp;quot; &amp;amp; 20 -  1.3/16&amp;quot; counters)&amp;#10;One 28-page rulebook&amp;#10;Two 4-page Player Aid Cards (CRT/TEC, etc)&amp;#10;Four 1-page Player Aid Cards (Turn Sequence, Set-up, Counter Information)&amp;#10;Two 6-sided dice&amp;#10;Seven plastic storage bags&amp;#10;&amp;#10;Solitaire Playability: Medium-High&amp;#10;Complexity Level: Medium-High&amp;#10;Players: 2 or more&amp;#10;Playing Time: 4-6 Hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="360"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="91" value="No necessary in-game text" numvotes="0"/>
+        <result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="95" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="25894" value="Country: Lebanon"/>
+    <link type="boardgamefamily" id="10629" value="Country: Syria"/>
+    <link type="boardgamedesigner" id="671" value="Vance von Borries"/>
+    <link type="boardgameartist" id="36911" value="Randy Lein"/>
+    <link type="boardgameartist" id="11699" value="Brandon Pennington"/>
+    <link type="boardgamepublisher" id="9512" value="Legion Wargames LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="43"/>
+        <average value="7.33256"/>
+        <bayesaverage value="5.55312"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8903" bayesaverage="5.55312"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1557" bayesaverage="5.85848"/>
+        </ranks>
+        <stddev value="1.34367"/>
+        <median value="0"/>
+        <owned value="219"/>
+        <trading value="7"/>
+        <wanting value="16"/>
+        <wishing value="38"/>
+        <numcomments value="25"/>
+        <numweights value="8"/>
+        <averageweight value="3.125"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

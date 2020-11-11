@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="42241">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/25IbyCS2gztt5T1GQAhzZ6s7j58=/fit-in/200x150/pic473267.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/0VWucTsADdBfDhV1eHV7Ps_veOw=/0x0/pic473267.jpg</image>
+    <name type="primary" sortindex="1" value="ATS: Snakeshead Ridge"/>
+    <description>An expansion module for Advanced Tobruk, this module covers the battle of Cassino with 8 scenarios featuring Commonwealth, British and French troops against the German 1st Parachute Division.  This is an Advanced Tobruk (ATS) game allowing players to recreate squad level action in World War II.&amp;#10;&amp;#10;From the publisher's website:&amp;#10;&amp;#10;Myriad Allied units including British, American and Indian soldiers square off against the German 90th Panzergrenadier Division north of the infamous Monte Cassino monastery.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="66" value="No necessary in-game text" numvotes="0"/>
+        <result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="70" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="112" value="Advanced Tobruk System"/>
+    <link type="boardgameexpansion" id="3992" value="Advanced Tobruk" inbound="true"/>
+    <link type="boardgameimplementation" id="146214" value="ATS TT Cassino I: Gustav Graveyard"/>
+    <link type="boardgamedesigner" id="1592" value="Ray Tapio"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="7"/>
+        <average value="6.6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.46864"/>
+        <median value="0"/>
+        <owned value="37"/>
+        <trading value="2"/>
+        <wanting value="9"/>
+        <wishing value="5"/>
+        <numcomments value="6"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

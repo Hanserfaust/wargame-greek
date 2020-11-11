@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="36920">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/0ix9KXsH8FIDuGX-03lEydLkc7g=/fit-in/200x150/pic505398.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OPgApeYr-nGMnUi__wKEqX9imag=/0x0/pic505398.jpg</image>
+    <name type="primary" sortindex="1" value="Rules of Engagement"/>
+    <description>Rules of Engagement (RoE)&amp;#10;&amp;#10;This book provides gamers with all the information they need to get started with the Rules of Engagement system. Below is an outline of what the book contains, follow the link to have a look at pages from the book itself on the company website.&amp;#10;&amp;#10;Rules of Engagement is a tabletop wargame for two or more players that allows you to recreate battles of the twentieth century to the present day. Players use miniature soldiers on model terrain and in this 240 page hardback book you will find a comprehensive rules system that will allow you to field your troops on the battlefield.&amp;#10;&amp;#10;Game rules:&amp;#10;The complete gaming rules covering movement, weapons, close quarters combat, artillery and more. Includes opportunity fire, hidden troops, snipers, tank support and fortifications. With clear examples and diagrams, Rules of Engagement is easily accessible yet offers plenty of depth for experienced players.&amp;#10;&amp;#10;Scenarios:&amp;#10;Nine scenarios from take and hold missions to desperate rearguard actions. Each scenario includes specifi c rules covering, for example, reserves, unacceptable losses and additional orders.&amp;#10;&amp;#10;The Second World War 1944-45:&amp;#10;A detailed history of the War on Western Front from D-Day to the Fall of the Reich. The Orders of Battle section gives listings of the forces available including company and divisional support options. Forces covered: German Grenadiers, Panzergrenadiers, Volksgrenadiers, Fallschirmj&amp;auml;ger and Waffen SS, British Infantry, Airborne and Commandos, Canadian Infantry, US Infantry, Armored Infantry, Parachute Infantry and Rangers and the Maquis.&amp;#10;&amp;#10;Hobby section:&amp;#10;A complete colour guide to painting your miniatures and creating a battlefield. Uniform and equipment guides for all the forces featured in the Orders of Battle including British and Canadian Infantry, British Airborne and Commandos, German Grenadiers and Panzergrenadiers, Fallschirmj&amp;auml;ger, Waffen SS and Volksgrenadiers, US Infantry, US Airborne and the Maquis.&amp;#10;&amp;#10;www.greatescapegames.co.uk&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgameexpansion" id="90858" value="Operations &amp; Objectives"/>
+    <link type="boardgamedesigner" id="10727" value="Chris Charlton"/>
+    <link type="boardgamedesigner" id="10728" value="Stuart McCorquodale"/>
+    <link type="boardgamedesigner" id="10726" value="Mark Wheatley"/>
+    <link type="boardgameartist" id="41273" value="Pete Cobbe"/>
+    <link type="boardgameartist" id="41269" value="Lee Delaney"/>
+    <link type="boardgameartist" id="41272" value="Peter Fisher"/>
+    <link type="boardgameartist" id="41271" value="Mark Mainwaring"/>
+    <link type="boardgameartist" id="10728" value="Stuart McCorquodale"/>
+    <link type="boardgameartist" id="41268" value="Craig Wheatley"/>
+    <link type="boardgameartist" id="10726" value="Mark Wheatley"/>
+    <link type="boardgameartist" id="41270" value="Mark Windram"/>
+    <link type="boardgamepublisher" id="8445" value="Great Escape Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="27"/>
+        <average value="7.7963"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.89668"/>
+        <median value="0"/>
+        <owned value="53"/>
+        <trading value="4"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="7"/>
+        <numweights value="5"/>
+        <averageweight value="2.4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="111051">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/iR8Vxtd36Ia1jxEf7BVrgvZrZtc=/fit-in/200x150/pic1226802.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ogofAAtWNJPNiUVRI_TFlBwjDgs=/0x0/pic1226802.png</image>
+    <name type="primary" sortindex="1" value="Death Ride: Halfaya Pass"/>
+    <description>From the publisher's website:&amp;#10;&amp;#10;DR - Halfaya Pass (DR-HP) - Halfaya Pass is another GSI offering using the Death Ride game system. The game focuses on tactical level combat and maneuver during Operation Battleaxe prior to the Crusader battle that lifted the seige of Tobruk. This is a stand alone game and does not need any other GSI title to be played.  It is slightly larger than Hafid Ridge in terms of the number of units and can be played in a relatively short time.&amp;#10;&amp;#10;This game will give those with the Death Ride Kursk games a glimpse into some changes for the next large series, Death Ride Salerno.  This game will have double sided counters.  A real advancement for us.&amp;#10;&amp;#10;The rules are modeled around the seven battlefield operating systems which make them easily understood and easy to learn.&amp;#10;&amp;#10;This battle will provide a challenge to both players.  The British will find that they need to be very aggressive to push through the anti-tank defense.  The Germans have to simply hang on.  Either way it's a cliff hanger.  The British Matilda's are the queen of the battlefield, until they meet the 88's.&amp;#10;&amp;#10;Game play is excellent for solitaire play and moves along very quickly.  The game is specifically designed to play in a day.&amp;#10;&amp;#10;The Commonwealth forces were made up of 3 infantry battalions and a squadron and a half of Matilda tanks, heavy but undergunned and underpowered.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="24965" value="Death Ride"/>
+    <link type="boardgamedesigner" id="33601" value="Christopher Fasulo"/>
+    <link type="boardgameartist" id="73350" value="Kyle Gebhardt"/>
+    <link type="boardgamepublisher" id="11289" value="Grognard Simulations, Inc. (GSI)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="7.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.25"/>
+        <median value="0"/>
+        <owned value="43"/>
+        <trading value="1"/>
+        <wanting value="8"/>
+        <wishing value="7"/>
+        <numcomments value="7"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

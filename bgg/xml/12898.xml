@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12898">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/87QAMhCxbtA5Gtq0GKdsxVpABvg=/fit-in/200x150/pic532540.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/IMoLIzqUk_6GF8ixm0XtgOciSWE=/0x0/pic532540.jpg</image>
+    <name type="primary" sortindex="4" value="La Bataille d'Auerstædt"/>
+    <name type="alternate" sortindex="4" value="La Bataille d'Auerstadt"/>
+    <name type="alternate" sortindex="4" value="La Bataille d'Auerstädt"/>
+    <name type="alternate" sortindex="4" value="La Bataille d'Auerstaedt"/>
+    <name type="alternate" sortindex="4" value="La Bataille d'Auerstedt"/>
+    <description>La Bataille D'Auerstaedt is a simulation of the epic encounter between Davout's III Corp and the army of the Hohenzollern King, Friedrich Wilhelm III of Prussia, on October 14th, 1806.&amp;#10;The game box includes a 34x22&amp;quot; period map and over 400 multi-colored playing pieces. The game is designed for two players but solitaire study is possible. The rules are a revision of the award winning system developed by Marshal Enterprises and cover the full range of features that were characteristic of the Napoleonic battlefield. The game is therefore designed with serious gamers in mind.&amp;#10;&amp;#10;scale = 100 m/hex; &amp;#10;time = 20 min/GT; &amp;#10;strength = 50-100 men/SP (Regimental/Brigade Size)&amp;#10;counters = 480 (COA edition)&amp;#10;&amp;#10;</description>
+    <yearpublished value="1977"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="480"/>
+    <minplaytime value="330"/>
+    <maxplaytime value="480"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="109" value="La Bataille series"/>
+    <link type="boardgameexpansion" id="157532" value="Règlement de l'An XXX"/>
+    <link type="boardgameexpansion" id="16115" value="Regulations of the Year XXII"/>
+    <link type="boardgamedesigner" id="4036" value="Monte Mattson"/>
+    <link type="boardgamedesigner" id="4035" value="Dennis A. Spors"/>
+    <link type="boardgamedesigner" id="1710" value="Ed Wimble"/>
+    <link type="boardgameartist" id="3439" value="Rick Barber"/>
+    <link type="boardgamepublisher" id="3429" value="AGEMA"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <link type="boardgamepublisher" id="3428" value="Marshal Enterprises"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="152"/>
+        <average value="7.57434"/>
+        <bayesaverage value="5.70236"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4355" bayesaverage="5.70236"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="456" bayesaverage="6.46588"/>
+        </ranks>
+        <stddev value="1.47317"/>
+        <median value="0"/>
+        <owned value="511"/>
+        <trading value="22"/>
+        <wanting value="17"/>
+        <wishing value="37"/>
+        <numcomments value="67"/>
+        <numweights value="21"/>
+        <averageweight value="3.8571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

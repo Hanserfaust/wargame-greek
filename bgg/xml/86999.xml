@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="86999">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/VC1fLBQv4GrU-lOfMuO4fFaphJA=/fit-in/200x150/pic1106065.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/BnR_jwLwdbQnjn6bshxiAXL_mIU=/0x0/pic1106065.jpg</image>
+    <name type="primary" sortindex="1" value="Hell's Corner"/>
+    <description>Hell's Corner is an ASL historical study released as an insert in Operations Special Magazine #3. It covers the battles that occured along the Matanikau River on Guadalcanal from August to October 1942.&amp;#10;&amp;#10;There are five scenarios:&amp;#10;&amp;#10;&amp;#10;     &amp;quot;First Matanikau&amp;quot; is the Marines attempt to secure Matanikau Village shortly after their landing on Guadalcanal.&amp;#10;     &amp;quot;Bailey's Demise&amp;quot; recounts the failed attempt by the Marines to dislodge the Japanese from the west bank of the Matanikau.&amp;#10;     &amp;quot;Samurai Sunset&amp;quot; features a trapped Japanese Company trying to break out of an encirclement to friendly lines on the west bank of the Matanikau.&amp;#10;     &amp;quot;Whaling Good Time&amp;quot; has a group of marines attempting to expand the bridgehead on the Matanikau against a small Japanese rearguard.&amp;#10;     &amp;quot;The Sand Spit&amp;quot; depicts a fresh group of Japanese reinforcements with armored support attempting to break the Marine defenses near Matanikau.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamecompilation" id="119843" value="Operations Special Issue #3"/>
+    <link type="boardgamedesigner" id="9516" value="Chas Argent"/>
+    <link type="boardgamedesigner" id="12425" value="Nadir Elfarra"/>
+    <link type="boardgamedesigner" id="12465" value="Bahadir Erimli"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="8"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1"/>
+        <median value="0"/>
+        <owned value="115"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="2"/>
+        <numcomments value="9"/>
+        <numweights value="3"/>
+        <averageweight value="5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

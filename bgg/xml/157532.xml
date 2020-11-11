@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="157532">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/lOd4qMRt529bCsGUG018wcl-7XU=/fit-in/200x150/pic2020575.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/5q5O6YPdzUgxzOcM8H2Z4vcc8MI=/0x0/pic2020575.jpg</image>
+    <name type="primary" sortindex="1" value="Règlement de l'An XXX"/>
+    <description>&amp;quot;Regulations of the year XXX&amp;quot; (the system always uses the French in its title but is only released in English).&amp;#10;&amp;#10;This is the latest downloadable set of rules for the &amp;quot;La Bataille&amp;quot; series from Clash of Arms Games, simulating battles of the Napoleonic Wars at the battalion level.&amp;#10;&amp;#10;The previous version was the regulations of &amp;quot;l'an XXII&amp;quot; (of the year 22). This is the year XXX (30th anniversary of the system's existence).&amp;#10;&amp;#10;The rules are useable with every game published in the series.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="109" value="La Bataille series"/>
+    <link type="boardgameexpansion" id="13520" value="La Bataille d'Albuera: Espagnol" inbound="true"/>
+    <link type="boardgameexpansion" id="12898" value="La Bataille d'Auerstædt" inbound="true"/>
+    <link type="boardgameexpansion" id="17041" value="La Bataille d'Austerlitz" inbound="true"/>
+    <link type="boardgameexpansion" id="13995" value="La Bataille d'Espagnol: Talavera" inbound="true"/>
+    <link type="boardgameexpansion" id="11436" value="La Bataille d'Orthez" inbound="true"/>
+    <link type="boardgameexpansion" id="152958" value="La Bataille de Bailén" inbound="true"/>
+    <link type="boardgameexpansion" id="11438" value="La Bataille de Corunna-Espagnol" inbound="true"/>
+    <link type="boardgameexpansion" id="29262" value="La Bataille de Deutsch-Wagram" inbound="true"/>
+    <link type="boardgameexpansion" id="85424" value="La Bataille de la Moscowa (third edition)" inbound="true"/>
+    <link type="boardgameexpansion" id="12897" value="La Bataille de Ligny" inbound="true"/>
+    <link type="boardgameexpansion" id="11437" value="La Bataille de Lützen" inbound="true"/>
+    <link type="boardgameexpansion" id="5508" value="La Bataille de Mont Saint Jean" inbound="true"/>
+    <link type="boardgameexpansion" id="12899" value="La Bataille de Preussisch-Eylau" inbound="true"/>
+    <link type="boardgameexpansion" id="149129" value="La Bataille de Vauchamps" inbound="true"/>
+    <link type="boardgameexpansion" id="12895" value="La Bataille de Wavre" inbound="true"/>
+    <link type="boardgameexpansion" id="12896" value="La Bataille des Quatre Bras" inbound="true"/>
+    <link type="boardgameimplementation" id="16115" value="Regulations of the Year XXII" inbound="true"/>
+    <link type="boardgamedesigner" id="41906" value="Terry Doherty"/>
+    <link type="boardgamedesigner" id="9360" value="Eric Lyons"/>
+    <link type="boardgamedesigner" id="9237" value="Paul Smith"/>
+    <link type="boardgamedesigner" id="1710" value="Ed Wimble"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="7.23"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.66009"/>
+        <median value="0"/>
+        <owned value="42"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="3"/>
+        <numcomments value="8"/>
+        <numweights value="3"/>
+        <averageweight value="3.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

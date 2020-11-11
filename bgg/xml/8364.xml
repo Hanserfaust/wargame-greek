@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="8364">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/zCuUwBUVQqw-j6mgneYMS_GqVX4=/fit-in/200x150/pic34740.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/1hhrQ4vzU_wh4uSr2knJIZWj7dw=/0x0/pic34740.jpg</image>
+    <name type="primary" sortindex="1" value="Assault on Leningrad"/>
+    <description>Assault on Leningrad attempts to simulate the German Army's attempt to capture the city of Leningrad in the Autumn of 1941.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2035" value="Roll / Spin and Move"/>
+    <link type="boardgamefamily" id="18637" value="Cities: St Petersburg / Petrograd / Leningrad"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="2854" value="Andy Bagley"/>
+    <link type="boardgamedesigner" id="1257" value="Perry Moore"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="3406" value="Six Angles"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="34"/>
+        <average value="6.30882"/>
+        <bayesaverage value="5.5134"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12925" bayesaverage="5.5134"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2472" bayesaverage="5.59386"/>
+        </ranks>
+        <stddev value="1.64842"/>
+        <median value="0"/>
+        <owned value="155"/>
+        <trading value="4"/>
+        <wanting value="1"/>
+        <wishing value="8"/>
+        <numcomments value="28"/>
+        <numweights value="8"/>
+        <averageweight value="2.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

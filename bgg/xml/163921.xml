@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="163921">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/i8hvd3w3dYrG5334eqJLGCMA9pw=/fit-in/200x150/pic2245709.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/TDvFLsmV97BCZU-j98CNmFDIbLU=/0x0/pic2245709.jpg</image>
+    <name type="primary" sortindex="1" value="Death Ride Kursk: Leibstandarte"/>
+    <description>Death Ride Kursk - Leibstandarte is an expansion game for Death Ride Kursk - Totenkopf.  This game focuses on the battle for the actual advance on Prokhorovka and the Red Army counter-attack that hit it square on the head during 12 July 1943.&amp;#10;&amp;#10;The game contains a supplemental rule book with some specific items related to the Leibstandarte's operation the base game is simply an extension of the base rules in Totenkopf.  Units are modeled as German Platoons or Companies and Red Army Companies.  The game includes the components for the Command and Control and Fire Support Enhancements.  These make the game very interested and give you a real feel for the problems of ensuring your radio line of sight for communications are well sited.&amp;#10;&amp;#10;There are extensive obstacles to overcome and combat engineering is well modeled.  There are rules covering all the Battlefield Operating Systems and they integrate well together forcing players to make critical decisions that will effect the outcome of the battle and of each smaller engagement.&amp;#10;&amp;#10;This game comes with 5 daily scenarios for 9, 10, 11, 12, and 13 July and 2 small scenarios that use extremely small footprints and can be played in an afternoon sitting or two.  If you already own Totenkopf then you will be able connect this game with it and play the battle from the Psel crossing to the town of Prokhorovka.  You'll experience nothing like it anywhere else.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="15"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="24965" value="Death Ride"/>
+    <link type="boardgameexpansion" id="154353" value="Death Ride Kursk: Totenkopf" inbound="true"/>
+    <link type="boardgamedesigner" id="33601" value="Christopher Fasulo"/>
+    <link type="boardgameartist" id="73350" value="Kyle Gebhardt"/>
+    <link type="boardgamepublisher" id="11289" value="Grognard Simulations, Inc. (GSI)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="7.375"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.59507"/>
+        <median value="0"/>
+        <owned value="36"/>
+        <trading value="0"/>
+        <wanting value="5"/>
+        <wishing value="7"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

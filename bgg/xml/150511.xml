@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="150511">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/GaUzfTmqKv01QHf7rwxg7XtTyC8=/fit-in/200x150/pic1845285.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/G5U6qqLif2LxpdG8ldS9ErA0gec=/0x0/pic1845285.jpg</image>
+    <name type="primary" sortindex="1" value="Maciejowice 1794"/>
+    <description>Maciejowice 1794 depicts the last battle of Thaddeus Kosciuszko. Poles were opposed by a Russian Army led by general Ivan Fersen. Mechanics of the game are based on random leader activations that decide sequence in which units fire, perform movement and melees. Almost all units can participate in ranged combat, not only activated ones, so the battle can rage on all parts of the map. Many rules are identical to Szczekociny 1794 ruleset - additional rules include Limbered Artillery, effectiveness of first salvo, firing upon enemy from rear or flank and collapse of fighting units.&amp;#10;&amp;#10;Scale of the game:&amp;#10;Infantry - companies&amp;#10;Cavalry - squadrons&amp;#10;Artillery - batteries of 2 to 6 guns&amp;#10;One hex - 100 meters&amp;#10;One turn - 15 minutes&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="35698" value="Adam Niechwiej"/>
+    <link type="boardgamepublisher" id="11687" value="Strategemata"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="6.88889"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.52348"/>
+        <median value="0"/>
+        <owned value="27"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="5"/>
+        <numcomments value="6"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

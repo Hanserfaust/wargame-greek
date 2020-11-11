@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="18066">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/4yCfEa2q6ttskYcb6ZoyEO1opRw=/fit-in/200x150/pic78946.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/r0uWDwrSh3rZouIfWKV4BHwrbr8=/0x0/pic78946.jpg</image>
+    <name type="primary" sortindex="1" value="Eagles"/>
+    <description>Subtitled &amp;quot;Rome on the Rhine Frontier, AD 15&amp;quot;, Eagles is about a Roman invasion of Germanic tribal lands in the eponymous year and their attempt to re-capture three &amp;quot;Eagles&amp;quot; (legion standards) taken from a Roman army that the German barbarians defeated six years prior.   The Romans, under Drusus Germanicus, must fight against twelve Germanic tribes, led by Arminius.  The Romans are very powerful, but few in number.  They are aided by a large number of auxiliaries and Germanic tribal allies, all unreliable in combat.  The Germans are many, but need to be &amp;quot;motivated&amp;quot; by Arminius in order to join battle against the Romans.  A fairly even match that historically went to the Romans.&amp;#10;&amp;#10;380 counters&amp;#10;&amp;#10;Revised version:&amp;#10;&amp;#10;     Caesar's Legions&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1974"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgameimplementation" id="1722" value="Caesar's Legions"/>
+    <link type="boardgamedesigner" id="13787" value="Loren K. Wiseman"/>
+    <link type="boardgameartist" id="657" value="John Harshman"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="5"/>
+        <average value="7.2"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.16619"/>
+        <median value="0"/>
+        <owned value="23"/>
+        <trading value="1"/>
+        <wanting value="5"/>
+        <wishing value="4"/>
+        <numcomments value="8"/>
+        <numweights value="2"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

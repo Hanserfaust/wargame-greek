@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6004">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/AcVmz9Yce5gp8mOq9JqxrobP1BE=/fit-in/200x150/pic478672.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Pf-uG0U4UFWfxURM9a3WQfa7gto=/0x0/pic478672.jpg</image>
+    <name type="primary" sortindex="5" value="The Indian Mutiny"/>
+    <description>The Indian Mutiny is a simulation of the Sepoy Rebellion in 1857.&amp;#10;&amp;#10;The game includes a 22&amp;quot;X34&amp;quot; map, 8 page rules and scenarios booklet, and 200 counters.&amp;#10;&amp;#10;Extensive conditions for either the British or Indian players determines which side wins (depending on the scenario being played).&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="2282" value="Robert G. Markham"/>
+    <link type="boardgamedesigner" id="595" value="Mark Seaman"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="37870" value="GP (Gamers Paradise)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="74"/>
+        <average value="5.40473"/>
+        <bayesaverage value="5.48964"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15290" bayesaverage="5.48964"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2827" bayesaverage="5.45435"/>
+        </ranks>
+        <stddev value="1.52161"/>
+        <median value="0"/>
+        <owned value="414"/>
+        <trading value="33"/>
+        <wanting value="0"/>
+        <wishing value="6"/>
+        <numcomments value="65"/>
+        <numweights value="13"/>
+        <averageweight value="2.6923"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

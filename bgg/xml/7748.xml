@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7748">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OBEiOv6GCmGdJA2lwVVPtsUahfk=/fit-in/200x150/pic31830.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/u58oVBQbQTt62ET_o1lOhh8E1sg=/0x0/pic31830.jpg</image>
+    <name type="primary" sortindex="5" value="The Italian Front: 1915-1918"/>
+    <description>Part of David Schroeder's &amp;quot;Der Weltkrieg&amp;quot; wargame series. This game covers the Italian Front in World War I. There are five scenarios covering the offensives of each year.&amp;#10;&amp;#10;May 1915 (1st Isonzo):  The Italian army attempts to enter Austria-Hungary across the Isonzo River, towards Trieste. The Austro-Hungarian army is dug in and waiting for them. The first battles along the Isonzo are a futile foreshadowing of what is to come.&amp;#10;&amp;#10;May 1916 (Strafexpedition): The Chief of Staff of the Austro Hungarian army, Conrad von Hotzendorff, feels the time is right to strike a blow against Italy. He ignores the advice of the German chief of staff, von Falkenhayn, who foresees the main threat to be on the Russian Front. The Italians in the southern Tirol have neglected their rear area defenses. This and the fury of the Austro-Hungarian attack put the Italian army in peril. Cadorna, the head of the Italian army, rushes reinforcements to the front. It is a dicey affair, but the Italian lines hold fast. The threat to the Italian armies along the Isonzo is checked.&amp;#10;&amp;#10;May 1917 (10th Isonzo): In endless offensives, valiant Italian infantry go over the top and into the maelstrom of the Isonzo. Each battle differs from the last only by its increasing intensity and skyrocketing casualty lists. In the end, both armies are exhausted. The Italians have become weary of the war, but the Austrians feel that one more attack along the Isonzo will break through.&amp;#10;&amp;#10;October 1917 (Caporetto): When the Central Powers strike, they break through the Italian front lines along the headwaters of the Isonzo. German and Austrian units pour through the mountain passes and into the Italian rear. Caporetto is an overwhelming victory for the Central Powers. But Italy is not defeated and her citizens rally for another year of war.&amp;#10;&amp;#10;June 1918 (Albrecht and Radetzky): Conrad's attacks across the Piave are initially successful, but his divisions quickly bog down. The Austrians are unable to push their bridgeheads far enough forward to keep their pontoon bridges out of range of Italian artillery. Unable to reinforce their spearheads or maintain viable supply lines, the Austro-Hungarian armies fall back, awaiting the inevitable Italian counterattack.&amp;#10;&amp;#10;20km/hex&amp;#10;4 days/turn&amp;#10;560 counters&amp;#10;1 34&amp;quot;x22&amp;quot; map&amp;#10;Complexity = medium&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="121" value="No necessary in-game text" numvotes="0"/>
+        <result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="125" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11515" value="Country: Italy"/>
+    <link type="boardgamefamily" id="54194" value="Italian War of Independence"/>
+    <link type="boardgamefamily" id="111" value="Der Weltkrieg Series"/>
+    <link type="boardgamedesigner" id="2702" value="David Schroeder"/>
+    <link type="boardgameartist" id="2702" value="David Schroeder"/>
+    <link type="boardgamepublisher" id="1814" value="SPW (Schroeder Publishing &amp; Wargames)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="68"/>
+        <average value="7.76471"/>
+        <bayesaverage value="5.59373"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6727" bayesaverage="5.59373"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="949" bayesaverage="6.08098"/>
+        </ranks>
+        <stddev value="1.20242"/>
+        <median value="0"/>
+        <owned value="399"/>
+        <trading value="7"/>
+        <wanting value="28"/>
+        <wishing value="48"/>
+        <numcomments value="46"/>
+        <numweights value="10"/>
+        <averageweight value="3.1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

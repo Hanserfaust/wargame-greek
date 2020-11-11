@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="204516">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Im_QYH4n1I0ODwrNDTFVA0oM1AM=/fit-in/200x150/pic3327213.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/655Rxfya1jJ70AbwPNEjfoUUO7A=/0x0/pic3327213.png</image>
+    <name type="primary" sortindex="1" value="878 Vikings: Invasions of England"/>
+    <name type="alternate" sortindex="1" value="878 Les Vikings: Les Invasions de l'Angleterre"/>
+    <name type="alternate" sortindex="1" value="878 Vikings: Invasioni dell'Inghilterra"/>
+    <name type="alternate" sortindex="1" value="878 Vikings: La invasión de Inglaterra"/>
+    <name type="alternate" sortindex="1" value="Wikinger 878 A.D.: Angriff auf England"/>
+    <description>The year is 878. For the past 75 years, Viking raiding parties from Norway and Denmark have been terrorizing the coasts of England with &amp;lsquo;hit and run&amp;rsquo; attacks. The treasures and stories gained from these attacks have allowed the Norsemen to raise huge hosts of eager men seeking glory and riches. These armies now stand poised to thunder across England where they will settle and farm the fertile land they conquer. The divided English kingdoms are unprepared for this impending onslaught. The Vikings are coming!&amp;#10;&amp;#10;In 878: Vikings &amp;ndash; Invasions of England, players control the invading Vikings or the English nobles who are trying to withstand the invasion. Viking players either play as Norsemen Viking freeman or as the fearless Viking shock troops known as Berserkers. The English play as the Housecarl, the Kings&amp;rsquo; household troops, or as the Thegns who were regional noble Leaders. The English players will also be able to call up the peasant levies, called the Fyrd, to defend their cities.&amp;#10;&amp;#10;Players for each side strategize together in order to coordinate their strategies. Each side attempts to control Cities on the map to win. The English start the game controlling all of England but a Viking Leader will invade from the sea each Turn. The English players raise reinforcements from cities they control, while the Vikings must wait for a new invasion for reinforcements. The game ends when the Treaty of Wedmore is called and the side controlling the most cities wins the game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="49">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="37"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="29"/>
+        <result value="Recommended" numvotes="16"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="21"/>
+        <result value="Not Recommended" numvotes="15"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="25"/>
+        <result value="Recommended" numvotes="16"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="31"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="1"/>
+        <result value="10" numvotes="4"/>
+        <result value="12" numvotes="9"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="16" value="No necessary in-game text" numvotes="0"/>
+        <result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+        <result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="20" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1094" value="Educational"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamemechanic" id="2079" value="Variable Phase Order"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="25158" value="Components: Miniatures"/>
+    <link type="boardgamefamily" id="14759" value="Country: England"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="5613" value="Vikings"/>
+    <link type="boardgameexpansion" id="235738" value="878 Vikings: Event Card Expansion Pack"/>
+    <link type="boardgameexpansion" id="233859" value="878 Vikings: Invasions of England – Viking Age Expansion"/>
+    <link type="boardgamedesigner" id="36866" value="Beau Beckett"/>
+    <link type="boardgamedesigner" id="12023" value="Dave Kimmel"/>
+    <link type="boardgamedesigner" id="6296" value="Jeph Stahl"/>
+    <link type="boardgameartist" id="115475" value="Allan Ball"/>
+    <link type="boardgameartist" id="38447" value="Jarek Nocoń"/>
+    <link type="boardgameartist" id="11866" value="Steve Paschal"/>
+    <link type="boardgamepublisher" id="7747" value="Academy Games, Inc."/>
+    <link type="boardgamepublisher" id="7186" value="ASYNCRON games"/>
+    <link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca"/>
+    <link type="boardgamepublisher" id="26001" value="Spiele-Offensive.de"/>
+    <link type="boardgamepublisher" id="26162" value="Wyrd Edizioni"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1762"/>
+        <average value="7.58096"/>
+        <bayesaverage value="6.66037"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="714" bayesaverage="6.66037"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="82" bayesaverage="7.21049"/>
+        </ranks>
+        <stddev value="1.37949"/>
+        <median value="0"/>
+        <owned value="3820"/>
+        <trading value="66"/>
+        <wanting value="288"/>
+        <wishing value="1265"/>
+        <numcomments value="542"/>
+        <numweights value="65"/>
+        <averageweight value="2.6"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

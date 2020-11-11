@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16970">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OEU5R_9aW3Ypk6U3-gVCBXMAgRU=/fit-in/200x150/pic72661.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/nPzmGS2Q7kqm5Gz66JUGvqs0vGM=/0x0/pic72661.jpg</image>
+    <name type="primary" sortindex="1" value="Fanhunter Batallitas"/>
+    <name type="alternate" sortindex="1" value="Fanhunter Battles"/>
+    <description>Barnacity is near E-X-P-L-O-S-I-O-N!&amp;#10;&amp;#10;Fanhunter Battles is a boardgame where bloody urban combats between Papal Troops from Alejo I and brave hordes of Resistence Fans that opposing the Alejo I Pope, in the near Future and comic world of Fanhunter.&amp;#10;&amp;#10;A system game for idiot proven gamers, 8 modular boards, tons of tiles and chits, 6 scenarios ready to play, a language that scanal your parents. Fanhunter includes everything for starting the war in the streets of Barnacity.&amp;#10;&amp;#10;This time it is the war...&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Fanhunter: Suburbia Expansion&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1079" value="Humor"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+    <link type="boardgamefamily" id="21929" value="Fanhunter"/>
+    <link type="boardgameexpansion" id="16971" value="Fanhunter: Suburbia Expansion"/>
+    <link type="boardgamedesigner" id="5183" value="Chema Pamundi"/>
+    <link type="boardgameartist" id="13141" value="David Esbri"/>
+    <link type="boardgamepublisher" id="3819" value="Farsa's Wagon"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="29"/>
+        <average value="6.2"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.1179"/>
+        <median value="0"/>
+        <owned value="70"/>
+        <trading value="4"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="11"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

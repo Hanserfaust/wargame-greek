@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="279644">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Y8rr4yZbWMcNjkvSB-vNbmTHiRM=/fit-in/200x150/pic4734537.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kOiLqasIsB9fNzch1vDkalQ6Myk=/0x0/pic4734537.jpg</image>
+    <name type="primary" sortindex="1" value="Peloponnesian War"/>
+    <description>What was old is new again. I am excited to have this opportunity to bring back into print and enhanced version of my original Peloponnesian War design that was originally published by Victory Games. This military game of ancient warfare lets YOU chart the destiny of the war. Peloponnesian War uses a still-unique solitaire system that was a pioneer in this genre, yet was never copied.&amp;#10;&amp;#10;Most current solitaire systems on the market today have the player take one side for the entire game. This pits the player against a random 'Bot system, even the best of which have some difficulty giving you the same challenge as playing against a human opponent. In Peloponnesian War, you get to play both sides, pitting yourself against the best that YOU can offer. If the game system is winning, the player is forced to continue with the losing side. Success, on the other hand, will eventually force the player to change sides and recover the losing side's fortunes. The duration of the war and the player's performance determine victory. In this manner the player competes against himself in the classic tradition of the Greek tragedy. - Mark&amp;#10;&amp;#10;From the opening of the Archadameian War in 431BC to the Fall of Athens in 404, The Peloponessian War allows YOU to compete against the man in the mirror, as you live through the suicide of Greece. Maneuver your generals, hoplites, and navies to fight battles and attempt to bring the war to an end on your terms. Take heed, however. As you weaken your foe, you create a greater game challenge for yourself. For as you improve in strength, so does your opponent.&amp;#10;&amp;#10;In terms of physical components, Mark's enhanced version is getting the full GMT treatment: mounted map and strategy boards, high-quality thick counters, redesigned rules and playbook, all with new art throughout. This will be a product that you'll want to own and play for a long time! We hope you enjoy this enhanced GMT version of Mark Herman's classic solitaire game design.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+    <yearpublished value="2019"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="5"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="0"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="52373" value="Ancient Greece"/>
+    <link type="boardgamefamily" id="18614" value="Cities: Athens"/>
+    <link type="boardgamefamily" id="24921" value="Cities: Sparta (Greece)"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameimplementation" id="1678" value="The Peloponnesian War, 431-404 BC" inbound="true"/>
+    <link type="boardgamedesigner" id="152" value="Mark Herman"/>
+    <link type="boardgameartist" id="11856" value="Mark Mahaffey"/>
+    <link type="boardgameartist" id="11872" value="Kurt Miller"/>
+    <link type="boardgameartist" id="140" value="Mark Simonitch"/>
+    <link type="boardgamepublisher" id="52" value="GMT Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="66"/>
+        <average value="8.43939"/>
+        <bayesaverage value="5.62893"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5686" bayesaverage="5.62893"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="807" bayesaverage="6.15693"/>
+        </ranks>
+        <stddev value="1.00195"/>
+        <median value="0"/>
+        <owned value="617"/>
+        <trading value="12"/>
+        <wanting value="59"/>
+        <wishing value="187"/>
+        <numcomments value="43"/>
+        <numweights value="11"/>
+        <averageweight value="4.1818"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

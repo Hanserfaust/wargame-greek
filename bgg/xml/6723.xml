@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6723">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HhiUuwTxX6dG0XYDMQ7h8_vAGN0=/fit-in/200x150/pic59843.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/MVBFi-bl7TpDfoXimO0Z5H0SIig=/0x0/pic59843.jpg</image>
+    <name type="primary" sortindex="1" value="Redguard"/>
+    <name type="alternate" sortindex="1" value="Red Guard"/>
+    <description>THE CHINESE CULTURAL REVOLUTION&amp;#10;&amp;#10;Up to 6 players struggle for control of key Chinese sites while anxiously watching Chairman Mao's health. Will your faction be ready to assume power when the great leader departs the workers paradise ? Or will you be able to exert your dominance even before the tragic event?&amp;#10;&amp;#10;36 tiles create a map of important Chinese political, military and social sites &amp;#10;1 sheet of 216 die cut counters shows the forces involved&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="1"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1086" value="Territory Building"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2021" value="Area-Impulse"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="11518" value="Country: China"/>
+    <link type="boardgamedesigner" id="1678" value="Brian Train"/>
+    <link type="boardgameartist" id="811" value="Peter Schutze"/>
+    <link type="boardgamepublisher" id="424" value="Schutze Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="4.941"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.91503"/>
+        <median value="0"/>
+        <owned value="50"/>
+        <trading value="1"/>
+        <wanting value="5"/>
+        <wishing value="15"/>
+        <numcomments value="9"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

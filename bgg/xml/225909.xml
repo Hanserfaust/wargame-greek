@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="225909">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/6VQ2igtvPY1Hd1XXjr9T1Z7U1PU=/fit-in/200x150/pic4210635.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/vqzHwZh9M3x-jNpAFJNPLjb2j-8=/0x0/pic4210635.jpg</image>
+    <name type="primary" sortindex="1" value="Inferno sugli Altipiani, 1916"/>
+    <name type="alternate" sortindex="1" value="Burning Mountains"/>
+    <description>Inferno sugli Altipiani 1916 is the game in the first issue of the Italian magazine Para Bellum.&amp;#10;Inferno sugli Altopiani is a game about the Spring 1916 Austro-Hungarian offensive on the Italian Front, aimed to drive to Vicenza and the Veneto plain, west of Venice, cutting off the whole front in Carnia and along the Isonzo river. One player controls the Austro-Hungarian forces, the other the Italian forces. Each player attempts to achieve, or maintain, geographical objectives to attain the victory.&amp;#10;The game is in Italian, but you can download the English rules on the site.&amp;#10;_______________________________&amp;#10;&amp;#10;&amp;quot;BURNING MOUNTAINS&amp;quot; - Second Edition in English by Compass Games - Paper Wars #89 magazine &amp;amp; game (Spring 2018 issue)&amp;#10;&amp;#10;Information from the Compass / Paper Wars #89 website (https://www.compassgames.com/paperwars/issue-89-magazine-game.html) :&amp;#10;&amp;#10;&amp;quot;BURNING MOUNTAINS: The Austro-Hungarian Spring 1916 Offensive against Italy&amp;quot;&amp;#10;&amp;#10;&amp;quot;Burning Mountains is a simulation game about the Spring 1916 Austro-Hungarian offensive on the Italian Front, aimed to drive to the Veneto plain, west of Venice, cutting off the front in Friuli and along the Isonzo river, where most of Italian Army where deployed. A little known WW I battle, that could have changed the balance of the war. It's an attrition battle, where the mountainous terrain will channel the AH efforts. A race against the time, while the Italian reinforcements hurry up to close the ever opening gaps. One player controls the Austro-Hungarian forces, the other the Italian forces. Each player attempts to achieve, or maintain, geographical objectives to attain the victory.&amp;quot;&amp;#10;&amp;#10;Product Information (Paper Wars #89, second edition 2018):&amp;#10;&amp;#10;Complexity: 1-10 (high):  4&amp;#10;    Solitaire Suitability: 1-10 (high):  8&amp;#10;    Time Scale:  2 Days per Game Turn&amp;#10;    Map Scale:  2 km per hex&amp;#10;    Unit Scale:  Brigades and some Regiments&amp;#10;    Players:  2&amp;#10;    Playtime:  7 hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="11515" value="Country: Italy"/>
+    <link type="boardgamefamily" id="54194" value="Italian War of Independence"/>
+    <link type="boardgamefamily" id="51363" value="Magazine: Parabellum"/>
+    <link type="boardgameexpansion" id="279447" value="Inferno sugli Altipiani: Valsugana"/>
+    <link type="boardgameimplementation" id="70398" value="Mountains Aflame!" inbound="true"/>
+    <link type="boardgamedesigner" id="10400" value="Andrea Brusati"/>
+    <link type="boardgameartist" id="85503" value="Ilya Kudriashov"/>
+    <link type="boardgamepublisher" id="11378" value="Acies"/>
+    <link type="boardgamepublisher" id="3929" value="Compass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="36"/>
+        <average value="7.975"/>
+        <bayesaverage value="5.5561"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8695" bayesaverage="5.5561"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1467" bayesaverage="5.87738"/>
+        </ranks>
+        <stddev value="0.994254"/>
+        <median value="0"/>
+        <owned value="124"/>
+        <trading value="1"/>
+        <wanting value="9"/>
+        <wishing value="14"/>
+        <numcomments value="15"/>
+        <numweights value="4"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

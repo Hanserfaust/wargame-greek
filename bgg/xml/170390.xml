@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="170390">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/XvRkHKNAyoaiPwPnTljtd8i8TPM=/fit-in/200x150/pic2343836.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/r7FMDHvqUFfbPEVBImZFVZymJ-8=/0x0/pic2343836.jpg</image>
+    <name type="primary" sortindex="1" value="España 20: Volume 1"/>
+    <description>Espa&amp;ntilde;a 20 features two complete games covering key battles fought over control of the Iberian Peninsula.&amp;#10;&amp;#10;Considered one of Wellington&amp;rsquo;s finest battles, Arapiles 20 (July, 1812) from Lance McMillan focuses on the hard-fought meeting engagement between his veteran British forces and Mareschal Marmont&amp;rsquo;s French army in the hills south of Salamanca. With two armies of equal strength, victory requires careful planning, precise maneuvers, and exact timing to take advantage of the opportunities offered by unexpected events. Will the British player be able to pounce on a fleeting French blunder to win the day (as happened historically), or will the French be able to simply bludgeon his opponent into submission? In Arapiles 20, the outcome of this famous battle is in your hands.&amp;#10;&amp;#10;Hans von Stockhausen's Bail&amp;eacute;n 20 (July, 1808) showcases the stunning triumph of General Francisco Casta&amp;ntilde;os&amp;rsquo; Spanish army over French General Pierre Dupont&amp;rsquo;s Corps d&amp;rsquo;Observation operating in the mountains of Andalusia. This game challenges both players: The Spanish must struggle to coordinate the actions of their large and enthusiastic but mostly untrained army, while the French must decide whether to try and hold against superior numbers or conduct a fighting withdrawal back to Madrid. With Spanish guerrillas, a baggage train full of looted treasure, and treacherous Swiss mercenaries who might change sides in the middle of the battle, Bail&amp;eacute;n 20 offers players plenty of military adventure.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="13"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="144" value="Napoleonic 20"/>
+    <link type="boardgameexpansion" id="227257" value="Napoleonic 20 Expansion Kit (with Hanau 20)"/>
+    <link type="boardgamecompilation" id="225836" value="España 20: La Guerra Peninsular"/>
+    <link type="boardgamedesigner" id="11112" value="Lance McMillan"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgamedesigner" id="8594" value="Hans von Stockhausen"/>
+    <link type="boardgameartist" id="11863" value="Tim Allen"/>
+    <link type="boardgameartist" id="62596" value="Clark Miller"/>
+    <link type="boardgameartist" id="62378" value="Richard Starke"/>
+    <link type="boardgamepublisher" id="8007" value="Victory Point Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="36"/>
+        <average value="7.72222"/>
+        <bayesaverage value="5.55934"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8447" bayesaverage="5.55934"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1352" bayesaverage="5.90732"/>
+        </ranks>
+        <stddev value="1.02364"/>
+        <median value="0"/>
+        <owned value="124"/>
+        <trading value="5"/>
+        <wanting value="11"/>
+        <wishing value="15"/>
+        <numcomments value="17"/>
+        <numweights value="3"/>
+        <averageweight value="2.3333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

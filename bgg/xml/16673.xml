@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="16673">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/K3F9VDpJDXrUqoc_vS6TR63dMNI=/fit-in/200x150/pic80606.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/YcAKgkNV7RJABUCFDwxyWH4moO8=/0x0/pic80606.jpg</image>
+    <name type="primary" sortindex="1" value="Over the Top, Command Decision Series Game"/>
+    <description>Over the Top is the WWI version of the original 1986 Command Decision (WWII operational level miniature rules).  Uses platoon level stands and a vehicle scale of 1:5.  Uses the same basic system as the WWII counterpart but also covers special situations specific to WWI (trench warfare, air power, chemical warfare, tanks).&amp;#10;&amp;#10;</description>
+    <yearpublished value="1990"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamedesigner" id="2465" value="Greg Novak (I)"/>
+    <link type="boardgamepublisher" id="181" value="Game Designers' Workshop"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="30"/>
+        <average value="7.00833"/>
+        <bayesaverage value="5.52711"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11373" bayesaverage="5.52711"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2128" bayesaverage="5.69446"/>
+        </ranks>
+        <stddev value="1.38817"/>
+        <median value="0"/>
+        <owned value="114"/>
+        <trading value="7"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="8"/>
+        <numweights value="2"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

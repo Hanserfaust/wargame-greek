@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3110">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/pdhdkOCW3Fh9tRK0KJNbPYI2afo=/fit-in/200x150/pic903879.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/EH-NUgaOrbTT29MrKg0m7AgQP1k=/0x0/pic903879.png</image>
+    <name type="primary" sortindex="1" value="Dragon Rage"/>
+    <description>Dragon Rage is a game of mythical creatures attacking a walled medieval city. The game-board is a full color aerial view of the city and surrounding territory, and the counters include knights, infantry, heroes, wizards, dragons, orcs, trolls, great birds, giants, and other mythical creatures and beasts. The game rules include six scenarios, and a table for creating your own games with different combinations of monsters and city defense forces.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="7005" value="Animals: Dragons"/>
+    <link type="boardgamefamily" id="21631" value="Dwarfstar Games"/>
+    <link type="boardgamedesigner" id="1000" value="Lewis Pulsipher"/>
+    <link type="boardgameartist" id="12016" value="Miguel Coimbra"/>
+    <link type="boardgameartist" id="23450" value="David Helber"/>
+    <link type="boardgameartist" id="10894" value="Lionel Liron"/>
+    <link type="boardgameartist" id="34578" value="Tom Maxwell"/>
+    <link type="boardgameartist" id="34577" value="Kenn Nishiuye"/>
+    <link type="boardgamepublisher" id="12620" value="Dwarfstar Games"/>
+    <link type="boardgamepublisher" id="15516" value="Flatlined Games"/>
+    <link type="boardgamepublisher" id="368" value="Heritage USA"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="162"/>
+        <average value="6.95593"/>
+        <bayesaverage value="5.65562"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5090" bayesaverage="5.65562"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="769" bayesaverage="6.18801"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1522" bayesaverage="5.71293"/>
+        </ranks>
+        <stddev value="1.32288"/>
+        <median value="0"/>
+        <owned value="598"/>
+        <trading value="29"/>
+        <wanting value="61"/>
+        <wishing value="189"/>
+        <numcomments value="112"/>
+        <numweights value="24"/>
+        <averageweight value="2.7083"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

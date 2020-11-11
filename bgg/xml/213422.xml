@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="213422">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ZaQaiK8Ndwr6gypvX_SVligBGgI=/fit-in/200x150/pic3293146.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2ps1M2Vn2Js_iciOCDMWvWcuNQ8=/0x0/pic3293146.jpg</image>
+    <name type="primary" sortindex="1" value="Barbarossa Deluxe: The Russo-German War – 1941-1945"/>
+    <description>A strategic-level, two-player &amp;ldquo;mini-monster&amp;rdquo; of intermediate complexity, designed by Ty Bomba, covering the entire Russo-German War. Play may end sooner than the historic termination time, if the German player is able to do significantly better than his historic counterparts by advancing so quickly he causes the overall political, social, economic and military collapse of the Soviet Union. Likewise, if the Soviet player is able to carry out his strategic comeback more efficiently than did historic counterparts during the second half of the war, the game may again end earlier than it did historically.&amp;#10;&amp;#10;Each extra-large hexagon on the two-sheet map represents 55 miles. The large-size counters provide corps as primary units of maneuver for the Germans, while for the Soviets they&amp;rsquo;re armies. The full order of battle is the most complete ever published in any simulation at this level.&amp;#10;&amp;#10;The six scenarios include: the Grand Campaign, 1941-45; The Road Back, 1942-45; Operations Blue &amp;amp; Kremlin, 1942; Operation Citadel, 1943; What If: Manstein&amp;rsquo;s Gambit, 1943; and What If: 1942 (assuming the war didn&amp;rsquo;t start until a year after its historic date).&amp;#10;&amp;#10;Contents&amp;#10;Two 22&amp;rdquo; x 34&amp;rdquo; maps&amp;#10;352 counters&amp;#10;32-page full color rules booklet&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="720"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="720"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgameimplementation" id="5541" value="Barbarossa: The Russo-German War 1941-45" inbound="true"/>
+    <link type="boardgameimplementation" id="36911" value="Barbarossa: The Russo-German War, 1941-45" inbound="true"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgameartist" id="20072" value="Larry Hoffman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="7.65385"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.6336"/>
+        <median value="0"/>
+        <owned value="81"/>
+        <trading value="4"/>
+        <wanting value="9"/>
+        <wishing value="19"/>
+        <numcomments value="15"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

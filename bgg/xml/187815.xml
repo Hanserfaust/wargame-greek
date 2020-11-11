@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="187815">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/8HF_MrdZ0rz8XfRd4A4QvmwC4ZU=/fit-in/200x150/pic2988056.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/0QVLjWjbi-7nrWxIUGp6e7iEZms=/0x0/pic2988056.jpg</image>
+    <name type="primary" sortindex="1" value="LZ Albany"/>
+    <description>Modern War #24, Jul-Aug 2016&amp;#10;&amp;#10;LZ Albany depicts the ambush of US air cavalry units by the North Vietnamese Army on 17 November 1965, during the Pleiku Campaign. Turns cover one hour, with multiple impulses driven by a random chit draw. Additional chits add extra assets like artillery and air power. US and NVA platoons maneuver through areas of jungle, sawgrass, and clearings. Leaders magnify unit abilities but are vulnerable. The NVA player is bent on maximizing US losses before being overwhelmed by firepower. The US player must stabilize the situation, maximize NVA casualties, and evacuate wounded to prevent their falling into enemy hands.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2016"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="20084" value="Magazine: Modern War"/>
+    <link type="boardgamedesigner" id="8266" value="John Poniske"/>
+    <link type="boardgameartist" id="63707" value="Trevor Holman"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="6.45"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.788987"/>
+        <median value="0"/>
+        <owned value="92"/>
+        <trading value="2"/>
+        <wanting value="7"/>
+        <wishing value="8"/>
+        <numcomments value="12"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

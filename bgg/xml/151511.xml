@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="151511">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/xojt7TlVj8ye4z25G4EQtr1RKVw=/fit-in/200x150/pic1902432.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jr3uDaVwdnIHu17u-om49jwe4ow=/0x0/pic1902432.jpg</image>
+    <name type="primary" sortindex="1" value="L' Audace: The Battle of Abbeville – May 28-29,1940"/>
+    <description>L'Audace: The Battle of Abbeville: May 28-June 4, 1940,  is a two-player game that simulates the climatic battle of Abbeville.  One player takes on the role of the leader of the counter-attacking French 4th DCR forces, the other the commander of those defending the German bridgehead.&amp;#10;&amp;#10;After breaking out of the Ardennes Forest and fighting over the Meuse River at Dinant and Sedan, German mechanized forces raced across France to the Channel, effectively splitting the Allies in two. By the end of May the English announced their intention to withdraw the BEF (British Expeditionary Force) at Dunkirk.  Increasingly desperate, the French high command cobbled together a counter-attack force centered on the newly-formed 4th DCR (Division Char de Reserve), led by General Charles DeGaulle, to retake the channel port of Abbeville.  Victory here against the strung out 57th Bavarian Infantry Division could reunify the Allied forces, and also cut-off the deadly but depleted panzer divisions that had earlier wrought so much havoc.&amp;#10;&amp;#10;Game Scale:&amp;#10;Game Turn: 40 minutes&amp;#10;Hex: 0.25 miles / 0.40 kilometer&amp;#10;Units: Company&amp;#10;&amp;#10;Game Inventory:&amp;#10;Two 11x17&amp;quot; full color maps&amp;#10;One single-side printed un-mounted countersheet (200 1/2&amp;quot; counters)(mounted counters are optional)&amp;#10;One 8-page rulebook&amp;#10;One Player Aid Chart&amp;#10;&amp;#10;Solitaire Playability: Medium&amp;#10;Complexity Level: Low&amp;#10;Players: 2 or more&amp;#10;Playing Time: 1.5 to 2 hours&amp;#10;&amp;#10;</description>
+    <yearpublished value="2013"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="12902" value="Blood and Steel series"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.408248"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="3"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

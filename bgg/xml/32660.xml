@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="32660">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Y5eJkIg1_Oau-qnFmZHd-paJ2RI=/fit-in/200x150/pic264032.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XZx6a2MBzQiX-doqfV72oMMYx_Q=/0x0/pic264032.jpg</image>
+    <name type="primary" sortindex="1" value="Supermarina I: The First Part of the Mediterranean War"/>
+    <description>The First Part of the Mediterranean War - June, 1940 to July, 1941.&amp;#10;&amp;#10;Contains Scenarios:&amp;#10;&amp;#10;First Blood, Bagnolini vs. Calypso&amp;#10;Action Off Calabria (Punta Stilo)&amp;#10;Cape Spada&amp;#10;Ajax and Convoy MB6&amp;#10;Rainbow's End (Brit SS vs. Italian SS)&amp;#10;The Taranto Raid&amp;#10;Otranto Straits&amp;#10;The Fight off Cape Teulada &amp;#10;The Inshore Squadron at Bardia&amp;#10;Operation Excess&amp;#10;The Vega Incident&amp;#10;Attack on Illustrious&amp;#10;Bombardment of Genoa&amp;#10;Convoy to Tripoli&amp;#10;Disaster in the Gulf of Bomba&amp;#10;Suda Bay&amp;#10;The Sinking of Bonaventure&amp;#10;Kerkennah Bank&amp;#10;The Conte Rosso Convoy&amp;#10;Black Thursday: The Battle for Crete&amp;#10;Night Action in the Kasos Straits&amp;#10;The Lupo Convoy&amp;#10;The Sagittario Convoy&amp;#10;&amp;#10;Clash of Arms Stock #9509-53B&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="1"/>
+    <maxplayers value="12"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="9">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="10">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="11">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="12">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="12+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="4611" value="Command at Sea"/>
+    <link type="boardgameexpansion" id="67339" value="Command at Sea (4th Edition)" inbound="true"/>
+    <link type="boardgamedesigner" id="3664" value="John D. Gresham"/>
+    <link type="boardgamedesigner" id="1687" value="Mike Markowitz"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="7.63636"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.45959"/>
+        <median value="0"/>
+        <owned value="51"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="6"/>
+        <numcomments value="2"/>
+        <numweights value="4"/>
+        <averageweight value="4.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

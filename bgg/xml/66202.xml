@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="66202">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/6v7jTHvl4POKlf7ajve-9CID7io=/fit-in/200x150/pic767961.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/MBiOC5dzEMo4FBW3g-BALKPcDcQ=/0x0/pic767961.jpg</image>
+    <name type="primary" sortindex="1" value="Wars of Empire II: To the Last Gaiter Button"/>
+    <description>Tactical battle rules for miniatures, nominally for 10mm figures but applicable to others.&amp;#10;&amp;#10;This set of rules forms part of the Real Time Wargames series, in this case covering the late 19th century battles involving the French and Prussian armies in 1870.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2003"/>
+    <minplayers value="2"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">		
+				</results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="34093" value="Keith Warren"/>
+    <link type="boardgamepublisher" id="11369" value="Real Time Wargames"/>
+    <link type="boardgamepublisher" id="8065" value="Realistic Modelling Services"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="3"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.55903"/>
+        <median value="0"/>
+        <owned value="4"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

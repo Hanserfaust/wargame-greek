@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="69694">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/-rOR0uUmh2E7pM8a4Y_RPEUFPWA=/fit-in/200x150/pic850569.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/vmfiC6XMHBxjGKO5hBJuoF86CzA=/0x0/pic850569.jpg</image>
+    <name type="primary" sortindex="1" value="Forces of Warmachine: Cygnar"/>
+    <description>Publisher Blurb / Back of book&amp;#10;&amp;#10;Courage and Honor&amp;#10;&amp;#10;Known as the Jewel of the Iron Kingdoms, the great nation of Cygnar is beset by enemies on all sides. Against these threats stands the elite army of the Cygnus, including battle-hardened trenchers, deadly long gunners, and the legendary Storm Knights, warriors whose weapons bristle with lightning. Armed with the most advanced mechanika in the Iron Kingdoms, the stalwart and courageous soldiers of Cygnar stand resolute against those who seek to destroy their beloved homeland.Take up the fight for the Cygnus with Forces of WARMACHINE: Cygnar, featuring:&amp;#10;&amp;#10;&amp;#10;     Complete faction rules and profiles for using all current Cygnar models in WARMACHINE Mk II.&amp;#10;     New troops to bring to the fight, plus the all-new warcaster Captain Kara Sloan.&amp;#10;     An in-depth look at the history and structure of Cygnar&amp;rsquo;s military.&amp;#10;     A painting and modeling guide to help you ready your forces for battle.&amp;#10;     Cygnar Theme Force lists and rules, which allow you to create armies based on specialized forces from the nation of Cygnar.&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="4+">		
+				</results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="6323" value="Warmachine"/>
+    <link type="boardgameexpansion" id="4741" value="Warmachine" inbound="true"/>
+    <link type="boardgameexpansion" id="67254" value="Warmachine Prime Mk II" inbound="true"/>
+    <link type="boardgamedesigner" id="10044" value="Jason Soles"/>
+    <link type="boardgamedesigner" id="1857" value="Matt Wilson"/>
+    <link type="boardgameartist" id="13948" value="Daren Bader"/>
+    <link type="boardgameartist" id="36017" value="Carlos Cabrera"/>
+    <link type="boardgameartist" id="15019" value="Eric Deschamps"/>
+    <link type="boardgameartist" id="13426" value="Mark Gibbons"/>
+    <link type="boardgameartist" id="14947" value="Lars Grant-West"/>
+    <link type="boardgameartist" id="14298" value="Imaginary Friends Studio (IFS)"/>
+    <link type="boardgameartist" id="14748" value="Jonathan Kirtz"/>
+    <link type="boardgameartist" id="35573" value="Daryl Mandryk"/>
+    <link type="boardgameartist" id="17057" value="Sławomir Maniak"/>
+    <link type="boardgameartist" id="21430" value="Karl Richardson"/>
+    <link type="boardgameartist" id="14821" value="Klaus Scherwinski"/>
+    <link type="boardgameartist" id="280" value="Brian Snoddy"/>
+    <link type="boardgameartist" id="16234" value="Greg Staples"/>
+    <link type="boardgameartist" id="16437" value="Andrea Uderzo"/>
+    <link type="boardgameartist" id="1857" value="Matt Wilson"/>
+    <link type="boardgameartist" id="13243" value="Kieran Yanner"/>
+    <link type="boardgamepublisher" id="1111" value="Privateer Press"/>
+    <link type="boardgamepublisher" id="6174" value="Ulisses Spiele"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="50"/>
+        <average value="7.896"/>
+        <bayesaverage value="5.58264"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58264"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.85252"/>
+        </ranks>
+        <stddev value="1.61493"/>
+        <median value="0"/>
+        <owned value="152"/>
+        <trading value="8"/>
+        <wanting value="5"/>
+        <wishing value="4"/>
+        <numcomments value="19"/>
+        <numweights value="1"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

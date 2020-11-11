@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="47493">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/o9enCGMVW_HaCcMh6OVLmqufhXI=/fit-in/200x150/pic519418.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/vgd6D6TvsmD81XKjsei14gCLU-k=/0x0/pic519418.jpg</image>
+    <name type="primary" sortindex="1" value="Age of Steam Expansion: Frontline"/>
+    <description>It&amp;rsquo;s war. There is heavy fighting between whateverland and its southern neighbour. To support the war, a constant flow of supplies and fresh soldiers to the front is necessary. Railroads are construct to facilitate the supply, but like towns and cities may be lost if insufficient supplies and soldiers are delivered.&amp;#10;&amp;#10;In this 3-player variant of Age of Steam, the players are responsible for building railroads and making deliveries to the war front. Depending on their success to do so, the frontline moves, and therefore, the map changes. Because its war, they can all lose, but only one player can win.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="3"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="3+">		
+				</results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1021" value="Economic"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1034" value="Trains"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver"/>
+    <link type="boardgamemechanic" id="2081" value="Route/Network Building"/>
+    <link type="boardgamefamily" id="86" value="Age of Steam"/>
+    <link type="boardgameexpansion" id="4098" value="Age of Steam" inbound="true"/>
+    <link type="boardgamedesigner" id="8462" value="Lajos Brons"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="6668" value="Papercut Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="5.3208"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="17"/>
+        <trading value="0"/>
+        <wanting value="10"/>
+        <wishing value="18"/>
+        <numcomments value="4"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

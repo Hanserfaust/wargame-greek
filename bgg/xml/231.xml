@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="231">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KVc8OcxBE_19SSkRaLtDDomxNRk=/fit-in/200x150/pic87910.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UffftKF01dmwUXJpWSdk7CASG3Q=/0x0/pic87910.jpg</image>
+    <name type="primary" sortindex="1" value="Geronimo"/>
+    <description>The U.S. - Indian conflicts, a tragic period of history.&amp;#10;&amp;#10;Each turn, players are randomly assigned a side to play -- either Indian tribes or the U.S. Only one player represents the U.S. each turn, while the other players each have a number of Indian tribes under their control. Indian players get to select one or two of their active tribes, but the rest are dealt to them randomly. There are usually more Indian tribes available than what are active each turn, but players don't really know which ones are inactive.  This can be unsettling to the U.S. player as he must decide where to deploy his limited troops and columns.&amp;#10;&amp;#10;All players compete to earn victory points.  The U.S. player is faced with the task of building up sufficient resources (settlements, towns, railroads, mines, etc.) to maintain existing states and convert territories into states. The Indian players play the role of guerrillas to earn victory points, but also can deny resources to the U.S. player. However, he must be very careful not to suffer too many casualties, as this could cause his tribe to go on reservation or become extinct, which costs the player dearly in victory points.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1995"/>
+    <minplayers value="1"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="480"/>
+    <minplaytime value="480"/>
+    <maxplaytime value="480"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="46" value="No necessary in-game text" numvotes="0"/>
+        <result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="50" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1055" value="American West"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="43639" value="Native American"/>
+    <link type="boardgamedesigner" id="135" value="Richard H. Berg"/>
+    <link type="boardgameartist" id="12257" value="Stephen Langmead"/>
+    <link type="boardgameartist" id="11872" value="Kurt Miller"/>
+    <link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="223"/>
+        <average value="5.68628"/>
+        <bayesaverage value="5.51702"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12524" bayesaverage="5.51702"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2452" bayesaverage="5.60272"/>
+        </ranks>
+        <stddev value="1.94044"/>
+        <median value="0"/>
+        <owned value="701"/>
+        <trading value="53"/>
+        <wanting value="28"/>
+        <wishing value="50"/>
+        <numcomments value="123"/>
+        <numweights value="30"/>
+        <averageweight value="3.1667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

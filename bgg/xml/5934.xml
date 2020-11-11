@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5934">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/EAgUFVy-Fc1hzICusrHouYWHd0Y=/fit-in/200x150/pic97890.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/agWJJME-wMl8I5JRmvyBC7YuuHY=/0x0/pic97890.jpg</image>
+    <name type="primary" sortindex="1" value="Wahoo!"/>
+    <description>Wahoo! is an alternate-history game covering the climactic 8 July 1863 Battle of Washington. One player takes the role of Robert E. Lee, commander of the Army of Northern Virginia, while the other player represents a combined Lincoln/Grant persona.&amp;#10;&amp;#10;The game postulates that on the second day at the Battle of Gettysburg, the Confederate attack began earlier... Little Round Top was overrun and the bulk of the Army of the Potomac was forced to fall back on Baltimore to regroup.&amp;#10;&amp;#10;The Confederate player is trying to conquer the City of Washington while (optimally) also destroying the Northerner's high command. The degree in which the Rebels succeed or fail is measured in victory points... the Confederate must gain 5 or more points to win. This basically means, barring Lincoln's death, the Confederate player must gain control of the Capitol and the White House hexes to win.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1991"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="2710" value="Post-Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgamedesigner" id="2282" value="Robert G. Markham"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="33"/>
+        <average value="5.87879"/>
+        <bayesaverage value="5.50394"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14001" bayesaverage="5.50394"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2690" bayesaverage="5.5276"/>
+        </ranks>
+        <stddev value="1.70129"/>
+        <median value="0"/>
+        <owned value="186"/>
+        <trading value="19"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="27"/>
+        <numweights value="5"/>
+        <averageweight value="2.8"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

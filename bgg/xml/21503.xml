@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="21503">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/mYE5ue8eobVxuseRMt9CoYThIW8=/fit-in/200x150/pic4757838.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jcKnk9fHx1VwyDcMAGYg659wlMw=/0x0/pic4757838.jpg</image>
+    <name type="primary" sortindex="1" value="S.P.Q.RisiKo!"/>
+    <name type="alternate" sortindex="1" value="SPQRisiko"/>
+    <description>S. P. Q. Risiko is an Italian version of Risk that abstractly simulates warfare in the age of the Roman Empire. The map is divided into 45 land and 12 sea territories, over which move legions and ships.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="3"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="4"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="4"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="3"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+      <results>
+        <result level="41" value="No necessary in-game text" numvotes="4"/>
+        <result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="45" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1017" value="Dice"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamefamily" id="10079" value="RisiKo!: Risk variations by Spartaco Albertarelli"/>
+    <link type="boardgamefamily" id="4218" value="Risk"/>
+    <link type="boardgamedesigner" id="190" value="Spartaco Albertarelli"/>
+    <link type="boardgamepublisher" id="253" value="Editrice Giochi"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="158"/>
+        <average value="6.43671"/>
+        <bayesaverage value="5.59839"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6541" bayesaverage="5.59839"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2066" bayesaverage="5.71016"/>
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1718" bayesaverage="5.61055"/>
+        </ranks>
+        <stddev value="1.34632"/>
+        <median value="0"/>
+        <owned value="296"/>
+        <trading value="13"/>
+        <wanting value="12"/>
+        <wishing value="40"/>
+        <numcomments value="29"/>
+        <numweights value="15"/>
+        <averageweight value="2.1333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

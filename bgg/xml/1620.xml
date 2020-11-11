@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1620">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/pwvvf8bmkuKfobaOorwtGzZofEM=/fit-in/200x150/pic564562.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HoTO2f1Flio7WqvNaQWrJ8nh-xY=/0x0/pic564562.jpg</image>
+    <name type="primary" sortindex="1" value="Decline and Fall"/>
+    <description>Decline and Fall is a four-player game in which some of the forces which led to the breakup of the Roman empire are represented. Each player is provided with counters representing peoples or armies which move across a map of the ancient world and engage in conflict with other units. Through strategic movement, conflict and diplomacy each player tries to achieve certain goals.&amp;#10;&amp;#10;The four sides are: Rome, the Goths, The Huns and the Vandals.  The four sides have asymmetrical strengths and units.&amp;#10;&amp;#10;A game consists of 15 turns, each divided into 4 player-turns which in turn consist of three main stages: movement, conflict, and movement again. A full turn represents about 5 years of real time.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1972"/>
+    <minplayers value="4"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="136" value="No necessary in-game text" numvotes="1"/>
+        <result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="140" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1026" value="Negotiation"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="5606" value="Ancient Rome"/>
+    <link type="boardgamedesigner" id="476" value="Terence Peter Donnelly"/>
+    <link type="boardgamepublisher" id="362" value="Ariel Productions Ltd"/>
+    <link type="boardgamepublisher" id="938" value="Wargames Research Group"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="103"/>
+        <average value="6.6199"/>
+        <bayesaverage value="5.56932"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7815" bayesaverage="5.56932"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1580" bayesaverage="5.85002"/>
+        </ranks>
+        <stddev value="1.28082"/>
+        <median value="0"/>
+        <owned value="179"/>
+        <trading value="8"/>
+        <wanting value="9"/>
+        <wishing value="17"/>
+        <numcomments value="50"/>
+        <numweights value="13"/>
+        <averageweight value="2.6154"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

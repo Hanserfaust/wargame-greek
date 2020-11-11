@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="39906">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PXLL1iKXt7I4pdOXtILCkSr2OXM=/fit-in/200x150/pic411934.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_6UavsvxdS5As7WkYlJMhk2y7k8=/0x0/pic411934.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Grenadier: Divisione Corazzata"/>
+    <description>During the Second World War, Italian tank units matched brave crews with decrepit vehicles. Thanks to the monopolies held by the fascist state's favorite corporations, badly outdated tanks caused the deaths of hundreds of tank crewmen trying to combat much more capable Allied tanks with their Italian &amp;quot;iron coffins.&amp;quot;&amp;#10;&amp;#10;Better machines could have been made available: the P26/40 &amp;quot;heavy&amp;quot; tank (actually a medium-sized vehicle) that failed to enter production in time for the campaign in North Africa, or the German licenses that Italy never sought.&amp;#10;&amp;#10;Divisione Corazzata is a supplement based on Italy's planned but un-built vehicles, drawing on pieces already provided in our Desert Rats game and Gold Club supplementary counter sheet, but until now never used in scenarios.&amp;#10;&amp;#10;There are ten scenarios, or separate game situations, exploring the potential use of these vehicles. This module is not playable by itself, but requires ownership of our Eastern Front, Battle of the Bulge, Afrika Korps and Desert Rats games.  It also requires the 2007 Gold Club Coutnersheet or the downloaded counters from Avalanche Press.&amp;#10;&amp;#10;Divisione Corazzata is sold exclusively via PDF download. The scenario book comes as a PDF file that you'll need to print (or read off the screen) in order to play the scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="123" value="Panzer Grenadier"/>
+    <link type="boardgameexpansion" id="7089" value="Panzer Grenadier: Afrika Korps" inbound="true"/>
+    <link type="boardgameexpansion" id="7176" value="Panzer Grenadier: Battle of the Bulge" inbound="true"/>
+    <link type="boardgameexpansion" id="10668" value="Panzer Grenadier: Desert Rats" inbound="true"/>
+    <link type="boardgameexpansion" id="16804" value="Panzer Grenadier: Eastern Front" inbound="true"/>
+    <link type="boardgameexpansion" id="33785" value="Panzer Grenadier: Elsenborn Ridge" inbound="true"/>
+    <link type="boardgameexpansion" id="29719" value="Panzer Grenadier: Fronte Russo" inbound="true"/>
+    <link type="boardgameexpansion" id="16805" value="Panzer Grenadier: Road to Berlin" inbound="true"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="7.04545"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.98236"/>
+        <median value="0"/>
+        <owned value="60"/>
+        <trading value="1"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="5"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

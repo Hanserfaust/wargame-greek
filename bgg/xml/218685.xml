@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="218685">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/W6BxEN2QN6V0drgrtOjSMFWbIaw=/fit-in/200x150/pic4397698.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9iQ8F9cKieNA9JVBG3mC9mJkwPU=/0x0/pic4397698.jpg</image>
+    <name type="primary" sortindex="1" value="Last Stand at Isandlwana, 22 January 1879"/>
+    <description>Last Stand at Isandlwana, 22 January 1879 is a two-player tactical wargame of low-intermediate complexity simulating the last 90 to 240 minutes of that infamous and legendary battle of the Anglo-Zulu War. The Zulu player is on the offensive, attempting to wipe out the entire British force on the map as quickly as possible. The British is attempting to win by having some remnant hold out longer than occurred historically or, alternatively, by having some portion of his command escape off the map and get back to relative safety at Roarke&amp;rsquo;s drift. Solitaire-play is easily doable. Each game turn of Last Stand is equal to five to 20 minutes of &amp;ldquo;real time,&amp;rdquo; depending on the tempo of action in each turn. Each hexagon on the 22/34&amp;rdquo; map represents 217 yards (200 meters) from side to opposite side. There are 176 5/8&amp;rdquo; counters with each British unit-counter representing a company or a &amp;ldquo;detachment&amp;rdquo; of infantry. On the Zulu side, they individual units each represent temporary battlefield agglomerations of the about 100 to 200 warriors.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2018"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgameartist" id="12425" value="Nadir Elfarra"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="15"/>
+        <average value="7.12"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.08844"/>
+        <median value="0"/>
+        <owned value="74"/>
+        <trading value="2"/>
+        <wanting value="5"/>
+        <wishing value="9"/>
+        <numcomments value="15"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

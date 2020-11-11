@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="10225">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/EG5VfEksurqf56aCK8TCuyfL-Dg=/fit-in/200x150/pic360027.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/REqXD1lR21Y4_c5xf6vnWqfjat8=/0x0/pic360027.jpg</image>
+    <name type="primary" sortindex="1" value="Dien Bien Phu"/>
+    <description>Crtical Hit module for &amp;quot;Squads and Leaders&amp;quot; (read: Advanced Squad Leader)covering tactical battles during the French Indochina Wars of the mid-1950's.  Includes extensive variant rules, 15 scenarios, 4 maps (3 of the 8x22, unmounted, and 1 large historical map) plus a few overlays and a great whack of variant counters depicting PAVN and French (including French Foreign and T'ai irregulars) troops and weapons.  **NOTE** Although CH has a printed caveat on the box that ownership of Beyond Valor, Croix de Guerre and West of Alamein are required they FAIL to indicate that mapboards from Gung Ho are also required in order to play a handful of the scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="81" value="No necessary in-game text" numvotes="0"/>
+        <result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="85" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1109" value="Vietnam War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgamefamily" id="22762" value="First Indochina war"/>
+    <link type="boardgameexpansion" id="108573" value="Critical Hit! - Volume 7, No. 1"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="3352" value="David Lamb"/>
+    <link type="boardgamedesigner" id="3351" value="Carl Nogueira"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="29"/>
+        <average value="7.39655"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.28907"/>
+        <median value="0"/>
+        <owned value="151"/>
+        <trading value="3"/>
+        <wanting value="4"/>
+        <wishing value="9"/>
+        <numcomments value="15"/>
+        <numweights value="3"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

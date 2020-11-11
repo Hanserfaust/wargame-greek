@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="224946">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/K3WmjLRz9FAUqUOha9_FbS0-Z98=/fit-in/200x150/pic3575496.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ktD1-n-bzZ7r69u58mO4WD84l6g=/0x0/pic3575496.jpg</image>
+    <name type="primary" sortindex="1" value="Dego"/>
+    <description>After his victory at Dego, Napoleon decided to hit first the Piedmontese Army but the heroic defense of Colonel Dal Carretto that, retreating in front of the French found his stronghold in the Cosseria Castle, stopped the French western Push for an entire day.&amp;#10;&amp;#10;This forced the French to turn on their advance to the east toward Dego, the gate to the Po Valley.&amp;#10;&amp;#10;Dego, the second game in the Napoleon Small Battle Series (NSB), offers you a new set of rules that includes new orders and situations to let you recreate the development of new tactics and formations.&amp;#10;&amp;#10;...And this will happen in all the future games of the series.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="180"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="2494" value="Giacomo Fedele"/>
+    <link type="boardgameartist" id="101300" value="Nicola Carpentieri"/>
+    <link type="boardgameartist" id="20470" value="Keith Rocco"/>
+    <link type="boardgamepublisher" id="35800" value="Aleph Game Studio"/>
+    <link type="boardgamepublisher" id="35981" value="Ludolab"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="7.7"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.55242"/>
+        <median value="0"/>
+        <owned value="35"/>
+        <trading value="2"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="5"/>
+        <numweights value="1"/>
+        <averageweight value="5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

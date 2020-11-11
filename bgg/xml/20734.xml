@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="20734">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Ak58WRkyXhQUepLHf3lF5QCMW8I=/fit-in/200x150/pic3939287.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fXPbNlDjlV5MqZg6zfAl16dee3U=/0x0/pic3939287.jpg</image>
+    <name type="primary" sortindex="1" value="Corsair Leader"/>
+    <description>Corsair Leader is based on the Hornet Leader II core game, but with some significant changes.  The game focuses on the Marine F4U Corsairs in the Pacific. The 2 campaigns cover the Solomon Islands campaign that lasted from late 1942 to early 1944.&amp;#10;&amp;#10;Also, the aircraft under your command center on the Corsair, but you also get to decide if you want to include Dauntlesses, B-25s, and B-17s as part of your group. Each aircraft has its own advantages and disadvantages. For example, the B-17s carry a lot of bombs and are hard to shoot down, but they are terrible versus naval targets and only moderately accurate against all but the largest of land targets.&amp;#10;&amp;#10;The game also goes more in-depth on the tactical options you have while over target. Each turn, each aircraft can become &amp;quot;Offensive&amp;quot; which gives it an attack bonus, but also makes it easier to be attacked when it gets shot at. Likewise, aircraft can be &amp;quot;Defensive&amp;quot; which penalizes their own attacks and makes them harder to hit. &amp;quot;Slow&amp;quot; pilots can &amp;quot;Rush&amp;quot; their attack at a penalty and attack during the Fast pilot step, and &amp;quot;Fast&amp;quot; pilots can Wait and get a bonus if they attack during the Slow pilot step.&amp;#10;&amp;#10;Like the other games in the &amp;quot;Leader&amp;quot; series, Corsair Leader is a solitaire game.&amp;#10;&amp;#10;The game is published in both PDF and Vassal versions.&amp;#10;&amp;#10;Other Leader series games by Dan Verssen&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="106" value="No necessary in-game text" numvotes="0"/>
+        <result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="110" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+    <link type="boardgamefamily" id="3268" value="Leader Series"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgameexpansion" id="244877" value="Corsair Leader: Aces Expansion Pack"/>
+    <link type="boardgamedesigner" id="428" value="Dan Verssen"/>
+    <link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="139"/>
+        <average value="7.55849"/>
+        <bayesaverage value="5.67464"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4744" bayesaverage="5.67464"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="666" bayesaverage="6.2654"/>
+        </ranks>
+        <stddev value="1.53144"/>
+        <median value="0"/>
+        <owned value="529"/>
+        <trading value="9"/>
+        <wanting value="45"/>
+        <wishing value="135"/>
+        <numcomments value="86"/>
+        <numweights value="16"/>
+        <averageweight value="2.1875"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

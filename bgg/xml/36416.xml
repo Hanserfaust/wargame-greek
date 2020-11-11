@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="36416">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/yCiKzq-pXEuhb9-VOYaUIShFdbw=/fit-in/200x150/pic391731.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/l2LaRPwYVlcsKexIv6Xd9wjzL1w=/0x0/pic391731.jpg</image>
+    <name type="primary" sortindex="1" value="Classic Battletech: Dawn of the Jihad"/>
+    <description>Unlike the Classic Battle Tech: Starter Books, the Jihad series of scenario books is for players with experience with the Battle Tech system.&amp;#10;&amp;#10;Each book includes the historical background and fiction that describes the sitiuations described in the book.  The series of events presented in these books unfold in a rolling format, allowing readers to immerse themselves more directly into the action than ever before.  Each book includes scenarios to cover each of these situations.  Additionally the books include a campaign system that can be used for the Battletech Boardgame or Roleplaying game to tie each of the individual situations together.&amp;#10;&amp;#10;The situations are designed to be easily scalable, which allows them to be used for any sized group of players, regardless of what type of equipment used (since not all units are created equal).&amp;#10;&amp;#10;The Books in this series&amp;#10;&amp;#10;     Classic Battletech: Blake Ascending: A Jihad Compilation.  This was originally two seperate books:&amp;#10;         Battletech: Dawn of the Jihad, covers the period when the Jihad began (Nov 3067) through approximately 3069&amp;#10;         Battletech: Jihad Hot Spots covers the period of 3070 and 3071.&amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;     Classic Battletech: Jihad Hot Spots - 3072 covers the period of 3072 and 3073 and includes new technical readouts of new units, including 6 Word of Blake Mechs.&amp;#10;     Classic Battletech: Jihad Hot Spots - 3076 is listed as &amp;quot;coming soon&amp;quot; (as of 1/09).&amp;#10;&amp;#10;&amp;#10;More books in this series are planned, since the storyline is planned to cover two decades of 'history' in the Battletech universe.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="5918" value="BattleTech"/>
+    <link type="boardgameexpansion" id="122304" value="Classic Battletech: Jihad Hot Spots – 3070"/>
+    <link type="boardgameexpansion" id="31759" value="BattleTech Introductory Box Set" inbound="true"/>
+    <link type="boardgameexpansion" id="31760" value="Battletech: Total Warfare" inbound="true"/>
+    <link type="boardgamecompilation" id="239092" value="Classic Battletech: Blake Ascending"/>
+    <link type="boardgamedesigner" id="11717" value="Herbert A. Beas II"/>
+    <link type="boardgamedesigner" id="11716" value="Randall N. Bills"/>
+    <link type="boardgamedesigner" id="15719" value="Loren Coleman"/>
+    <link type="boardgamedesigner" id="2612" value="Chris Hartford"/>
+    <link type="boardgamedesigner" id="29884" value="Ken Horner"/>
+    <link type="boardgamedesigner" id="21083" value="Kevin Killiany"/>
+    <link type="boardgamedesigner" id="29885" value="Nick Marsala"/>
+    <link type="boardgamedesigner" id="29881" value="David L. McCulloch"/>
+    <link type="boardgamedesigner" id="29883" value="Ben Rome"/>
+    <link type="boardgamedesigner" id="29882" value="Paul Sjardijn"/>
+    <link type="boardgamedesigner" id="25960" value="Chris Trossen"/>
+    <link type="boardgamedesigner" id="24849" value="Øystein Tvedten"/>
+    <link type="boardgameartist" id="17687" value="Chris Lewis"/>
+    <link type="boardgameartist" id="5318" value="James Nelson"/>
+    <link type="boardgameartist" id="14821" value="Klaus Scherwinski"/>
+    <link type="boardgameartist" id="21374" value="David M. Stansel-Garner"/>
+    <link type="boardgameartist" id="17681" value="Jason Vargas"/>
+    <link type="boardgamepublisher" id="7383" value="Catalyst Game Labs"/>
+    <link type="boardgamepublisher" id="1397" value="Fanpro"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="6.45455"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.30479"/>
+        <median value="0"/>
+        <owned value="67"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="7"/>
+        <numcomments value="4"/>
+        <numweights value="3"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

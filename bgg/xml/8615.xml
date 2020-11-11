@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="8615">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Py1LTU8NQAN_uR1Zt5bXFBBedck=/fit-in/200x150/pic45059.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gKpAoiSSM_U3PMmQNW9-7J-XalY=/0x0/pic45059.jpg</image>
+    <name type="primary" sortindex="1" value="Blood Reef: Tarawa – ASL Historical Module 5"/>
+    <name type="alternate" sortindex="1" value="Blood Reef: Tarawa"/>
+    <description>Historical Module for Advanced Squad Leader, recreating the invasion of the US Marines in Tarawa.&amp;#10;2 historical-accurate mapsheets, 7 scenario campaign game.&amp;#10;&amp;#10;Originally published in 1996 by Heat of Battle. Multi-Man Publishing later aquired the rights and published an updated and expanded version.&amp;#10;&amp;#10;Contents (MMP edition):&amp;#10;2 22&amp;quot;x31&amp;quot; maps&amp;#10;4 countersheets (3 units, 1 status)&amp;#10;Blood Reef Chapter Divider&amp;#10;Chapter T Rules: T1-T21&amp;#10;7 Scenarios&amp;#10;&amp;#10;Advanced Squad Leader, Code of Bushido: ASL Module 8, Yanks: ASL Module 3 and Gung Ho!: ASL Module 9 are required.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1999"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="26" value="No necessary in-game text" numvotes="0"/>
+        <result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="30" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="8607" value="Code of Bushido: ASL Module 8" inbound="true"/>
+    <link type="boardgameexpansion" id="8609" value="Gung Ho!: ASL Module 9" inbound="true"/>
+    <link type="boardgameexpansion" id="5289" value="Yanks: ASL Module 3" inbound="true"/>
+    <link type="boardgamedesigner" id="8832" value="Steve Dethlefsen"/>
+    <link type="boardgamedesigner" id="8831" value="Eddie Zeman"/>
+    <link type="boardgameartist" id="28351" value="David Pentland"/>
+    <link type="boardgameartist" id="28504" value="Don Petros"/>
+    <link type="boardgamepublisher" id="3903" value="Heat of Battle"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="172"/>
+        <average value="8.07849"/>
+        <bayesaverage value="5.77725"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.77725"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.72114"/>
+        </ranks>
+        <stddev value="1.53405"/>
+        <median value="0"/>
+        <owned value="732"/>
+        <trading value="11"/>
+        <wanting value="28"/>
+        <wishing value="63"/>
+        <numcomments value="71"/>
+        <numweights value="28"/>
+        <averageweight value="4.6071"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17787">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ekllw0ZAVxCuZNSLTlZBAZw5kes=/fit-in/200x150/pic77101.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/GQ03Lvz-hLM73q7htGQnXwtgjFI=/0x0/pic77101.jpg</image>
+    <name type="primary" sortindex="1" value="Phoenix Command (and supplements)"/>
+    <description>Also known as the Phoenix Command Combat System. A small arms combat system for use with miniatures.&amp;#10;&amp;#10;While primarily thought of as a combat system for Leading Edge's Rhand Morningstar Missions RPG, the original Phoenix Command rules were also intended to be used for wargaming, either on the tabletop or a hex map. The game system concentrates on &amp;quot;ultra realistic&amp;quot; (in the form of ultra-detailed) firearms combat: &amp;quot;Phoenix Command combines accurate simulation of gunshot wounds with detailed aiming and firing rules, and authentic modern weapon data to create a simple, fast-paced game with an incredibly realistic feel.&amp;quot;&amp;#10;&amp;#10;Two sample hex map scenarios were included: The Bridge at Oppenheim (for 6-9 players, a NATO squad holds a bridge against a Soviet advance) and The Defense of the Apollo Ray (for 5 players, SAS versus terrorists hijacking a luxury liner).&amp;#10;&amp;#10;A number of supplements supplied the statistics for firearms of different eras. These initially included supplements for Modern Military Small Arms (1946-1960), Civilian &amp;amp; Police Weapons (1946-1990), Military Weapons of WWII (1919-1945), and Military Weapons of WWI (1890-1918).&amp;#10;&amp;#10;</description>
+    <yearpublished value="1986"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="71" value="No necessary in-game text" numvotes="0"/>
+        <result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="75" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamedesigner" id="467" value="Barry Nakazono"/>
+    <link type="boardgamepublisher" id="258" value="Leading Edge Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="45"/>
+        <average value="6.36667"/>
+        <bayesaverage value="5.52112"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12043" bayesaverage="5.52112"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2546" bayesaverage="5.57253"/>
+        </ranks>
+        <stddev value="2.24836"/>
+        <median value="0"/>
+        <owned value="101"/>
+        <trading value="5"/>
+        <wanting value="1"/>
+        <wishing value="4"/>
+        <numcomments value="22"/>
+        <numweights value="11"/>
+        <averageweight value="4.4545"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

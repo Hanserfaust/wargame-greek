@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="27480">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/1UXqo2j7Kvl8y8_gmcqYItEoRag=/fit-in/200x150/pic178190.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Dtbp1cgDwQtPC8fryjYlUfYGwBw=/0x0/pic178190.jpg</image>
+    <name type="primary" sortindex="1" value="Command Decision: Test of Battle"/>
+    <description>Battalion level rules for using WWII miniatures where each stand of miniatures represents a platoon and each turn represents 30 minutes of time.  &amp;#10;Major differences from earlier editions (accoding to Introduction):&amp;#10;--Turn = 30 mins (before, 15 mins).&amp;#10;--Spotting is now deterministic.&amp;#10;--Most models are always on the table. Some are 'phantom' models (dummies).&amp;#10;--Exception: one or two 'command reserve' stands can be added during play.&amp;#10;--Movement is now sequential, not simultaneous.&amp;#10;--Stands are eliminated with one hit (before, 2-4 hits were required).&amp;#10;--HE fires always suppress.&amp;#10;&amp;#10;TO&amp;amp;Es and Data charts for 4 nations (US,UK,Germany and Russia) included.&amp;#10;12 historical scenarios and a random campaign scenario generator (named 'Test of Battle'). Also, Random Event cards are added.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Command Decision:  Benghazi Handicap&amp;#10;    Command Decision: Stars and Stripes Forever&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2006"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgameexpansion" id="30692" value="Command Decision:  Benghazi Handicap"/>
+    <link type="boardgameexpansion" id="33824" value="Command Decision: Stars and Stripes Forever"/>
+    <link type="boardgameexpansion" id="60753" value="Red Tide"/>
+    <link type="boardgameimplementation" id="6699" value="Command Decision III" inbound="true"/>
+    <link type="boardgamedesigner" id="335" value="Frank Chadwick"/>
+    <link type="boardgamedesigner" id="3550" value="Glenn E. Kidd"/>
+    <link type="boardgamepublisher" id="6427" value="Test of Battle Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="38"/>
+        <average value="8.12237"/>
+        <bayesaverage value="5.55698"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8625" bayesaverage="5.55698"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1365" bayesaverage="5.90278"/>
+        </ranks>
+        <stddev value="1.70837"/>
+        <median value="0"/>
+        <owned value="75"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="13"/>
+        <numcomments value="20"/>
+        <numweights value="13"/>
+        <averageweight value="3.1538"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

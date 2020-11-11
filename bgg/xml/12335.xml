@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="12335">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/oeOHi0wF5uVs4Y-p4VkqHOKOOpE=/fit-in/200x150/pic50114.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7NJ9F4z-bkGn6Bx_kaFcuqXMT9Y=/0x0/pic50114.jpg</image>
+    <name type="primary" sortindex="1" value="Operation Market Garden"/>
+    <description>Operation Market Garden was the audacious plan to seize a bridgehead across the Rhine River in Holland, 1944.  Though scale is not mentioned it appears to be operational level (the Allies have fourteen &amp;quot;5-3&amp;quot; parachute units, as a gauge).&amp;#10;&amp;#10;This game features weather effects and special rules for airborne drops, armor attack and engineers.  Optional rules include a &amp;quot;Short Hook&amp;quot; objective for the Allies occupying the towns of Goch and Doetinchhem instead of closure to the North Sea.&amp;#10;&amp;#10;238 die cut counters (Allies are blue, Germans are red), 12-page rulebook, a 24&amp;quot; x 28&amp;quot; three color map sheet, and a cover sheet. A six-sided die is needed as well as some paper and pencils.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1973"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="687" value="Vernon Jay Stribling"/>
+    <link type="boardgamepublisher" id="2737" value="Third Millennia, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="8"/>
+        <average value="5.8125"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.39054"/>
+        <median value="0"/>
+        <owned value="22"/>
+        <trading value="2"/>
+        <wanting value="2"/>
+        <wishing value="1"/>
+        <numcomments value="7"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

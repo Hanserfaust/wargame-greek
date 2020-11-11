@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="32217">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tRONcrc7-LJIQX57hUWoRDGaOq4=/fit-in/200x150/pic255872.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/wxJ8boFjA8FAEj5G1kKyTAR4bzU=/0x0/pic255872.jpg</image>
+    <name type="primary" sortindex="1" value="Desert Rats"/>
+    <description>An expansion for ASL.  8 scenarios featuring desert warfare from December 1940 to November 1942.&amp;#10;&amp;#10;This features German, Italian, British, Indian, French and New Zealand forces.&amp;#10;&amp;#10;These scenarios use boards 25-29.&amp;#10;&amp;#10;The scenarios are:&amp;#10;&amp;#10;1) The Italians Need Help: Camp Tumar Wes, SOuth of Sidi Barani, Egypt - December 9, 1940&amp;#10;2) Tobruk Derby: South of Mechili Libya - April 5, 1941&amp;#10;3) Hellfire Pass: Halfay Pass, South of Sollum, Egypt - June 16, 1941&amp;#10;4) Seizing Sidi Rezegh: Near Sidi Rezegh, Libya - November 22, 1941&amp;#10;5) The French Fight: Bir Hachiem, Libya - June 9th 1942&amp;#10;6) Killing Field: Knightsbridge, South of Bir Lefa, Libya - June 12, 1942&amp;#10;7) Devil's Garden: South of El Alamein, Egypt - October 24, 1942&amp;#10;8) Supercharge!: South of El Alamein Egypt - November 2, 1942&amp;#10;&amp;#10;This is not a complete game.  Ownership of ASL modules is required.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgamedesigner" id="34772" value="Tom Slizewski"/>
+    <link type="boardgamepublisher" id="7527" value="Panzer Press"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="7.5"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.5"/>
+        <median value="0"/>
+        <owned value="14"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="3"/>
+        <numcomments value="3"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

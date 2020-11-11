@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30843">
+    <name type="primary" sortindex="1" value="Dark Age Infantry Slog"/>
+    <description>Miniature wargame rules for the Dark Ages up through Norman Conquest.  Originally published in &amp;quot;Miniature Wargames&amp;quot; Magazine, No. 7, 1983.  Referred to on occasion as &amp;quot;D.A.I.S&amp;quot; or &amp;quot;The D.A.I.S. System.&amp;quot;&amp;#10;&amp;#10;Made available through Wyre Forest Games Club as a free download:&amp;#10;&amp;#10;http://www.wfgamers.org.uk/resources/callan/dais.htm&amp;#10;&amp;#10;The game strives to capture the &amp;quot;feel&amp;quot; of the period using two or three &amp;quot;divisions&amp;quot; or &amp;quot;battles&amp;quot; of grouped warrior bands of Retinues and Contingents, rather than a number of independently-maneuvering &amp;quot;units&amp;quot; of like-armed soldiers.&amp;#10;&amp;#10;The qualities of Aggression, Formation and Strength are key along with Leadership which seeks to maximize these qualities to gain advantage over opposing troops.  These qualities ebb and flow depending on the fortunes of the unit, nearby friendly units, and Leaders.&amp;#10;&amp;#10;The actual resolution of combat is literally resolved by each player engaging in a single round of rock/paper/scissors for each pair of units, or aligned groups of soldiers from a unit, brought together in melee.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamedesigner" id="9074" value="Andy Callan"/>
+    <link type="boardgamepublisher" id="7189" value="Wyre Forest Games Club"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="1"/>
+        <average value="10"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="3"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="2"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

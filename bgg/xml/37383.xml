@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="37383">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/jFsgoR7T0GW2p49uSzQ0Yqa0Eqk=/fit-in/200x150/pic1959989.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UU69FOmpHQqLD18bMimnGbUxd9o=/0x0/pic1959989.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Grenadier: 1940 – The Fall of France"/>
+    <description>From the Avalanche Press website:&amp;#10;&amp;#10;In the spring of 1940, the French Army appeared invincible. They awaited the expected German offensive with great confidence, ready to repel their ancient foes and overwhelm them in 1941 with a massive wave of new armored divisions. Instead it was the German panzers that did the overwhelming. Despite heroic efforts in which over 90,000 French soldiers lost their lives, within six weeks France had fallen.&amp;#10;&amp;#10;1940 - The Fall of France is a stand-alone game in the Panzer Grenadier series.  You do not need any other game in the series to play any of the 50 scenarios. Design is by wargame veteran Philippe Leonard of Belgium, who has crafted scenarios involving the French Army on the attack and on the defense, with units ranging from the elite Foreign Legion and Coloniale to the pitiful second-line reserves.&amp;#10;&amp;#10;Pieces include the huge array of French armor: S35 cavalry tanks, B1-bis heavy tanks, FT17, R35, R40, H39. H35 and FCM 36 light tanks. Panhard, AMR33, P16 and AMR35 armored cars and reconnaissance tanks. Plus the bizarre C2 multi-turreted heavy tank. Plus many types of troops and support weapons, from motorcycle troops and horsed cavalry through the awesome 155mm GPF rifle.&amp;#10;&amp;#10;The Germans receive their full set of panzers, from the puny PzKw I through the PzKw IIIE and 38t. There are vehicles not seen before in the Panzer Grenadier series like the SiG33 assault gun, and a set of pieces for Infantry Regiment Grossdeutschland in their own colors.&amp;#10;&amp;#10;There are eight semi-rigid mapboards, the same type as those found in Eastern Front, created by Guy Riessen, who crafted the widely-praised maps for Elsenborn Ridge.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="0"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="123" value="Panzer Grenadier"/>
+    <link type="boardgameexpansion" id="227946" value="Panzer Grenadier: 1940 – The Fall of Luxembourg"/>
+    <link type="boardgameexpansion" id="189362" value="Panzer Grenadier: 1942 – The Defense of France"/>
+    <link type="boardgameexpansion" id="103857" value="Panzer Grenadier: Airborne (Third Edition)"/>
+    <link type="boardgameexpansion" id="71396" value="Panzer Grenadier: Black SS"/>
+    <link type="boardgameexpansion" id="7167" value="Panzer Grenadier: Edelweiss"/>
+    <link type="boardgameexpansion" id="96901" value="Panzer Grenadier: Go for Broke"/>
+    <link type="boardgameexpansion" id="114275" value="Panzer Grenadier: Invasion of Germany"/>
+    <link type="boardgameexpansion" id="181528" value="Panzer Grenadier: Land Cruisers"/>
+    <link type="boardgameexpansion" id="125981" value="Panzer Grenadier: Panzer Lehr"/>
+    <link type="boardgamedesigner" id="1269" value="Michael Bennighof"/>
+    <link type="boardgamedesigner" id="2935" value="Philippe Leonard"/>
+    <link type="boardgameartist" id="11831" value="Guy Riessen"/>
+    <link type="boardgamepublisher" id="142" value="Avalanche Press Ltd."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="84"/>
+        <average value="7.63452"/>
+        <bayesaverage value="5.6349"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5549" bayesaverage="5.6349"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="647" bayesaverage="6.28061"/>
+        </ranks>
+        <stddev value="1.47378"/>
+        <median value="0"/>
+        <owned value="269"/>
+        <trading value="4"/>
+        <wanting value="23"/>
+        <wishing value="43"/>
+        <numcomments value="37"/>
+        <numweights value="12"/>
+        <averageweight value="2.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

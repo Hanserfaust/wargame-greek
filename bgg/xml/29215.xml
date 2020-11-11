@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="29215">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Z2ZGUylyOpKoTdaw3gWO7PHxHVY=/fit-in/200x150/pic254601.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/19QBVPxpWHC61KtLT1sd-rIFI_c=/0x0/pic254601.jpg</image>
+    <name type="primary" sortindex="1" value="Hot Stove Pack 2"/>
+    <description>From the publisher:&amp;#10;&amp;#10;HOT STOVE PACK 2 follows in the footsteps of its predecessor based on popular demand and we think this new batch of scenarios will get your dice rolling, and how!&amp;#10;&amp;#10;In addition to a brand new map you receive FOUR scenarios to use on it. The terrain features HILLTOP ACTION and multiple heights will be contested like never before. The versatile new map included with HOT STOVE PACK 2 is not only perfect to depict HILL 75.9 (aka &amp;ldquo;Devil&amp;rsquo;s Hill&amp;rdquo;), Nijmegen, but serves just as well as the setting for the classic struggle at HILL 253.5, PONYRI.&amp;#10;&amp;#10;Another hilltop, just outside of ROMNY, RUSSIA is the setting of a new scenario utilizing the AFV Card provided for the Pz Sf IVa tank-destroyer, aka &amp;lsquo;Dickermax&amp;rdquo;. The fighting at MALTOT is also recreated with Tigers aplenty.&amp;#10;&amp;#10;This wouldn&amp;rsquo;t be a HOT STOVE PACK if there wasn&amp;rsquo;t a special bonus included and this time around ATSers have the opportunity to MAX OUT their purchases of NIKITOVKA and TOKTONG PASS with two new scenarios, one pitting Italian APLINI against elite French S.E.S. troops in the French Alps. The other brings a swarm of N.K.P.A. troops against US Marines, Pershings and recoilless rifles at OBONG-NI RIDGE 1950.&amp;#10;&amp;#10;HOT STOVE PACK 2 consists of FOUR new World War II scenarios PLUS TWO BONUS SCENARIOS for a total of SIX, printed on cardstock. Each scenario is playable on the new HOT STOVE PACK 2 map, with one bonus scenario requiring the use of HOT STOVE MAP 1. This series is meant for the serious ATS player and should not be missed!&amp;#10;&amp;#10;Expands&amp;#10;&amp;#10;    Advanced Tobruk&amp;#10;    Scottish Corridor: Lion Rampant&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="112" value="Advanced Tobruk System"/>
+    <link type="boardgameexpansion" id="3992" value="Advanced Tobruk" inbound="true"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="9"/>
+        <average value="7.36667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.40093"/>
+        <median value="0"/>
+        <owned value="46"/>
+        <trading value="1"/>
+        <wanting value="4"/>
+        <wishing value="3"/>
+        <numcomments value="6"/>
+        <numweights value="1"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

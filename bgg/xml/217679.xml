@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="217679">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/kp2skPzNksElf35JfsSFi2pAy0s=/fit-in/200x150/pic3414503.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ng2wQUfmFvM4Buvc4ox4bNxpPF8=/0x0/pic3414503.jpg</image>
+    <name type="primary" sortindex="1" value="Triumph of the Will: Nazi Germany vs. Imperial Japan, 1948"/>
+    <description>Description from the publisher:&amp;#10;&amp;#10;This game allows two players to game an alternate history where Germany and Japan have won WWII.  Three years after that victory in 1948 they square off against each other for a final battle for world domination.  The map of the game joins along the equator to depict the entire world.&amp;#10;&amp;#10;Game mechanics recreate dilemmas and challenges inherent in grand-strategic warfare and the issues involved with controlling the entire planet.  Movement switches rapidly back and forth between players keeping you fully involved in the game with no long waits between players.  In any order you want, you can: enter reinforcements; bring back into play previously eliminated units; move an army, air force, fleet or elite corps on the map via land, sea or air; launch a conventional attack or launch a nuclear attack. Both conventional and nuclear attack options are available to players.&amp;#10;&amp;#10;Complexity: Medium&amp;#10;Time Scale: Varies 1yr/turn&amp;#10;Map Scale: Global Area Movement&amp;#10;Unit Scale: Armies/Fleets/Air Forces&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="900"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="900"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1088" value="Industry / Manufacturing"/>
+    <link type="boardgamecategory" id="1001" value="Political"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgameimplementation" id="7625" value="Tomorrow the World" inbound="true"/>
+    <link type="boardgamedesigner" id="1747" value="Ty Bomba"/>
+    <link type="boardgamepublisher" id="3929" value="Compass Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="5.85385"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.65927"/>
+        <median value="0"/>
+        <owned value="62"/>
+        <trading value="6"/>
+        <wanting value="8"/>
+        <wishing value="26"/>
+        <numcomments value="11"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

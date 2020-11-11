@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4208">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/49muVm5neQBa0GnMjkT9fSa4Ps4=/fit-in/200x150/pic65073.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/b0mLQWS2PiAARKE1QR99jy1d7fQ=/0x0/pic65073.jpg</image>
+    <name type="primary" sortindex="5" value="The Kaiser's Battle: The German Offensive, March 1918"/>
+    <description>Published in Strategy &amp;amp; Tactics magazine #83. Game of the German March 1918 offensive on the Western Front.&amp;#10;&amp;#10;Game play on UGO/IGO system. Unusual combat system without tables but roll die and multiply strength points and compare results by dividing attacker against defender. Compare against defender's morale rating for result. Brits are mainly on the defensive... using units as speed bumps. Germans win by exiting units off the West edge of map.&amp;#10;&amp;#10;Includes:&amp;#10;1 Map&amp;#10;1 sheet of 200 counters&amp;#10;1 set of rules contained in S&amp;amp;T #83&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="180"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="180"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1065" value="World War I"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="11006" value="Country: France"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamedesigner" id="673" value="Joseph M. Balkoski"/>
+    <link type="boardgamedesigner" id="1598" value="J. A. Nelson"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="142"/>
+        <average value="5.90789"/>
+        <bayesaverage value="5.5364"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10337" bayesaverage="5.5364"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2199" bayesaverage="5.67569"/>
+        </ranks>
+        <stddev value="1.33314"/>
+        <median value="0"/>
+        <owned value="700"/>
+        <trading value="46"/>
+        <wanting value="1"/>
+        <wishing value="6"/>
+        <numcomments value="123"/>
+        <numweights value="26"/>
+        <averageweight value="2.7308"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

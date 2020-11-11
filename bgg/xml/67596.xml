@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="67596">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FoBsmr2q8O0vbnlg2-K4BY03tgA=/fit-in/200x150/pic2972905.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8z4tfh4wQVoHGE6_xa5wZEgbyWk=/0x0/pic2972905.jpg</image>
+    <name type="primary" sortindex="1" value="Tyrant's Lair"/>
+    <name type="alternate" sortindex="1" value="Tyrant's Lair II"/>
+    <description>BERLIN, GERMANY, 25 April 1945: In the maze of ruined blocks both sides fought a close quarters war over each building. At the corner of Alt-Mark Strasse and Thorwaldsenstrasse a small group of desperate Germans converted a large building into an urban fortress. Soon the fortress would be put to the test as an assault detachment from the 220th Guards Rifle Regiment reached the intersection. Finding the building defended with artillery and machine guns 1st Lieutenant Vasili Chernyayev ordered the two 45mm antitank guns supporting his force to fire at the upper level windows to suppress the machine guns while his guardsmen stormed the building. Storm troops, leading the attack with hand grenades, broke into the main level of the house and killed a German crew manning a small artillery piece. Another detachment, with the help of direct mortar fire, captured a nearby building that was supporting the main position. As vicious hand-to-hand fighting broke out in the fortress the Germans launched several counter-attacks supported by tanks and self propelled guns. Intense fighting for this position raged on for the rest of the 25th before the Germans withdrew...&amp;#10;&amp;#10;ASLComp BERLIN II&amp;mdash;TYRANT'S LAIR is a detailed new ASLComp VARIANT that tells the story of the Battle of Berlin with incredible detail. The two linking maps connect to those from BERLIN FALL OF THE 3rd REICHTM to create an urban battlefield unlike any in tactical-level gaming history. What&amp;rsquo;s more, the battlefield includes the location of the F&amp;uuml;hrerbunker, the ultimate victory condition in an ASLComp scenario.&amp;#10;&amp;#10;In keeping with the CH approach, you will receive a stack of small, fast-playing scenarios to get you on the map right away. And what a map it is! Map artist Charlie Kibler emerged from the rubble and focused his talent for CH to create the new BERLIN II map. And we&amp;rsquo;re sure you&amp;rsquo;ll love the results.&amp;#10;&amp;#10;ASLComp BERLIN II&amp;mdash;TYRANT'S LAIR includes a new Special Rules booklet, and a pile of play aids to use with the monster scenario, presented in the same manner as used in ASLComp FIRST WAVE AT OMAHA. You'll also receive two sets of two different counter sheets, a total of 312 new color die cut counters.&amp;#10;&amp;#10;BEGIN PLAY ALMOST IMMEDIATELY using the small, tournament-sized scenarios. Then move on to the medium sized battles, and build to the ultimate, monster that will be made available for owners of both BERLIN variants, that want to take their ASLing...all...the...way. What&amp;rsquo;s more, this product does not contain a combat-fatigue inducing mass of SSR verbiage, unlike some releases that are much more limited in scope. Instead it&amp;rsquo;s slam-bang action, on a massive scale and easy to dive right into.&amp;#10;&amp;#10;We&amp;rsquo;re willing to guess you&amp;rsquo;ll be ready to fight for the Hitler-city of the Third Reich, block by bloody block until your personal leader counter is knocking on the door to the F&amp;uuml;hrerbunker, ready to enter and end World War II at long last.&amp;#10;&amp;#10;ASLComp BERLIN II&amp;mdash;TYRANT'S LAIR contains:&amp;#10;&amp;#10;     15 action-packed scenarios + 2 new CGs&amp;#10;     A monster scenario using ALL FOUR Berlin maps and presented on multiple scenario/play aid cards just like FIRST WAVE AT OMAHA&amp;#10;     Two sets of each of two sheets of color die cut marker counters (a total of 312 die cut counters)&amp;#10;     32 page Special Rules booklet includes fully remastered, illustrated and updated BERLIN&amp;mdash;FALL OF THE 3rd REICH rules set&amp;#10;     A new Reichstag color Play Aid&amp;#10;     F&amp;uuml;hrerbunker/Vorbunker color Play Aid&amp;#10;     Berlin Zoo Flak Tower color Play Aid&amp;#10;     Reich Air Ministry color Play Aid&amp;#10;     Variant Key Play Aid&amp;#10;     Color front cover&amp;#10;     Descriptive back sheet&amp;#10;     Ziploc style bag &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="62" value="Advanced Squad Leader"/>
+    <link type="boardgameexpansion" id="243" value="Advanced Squad Leader" inbound="true"/>
+    <link type="boardgameexpansion" id="12053" value="Berlin: Fall of the 3rd Reich" inbound="true"/>
+    <link type="boardgamedesigner" id="1592" value="Ray Tapio"/>
+    <link type="boardgamepublisher" id="928" value="Critical Hit, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="7.53125"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.70906"/>
+        <median value="0"/>
+        <owned value="98"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="4"/>
+        <numcomments value="12"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

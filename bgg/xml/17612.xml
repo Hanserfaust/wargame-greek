@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="17612">
+    <thumbnail/>
+    <image/>
+    <name type="primary" sortindex="1" value="Yankee Thunder, Rebel Lightning"/>
+    <description>Published in the Old Game Journal #59.  Map is about 13 x 20 inches and comes with 180 counters.&amp;#10;&amp;#10;Just starting learning this one but initial impressions are quite favorable. Covers the entire war in about a 4 hour sitting.  A melding of Victory Games Civil War and GMT's For the People but far faster and, remarkably, at least at first glance, not missing anything.&amp;#10;&amp;#10;Has production, leaders (dismissal and promotion), naval rules (river fleets, invasions and blockades), Neutral States and cards for player chosen events (Emancipation and Trent to name just 2 of the 32 choices in the game). Chit pull system that is pretty novel and a first rate combat system.&amp;#10;&amp;#10;More later as I get this completely translated, play tested and analyzed but looks to be first rate game in a playable format.&amp;#10;&amp;#10;Sort of a House Divided type game with all the goodies added but not at the expense of more playing time.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="11585" value="Masayoshi Imura"/>
+    <link type="boardgamepublisher" id="3358" value="Game Journal"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="7.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0.433013"/>
+        <median value="0"/>
+        <owned value="11"/>
+        <trading value="0"/>
+        <wanting value="8"/>
+        <wishing value="7"/>
+        <numcomments value="2"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

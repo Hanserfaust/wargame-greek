@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="193389">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/94HNdFShYPNhhx6ILJvs5znwebY=/fit-in/200x150/pic2884192.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4UbbOQivc70u3KZLjnh-HpuFV58=/0x0/pic2884192.png</image>
+    <name type="primary" sortindex="1" value="By Mountains and Sea"/>
+    <description>From the publisher:&amp;#10;&amp;#10;By 1943 the Soviets had turned the tide against the Germans. The only foothold that the enemy then had in the Caucasus was in the Kuban region. To eject them fully from there the Soviets instigated Operation Gory/Morsky - a joint operation by land, air, and sea. This is a conflict simulation of the part of that operation encompassing the assault on the port city of Novorossiysk.&amp;#10;&amp;#10;Two or more players assume opposed sides. Either the German and Romanians, or the Soviets. With a time scale of some nine days (the game can end before then), the Soviets are tasked with landing naval infantry (the Black Devils),dropping paratroopers, and using land forces in an attempt to take control of the city. As well as the basic game there are also several shorter scenarios.&amp;#10;&amp;#10;Units in the game are represented by 20x20x10mm blocks increasing the level of fog of war. The game map portrays the region around Novorossiysk and uses a hexagonal grid of small hexes that are grouped into larger seven hex 'Air Space' zones for air combat and paratroop drops. Each small hex is approximately 2 kms across. The game covers the nine days of the assault (one full turn per day) with three separate phases per day (morning, afternoon, and night). A Weather section ascertains the weather for each phase.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="3+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="0"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamefamily" id="6137" value="Block wargames"/>
+    <link type="boardgamefamily" id="11966" value="Country: Russia"/>
+    <link type="boardgamedesigner" id="88878" value="Mark Jessop"/>
+    <link type="boardgameartist" id="88878" value="Mark Jessop"/>
+    <link type="boardgameartist" id="36911" value="Randy Lein"/>
+    <link type="boardgamepublisher" id="9512" value="Legion Wargames LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="0"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="7"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

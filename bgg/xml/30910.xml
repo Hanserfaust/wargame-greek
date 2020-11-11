@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30910">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OxChEosNb7cEMqq6X9WhduyrJs0=/fit-in/200x150/pic230940.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RlySMGMh18hAndScoLrqBrjLWfY=/0x0/pic230940.jpg</image>
+    <name type="primary" sortindex="1" value="Top-Gun"/>
+    <description>Don't know much about this game as my Polish is quite awful.&amp;#10;(Perhaps one of the polish BGG members can help out here).&amp;#10;&amp;#10;Anyway Top-Gun is a game about Jet Air-Combat between NATO/Warsaw Pact Fighters. Game contains a sheet of counters that have to be cut out, a map with squares (instead of hexes) and several data sheets about specific aircraft. Also included are about 10 small pages of rules and 3 dice. Overall the game doesn't look too complex.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1994"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="7210" value="Przedsiebiorstwo Wydawnicze &quot;R i R&quot;"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="4"/>
+        <trading value="0"/>
+        <wanting value="2"/>
+        <wishing value="1"/>
+        <numcomments value="0"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

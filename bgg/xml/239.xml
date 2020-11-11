@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="239">
+    <thumbnail/>
+    <image/>
+    <name type="primary" sortindex="1" value="Wagram"/>
+    <description>Wagram is a simulation of the battle which took place between the armies of the Hapsburg Empire under Archduke Charles and the French-Allied armies under Napoleon on July 5th and 6th, 1809.&amp;#10;&amp;#10;One on four games included in the Napoleon At War QuadriGame.  The games in this set are based on the Napoleon At Waterloo system which is a basic movement-combat system with hard zones of control.&amp;#10;&amp;#10;CRT has unique EE (Equal Elimination) feature.  A die roll of 6 will result in an attacker with unit strength of 12 and a defender with unit strength of 2 both being simultaneously eliminated.&amp;#10;&amp;#10;This game was republished on Tactics #47 by Hobby Japan in 1987.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamecompilation" id="12947" value="Napoleon at War: Four Battles"/>
+    <link type="boardgamedesigner" id="1488" value="Irad B. Hardy"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgameartist" id="43738" value="Horace Vernet"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="94"/>
+        <average value="6.72766"/>
+        <bayesaverage value="5.57468"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7522" bayesaverage="5.57468"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1345" bayesaverage="5.90825"/>
+        </ranks>
+        <stddev value="1.25054"/>
+        <median value="0"/>
+        <owned value="191"/>
+        <trading value="4"/>
+        <wanting value="2"/>
+        <wishing value="11"/>
+        <numcomments value="42"/>
+        <numweights value="12"/>
+        <averageweight value="2.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

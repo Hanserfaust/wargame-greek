@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4180">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/XG18Pb8sKFtREMCFcRn1Ba6_BDU=/fit-in/200x150/pic30988.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xbEHt3oc20-vD5zqyQcluorSwyM=/0x0/pic30988.jpg</image>
+    <name type="primary" sortindex="1" value="Pizza Wars"/>
+    <name type="alternate" sortindex="3" value="I Giochi del 2000: Pizza Wars"/>
+    <description>You and up to 7 friends order a pizza with one ingredient per player.&amp;#10;&amp;#10;The game consists of rules and a historical background. You supply the pizza, toothpicks (about 10 per player for eating conquered armies) and six sided die (one per player).&amp;#10;&amp;#10;Since you eat your opponent's conquered armies, and it is very unlikely that you will eat your own armies, it is suggested you order an ingredient that others hate.  This will ensure that others will think twice about attacking you.&amp;#10;&amp;#10;Your armies (ingredients) move from land (slice) to land waging war against the opponent's armies.  Last man standing wins.&amp;#10;&amp;#10;The game is very simple but does come with optional rules to add difficulty, realism, and flavour (sorry).&amp;#10;&amp;#10;Also includes rules for Grubb Chess, using a chess board and various hot peppers; Galactic Gluttons, using pizza, dice, paper, plates, and a ruler (Apparently you said between the lands); and Gulf War, with rules sadly omitted because the designers decided that the average gamer could not afford to fill a bathtub with chili-con-carne.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="7">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="8+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="20"/>
+    <minplaytime value="20"/>
+    <maxplaytime value="20"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1010" value="Fantasy"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamefamily" id="5841" value="Food / Cooking"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgameartist" id="2226" value="Paolo Parrucci"/>
+    <link type="boardgamepublisher" id="977" value="Heathen Thorn Enterprises"/>
+    <link type="boardgamepublisher" id="9929" value="Quality Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="10"/>
+        <average value="4.52"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.38333"/>
+        <median value="0"/>
+        <owned value="37"/>
+        <trading value="2"/>
+        <wanting value="4"/>
+        <wishing value="4"/>
+        <numcomments value="10"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

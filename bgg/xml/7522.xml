@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7522">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_b0yMLpaoUxtlZ1IRWp9DD8o5s4=/fit-in/200x150/pic112201.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gK3oBtEWD6s2wHltYy5OfG1pRms=/0x0/pic112201.jpg</image>
+    <name type="primary" sortindex="1" value="Wave of Terror"/>
+    <name type="alternate" sortindex="1" value="Battle of the Bulge"/>
+    <description>Game on Battle of the Bulge (ie. Ardennes), 1944. Game Scale is 1.5 miles/hex; One Game Turn = 24 hours. Units are mainly battalion size. Mini-monster with 2 maps and 840 counters.&amp;#10;Turn sequence summary : &amp;#10;Weather determination&amp;#10;First couplet&amp;#10;   German Operations&amp;#10;   Allied Operations&amp;#10;First Artillery Recovery&amp;#10;Second Couplet&amp;#10;Second Artillery Recovery.&amp;#10;&amp;#10;Victory is determined by accumulating victory points. This is earned by killing enemy units and controlling cities.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1997"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="14"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="21633" value="Magazine: Command"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgamedesigner" id="1253" value="John Desch"/>
+    <link type="boardgameartist" id="1718" value="Chris Perello"/>
+    <link type="boardgameartist" id="3347" value="Beth Queman"/>
+    <link type="boardgameartist" id="34998" value="Cherry Scollan"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="189" value="XTR Corp"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="71"/>
+        <average value="6.00197"/>
+        <bayesaverage value="5.5243"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11679" bayesaverage="5.5243"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2284" bayesaverage="5.64707"/>
+        </ranks>
+        <stddev value="1.66701"/>
+        <median value="0"/>
+        <owned value="340"/>
+        <trading value="18"/>
+        <wanting value="5"/>
+        <wishing value="4"/>
+        <numcomments value="42"/>
+        <numweights value="13"/>
+        <averageweight value="3.0769"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="7539">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/FeEY1KD6RWFtaMspSkA0uCzmUGg=/fit-in/200x150/pic45543.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kqG_r8DcfqZpWcA1eKbNNGUMSXQ=/0x0/pic45543.jpg</image>
+    <name type="primary" sortindex="1" value="Galactic Starfire"/>
+    <description>The fourth edition of the Starfire game system.&amp;#10;&amp;#10;GALACTIC STARFIRE is a complete revision of Starfire to make a tremendous number of advances in the tactical and campaign systems. While the tactical battles remain relatively unchanged, the major advancement in 4th edition is in the campaign system.&amp;quot;&amp;#10;&amp;#10;&amp;quot;STARFIRE is a game of tactical starship combat, focusing on fleet level combat with multiple ships. CAMPAIGN STARFIRE are rules that add an empire building campaign system to the game for long-term strategic game play. GALACTIC STARFIRE includes rules (2 96-page books) to both of these game levels, 4 brand-new counter sheets, and a large hexagon 'system' map.&amp;quot;&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;     Starfire (3rd Edition)&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2000"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1113" value="Space Exploration"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="22" value="Starfire"/>
+    <link type="boardgamedesigner" id="2640" value="Marvin Lamb"/>
+    <link type="boardgamedesigner" id="60125" value="Matthew Olson"/>
+    <link type="boardgamepublisher" id="1746" value="Starfire Design Studio"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="64"/>
+        <average value="5.74219"/>
+        <bayesaverage value="5.51043"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13273" bayesaverage="5.51043"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2589" bayesaverage="5.55661"/>
+        </ranks>
+        <stddev value="2.0935"/>
+        <median value="0"/>
+        <owned value="139"/>
+        <trading value="4"/>
+        <wanting value="15"/>
+        <wishing value="26"/>
+        <numcomments value="41"/>
+        <numweights value="13"/>
+        <averageweight value="4.2308"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

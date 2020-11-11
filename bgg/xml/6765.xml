@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6765">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/PPuf3Gh9tTr7DRxU5fxSsdtIn34=/fit-in/200x150/pic691436.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/uVtCiyozUdJe91iPsqOuuxQpzk4=/0x0/pic691436.jpg</image>
+    <name type="primary" sortindex="1" value="Sniper! Special Forces: Sniper! Companion Game #2"/>
+    <description>From the box:&amp;#10;&amp;#10;Special Forces. Small units, painstakingly trained and elaborately equipped, sent on the toughest and most sensitive missions. Handfuls of soldiers, hopelessly outnumbered, waging hit-and-run campaigns behind enemy lines. SAS. Green Berets. Freedom fighters. Deltas.&amp;#10;&amp;#10;Sniper! Special Forces expands the popular Sniper! (second edition) game system with an up-close look at man-to-man combat in small unit actions in the modern period. Scenarios include anti-terrorist raids, guerrilla actions, border wars, and more. New rules cover rafts and water movement, weather, squad specialists and new equipment. Players can select squads from 36 different nations (from Afghanistan to Zaire), or create their own. The fight against terrorism requires split-second timing and perfect execution-do you have what it takes?&amp;#10;&amp;#10;The Special Forces game is complete; the Sniper! (second edition) game is not required to play the enclosed scenarios.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1988"/>
+    <minplayers value="2"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="0"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2079" value="Variable Phase Order"/>
+    <link type="boardgamefamily" id="3258" value="The Sniper Series"/>
+    <link type="boardgameintegration" id="39007" value="Sniper! (second edition)"/>
+    <link type="boardgamedesigner" id="2417" value="Rick Swan"/>
+    <link type="boardgameartist" id="13526" value="Doug Chaffee"/>
+    <link type="boardgameartist" id="13816" value="Dennis Kauth"/>
+    <link type="boardgameartist" id="3034" value="Dave LaForce"/>
+    <link type="boardgameartist" id="21932" value="Sue Myers"/>
+    <link type="boardgameartist" id="13765" value="Stephen Sullivan"/>
+    <link type="boardgameartist" id="7271" value="David C. Sutherland, III"/>
+    <link type="boardgamepublisher" id="16" value="TSR"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="41"/>
+        <average value="6.80488"/>
+        <bayesaverage value="5.54185"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9814" bayesaverage="5.54185"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1807" bayesaverage="5.78402"/>
+        </ranks>
+        <stddev value="1.11464"/>
+        <median value="0"/>
+        <owned value="188"/>
+        <trading value="11"/>
+        <wanting value="10"/>
+        <wishing value="18"/>
+        <numcomments value="24"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

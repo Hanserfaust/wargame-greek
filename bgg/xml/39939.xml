@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="39939">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fCDM4xGYqsi_vVJzz6QJIBIPMDc=/fit-in/200x150/pic1232483.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XavQXWiMFdP08yKFUweJS5bTMZo=/0x0/pic1232483.jpg</image>
+    <name type="primary" sortindex="5" value="The Battle of Fontenoy: 11 May, 1745"/>
+    <description>From the Clash of Arms May 2008 Works In Progress flyer:&amp;#10;&amp;#10;Fontenoy brings the highly successful Battles from the Age of Reason series to the War of Austrian Succession, with several nationalities not yet seen in the series: French, Dutch, Hanoverians and English on the Continent.  Fontenoy is a tight test between the greatest captain of the war - Maurice de Saxe, commanding French forces behind defensive works against the inexperienced Duke of Cumberland commanding a mixed group of Allied troops.  Aside from the classic, historical battle in which the Allies try to breach the French defenses, variants will allow players to explore options which allow the Allies to outflank the French, add more forces to both sides, and even take away the French defenses for a straight-up contest on the plains of Flanders.  Fontenoy retains all of the aspects of the previous games of the series set in the Seven Years War.  The scale is 100 yards per hex and 20 minute game turns, with infantry battalions, cavalry regiments, and artillery batteries at the scale of 1 strength point equals 100 foot soldiers, 50 horsemen, or 2 cannon.&amp;#10;&amp;#10;Also included is the Battle of Melle, 9 July, 1745.  This is a complete battle with a small number of counters per side, played out on a half size map.  Melle is a rare meeting engagement and is a swirling, chaotic battle as each side seeks to obtain their objectives before night falls.  Melle is a quick game, ideal for BAR beginners or for those who want to play out a full battle in one sitting.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="360"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="1"/>
+        <result value="21 and up" numvotes="1"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2726" value="Age of Reason"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamefamily" id="2334" value="Battles from the Age of Reason (BAR)"/>
+    <link type="boardgamedesigner" id="2196" value="Paul Dangel"/>
+    <link type="boardgamedesigner" id="12532" value="Mathew Hinkle"/>
+    <link type="boardgameartist" id="2652" value="Charles Kibler"/>
+    <link type="boardgameartist" id="38610" value="Félix Philippoteaux"/>
+    <link type="boardgameartist" id="20661" value="Timothy Schleif"/>
+    <link type="boardgamepublisher" id="94" value="Clash of Arms Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="95"/>
+        <average value="8.62947"/>
+        <bayesaverage value="5.68759"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4534" bayesaverage="5.68759"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="378" bayesaverage="6.55506"/>
+        </ranks>
+        <stddev value="1.36612"/>
+        <median value="0"/>
+        <owned value="459"/>
+        <trading value="2"/>
+        <wanting value="22"/>
+        <wishing value="92"/>
+        <numcomments value="45"/>
+        <numweights value="22"/>
+        <averageweight value="4.1818"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

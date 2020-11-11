@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="30080">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BEjkiSAEUi3M8VhMkw5fPHbSbHY=/fit-in/200x150/pic414601.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/QmgwmfUf6gICSgsLCC10XDqNzhQ=/0x0/pic414601.jpg</image>
+    <name type="primary" sortindex="1" value="Advanced Salvo! 1939-1941"/>
+    <description>Advanced Salvo! is a simple World War II naval wargame consisting of rules, game tables, ship counters and markers.  It plays very much the same way as the Salvo! game published by Minden Games, except with further refinements.  The game may be played solitaire or by two players and the rules are worded for solitaire play.  Advanced Salvo! is fully compatible with the standard Salvo! game.&amp;#10;&amp;#10;Published in Panzer Digest #1.  Advanced Salvo! is a DTP game.&amp;#10;&amp;#10;Expands:&amp;#10;&amp;#10;&amp;#10;     Salvo!&amp;#10;&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;&amp;#10;     Mediterranean Salvo!&amp;#10;     Pacific Salvo!&amp;#10;&amp;#10;&amp;#10;</description>
+    <yearpublished value="2007"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+    <link type="boardgamefamily" id="12671" value="Magazine: Panzer Digest"/>
+    <link type="boardgameexpansion" id="282870" value="North Cape"/>
+    <link type="boardgameintegration" id="39894" value="Mediterranean Salvo!"/>
+    <link type="boardgamedesigner" id="2831" value="Gary Graber"/>
+    <link type="boardgameartist" id="2831" value="Gary Graber"/>
+    <link type="boardgamepublisher" id="1889" value="Minden Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="11"/>
+        <average value="6.18182"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.1134"/>
+        <median value="0"/>
+        <owned value="63"/>
+        <trading value="2"/>
+        <wanting value="3"/>
+        <wishing value="7"/>
+        <numcomments value="13"/>
+        <numweights value="3"/>
+        <averageweight value="1.6667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

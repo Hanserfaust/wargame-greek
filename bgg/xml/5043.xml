@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5043">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/d7GfUWCOxaTAt8LryhsaH3mm53Y=/fit-in/200x150/pic16698.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/oRPmDUIxEfZokBRbrOc4r1VqFUg=/0x0/pic16698.jpg</image>
+    <name type="primary" sortindex="5" value="The Forever War"/>
+    <description>The Forever War is a science fiction board game, based on the novel &amp;quot;Forever War&amp;quot; by Joe Haldeman. It features squad-level combat in the third millennium. Combat occurs on airless portal planets, where small infantry ground units vie with each other for victory among the frozen wastes. A player can never be sure of whom or what he will find when his troops near the battlefield.&amp;#10;&amp;#10;Units are equipped with weapons of the latest technology, and embark on their starships. Only weeks or months pass for them, traveling at near-light speeds, but decades pass in the universe surrounding them. The enemy these units meet on the battlefield could be technologically decades ahead or behind them when the battle is joined.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1093" value="Novel-based"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamedesigner" id="1153" value="James D. Griffin"/>
+    <link type="boardgameartist" id="18349" value="Jim Clouse"/>
+    <link type="boardgameartist" id="20713" value="Tim White"/>
+    <link type="boardgamepublisher" id="10" value="Mayfair Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="45"/>
+        <average value="5.39778"/>
+        <bayesaverage value="5.4968"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14714" bayesaverage="5.4968"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2815" bayesaverage="5.46547"/>
+        </ranks>
+        <stddev value="1.55055"/>
+        <median value="0"/>
+        <owned value="173"/>
+        <trading value="15"/>
+        <wanting value="8"/>
+        <wishing value="22"/>
+        <numcomments value="24"/>
+        <numweights value="8"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

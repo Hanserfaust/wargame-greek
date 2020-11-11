@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="113369">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/KUKgm3NhboL7Em5824hVZDQJbhk=/fit-in/200x150/pic1379749.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/iieu1nXOQM0scF-Jz2BCVlji0v0=/0x0/pic1379749.jpg</image>
+    <name type="primary" sortindex="1" value="Ticonderoga"/>
+    <description>(from the publisher's website:)&amp;#10;&amp;#10;Ticonderoga simulates six engagements in the region between the upper Hudson and lower Lake Champlain, specifically the area between northern Lake George and Fort Carillon (a.k.a. Ticonderoga) during the French and Indian War (1755-58). The game system emphasizes the importance of leaders, and highlights the role of individual command skills, circumstances and luck. Throughout the game, leaders&amp;rsquo; skills are tested as their units maneuver and fight, and every leader has the capacity to be &amp;ldquo;inept,&amp;rdquo; &amp;ldquo;capable&amp;rdquo; or &amp;ldquo;exceptional,&amp;rdquo; varying from engagement to engagement.&amp;#10;&amp;#10;The game includes a lot of randomization; so every game may vary in tempo. One game may involve more soldiers than another, and often the quality of the lower-level (unnamed) leaders will be different. There are three campaign and three raid scenarios, featuring many units for the longer games and fewer for shorter ones (280 counters total). Each hex on the Strategic Map represents 1.5 miles, whereas each hex on the Tactical Map (for the area near Ticonderoga) represents just 400 yards. Individual units represent from 50 to 800 men, and leader chits each represent a single commander, sometimes a famous historical figure, at other times an unknown man of low-rank.&amp;#10;&amp;#10;Designed by William Nester and Eric R. Harvey&amp;#10;Map design: Joe Youst&amp;#10;Counters: Trevor Holman&amp;#10;&amp;#10;</description>
+    <yearpublished value="2012"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1108" value="American Indian Wars"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgamefamily" id="43639" value="Native American"/>
+    <link type="boardgamedesigner" id="63705" value="William Nester"/>
+    <link type="boardgameartist" id="63707" value="Trevor Holman"/>
+    <link type="boardgameartist" id="1893" value="Joe Youst"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="21"/>
+        <average value="3.33333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.98406"/>
+        <median value="0"/>
+        <owned value="150"/>
+        <trading value="10"/>
+        <wanting value="3"/>
+        <wishing value="11"/>
+        <numcomments value="25"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

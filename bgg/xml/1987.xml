@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1987">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BZrTY-56AmGiY7MEDuLmhWCMSn0=/fit-in/200x150/pic318100.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4NjvkESHyHDTID05csbL0E3NJzI=/0x0/pic318100.jpg</image>
+    <name type="primary" sortindex="1" value="Emperor of China"/>
+    <description>In this highly abstract strategic wargame, you are trying to conquer China by being the first to occupy fifteen provinces at the completion of a complete round of play (all players having had an equal number of turns).  Alternatively, the game can be timed and scored.&amp;#10;&amp;#10;You start with a small number of provinces under your control.  Population counters of your colour indicate this; if a province has extra population, it can move some into an adjacent unoccupied province --this is the simplest way of conquest.  Merger, diplomacy and force (Risk-like combat) are your other options.  Each turn you draw a Yin card and a Yang card.  Yin is bad, Yang is good.  Without looking at either card's instructions, you assign them to two of your provinces.  Yang will most likely increase your recruitment (which is normally three population per turn), but could also give you the capability to cross a natural barrier like a mountain range.  Yin will hurt you.  Some cards you end up holding in your hand.&amp;#10;&amp;#10;A player may attempt to convince another player to merge with his empire.  If the second player agrees then the smaller empire is absorbed by the larger and both players continue play as senior (larger) and junior (smaller) partners.  The absorbed empire no longer has a separate turn nor separate recruitment.  This concept of &amp;quot;shared victory&amp;quot; is intriguing, particularly with a larger number of players.&amp;#10;&amp;#10;The game allows any number of players but components are only provided for five.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1972"/>
+    <minplayers value="2"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1026" value="Negotiation"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2019" value="Partnerships"/>
+    <link type="boardgamefamily" id="9470" value="Asian Theme"/>
+    <link type="boardgamefamily" id="11518" value="Country: China"/>
+    <link type="boardgamedesigner" id="831" value="G. L. Lamborn"/>
+    <link type="boardgamepublisher" id="377" value="Dynamic Games / Dynamic Design Industries"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="105"/>
+        <average value="5.95143"/>
+        <bayesaverage value="5.52498"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11610" bayesaverage="5.52498"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2270" bayesaverage="5.65406"/>
+        </ranks>
+        <stddev value="1.41893"/>
+        <median value="0"/>
+        <owned value="269"/>
+        <trading value="37"/>
+        <wanting value="11"/>
+        <wishing value="35"/>
+        <numcomments value="74"/>
+        <numweights value="21"/>
+        <averageweight value="2.0476"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

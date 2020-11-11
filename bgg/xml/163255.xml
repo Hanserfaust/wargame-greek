@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="163255">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/fcGz2Xk-zA-tlzvw2mByCKwd6Cs=/fit-in/200x150/pic2429162.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7fBzEBiVwZupFoKrW4k4Mh5uPbI=/0x0/pic2429162.png</image>
+    <name type="primary" sortindex="1" value="Reconquista"/>
+    <description>Winner of the wargame category in the 2014 solitaire print and play contest. Released in early 2015 as a physical boardgame by White Dog Games.&amp;#10;&amp;#10;The game is a solitaire area-movement wargame, simulating the Reconquest of the Iberian peninsular by the Christian kingdoms from the 8th to 15th centuries.&amp;#10;&amp;#10;The player takes the role of the Christian forces. Starting off with a small part of Northern Spain, the player purchases Armies and cities, with the goal of defeating the Moslem forces and reconquering Iberia for Christendom.&amp;#10;&amp;#10;Game play involves battles, sieges, random events, and the actions of the Moslem forces, controlled by the game.&amp;#10;&amp;#10;Random events include Viking raiders, French intervention, Famine, Rebellions, Religious strife, Christian Military Orders, and more.&amp;#10;&amp;#10;Components: 1 map, 100 counters (3 different sizes), rules.&amp;#10;Playing time: 1-2 hours&amp;#10;&amp;#10;The White Dog games version contains cleaned-up rules, additional optional rules, including alternative random event tables, and a historical scenario for every one of the 20 turns of the game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+      <results numplayers="1">
+        <result value="Best" numvotes="5"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="2"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="66" value="No necessary in-game text" numvotes="0"/>
+        <result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="2"/>
+        <result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="70" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="5614" value="Country: Portugal"/>
+    <link type="boardgamefamily" id="10310" value="Country: Spain"/>
+    <link type="boardgamefamily" id="19564" value="Solitaire Print and Play Contest"/>
+    <link type="boardgamefamily" id="23590" value="White Dog Games Solitaire Series"/>
+    <link type="boardgamedesigner" id="5043" value="David Kershaw"/>
+    <link type="boardgameartist" id="26507" value="José Ramón Faura"/>
+    <link type="boardgameartist" id="94070" value="Gonzalo Santacruz"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="36"/>
+        <average value="7.24444"/>
+        <bayesaverage value="5.54932"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9171" bayesaverage="5.54932"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1777" bayesaverage="5.79105"/>
+        </ranks>
+        <stddev value="1.22121"/>
+        <median value="0"/>
+        <owned value="102"/>
+        <trading value="2"/>
+        <wanting value="23"/>
+        <wishing value="86"/>
+        <numcomments value="25"/>
+        <numweights value="4"/>
+        <averageweight value="2.75"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

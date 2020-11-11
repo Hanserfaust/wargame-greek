@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="9084">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/_a7X_m7sQDD21o3pfcbkvyDAmO4=/fit-in/200x150/pic44490.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qt9jb51CVhlFcMSj0wGCPnHxpxE=/0x0/pic44490.jpg</image>
+    <name type="primary" sortindex="1" value="Grunwald 1410 (first edition)"/>
+    <name type="alternate" sortindex="1" value="Grunwald 1410"/>
+    <description>Operational game on the battle between the Teutonic Knights and the combined forces of Poland/Lithuania/Belarus.  Battle also known as the 1st Tannenberg.&amp;#10;&amp;#10;Large colorful 39&amp;quot; x 27&amp;quot; map. Counters (featuring the silhouettes of the major troop types) are printed on card stock and need to be cutout and mounted (similar in style to Vae Victis). Game contains units, leaders and help counters. Some of them, like trap holes counters, shouldn't be used, because newest resarches excluded their use in the original battle.&amp;#10;&amp;#10;A fairly simple game system with command considerations and separate combat tables for different troop types.&amp;#10;&amp;#10;Rules in Polish but English translation is available.&amp;#10;&amp;#10;Related Microbadges&amp;#10; Dragon fan&amp;#10;&amp;#10;</description>
+    <yearpublished value="1992"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="300"/>
+    <minplaytime value="300"/>
+    <maxplaytime value="300"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+      <results>
+        <result level="11" value="No necessary in-game text" numvotes="1"/>
+        <result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+        <result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="15" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1035" value="Medieval"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10317" value="Country: Poland"/>
+    <link type="boardgameimplementation" id="29627" value="Grunwald 1410 (second edition)"/>
+    <link type="boardgamedesigner" id="3073" value="Dariusz Góralski"/>
+    <link type="boardgameartist" id="37015" value="Zbigniew Kasprzak"/>
+    <link type="boardgameartist" id="75996" value="Jarosław Wróbel"/>
+    <link type="boardgamepublisher" id="5251" value="Dragon"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="106"/>
+        <average value="5.9533"/>
+        <bayesaverage value="5.52332"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11796" bayesaverage="5.52332"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2216" bayesaverage="5.67022"/>
+        </ranks>
+        <stddev value="1.39656"/>
+        <median value="0"/>
+        <owned value="138"/>
+        <trading value="2"/>
+        <wanting value="4"/>
+        <wishing value="9"/>
+        <numcomments value="20"/>
+        <numweights value="20"/>
+        <averageweight value="3.25"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

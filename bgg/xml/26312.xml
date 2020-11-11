@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="26312">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/MO7l_iLw5vW2mul2g4MhKkI14mc=/fit-in/200x150/pic158329.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4NhqpUn8PsoiDTL4xDOKRg5VPrs=/0x0/pic158329.jpg</image>
+    <name type="primary" sortindex="1" value="Star Fleet Battles: Module J2 – Advanced Fighters"/>
+    <description>Part of the Star Fleet Battles Captain's Edition line.&amp;#10;&amp;#10;Module J2 includes new warships, fighters, weapons, and systems: Oversized Fighter Squadrons are launched by Patrol and Interdiction Carriers. Scout Carriers and Area Control Ships pave the way to the PFTs that followed. New ships include Federation Fast Carrier and F-111 carriers, Klingon FWE and D6Y, Romulan NovaHawk-B and Vulture-V, Kzinti DDE and CLE, Gorn Emergency Carrier, Tholian Dreadnought-Carrier and War Cruiser Carrier, Orion Slaver-Carrier, Hydran Pegasus-Carrier, Lyran Medium Carrier, ISC Light Fleet Carrier, and more.&amp;#10;&amp;#10;Bombers, huge shuttles bristling with weapons, defend planets from invaders. Megafighters are enlarged standard fighters: faster, meaner, tougher! Remote-controlled fighters keep pilots alive to fight another day and have faster launch rates but lack the range for independent strikes and cannot survive dogfights.&amp;#10;&amp;#10;Advanced versions of many shuttles, heavy fighters, and plasma fighters. New weapons include Stonefish Drones, Heavy Drones, and type-K Plasmas. Andromedan Small Support Units and Mobile Weapon Platforms (their version of fighters and PFs).&amp;#10;&amp;#10;Seven scenarios, 83 SSDs, charts, and annexes complete the package.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2002"/>
+    <minplayers value="0"/>
+    <maxplayers value="0"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="0+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection"/>
+    <link type="boardgamefamily" id="21" value="Star Fleet Battles"/>
+    <link type="boardgamefamily" id="95" value="Star Fleet Universe"/>
+    <link type="boardgamefamily" id="7392" value="Star Trek"/>
+    <link type="boardgameexpansion" id="29663" value="Star Fleet Battles: Captain's Edition Basic Set" inbound="true"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamedesigner" id="5927" value="Steven P. Petrick"/>
+    <link type="boardgamepublisher" id="25" value="Amarillo Design Bureau, Inc."/>
+    <link type="boardgamepublisher" id="352" value="Task Force Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="20"/>
+        <average value="7.49"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="2.22304"/>
+        <median value="0"/>
+        <owned value="81"/>
+        <trading value="3"/>
+        <wanting value="0"/>
+        <wishing value="4"/>
+        <numcomments value="4"/>
+        <numweights value="3"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

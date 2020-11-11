@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="33158">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/r5le2Y9u0ux6T2quCRf5wvxuP2M=/fit-in/200x150/pic273278.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FmDXfQoD1Y877KhrW-b_kCzG8mA=/0x0/pic273278.jpg</image>
+    <name type="primary" sortindex="1" value="Star Fleet Battles: Module W – Space Battle Maps"/>
+    <description>Part of the Star Fleet Battles Captain's Edition line.&amp;#10;&amp;#10;This is a set of maps and counters, along with turn gauges suitable for miniature play and the 'Section W' miniature rules for Star Fleet Battles.&amp;#10;&amp;#10;From the publisher:&amp;#10;&amp;#10;Large 46x38 inch map with 1.25&amp;quot; hexes, double the normal size! Suitable for miniatures (SFB or any other game) or huge battles with regular counters. Also includes full-color planets, moons, asteroids, and a comet printed on the same size hex grid so you can arrange whatever terrain you need. (Includes one five-hex planet, two three-hex planets, a two-hex planet, and numerous one-hex planets. The comet is four hexes long.) Also includes miniatures turn gauges and firing arc templates and &amp;quot;tabletop&amp;quot; (non-hex) rules.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2001"/>
+    <minplayers value="1"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="21" value="Star Fleet Battles"/>
+    <link type="boardgamefamily" id="95" value="Star Fleet Universe"/>
+    <link type="boardgamefamily" id="7392" value="Star Trek"/>
+    <link type="boardgameexpansion" id="29663" value="Star Fleet Battles: Captain's Edition Basic Set" inbound="true"/>
+    <link type="boardgamedesigner" id="675" value="Stephen V. Cole"/>
+    <link type="boardgamedesigner" id="5927" value="Steven P. Petrick"/>
+    <link type="boardgameartist" id="12902" value="Ted Geibel"/>
+    <link type="boardgamepublisher" id="25" value="Amarillo Design Bureau, Inc."/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="18"/>
+        <average value="7.41667"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.98781"/>
+        <median value="0"/>
+        <owned value="64"/>
+        <trading value="4"/>
+        <wanting value="3"/>
+        <wishing value="7"/>
+        <numcomments value="4"/>
+        <numweights value="3"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

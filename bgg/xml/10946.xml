@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10946">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/rJf7bzQC7lhJgytXMdaHVNI7LQw=/fit-in/200x150/pic62642.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kudzncALC7FQTvDno64KMb3ag_o=/0x0/pic62642.jpg</image>
+    <name type="primary" sortindex="5" value="The American Civil War"/>
+    <description>The American Civil War: 1861-1865 is a strategic simulation from June 1861 to June 1865. Combat units are generic ground forces on 1, 2, 4 or 6 strength counters. Also included are single strength permanent garrisons, leaders with variable (0-3) Leadership Ratings (3-USA, 4-CSA), a special Union naval leader (Farragut), Forts, Railroad Junction and Railroad Repair, Unsupplied, Riverine and Naval units.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1974"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1102" value="Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics"/>
+    <link type="boardgameimplementation" id="285213" value="The American Civil War"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="111"/>
+        <average value="5.87748"/>
+        <bayesaverage value="5.52189"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11962" bayesaverage="5.52189"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2434" bayesaverage="5.60782"/>
+        </ranks>
+        <stddev value="1.4915"/>
+        <median value="0"/>
+        <owned value="515"/>
+        <trading value="27"/>
+        <wanting value="7"/>
+        <wishing value="21"/>
+        <numcomments value="114"/>
+        <numweights value="19"/>
+        <averageweight value="3.0526"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

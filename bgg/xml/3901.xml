@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="3901">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/z4_Vfom30V4t-UHLnXALnrIyPrE=/fit-in/200x150/pic28036.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D6ugtZPRl7k3yv8FUtQwNu6yXGw=/0x0/pic28036.jpg</image>
+    <name type="primary" sortindex="1" value="Sturm Nach Osten"/>
+    <description>This strategic level game covers the East Front from June 1941 to May 1945 with one-month turns. The game has variable victory conditions reflecting the historical ebb and flow. Main units are fronts, armies and corps; also units for static garrisons and Soviet factories (need to move eastward by rail before capture); markers for fortification, artillery, overrun/blitz and dispersal are all provided. Weather, terrain, supply and ZOC rules are used. Victory is measured by control of key cities at key moments.&amp;#10;&amp;#10;The rules provide for several &amp;quot;scenarios&amp;quot; (different start and end dates) for shorter playing times and there is also a simplified version using less units and stripped down rules.&amp;#10;&amp;#10;&amp;#10;First published as a Game Kit by the designer with color copied counters on blue &amp;amp; red paper and a B&amp;amp;W map that you could color in.&amp;#10;The Wargamer Magazine Vol.I, #19 is the 2nd edition of the game&amp;#10;&amp;#10;</description>
+    <yearpublished value="1982"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="360"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="6207" value="Magazine: Wargamer"/>
+    <link type="boardgamedesigner" id="1570" value="Lou Coatney"/>
+    <link type="boardgameartist" id="1008" value="Masahiro Yamazaki"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)"/>
+    <link type="boardgamepublisher" id="3406" value="Six Angles"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="74"/>
+        <average value="6.94405"/>
+        <bayesaverage value="5.5707"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7738" bayesaverage="5.5707"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1290" bayesaverage="5.92997"/>
+        </ranks>
+        <stddev value="1.92877"/>
+        <median value="0"/>
+        <owned value="271"/>
+        <trading value="10"/>
+        <wanting value="7"/>
+        <wishing value="13"/>
+        <numcomments value="69"/>
+        <numweights value="12"/>
+        <averageweight value="2.8333"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

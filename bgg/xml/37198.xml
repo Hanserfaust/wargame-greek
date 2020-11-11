@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="37198">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/8yZCw6KppKsilsTVgUttnC-4jjM=/fit-in/200x150/pic347837.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/vHmlgM81-syhB-DKhY6t8AIyDEY=/0x0/pic347837.jpg</image>
+    <name type="primary" sortindex="1" value="Risk (Revised Edition)"/>
+    <name type="alternate" sortindex="1" value="Risiko"/>
+    <name type="alternate" sortindex="1" value="Risiko: Das grosse Strategiespiel"/>
+    <name type="alternate" sortindex="1" value="Risk"/>
+    <name type="alternate" sortindex="1" value="Risk  Onyx Edition"/>
+    <name type="alternate" sortindex="1" value="Risk Reinvention"/>
+    <name type="alternate" sortindex="1" value="Risk: Strateegiline Vallutamismäng"/>
+    <name type="alternate" sortindex="1" value="Risk: Wereldveroverend"/>
+    <name type="alternate" sortindex="1" value="Risko"/>
+    <name type="alternate" sortindex="1" value="Rizikó: Modern idők"/>
+    <name type="alternate" sortindex="1" value="Ryzyko Gra o Podbój Świata"/>
+    <description>The classic wargame Risk has been updated and revised for 2008. The graphics and components are brand new. Major and minor objectives have been added, along with cities and capitals, plus rewards for completing objectives.&amp;#10;&amp;#10;The new version has a drastically changed victory condition: complete three objectives while controlling your capital. This shortens the game playing time to around 90 minutes.&amp;#10;&amp;#10;There are three rule sets: Basic Training, Command Room and World Conquest. Basic Training is an introduction to the new Risk rules and includes a pre-existing setup for 3, 4 or 5 players. Command Room adds a randomized setup and rewards for achieving objectives. Both Basic Training and Command Room end when a player controls three objectives. World Conquest is an updated version of the classic Risk game of Global Domination: play continues until one player controls all territories.&amp;#10;&amp;#10;Component list:&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Risk&amp;#10;    Risk: Black Ops&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Risk: Halo Wars Collector's Edition&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Home Page: http://hasbro.com/risk/default.cfm?page=default&amp;#10;&amp;#10;</description>
+    <yearpublished value="2008"/>
+    <minplayers value="3"/>
+    <maxplayers value="5"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="21"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="5"/>
+        <result value="Not Recommended" numvotes="16"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="21"/>
+        <result value="Not Recommended" numvotes="3"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="21"/>
+        <result value="Recommended" numvotes="7"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="19"/>
+        <result value="Recommended" numvotes="6"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="12"/>
+      </results>
+    </poll>
+    <playingtime value="90"/>
+    <minplaytime value="90"/>
+    <maxplaytime value="90"/>
+    <minage value="10"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="1"/>
+        <result value="8" numvotes="4"/>
+        <result value="10" numvotes="5"/>
+        <result value="12" numvotes="5"/>
+        <result value="14" numvotes="1"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="15">
+      <results>
+        <result level="66" value="No necessary in-game text" numvotes="2"/>
+        <result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="13"/>
+        <result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="70" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1086" value="Territory Building"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2080" value="Area Control / Area Influence"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2685" value="Player Elimination"/>
+    <link type="boardgamemechanic" id="2004" value="Set Collection"/>
+    <link type="boardgamefamily" id="4218" value="Risk"/>
+    <link type="boardgamedesigner" id="442" value="Rob Daviau"/>
+    <link type="boardgamepublisher" id="51" value="Hasbro"/>
+    <link type="boardgamepublisher" id="28" value="Parker Brothers"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2671"/>
+        <average value="5.99407"/>
+        <bayesaverage value="5.77701"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3558" bayesaverage="5.77701"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1770" bayesaverage="5.79401"/>
+        </ranks>
+        <stddev value="1.53304"/>
+        <median value="0"/>
+        <owned value="5708"/>
+        <trading value="245"/>
+        <wanting value="13"/>
+        <wishing value="100"/>
+        <numcomments value="571"/>
+        <numweights value="159"/>
+        <averageweight value="2.1824"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

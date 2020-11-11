@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="197636">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/BHoeM3GZi6JRKWSTfadrK6vNe9Q=/fit-in/200x150/pic3189989.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/MaFT_Y4gTAW6vrae4bR6QioVPfk=/0x0/pic3189989.jpg</image>
+    <name type="primary" sortindex="1" value="Objective Havana"/>
+    <description>Objective Havana is an operational level, solitaire simulation of the planned-but-never-executed US invasion of Cuba in late 1962. The premise of the game is that President John F. Kennedy had ordered the US military to invade the island in order to remove Soviet missiles and nuclear weapons. Historically, the missiles were removed by a combination of American military and diplomatic pressure (known as the Cuban Missile Crisis), but the game looks at the &amp;ldquo;what if.&amp;rdquo; The player controls the US forces; the game system controls the opposing Communist reaction. The objective of the game is for the US to capture Cuba at the lowest possible cost in casualties.&amp;#10;&amp;#10;Components: One 22&amp;quot; x 34&amp;quot; map &amp;amp; 176 counters&amp;#10;&amp;#10;Modern War #28, Mar-April 2017&amp;#10;&amp;#10;</description>
+    <yearpublished value="2017"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1069" value="Modern Warfare"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamefamily" id="46192" value="Historical Figures:  Fidel Castro"/>
+    <link type="boardgamefamily" id="20084" value="Magazine: Modern War"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="337" value="Joseph Miranda"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="16"/>
+        <average value="7.125"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.30504"/>
+        <median value="0"/>
+        <owned value="115"/>
+        <trading value="0"/>
+        <wanting value="8"/>
+        <wishing value="10"/>
+        <numcomments value="20"/>
+        <numweights value="1"/>
+        <averageweight value="1"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

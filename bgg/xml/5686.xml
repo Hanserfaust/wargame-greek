@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="5686">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/tdHuU6NPuyLEzOMXdY3w_oCaoNQ=/fit-in/200x150/pic168093.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/SbeBNJP7tNp1gr6AQ3reIGCGUsM=/0x0/pic168093.jpg</image>
+    <name type="primary" sortindex="1" value="Stargrunt II"/>
+    <description>Stargrunt II is a comprehensive set of generic rules for simulating science-fiction infantry combat in virtually any background. The system covers actions from a few squads up to full company level. Rules are included for infantry, powered armored troops, AFV's, artillery and aerospace support and much much more. The game is designed for use with 25mm or 15mm scale miniatures. The game has a flexible integrated game sequence, minimal record keeping and a brilliant system of distinguishing troop quality. The game encourages the players to think tactically. There are rules for troop confidence, motivation, suppression and much more.&amp;#10;&amp;#10;This game is now available as a free download from Ground Zero Games.&amp;#10;&amp;#10;http://www.groundzerogames.net/&amp;#10;&amp;#10;Re-implements:&amp;#10;Stargrunt&amp;#10;&amp;#10;</description>
+    <yearpublished value="1996"/>
+    <minplayers value="2"/>
+    <maxplayers value="4"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="1"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="1"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1117" value="Book"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2079" value="Variable Phase Order"/>
+    <link type="boardgameexpansion" id="146334" value="Daleks in Stargrunt II"/>
+    <link type="boardgameimplementation" id="129285" value="Stargrunt" inbound="true"/>
+    <link type="boardgamedesigner" id="4431" value="Steve Blease"/>
+    <link type="boardgamedesigner" id="615" value="Mike Elliott"/>
+    <link type="boardgamedesigner" id="1566" value="Jon M. Tuffley"/>
+    <link type="boardgameartist" id="59594" value="Aaron Alderson"/>
+    <link type="boardgameartist" id="59347" value="Peter Barfield"/>
+    <link type="boardgameartist" id="4054" value="Dave Garnham"/>
+    <link type="boardgameartist" id="26921" value="Tim Osborne"/>
+    <link type="boardgameartist" id="59346" value="Barrie Quin"/>
+    <link type="boardgameartist" id="5781" value="John Treadaway"/>
+    <link type="boardgameartist" id="59226" value="Malcolm Yaxley"/>
+    <link type="boardgamepublisher" id="905" value="Ground Zero Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="144"/>
+        <average value="7.43437"/>
+        <bayesaverage value="5.68299"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4603" bayesaverage="5.68299"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="576" bayesaverage="6.3351"/>
+        </ranks>
+        <stddev value="1.52612"/>
+        <median value="0"/>
+        <owned value="315"/>
+        <trading value="5"/>
+        <wanting value="5"/>
+        <wishing value="29"/>
+        <numcomments value="62"/>
+        <numweights value="25"/>
+        <averageweight value="2.96"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

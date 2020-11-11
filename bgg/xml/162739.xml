@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="162739">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/wYafYJhmhWyHL3FAAohWxnGdv7w=/fit-in/200x150/pic2091816.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tKpHPj5G_btUMbg_Z-CUvvSYQFM=/0x0/pic2091816.jpg</image>
+    <name type="primary" sortindex="1" value="Gauntlet: Operation Pedestal, August 11-13, 1942"/>
+    <description>Gauntlet is a two player game on the epic naval and air battles for the largest Malta relief convoy of World War II (although solitaire play is easy to do). In August the Malta garrison was on the ropes, with critical supplies nearly exhausted. Allied forces were in full retreat towards Egypt following their defeat in the Gazala Campaign. The Axis forces realized the Pedestal Convoy could very well be the battle for &amp;quot;all the marbles&amp;quot; and mobilized tremendous air, submarine and surface fleet assets to contest its passage. The Allied convoy was savaged but enough ships made it through, including the tanker Ohio whose ordeal was a true epic of wartime heroism, to enable Malta to hold out.&amp;#10;&amp;#10;Can you do better?&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="2"/>
+    <minplaytime value="2"/>
+    <maxplaytime value="2"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamedesigner" id="812" value="Paul Rohrbaugh"/>
+    <link type="boardgameartist" id="46618" value="Bruce Yearian"/>
+    <link type="boardgamepublisher" id="17180" value="High Flying Dice Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="4"/>
+        <median value="0"/>
+        <owned value="15"/>
+        <trading value="0"/>
+        <wanting value="1"/>
+        <wishing value="7"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

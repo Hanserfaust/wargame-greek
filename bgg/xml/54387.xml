@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="54387">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/US-yptCfvDnvO_HDFI9LbwNP6-c=/fit-in/200x150/pic561795.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Jk5yoNREty7tMjUk6ytAfhKDyhk=/0x0/pic561795.jpg</image>
+    <name type="primary" sortindex="1" value="Undersea Warriors"/>
+    <description>From the introduction:&amp;#10;&amp;#10;&amp;quot;Undersea Warriors is a game of tactical combat between U-boat, or Submarine, and Destroyer, or anti-Submarine vessel. These are essentially non-nuclear &amp;quot;type&amp;quot; vessels, reflecting hypothetical combat which could be all the way from the middle of World War II, to the 1960's.&amp;quot;&amp;#10;&amp;#10;The game appears to have come in a large ziplock bag with the following components:&amp;#10;- Rule Book (139 pages with additional charts in back).&amp;#10;- Map (A large hex map with a coordinate system running down two edges)&amp;#10;- 12 Submarine/Counter sheets (Each heavy paper sheet is identical and has two basic elements: 1. An area to cut out counters for ships, torpedoes, etc.; and 2. Player sheets to track damage, etc., on two different, and somewhat odd looking, submarines.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1975"/>
+    <minplayers value="2"/>
+    <maxplayers value="8"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="8+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgameartist" id="23923" value="Edward Foster Hall"/>
+    <link type="boardgameartist" id="23920" value="Carol Lynn Howard"/>
+    <link type="boardgamepublisher" id="457" value="Taurus Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="0"/>
+        <average value="0"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="0"/>
+        <median value="0"/>
+        <owned value="1"/>
+        <trading value="0"/>
+        <wanting value="0"/>
+        <wishing value="0"/>
+        <numcomments value="0"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

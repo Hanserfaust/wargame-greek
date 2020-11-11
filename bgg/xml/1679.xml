@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1679">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/Cr5Xr6NRa01Ih6OUrDU__YZuEss=/fit-in/200x150/pic1258766.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/aZlcC3BDBtNb7Phkc45Aq1O_A3s=/0x0/pic1258766.jpg</image>
+    <name type="primary" sortindex="1" value="Carrier"/>
+    <description>Carrier is a solitaire simulation of both historical and hypothetical carrier battles in the Southwest Pacific Theater during the hotly-contested naval campaigns of 1942 and 1943. As the U.S. commander, you maneuver your task forces and conduct air searches in a tension-packed contest to find the Japanese carriers before they locate and attack yours.  Simple game mechanics control Japanese movement and determine the timing and strengths of their attacks. You will not know that a Japanese air strike is headed your way until it actually appears in the skies above your task force. Once the enemy has been located, you face the very same, real-life, tactical dilemmas as your historical counterparts.&amp;#10;&amp;#10;Contents:&amp;#10;1 22&amp;quot; x 32&amp;quot; Map&amp;#10;780 Counters (3 Sheets)&amp;#10;1 Rules Booklet&amp;#10;2 Charts and Table Cards&amp;#10;2 Charts and Table Screens&amp;#10;1 Ten-sided Die&amp;#10;1 Counter Tray&amp;#10;&amp;#10;</description>
+    <yearpublished value="1990"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+      <results numplayers="1">
+        <result value="Best" numvotes="13"/>
+        <result value="Recommended" numvotes="1"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="9"/>
+      </results>
+    </poll>
+    <playingtime value="360"/>
+    <minplaytime value="180"/>
+    <maxplaytime value="360"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="6"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+      <results>
+        <result level="36" value="No necessary in-game text" numvotes="0"/>
+        <result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+        <result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="3"/>
+        <result level="40" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="2650" value="Aviation / Flight"/>
+    <link type="boardgamecategory" id="1008" value="Nautical"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="10634" value="Country: Japan"/>
+    <link type="boardgamefamily" id="10619" value="Country: Papua New Guinea"/>
+    <link type="boardgamefamily" id="13255" value="Country: Solomon Islands"/>
+    <link type="boardgamefamily" id="14835" value="Country: USA"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamedesigner" id="713" value="Jon Southard"/>
+    <link type="boardgameartist" id="59009" value="Ned Schatzer"/>
+    <link type="boardgamepublisher" id="123" value="Victory Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="358"/>
+        <average value="7.37283"/>
+        <bayesaverage value="5.88155"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2800" bayesaverage="5.88155"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="258" bayesaverage="6.73432"/>
+        </ranks>
+        <stddev value="1.57306"/>
+        <median value="0"/>
+        <owned value="1210"/>
+        <trading value="30"/>
+        <wanting value="173"/>
+        <wishing value="380"/>
+        <numcomments value="215"/>
+        <numweights value="62"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

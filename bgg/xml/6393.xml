@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="6393">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/igL2RXk5_Yt9t7WXWy4M8bNyFgA=/fit-in/200x150/pic455973.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/sKeNkYY9aVLFA9sE6LUXr_ePlBI=/0x0/pic455973.jpg</image>
+    <name type="primary" sortindex="1" value="Age of Battles"/>
+    <description>Age Of Battles is a table-top gaming system using 1/72 scale miniatures.  Movement and combat are performed through measurement and dice rolling.  There are several Age of Battles games from Zvezda, a manufacturer of plastic miniatures noted for historical accuracy, which cover several time periods and countries, all based on historical events (Antiquity, Middle age, Shogun, Napoleonic). The playing units (figures) can be bought in sets; for example, 6 units on horses, or 8 units with bows and arrows.&amp;#10;&amp;#10;Battle/era-specific boxed game sets that include everything needed to play out scenarios:&amp;#10;&amp;#10;Ancient Battles&amp;#10;Rome &amp;#226;&amp;#128;&amp;#147; The Great Battles (8214)&amp;#10;Hannibal &amp;#226;&amp;#128;&amp;#147; The Great Battles (8210) &amp;#10;Ancient Fortress Siege Battle of Syracuse (8206) &amp;#10;Alexander the Great: The Battle of Issa (8205)&amp;#10;The Battle of Marathon (8203)&amp;#10;Battles of Alexander the Great (8223)&amp;#10;&amp;#10;Medieval Battles&amp;#10;Assault of the Fortress (8212) &amp;#10;Battle of Kulikovo (8201) &amp;#10;Battle of Lake Peipus (8202) &amp;#10;Crusaders (8204)&amp;#10;&amp;#10;Napoleonic Battles&amp;#10;Borodino Cossack Attack (8215)     &amp;#10;Borodino 1812, Battle for Moscow (8221)&amp;#10;The Battle of Leipzig (8225)&amp;#10;&amp;#10;Shogun Battles&amp;#10;Shogun: Okehazama 1560 (8207) &amp;#10;Shogun:  Sekigahara 1600 (8224)&amp;#10;Shogun: Takeda/Kawanakajima (8239)&amp;#10;&amp;#10;</description>
+    <yearpublished value="0"/>
+    <minplayers value="2"/>
+    <maxplayers value="6"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="6+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+      <results>
+        <result level="1" value="No necessary in-game text" numvotes="0"/>
+        <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="5" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1050" value="Ancient"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1047" value="Miniatures"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2016" value="Secret Unit Deployment"/>
+    <link type="boardgamefamily" id="6226" value="Age of Battles"/>
+    <link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+    <link type="boardgamepublisher" id="1466" value="Zvezda"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="12"/>
+        <average value="6.83333"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.62447"/>
+        <median value="0"/>
+        <owned value="40"/>
+        <trading value="4"/>
+        <wanting value="6"/>
+        <wishing value="11"/>
+        <numcomments value="12"/>
+        <numweights value="2"/>
+        <averageweight value="2.5"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

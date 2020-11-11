@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="4252">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/HEwYwPoY5ILOxZJXLgvB4i2lvdE=/fit-in/200x150/pic44336.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/CYuhuRWXtRu8pOGkMCyp6ADHi6Q=/0x0/pic44336.jpg</image>
+    <name type="primary" sortindex="1" value="Bulge"/>
+    <name type="alternate" sortindex="5" value="The Big Red One"/>
+    <description>Divisional sized game on the Ardennes offensive in 1944 on a small map and with short rules. The German objective is to blast the American lines and exit as many units as possible on the West and North West edges of the map.&amp;#10;&amp;#10;Central to the system are the supply rules. Supply lines are interdicted by possession and proximity (3 hex range) to bridge hex-sides. Victory is checked at the end of every turn where the Germans will compare VPs collected against the Victory conditions. If Victory conditions are not met, play continues.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1979"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="2"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="1"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="56" value="No necessary in-game text" numvotes="1"/>
+        <result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="60" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="25084" value="World War 2: Battle of the Bulge"/>
+    <link type="boardgamedesigner" id="1081" value="Jim Dunnigan"/>
+    <link type="boardgameartist" id="71" value="Rodger B. MacGowan"/>
+    <link type="boardgameartist" id="1030" value="Redmond A. Simonsen"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <link type="boardgamepublisher" id="1391" value="Hobby Japan"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="94"/>
+        <average value="6.28723"/>
+        <bayesaverage value="5.54603"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9450" bayesaverage="5.54603"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1893" bayesaverage="5.75616"/>
+        </ranks>
+        <stddev value="1.7113"/>
+        <median value="0"/>
+        <owned value="302"/>
+        <trading value="17"/>
+        <wanting value="9"/>
+        <wishing value="18"/>
+        <numcomments value="81"/>
+        <numweights value="14"/>
+        <averageweight value="2.3571"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="64852">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/9WqRVa5AftyN6I2Pw7zaK1322-Y=/fit-in/200x150/pic641273.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8CcxPWfBusKOx_DUpmQ4XQJF590=/0x0/pic641273.jpg</image>
+    <name type="primary" sortindex="1" value="Panzer Clash"/>
+    <description>Panzer Clash is a light, card-based wargame about Second World War Panzer battles for 2 - 4 players.&amp;#10;&amp;#10;Pick a side, either Axis or Allies, and build a deck of 40 cards out of a pool of 100 different cards in order to defeat your enemey.&amp;#10;The deck or Supply contains Factories, Units, Events and Terrain Modifiers. Factories are needed to build Units and Terrain Modifiers as well as to power Events. Units and Events, which usually belong to one or more of the four factions (Germans, Japanese, Americans and Soviets) are used to attack and deal damage to the opponent, have certain beneficial effects on the game or are used to weaken the opponent. For each point of damage a Player receives through Units and Events, he or she puts one card from his or her Supply (deck) onto his or her Junkyard (discard-pile). Is a player unable to draw a card from the Supply, he or she loses immediately.&amp;#10;&amp;#10;This game started out as a retheme of my fantasy card game Elemental Clash and ended up being so much more...&amp;#10;&amp;#10;Very special thanks to my historic advisor Bruno Abreu!!&amp;#10;&amp;#10;</description>
+    <yearpublished value="2011"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="30"/>
+    <minplaytime value="30"/>
+    <maxplaytime value="30"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1002" value="Card Game"/>
+    <link type="boardgamecategory" id="1020" value="Exploration"/>
+    <link type="boardgamecategory" id="1046" value="Fighting"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2046" value="Area Movement"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2040" value="Hand Management"/>
+    <link type="boardgamemechanic" id="2011" value="Modular Board"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamedesigner" id="20992" value="Andreas Propst"/>
+    <link type="boardgameartist" id="20992" value="Andreas Propst"/>
+    <link type="boardgamepublisher" id="4" value="(Self-Published)"/>
+    <link type="boardgamepublisher" id="1001" value="(Web published)"/>
+    <link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.24037"/>
+        <median value="0"/>
+        <owned value="18"/>
+        <trading value="1"/>
+        <wanting value="1"/>
+        <wishing value="12"/>
+        <numcomments value="4"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

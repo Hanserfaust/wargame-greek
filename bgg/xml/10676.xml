@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="10676">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/ytf0Qft9_R_pYLoYx-YE1oZHNmY=/fit-in/200x150/pic308941.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Jb_W8zkh1l1lOo4t6sO9OaPFXEM=/0x0/pic308941.jpg</image>
+    <name type="primary" sortindex="1" value="Knight Hawks"/>
+    <name type="alternate" sortindex="1" value="Star Frontiers: Knight Hawks"/>
+    <description>This board game of starship combat was published as part of the Knight Hawks supplement for TSR's Star Frontiers role playing game. It is however playable as a stand alone game.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1983"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="2"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="4"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="2"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="106" value="No necessary in-game text" numvotes="0"/>
+        <result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1"/>
+        <result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+        <result level="110" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1016" value="Science Fiction"/>
+    <link type="boardgamecategory" id="1113" value="Space Exploration"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2023" value="Cooperative Play"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2007" value="Pick-up and Deliver"/>
+    <link type="boardgamemechanic" id="2078" value="Point to Point Movement"/>
+    <link type="boardgamemechanic" id="2028" value="Role Playing"/>
+    <link type="boardgamemechanic" id="2008" value="Trading"/>
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers"/>
+    <link type="boardgamedesigner" id="342" value="Douglas Niles"/>
+    <link type="boardgamepublisher" id="16" value="TSR"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="138"/>
+        <average value="6.33986"/>
+        <bayesaverage value="5.56462"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8085" bayesaverage="5.56462"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1976" bayesaverage="5.7344"/>
+        </ranks>
+        <stddev value="1.69238"/>
+        <median value="0"/>
+        <owned value="325"/>
+        <trading value="16"/>
+        <wanting value="3"/>
+        <wishing value="20"/>
+        <numcomments value="61"/>
+        <numweights value="20"/>
+        <averageweight value="2.7"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

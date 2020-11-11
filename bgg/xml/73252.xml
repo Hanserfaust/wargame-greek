@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="73252">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/NvILzOtLQr2U16O9n8Jpd3FlVJs=/fit-in/200x150/pic748978.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/74iS1C9gG6HnVG5sKhkbAwnlb84=/0x0/pic748978.jpg</image>
+    <name type="primary" sortindex="1" value="Marengo: Morning Defeat, Afternoon Victory"/>
+    <description>From the Decision Games' website:&amp;#10;&amp;#10;The Napoleon at War classics are being updated to a brigade-level system with artillery largely in separate units.&amp;#10;&amp;#10;After crossing the Alps in 1800 and advancing into northern Italy, Napoleon overextended his army in an attempt to ambush a portion of the Austrian army. Misreading the situation, the hunter became the hunted when the main Austrian army in Italy, over 30,000 soldiers with 100 cannon, advanced against Napoleon's 18,000 troops and dozen cannon on the Marengo plain. Perceiving the danger, Napoleon urgently summoned his reserves and wayward detachments, bringing his strength up to near parity with the Austrians. It was just enough to forge victory from a potential disaster.&amp;#10;&amp;#10;Marengo utilizes the all-new Musket &amp;amp; Saber combat system, which provides a simple yet accurate portrayal of Napoleonic warfare. The combat system is intuitive, including all the details that characterized battle during the Napoleonic era while also simulating the unique aspects of 19th century warfare. Units can become weakened and rout; attackers can pursue, and the fortunes of war can intervene at any time. Cavalry can rip open enemy lines and shred fleeing units, while reserves must be ready to plug holes or secure the line of retreat.&amp;#10;&amp;#10;A new Combat Results Table emphasizes playability while also simulating the lethality of musket and bayonet engagements of that era. Leaders accelerate the action, replicating the importance of their presence during battle. Supply trains and headquarters help armies function smoothly, forcing players to protect their logistical base. Winning a battle will depend on deployment, maneuver and massing firepower, as well as understanding the strengths and weaknesses of each particular army.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2010"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="1"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1051" value="Napoleonic"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5858" value="Decision Games Folio Series"/>
+    <link type="boardgamefamily" id="19165" value="Musket &amp; Saber Combat System"/>
+    <link type="boardgameimplementation" id="13881" value="Marengo: Napoleon in Italy, 14 June 1800" inbound="true"/>
+    <link type="boardgamedesigner" id="1718" value="Chris Perello"/>
+    <link type="boardgameartist" id="43133" value="Louis-François Lejeune"/>
+    <link type="boardgamepublisher" id="102" value="Decision Games (I)"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="28"/>
+        <average value="5.825"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.28664"/>
+        <median value="0"/>
+        <owned value="131"/>
+        <trading value="4"/>
+        <wanting value="4"/>
+        <wishing value="1"/>
+        <numcomments value="16"/>
+        <numweights value="4"/>
+        <averageweight value="3"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="20573">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/12ajE7zF4bGuQrpmz0xObREju_4=/fit-in/200x150/pic102034.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Q5eXqt7Xv3qyqPc6DI14yjl0HkA=/0x0/pic102034.jpg</image>
+    <name type="primary" sortindex="1" value="Donde No se Ponía el Sol"/>
+    <name type="alternate" sortindex="5" value="Los Tercios, 1490-1690"/>
+    <name type="alternate" sortindex="1" value="Where the Sun Never Set"/>
+    <description>Alea Magazine issue 30.&amp;#10;&amp;#10;Donde No se Pon&amp;iacute;a el Sol (English:  Where the Sun Never Set) is a wargame which includes four battles from the era of the Spanish tercios:  San Quint&amp;iacute;n 1557, Otumba 1520, Nieuport 1600, and Tunis 1535.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2005"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="120"/>
+    <minplaytime value="120"/>
+    <maxplaytime value="120"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1070" value="Renaissance"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="9793" value="Age of Kings"/>
+    <link type="boardgamefamily" id="10310" value="Country: Spain"/>
+    <link type="boardgamefamily" id="5842" value="Magazine: Alea"/>
+    <link type="boardgamedesigner" id="6187" value="Cándido González"/>
+    <link type="boardgamedesigner" id="3912" value="Enric Martí"/>
+    <link type="boardgamepublisher" id="835" value="Ludopress"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="5.94231"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.35218"/>
+        <median value="0"/>
+        <owned value="65"/>
+        <trading value="1"/>
+        <wanting value="2"/>
+        <wishing value="7"/>
+        <numcomments value="9"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

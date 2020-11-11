@@ -1,0 +1,12 @@
+{% extends "wgg_base.html" %}
+{% load staticfiles %}
+
+{% block tab_content %}
+
+    {% for conflict in conflicts %}
+
+        <p>{{ conflict }}</p>
+
+    {% endfor %}
+
+{%  endblock %}

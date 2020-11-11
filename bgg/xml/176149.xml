@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="176149">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/OIHW4OUwt8t9Vey2_ZtIGwSooSM=/fit-in/200x150/pic2493460.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/6p4FxeNdFklNZaYnPhK0LfiT_pI=/0x0/pic2493460.png</image>
+    <name type="primary" sortindex="5" value="The Last Stand: Little Big Horn June 25, 1876"/>
+    <description>The Last Stand: Little Big Horn June 25, 1876 is a low complexity solitaire wargame on the Battle of the Little Big Horn or Custer's Last Stand.&amp;#10;&amp;#10;A game turn consists of:&amp;#10;Encampment Activation (Activating Native American units)&amp;#10;Movement&amp;#10;Offensive Fire&amp;#10;Defensive Fire&amp;#10;Rush Combat&amp;#10;Rally&amp;#10;&amp;#10;The player controls US Seventh Cavalry under General Custer. Native American units are activated as the player approaches them. The game system controls their movement and combat. Each unit has a combat strength (CEF value), firing range, and movement ability.&amp;#10;&amp;#10;The player wins if he or she can control a tribal hex for a full turn. The player loses if more than 20 CEF points in the game.&amp;#10;&amp;#10;The game includes several alternative history scenarios that explore the possibility of the day's events going differently. For example, in one scenario, Benteen's Battalion arrives earlier to aid 7th Cavalry. In another, the player has access to a Gatling Gun that never made it to the actual battle.&amp;#10;&amp;#10;The game is available in boxed, folio, or PNP formats.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2015"/>
+    <minplayers value="1"/>
+    <maxplayers value="1"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+      <results numplayers="1">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="1+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="60"/>
+    <minplaytime value="60"/>
+    <maxplaytime value="60"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1055" value="American West"/>
+    <link type="boardgamecategory" id="1120" value="Print &amp; Play"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+    <link type="boardgamefamily" id="8164" value="Solitaire Wargames"/>
+    <link type="boardgamefamily" id="23590" value="White Dog Games Solitaire Series"/>
+    <link type="boardgamedesigner" id="10691" value="Michael W. Kennedy"/>
+    <link type="boardgameartist" id="57273" value="Mike Mirfin"/>
+    <link type="boardgameartist" id="73137" value="Antonio Pinar"/>
+    <link type="boardgamepublisher" id="11015" value="White Dog Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="13"/>
+        <average value="6.86154"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1.15661"/>
+        <median value="0"/>
+        <owned value="30"/>
+        <trading value="0"/>
+        <wanting value="8"/>
+        <wishing value="24"/>
+        <numcomments value="8"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

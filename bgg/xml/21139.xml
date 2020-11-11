@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="21139">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/llKY1TsUTwkq-2SRSxa70erOgjw=/fit-in/200x150/pic104229.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/bR3cyNheKqW_13KTnUPHHjn4muY=/0x0/pic104229.jpg</image>
+    <name type="primary" sortindex="1" value="I Fights Mit Sigel"/>
+    <description>Richard Dengel's DTP upgrade of the Rebel Yell system.&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;Standard sized map&amp;#10;around 200 counters  &amp;#10;60 page rulebook (although it is one column, 12 point font) - maybe 24-30 page rulebook if professionally formatted.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2004"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+    </poll>
+    <playingtime value="240"/>
+    <minplaytime value="240"/>
+    <maxplaytime value="240"/>
+    <minage value="12"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1048" value="American Civil War"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamedesigner" id="3134" value="Richard A. Dengel"/>
+    <link type="boardgamepublisher" id="4856" value="Homegrown Designs"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="4"/>
+        <average value="6.25"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="3.56195"/>
+        <median value="0"/>
+        <owned value="14"/>
+        <trading value="0"/>
+        <wanting value="4"/>
+        <wishing value="5"/>
+        <numcomments value="0"/>
+        <numweights value="1"/>
+        <averageweight value="2"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgameexpansion" id="57579">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/bt6oZ9V2l2qbrH-mAprUcRgE6Yk=/fit-in/200x150/pic663894.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/mO54ojjsnxovzeB9yEN30wj5-Nw=/0x0/pic663894.jpg</image>
+    <name type="primary" sortindex="1" value="PanzerBlitz: Carentan"/>
+    <description>PanzerBlitz: Carentan is an expansion of PanzerBlitz: Hill of Death &amp;#226;&amp;#128;&amp;#147; The Battle for Hill 112, Normandy 1944 which provides two new situations simulating the struggle for Carentan, Normandy in 1944 and a bevy of new troops and hardware.&amp;#10;&amp;#10;Panzerblitz: Hill of Death is required to play, because PanzerBlitz: Carentan only includes counters for the new units. American troops make their first appearance (with Paratroopers, Mechanized Infantry, Tank Destroyers, and more), as do German Paratroopers and several new AA weapons.&amp;#10;&amp;#10;Part of the Panzerblitz 2 series from Multi-Man Publishing&amp;#10;&amp;#10;Originally published in Operations Special Magazine #2 (Summer 2009).&amp;#10;&amp;#10;Game Scale:&amp;#10;Turn: 15 minutes&amp;#10;Hex: 273 yards / 250 meters&amp;#10;Units: Platoon&amp;#10;&amp;#10;Game Inventory (Operations Special Issue #2 edition):&amp;#10;One 18 x 24&amp;quot; full-color mapsheet&amp;#10;One dual-side printed countersheet (176 5/8&amp;quot; counters, only 92 used for PanzerBlitz: Carentan)&amp;#10;One 4-page Carentan Situations folder&amp;#10;&amp;#10;</description>
+    <yearpublished value="2009"/>
+    <minplayers value="1"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="2+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2057" value="Chit-Pull System"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamefamily" id="2637" value="PanzerBlitz"/>
+    <link type="boardgameexpansion" id="26745" value="PanzerBlitz: Hill of Death – The Battle for Hill 112, Normandy 1944" inbound="true"/>
+    <link type="boardgamecompilation" id="119835" value="Operations Special Issue #2"/>
+    <link type="boardgamedesigner" id="8006" value="Darren Emge"/>
+    <link type="boardgameartist" id="11857" value="Nicolás Eskubi"/>
+    <link type="boardgamepublisher" id="196" value="Multi-Man Publishing"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="36"/>
+        <average value="7.38611"/>
+        <bayesaverage value="5.54365"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.54365"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.80418"/>
+        </ranks>
+        <stddev value="1.41169"/>
+        <median value="0"/>
+        <owned value="265"/>
+        <trading value="10"/>
+        <wanting value="6"/>
+        <wishing value="13"/>
+        <numcomments value="31"/>
+        <numweights value="3"/>
+        <averageweight value="4"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

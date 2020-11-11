@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="161600">
+    <thumbnail>https://cf.geekdo-images.com/thumb/img/P1AuIPso2AIAla0eq71PmhQL6Bw=/fit-in/200x150/pic2061459.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NYVJLmFHFyzEretut4IwOqcQiDI=/0x0/pic2061459.png</image>
+    <name type="primary" sortindex="1" value="Panzer Vor!"/>
+    <name type="alternate" sortindex="1" value="ぱんつぁー・ふぉー！"/>
+    <description>A wargame based off the anime &amp;quot;Girls &amp;amp; Panzer&amp;quot;. In the anime, girls study tankery, and have tank battles akin to high school sports. The tanks fire ammunition that can damage the other tanks, but are non-lethal. Though it takes place in modern day, it uses World War II tanks.&amp;#10;&amp;#10;Each player has a group of tanks and characters they control, which vary by scenario. The tanks have values for movement, attack modifier, size modifer, movement points, and front/side/rear armor. Characters give have special limited-use abilities and modifiers for the tanks they're with.&amp;#10;&amp;#10;Each player starts with 5 cards, and draws 1 each turn. They use the cards to determine what actions they use each turn, such as movement (sometimes one tank, sometimes many), fire, a combination of both (with different modifiers), or other abilties. Other cards may be used as reactions to a card played by the other player, and some are special effects that happen upon drawing the card.&amp;#10;&amp;#10;Game system is based on World Tank Battles.&amp;#10;A sequel Panzer Vor Ausf. 2 was published in 2016.&amp;#10;&amp;#10;</description>
+    <yearpublished value="2014"/>
+    <minplayers value="2"/>
+    <maxplayers value="2"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+      <results numplayers="1">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="2"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="0"/>
+      </results>
+      <results numplayers="2+">
+        <result value="Best" numvotes="0"/>
+        <result value="Recommended" numvotes="0"/>
+        <result value="Not Recommended" numvotes="1"/>
+      </results>
+    </poll>
+    <playingtime value="45"/>
+    <minplaytime value="45"/>
+    <maxplaytime value="45"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+      <results>
+        <result value="2" numvotes="0"/>
+        <result value="3" numvotes="0"/>
+        <result value="4" numvotes="0"/>
+        <result value="5" numvotes="0"/>
+        <result value="6" numvotes="0"/>
+        <result value="8" numvotes="0"/>
+        <result value="10" numvotes="0"/>
+        <result value="12" numvotes="0"/>
+        <result value="14" numvotes="0"/>
+        <result value="16" numvotes="0"/>
+        <result value="18" numvotes="0"/>
+        <result value="21 and up" numvotes="0"/>
+      </results>
+    </poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+      <results>
+        <result level="251" value="No necessary in-game text" numvotes="0"/>
+        <result level="252" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+        <result level="253" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+        <result level="254" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+        <result level="255" value="Unplayable in another language" numvotes="0"/>
+      </results>
+    </poll>
+    <link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme"/>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamecategory" id="1049" value="World War II"/>
+    <link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamefamily" id="5601" value="Anime &amp; Manga"/>
+    <link type="boardgamedesigner" id="10969" value="Wataru Horiba (堀場わたる)"/>
+    <link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)"/>
+    <link type="boardgamepublisher" id="25562" value="War Drum Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="44"/>
+        <average value="6.81136"/>
+        <bayesaverage value="5.54283"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9733" bayesaverage="5.54283"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2033" bayesaverage="5.71884"/>
+        </ranks>
+        <stddev value="1.52095"/>
+        <median value="0"/>
+        <owned value="84"/>
+        <trading value="1"/>
+        <wanting value="8"/>
+        <wishing value="24"/>
+        <numcomments value="11"/>
+        <numweights value="6"/>
+        <averageweight value="2.1667"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>

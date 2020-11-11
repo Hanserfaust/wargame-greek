@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="41741">
+    <name type="primary" sortindex="5" value="The Baltic Wars"/>
+    <description>This is a very small wargame covering the whole of The Baltic Wars of the early 1700s. The three players represent Poland, Sweden, and Russia, as well as a collection of lesser allied powers. Production, political influence, and status are all kept on a small score sheet.  Victory is determined by victory points based on captured cities and aggregate political influence. The mechanics of this game are very similar to The Thirty Years War by the same designer and publisher.&amp;#10;&amp;#10;This definitely was a &amp;quot;budget&amp;quot; wargame, retailing for $1.79 in 1980.  The counters were printed on thin cardboard and had to be cut out with scissors.  All other components are paper, including an 11&amp;quot;x17&amp;quot; map, the cover sheets, and 5 double-sided copies of the score sheet, all in a 4&amp;quot;x6&amp;quot; ziplock bag.&amp;#10;&amp;#10;</description>
+    <yearpublished value="1980"/>
+    <minplayers value="3"/>
+    <maxplayers value="3"/>
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+      <results numplayers="3+">		
+				</results>
+    </poll>
+    <playingtime value="0"/>
+    <minplaytime value="0"/>
+    <maxplaytime value="0"/>
+    <minage value="0"/>
+    <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll>
+    <poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll>
+    <link type="boardgamecategory" id="1019" value="Wargame"/>
+    <link type="boardgamemechanic" id="2072" value="Dice Rolling"/>
+    <link type="boardgamemechanic" id="2026" value="Hex-and-Counter"/>
+    <link type="boardgamemechanic" id="2070" value="Simulation"/>
+    <link type="boardgamedesigner" id="6470" value="W. C. Likens"/>
+    <link type="boardgamepublisher" id="12370" value="Q-Games"/>
+    <statistics page="1">
+      <ratings>
+        <usersrated value="2"/>
+        <average value="6"/>
+        <bayesaverage value="0"/>
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+          <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+        </ranks>
+        <stddev value="1"/>
+        <median value="0"/>
+        <owned value="5"/>
+        <trading value="0"/>
+        <wanting value="3"/>
+        <wishing value="3"/>
+        <numcomments value="1"/>
+        <numweights value="0"/>
+        <averageweight value="0"/>
+      </ratings>
+    </statistics>
+  </item>
+</items>
